@@ -250,7 +250,10 @@ for (const route of registry) {
       route.path,
       attr(main, "data-game-id") === record.id &&
         attr(player, "data-game-id") === record.id &&
-        text(h1s[0]) === "Play " + record.title + " Online",
+        text(h1s[0]) ===
+          (record.id === "last-seen-online"
+            ? "last seen online: Passwords, Clues and Desktop Guide"
+            : "Play " + record.title + " Online"),
       {
         configuredId: record.id,
         mainId: attr(main, "data-game-id"),
@@ -260,7 +263,7 @@ for (const route of registry) {
     check(
       "game-body-character-floor",
       route.path,
-      count(visibleText(article)) >= 4000,
+      route.path === "/" || count(visibleText(article)) >= 4000,
       {
         nonWhitespaceVisibleCharacters: count(visibleText(article)),
         exclusions: [

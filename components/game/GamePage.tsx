@@ -8,13 +8,17 @@ import Breadcrumbs from "@/components/content/Breadcrumbs";
 import GameCard from "./GameCard";
 import GamePlayer from "./GamePlayer";
 import FollowingSidebar from "./FollowingSidebar";
-function Group({ title, games }: { title: string; games: Game[] }) {
+function Group({
+  title,
+  games,
+  primary = false,
+}: {
+  title: string;
+  games: Game[];
+  primary?: boolean;
+}) {
   return (
-    <section
-      className={
-        title === "Recommended Games" ? "recommendations" : "sidebar-group"
-      }
-    >
+    <section className={primary ? "recommendations" : "sidebar-group"}>
       <h2>{title}</h2>
       <div className="card-grid">
         {games.map((g) => (
@@ -34,6 +38,16 @@ export default function GamePage({
   previewGroups?: { featured: Game[]; fresh: Game[]; recommended: Game[] };
 }) {
   const groups = previewGroups ?? getGameSections(game);
+  const heading = home
+    ? `${game.title}: Game Overview and More Horror Games`
+    : game.id === "last-seen-online"
+      ? "last seen online: Passwords, Clues and Desktop Guide"
+      : `Play ${game.title} Online`;
+  const faqs = game.content.flatMap((section) =>
+    section.blocks.flatMap((block) =>
+      block.type === "faq" ? block.items : [],
+    ),
+  );
   const videos = game.content.flatMap((s) =>
     s.blocks.filter((b): b is VideoBlock => b.type === "video"),
   );
@@ -54,18 +68,13 @@ export default function GamePage({
               ]}
             />
           )}
-          <h1 className={home ? "home-title" : undefined}>
-            {home
-              ? `${game.title} Game: Command Rules and Player Guide`
-              : `Play ${game.title} Online`}
-          </h1>
+          <h1 className={home ? "home-title" : undefined}>{heading}</h1>
           <p className="game-intro">{game.shortDescription}</p>
           {home && (
             <div>
               <p className="media-note">
-                The guide below covers MOONBIT’s Windows release. This
-                third-party browser player has not been verified as that
-                release.
+                The overview below covers MOONBIT’s game. This third-party
+                browser player has not been verified as that release.
               </p>
             </div>
           )}
@@ -77,7 +86,16 @@ export default function GamePage({
               player: game.player,
             }}
           />
-          <Group title="Recommended Games" games={groups.recommended} />
+          <Group
+            title={home ? "Featured Games" : "Recommended Games"}
+            games={groups.recommended}
+            primary
+          />
+          {home && (
+            <p>
+              <a href="/games">Browse all eight horror games</a>
+            </p>
+          )}
           <article className="game-article" data-article-game={game.id}>
             {game.spoilerPolicy === "marked" && (
               <p className="spoiler-note">
@@ -90,7 +108,7 @@ export default function GamePage({
                 <section id={s.id} key={s.id}>
                   <h2>{s.heading}</h2>
                   <Blocks blocks={s.blocks} />
-                  {home && s.id === "first-command-round" && (
+                  {home && s.id === "guide-summaries" && (
                     <p>
                       For more worked examples, read the{" "}
                       <a href="/guides/suzy-says-command-rules">
@@ -99,7 +117,7 @@ export default function GamePage({
                       .
                     </p>
                   )}
-                  {home && s.id === "comfortable-first-run" && (
+                  {home && s.id === "guide-summaries" && (
                     <p>
                       Before starting the Windows release, follow the{" "}
                       <a href="/guides/suzy-says-first-run">
@@ -118,8 +136,30 @@ export default function GamePage({
           </p>
         </div>
         <FollowingSidebar follow={!home}>
-          <Group title="Featured Games" games={groups.featured} />
-          <Group title="New Games" games={groups.fresh} />
+          {home ? (
+            <>
+              <Group title="More Games" games={groups.featured} />
+              <section className="sidebar-group">
+                <h2>Suzy Says Guides</h2>
+                <p>Choose a focused guide before your next session.</p>
+                <p>
+                  <a href="/guides/suzy-says-command-rules">
+                    Command rules and worked examples
+                  </a>
+                </p>
+                <p>
+                  <a href="/guides/suzy-says-first-run">
+                    Windows setup, controls and subtitles
+                  </a>
+                </p>
+              </section>
+            </>
+          ) : (
+            <>
+              <Group title="Featured Games" games={groups.featured} />
+              <Group title="New Games" games={groups.fresh} />
+            </>
+          )}
         </FollowingSidebar>
       </div>
       <script
@@ -132,9 +172,7 @@ export default function GamePage({
               {
                 ...webPageSchema(
                   home ? "/" : "/games/" + game.slug,
-                  home
-                    ? `${game.title} Game: Command Rules and Player Guide`
-                    : "Play " + game.title + " Online",
+                  heading,
                   game.seo.description,
                 ),
                 about: {
@@ -153,6 +191,23 @@ export default function GamePage({
                 image: absolute(game.image.src),
                 keywords: game.tags.join(", "),
               },
+              ...(faqs.length
+                ? [
+                    {
+                      "@type": "FAQPage",
+                      "@id":
+                        absolute(home ? "/" : "/games/" + game.slug) + "#faq",
+                      mainEntity: faqs.map((item) => ({
+                        "@type": "Question",
+                        name: item.question,
+                        acceptedAnswer: {
+                          "@type": "Answer",
+                          text: item.answer,
+                        },
+                      })),
+                    },
+                  ]
+                : []),
             ],
           }),
         }}

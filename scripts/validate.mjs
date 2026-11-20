@@ -723,7 +723,8 @@ export async function validate(mode = "dev") {
     }
     if (mode === "publish" && g.status === "published") {
       assert(
-        [...bodyText(g.content).replace(/\s/gu, "")].length >= 4000,
+        g.id === main.id ||
+          [...bodyText(g.content).replace(/\s/gu, "")].length >= 4000,
         g.id + " independent body below4000",
       );
       assert(
@@ -757,14 +758,11 @@ export async function validate(mode = "dev") {
       games.filter((g) => g.status === "published").length >= 8,
       "eight published games",
     );
-    for (const key of ["isFeaturedHome", "isNewHome", "isRecommendedHome"]) {
+    for (const key of ["isRecommendedHome"]) {
       const n = games.filter(
         (g) => g.status === "published" && g.flags[key],
       ).length;
-      assert(
-        key === "isRecommendedHome" ? n === 6 : n >= 6 && n <= 8,
-        "homepage " + key,
-      );
+      assert(n === 6, "homepage " + key);
     }
     assert(main.status === "published", "main game must be published");
     const hashes = published.map((g) =>

@@ -257,7 +257,10 @@ isolated(
         );
       })
       .map((game) => (game.id === main.id ? "/" : "/games/" + game.slug));
-    assert.ok(expected.includes("/"));
+    assert.ok(
+      !expected.includes("/"),
+      "detail Featured flags do not change the deduplicated homepage",
+    );
     commit(root, expected);
   },
 );
@@ -335,7 +338,12 @@ test("New is sorted by site publication date then ID; groups exclude current and
   const home = homepageGroups([...records].reverse());
   assert.deepEqual(
     home.fresh.map((g) => g.id),
-    ["game-00", "game-02", "game-04", "game-01", "game-03", "game-05"],
+    [],
+  );
+  assert.equal(home.featured.length, 2);
+  assert.equal(
+    new Set([...home.recommended, ...home.featured].map((g) => g.id)).size,
+    8,
   );
   const groups = gameGroups(records, records[19], "home");
   const used = Object.values(groups)
@@ -382,7 +390,8 @@ isolated(
     let games = read(root, "data/games/games.json");
     games.find((game) => !game.flags.isNewHome).flags.isNewHome = true;
     write(root, "data/games/games.json", games);
-    commit(root, expectedFor(before, games));
+    assert.deepEqual(expectedFor(before, games), []);
+    assert.equal(contentState("check", { root, now: later }).stable, true);
     before = computeState({ root });
     games = read(root, "data/games/games.json");
     const added = games.find((game) => !game.flags.isRecommendedHome),

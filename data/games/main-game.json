@@ -2,7 +2,7 @@
   "id": "suzy-says",
   "slug": "suzy-says",
   "title": "Suzy Says",
-  "shortDescription": "Learn when to follow the DVD host, how to use the colored mat and which controls belong to the original Windows release.",
+  "shortDescription": "Meet MOONBIT��s DVD horror game, choose the right edition and find focused guides, then explore eight more unsettling games.",
   "status": "published",
   "publishedAt": "2026-11-19",
   "updatedAt": "2026-11-20",
@@ -41,8 +41,8 @@
     "loadTimeoutMs": 30000
   },
   "seo": {
-    "title": "Suzy Says Game: Command Rules and Windows Controls",
-    "description": "Explore the Suzy Says game, command rules, Windows controls and edition differences. Use worked examples to prepare your first run without revealing endings.",
+    "title": "Suzy Says Game: Overview, Guides and More Horror Games",
+    "description": "Meet the Suzy Says game, compare Windows and Android editions, and find focused player guides. Explore eight more horror games with their own rules and stories.",
     "keywords": [
       "suzy says",
       "suzy says game",
@@ -51,20 +51,16 @@
   },
   "content": [
     {
-      "id": "listen-before-moving",
-      "heading": "Suzy Says game: listen before you move",
+      "id": "game-overview",
+      "heading": "What is Suzy Says?",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Suzy Says is MOONBIT’s first-person horror game about a mysterious interactive DVD and its cheerful host. A colored floor mat turns spoken instructions into movement tasks: listen for the qualifying words, identify the requested action, then find its target. This guide explains the original game’s command rule and Windows controls without revealing its later story. The browser player on this page has not been verified as the original Suzy Says game."
+          "text": "Suzy Says is MOONBIT��s first-person horror game about a mysterious interactive DVD waiting at home after an evening with a friend. Its cheerful host turns a familiar listening game into an unsettling encounter. The television, a colored floor mat and an ordinary house establish the scene; understanding what the host asks is part of the tension. This overview avoids later story events so you can decide where to start without learning an ending."
         },
         {
           "type": "paragraph",
-          "text": "The difficult decision often arrives before you touch a movement key. Recognizing a color tells you where a task points; it does not tell you whether to obey. Keep the host’s wording in mind while looking at the mat. A sound elsewhere in the house may draw your attention, but it does not supply the missing words of a command."
-        },
-        {
-          "type": "paragraph",
-          "text": "The original Windows release uses a keyboard for movement, jumping and crouching. MOONBIT also offers a separate Android app. Neither release establishes the identity or controls of an independently hosted browser frame. Use the Windows instructions below for that edition, and check the controls shown inside any other version before starting a session."
+          "text": "Listening matters before moving. In the original game, an instruction qualified by the host��s name is different from the same action requested without those words. The challenge is to distinguish what you heard from what you expected. The focused guides below explain that distinction and prepare the Windows controls; this page introduces the game and points you toward the right kind of help."
         },
         {
           "type": "image",
@@ -77,48 +73,20 @@
       ]
     },
     {
-      "id": "first-command-round",
-      "heading": "The first command round",
+      "id": "choose-your-edition",
+      "heading": "Choose your edition before starting",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The qualifying Suzy says words are the decision you make before choosing a destination. When the host uses those words to give an instruction, carry out the requested action. When that qualification is missing, do not perform the requested action merely because you recognize its target. The opening practice draws attention to missing qualifying words, so listen for that distinction before matching an action to the room."
+          "text": "The original Windows release is available through MOONBIT on itch.io. The base download and Full version are different choices: Full includes endless mode and a secret ending. Check the creator��s current listing when choosing a download rather than assuming that every copy includes every mode. A separate official Android app is also available, with its own on-screen interface."
         },
         {
           "type": "paragraph",
-          "text": "Compare two example lines that name the same yellow target. Only one supplies the qualifying words. Knowing where the color is does not supply the missing permission to jump."
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Example instruction",
-            "Decision",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Suzy says, jump on yellow.",
-              "Make the requested jump within the task timing.",
-              "The host gives the qualifying words and identifies the action and target."
-            ],
-            [
-              "Jump on yellow.",
-              "Do not make that requested jump.",
-              "The target is clear, but the qualifying words are missing."
-            ]
-          ]
+          "text": "Windows uses WASD to move, Space to jump and C to crouch. Those keys describe that edition, not every game hosted under a similar name. Android uses a different input method. Choose the edition you intend to use before following instructions, and read its own prompts rather than translating keyboard actions into assumed touch gestures."
         },
         {
           "type": "paragraph",
-          "text": "In the original Windows controls, WASD moves, Space jumps and C crouches. Learn what each action looks like before a crowded sequence makes you divide your attention. A jump has both a starting position and a landing position: being near a colored area is not the same as placing yourself on it. Look down briefly when the game gives you time, establish where the mat colors are, and avoid making a large corrective movement while another line is beginning."
-        },
-        {
-          "type": "paragraph",
-          "text": "A useful mental sequence is permission, action, place. First ask whether the line qualifies. Next identify what your body or view needs to do. Finally find the named area or object. This order prevents a common mistake: hearing green and pressing Space before noticing the missing prefix. It also helps with longer instructions, where the correct action may be easy but its target is in another part of the house."
-        },
-        {
-          "type": "paragraph",
-          "text": "Do not turn every pause into an opportunity to wander. Remaining attentive is an active part of the game, especially when the television host changes pace or the room provides a distraction. If a line is unclear, compare the spoken instruction with the available subtitle rather than treating a sudden visual effect as a second order. Subtitles help identify wording; they do not remove the need to decide whether the instruction counts."
+          "text": "The third-party browser player above has not been verified as the original Suzy Says release. Loading a frame or expanding it to fullscreen does not establish its identity, edition or included modes. Treat the player��s own controls separately from the Windows guidance on this site. The original game includes flashing lights, jumpscares and unsettling themes; read its warning before continuing."
         },
         {
           "type": "image",
@@ -131,64 +99,16 @@
       ]
     },
     {
-      "id": "room-and-objects",
-      "heading": "Keep a map of the ordinary house",
+      "id": "guide-summaries",
+      "heading": "Find the guide for your next step",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The game does more than ask you to move on a mat. Its domestic spaces make the instructions feel increasingly personal: a television, furniture, pictures and household objects become things you must notice and distinguish. Before committing to a route, connect the object name to something recognizable in the environment. The useful question is not simply which way can I walk, but what exactly did that sentence ask me to find."
+          "text": "For the listening rule, use the command guide. It compares qualified and unqualified instructions, works through a crouch example and separates a missed rule from a missed input. This keeps the explanation together in one place instead of repeating the full exercise here."
         },
         {
           "type": "paragraph",
-          "text": "Treat the room as a small set of landmarks. The television anchors your starting orientation; doorways tell you where you leave that space; distinctive household objects help you recognize an errand destination. When you return, face the game area deliberately rather than stopping at the first convenient patch of floor. A stable reference point makes the next instruction easier to interpret and reduces unnecessary camera movement."
-        },
-        {
-          "type": "paragraph",
-          "text": "The listening rule still matters when an instruction names something away from the starting area. A convincing household task is not automatically valid just because you know where the target is. Finish the decision before following the route. Conversely, when the game actually calls for an errand, staying on the mat and waiting for a color prompt will not complete that different task."
-        },
-        {
-          "type": "paragraph",
-          "text": "After a missed task, reconstruct three details: the full sentence, the action you performed and your final position. If the command lacked the qualifying words, reaching the named object was still the wrong response. If it qualified, check whether you performed its verb rather than merely finding the noun. That gives you a specific correction to make on the next instruction."
-        }
-      ]
-    },
-    {
-      "id": "pressure-and-mistakes",
-      "heading": "Separate a mistake from a technical problem",
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "A scare or sharp change in presentation does not by itself prove that a key failed. The game uses uncertainty to put pressure on an otherwise small control set. Before changing browser settings, remember the instruction, its prefix and your position. If you obeyed an unqualified command, that is a different problem from a movement key that never reaches the player."
-        },
-        {
-          "type": "paragraph",
-          "text": "For a genuine input problem, first give the game area focus with a deliberate click. Keys can otherwise scroll the surrounding webpage or operate a browser control instead of the embedded experience. If Space scrolls the page, return to the player and check focus before concluding that jumping is unavailable. Do not repeatedly press movement keys while the player is still on a loading screen."
-        },
-        {
-          "type": "paragraph",
-          "text": "Use the page fullscreen control when the surrounding article makes the game too small. Browser fullscreen is a separate mode and may be refused by the browser; the visible exit control remains useful even when a cross-origin game has keyboard focus. A larger view can make a mat color, subtitle or interaction target easier to identify, but it does not change the game rules."
-        },
-        {
-          "type": "paragraph",
-          "text": "If loading stops, use the player’s retry action rather than opening several copies at once. A failed network request, a restrictive browser setting and an in-game story event are different explanations. Keep one session in view so that audio and input are not split between tabs. Restarting may discard the current run; there is no promise here that every embedded build stores progress or resumes at the same point."
-        }
-      ]
-    },
-    {
-      "id": "choose-your-session",
-      "heading": "Choose the session you want",
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "The original release separates the base download from a Full version. The Full version includes an endless mode and a secret ending; it is offered at a minimum payment of one dollar and fifty cents on the original store. A mode being part of that download does not mean the same mode is included in every browser-hosted version. Check the menu of the experience that actually loads before following mode-specific advice."
-        },
-        {
-          "type": "paragraph",
-          "text": "For a first visit, prepare the session before looking for ending triggers. Choose the original edition you want, make the controls and subtitles comfortable, then use the television and mat as starting landmarks. The first-run guide walks through those preparation decisions. Once an instruction is present, the command guide takes over with qualifying-word and action examples without revealing later events."
-        },
-        {
-          "type": "paragraph",
-          "text": "For Full’s endless mode, keep the same command-reading routine across successive tasks. For a story session, leave yourself time to follow the house and its interruptions. Match advice to the edition and mode you selected: an ending label in a recreation or a video title is not a menu option in your own copy."
+          "text": "For a first Windows session, use the setup guide. It covers choosing an edition, preparing the downloaded files, checking movement keys and selecting readable subtitles. It also explains how to distinguish a setup problem from a working game that is waiting for your next action. Neither guide is a complete ending walkthrough."
         },
         {
           "type": "image",
@@ -201,47 +121,16 @@
       ]
     },
     {
-      "id": "comfortable-first-run",
-      "heading": "Make the first run easier to read",
+      "id": "explore-more-games",
+      "heading": "Eight more unsettling games to explore",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use an ordinary, comfortable volume. Sound can help you follow the host, but horror audio can change abruptly, so maximum volume is unnecessary. Enable subtitles when the active version offers them and position the screen so the instruction area stays easy to read. Flashing lights, jumpscares and unsettling scenes are part of the original game’s warning; stop if those effects are uncomfortable."
+          "text": "The six featured cards above offer different kinds of horror: desktop investigation, unsettling tests, an unusual house tour, a short first-person encounter and a circus performance. Exhibit of Sorrows and Burger & Frights are included alongside last seen online and the other selected games. Open an individual page for that game��s own premise, controls and help; its rules do not carry over from Suzy Says."
         },
         {
           "type": "paragraph",
-          "text": "On Windows, arrange the keyboard so Space and C are reachable while your other hand controls the view. Android uses its own app interface; consult its displayed controls instead of translating each Windows key into an assumed touch gesture. A phone opening this webpage does not establish that the embedded game offers the same experience as either official release."
-        },
-        {
-          "type": "paragraph",
-          "text": "Keep your first goal modest and concrete: recognize a valid instruction and complete it cleanly. Once that sequence feels familiar, add the room layout and longer errands. The practical advantage comes from reducing rushed decisions, not from making the game louder or moving continuously. When you want more help, choose the Guide that matches the exact point of confusion rather than reading every story detail at once."
-        }
-      ]
-    },
-    {
-      "id": "quick-questions",
-      "heading": "Questions before starting",
-      "blocks": [
-        {
-          "type": "faq",
-          "items": [
-            {
-              "question": "What are the original movement controls?",
-              "answer": "WASD moves, Space jumps and C crouches in the original Windows release. Follow the active player’s own prompts if its build differs."
-            },
-            {
-              "question": "Does every spoken action need a response?",
-              "answer": "No. Listen for the qualifying Suzy says words before performing the requested action. When those words are missing, do not carry out that action."
-            },
-            {
-              "question": "Is the original game a browser release?",
-              "answer": "MOONBIT offers a Windows download and a separate Android app. This page’s browser player has not been verified as the original Suzy Says game; the controls and command examples here describe the original release."
-            },
-            {
-              "question": "Should I read a complete ending guide first?",
-              "answer": "The first-run guide helps with choosing an edition, preparing controls and subtitles, and recognizing the opening. Use the command guide when you need help interpreting a line without revealing later story events."
-            }
-          ]
+          "text": "The More Games section contains the two titles not already shown in the featured selection. The full games list brings all eight together. These are recommendations, not official Suzy Says editions, and the selection does not claim that they were released on different dates. Choose the experience that interests you rather than treating a recommendation as another chapter of the same story."
         }
       ]
     },

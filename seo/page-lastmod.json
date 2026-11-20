@@ -4,7 +4,7 @@
     "/": {
       "kind": "game",
       "id": "suzy-says",
-      "fingerprint": "398af4cf8aceff1e627098dc790ebcddc829964636a436115936d5daa08016c5"
+      "fingerprint": "874399d1d3afa27203dbec6ed3285ccabe8cc54687827b42677c17fa5d03e10c"
     },
     "/games/assessment-examination": {
       "kind": "game",
@@ -19,7 +19,7 @@
     "/games/last-seen-online": {
       "kind": "game",
       "id": "last-seen-online",
-      "fingerprint": "31acd7d4545a5be279f93b9db6007c3dbe4828a0901671a491312575b3b7eeab"
+      "fingerprint": "df0892f83b29735edf093f258f7aec02945a7d3adde728246d23926b7b793064"
     },
     "/games/the-open-house": {
       "kind": "game",

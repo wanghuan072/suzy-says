@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import { homepageGroups } from "../lib/game-groups.mjs";
 const read = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
 test("main remains a unique home identity and preserves configured initial player", () => {
   const main = read("data/games/main-game.json");
@@ -11,12 +12,14 @@ test("main remains a unique home identity and preserves configured initial playe
 });
 test("homepage groups have intentional exact membership and peer relations resolve", () => {
   const all = read("data/games/games.json");
-  for (const field of ["isFeaturedHome", "isNewHome"])
-    assert.ok(
-      all.filter((g) => g.flags[field]).length >= 6 &&
-        all.filter((g) => g.flags[field]).length <= 8,
-    );
-  assert.equal(all.filter((g) => g.flags.isRecommendedHome).length, 6);
+  const home = homepageGroups(all);
+  assert.equal(home.recommended.length, 6);
+  assert.equal(home.featured.length, 2);
+  assert.equal(home.fresh.length, 0);
+  const ids = [...home.recommended, ...home.featured].map((g) => g.id);
+  assert.equal(new Set(ids).size, 8);
+  for (const id of ["exhibit-of-sorrows", "burger-frights"])
+    assert.ok(home.recommended.some((g) => g.id === id));
   for (const game of all) {
     assert.equal(new Set(game.relatedGameIds).size, game.relatedGameIds.length);
     assert.ok(

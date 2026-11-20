@@ -18,7 +18,7 @@
     "flags": {
       "isFeaturedHome": true,
       "isNewHome": false,
-      "isRecommendedHome": true
+      "isRecommendedHome": false
     },
     "image": {
       "src": "/images/games/assessment-examination.webp",
@@ -233,7 +233,7 @@
     "flags": {
       "isFeaturedHome": true,
       "isNewHome": false,
-      "isRecommendedHome": true
+      "isRecommendedHome": false
     },
     "image": {
       "src": "/images/games/please-answer-carefully.webp",
@@ -432,7 +432,7 @@
     "shortDescription": "Investigate an old computer through chat histories, pictures and locked files. Match each password clue to the field that actually needs it.",
     "status": "published",
     "publishedAt": "2026-11-19",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "tags": [
       "Horror",
       "Observation"
@@ -466,7 +466,7 @@
       "loadTimeoutMs": 30000
     },
     "seo": {
-      "title": "Play last seen online: Passwords and Desktop Guide",
+      "title": "last seen online: Passwords, Clues and Desktop Guide",
       "description": "Play last seen online and connect desktop clues without a solution list. Separate login and archive codes, uncover overlapping windows and follow new prompts.",
       "keywords": []
     },
@@ -642,6 +642,43 @@
           {
             "type": "paragraph",
             "text": "If the game never reaches its own opening interface, check the connection and retry the player before investigating passwords. If it has loaded and the problem concerns a particular lock, use the clue trail rather than repeatedly reloading. The distinction keeps a technical recovery step from unnecessarily interrupting an otherwise functioning investigation."
+          }
+        ]
+      },
+      {
+        "id": "password-and-desktop-questions",
+        "heading": "last seen online: password and desktop questions",
+        "blocks": [
+          {
+            "type": "callout",
+            "tone": "warning",
+            "label": "Puzzle hints ahead",
+            "body": "These answers discuss early interfaces and later input prompts. They avoid exact passwords and ending solutions, but reveal where to look and how some interactions work."
+          },
+          {
+            "type": "faq",
+            "items": [
+              {
+                "question": "Which last seen online game does this guide cover?",
+                "answer": "This guide covers the desktop investigation game by qwook and sochinstudio, beginning with a computer bought at a garage sale. Identify it by its creators and opening computer interface. A puzzle from another game with the same title may not belong to this one."
+              },
+              {
+                "question": "Does the photo archive use the same password as the computer login?",
+                "answer": "No. The login and protected photo archive are separate locks. The archive asks for a four-digit code, so do not reuse a name-based login answer there. Review the related messages, pictures and music for the required numbers and their order instead of guessing randomly."
+              },
+              {
+                "question": "Why can I not see IMG003.jpg or lawson.jpg?",
+                "answer": "The desktop allows picture windows to overlap. IMG004.jpg can sit in front of IMG003.jpg and lawson.jpg. Check the title bars, then move or close an obstructing window so that you can inspect the intended picture and desktop background."
+              },
+              {
+                "question": "What is the InviteCode field on the OtherCorp screen?",
+                "answer": "It is a separately labeled input encountered as the investigation moves beyond the initial desktop. Read the surrounding prompt and identify what kind of code it requests. A label asking for an invite code is not a reason to reuse the computer login or photo-archive answer."
+              },
+              {
+                "question": "Why does repeatedly clicking an object not complete an interaction?",
+                "answer": "Some interactions distinguish a short click from holding the control. When nearby wording or repeated sounds point to duration, try a deliberate hold and compare the feedback. Repeated quick clicks do not test what a longer press does; partial feedback may also indicate that only one part of an obstacle has changed."
+              }
+            ]
           }
         ]
       },
@@ -1380,7 +1417,7 @@
     "flags": {
       "isFeaturedHome": false,
       "isNewHome": true,
-      "isRecommendedHome": false
+      "isRecommendedHome": true
     },
     "image": {
       "src": "/images/games/exhibit-of-sorrows.webp",
@@ -1603,7 +1640,7 @@
     "flags": {
       "isFeaturedHome": false,
       "isNewHome": true,
-      "isRecommendedHome": false
+      "isRecommendedHome": true
     },
     "image": {
       "src": "/images/games/burger-frights.webp",
