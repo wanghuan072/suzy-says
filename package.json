@@ -18,7 +18,7 @@
     "content:update": "node scripts/content-state.mjs update",
     "content:check": "node scripts/content-state.mjs check",
     "package": "node scripts/package.mjs",
-    "postbuild": "node scripts/pages-headers.mjs"
+    "postbuild": "node scripts/pages-headers.mjs && node scripts/build-seo-manifest.mjs"
   },
   "dependencies": {
     "js-yaml": "^5.5.0",

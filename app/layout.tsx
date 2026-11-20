@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.origin),
   icons: { icon: "/images/icon.png" },
   robots: { index: true, follow: true },
+  verification: {
+    other: { "msvalidate.01": "D8EF052A74B4BB3D3229205232205792" },
+  },
 };
 export default function RootLayout({
   children,

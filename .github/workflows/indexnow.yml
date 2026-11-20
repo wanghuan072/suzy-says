@@ -1,0 +1,54 @@
+name: IndexNow production notification
+on:
+  status:
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: suzy-says-production-indexnow
+  cancel-in-progress: false
+jobs:
+  notify:
+    if: github.event_name == 'workflow_dispatch' || (github.event.context == 'Vercel' && github.event.state == 'success' && github.event.sender.login == 'vercel[bot]' && github.event.sender.id == 35613825)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: "24"
+      - name: Restore latest successful receipt
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea
+        with:
+          script: |
+            const fs = require('fs');
+            const cfg = JSON.parse(fs.readFileSync('seo/indexnow.json', 'utf8'));
+            if (!cfg.bingVerified) return;
+            fs.mkdirSync('.indexnow', {recursive:true});
+            const artifacts = await github.paginate(github.rest.actions.listArtifactsForRepo, {...context.repo, per_page:100});
+            const candidates = artifacts.filter(a => !a.expired && a.name.startsWith('suzy-says-production-indexnow-')).sort((a,b) => b.id-a.id);
+            for (const a of candidates) {
+              const {data:run} = await github.rest.actions.getWorkflowRun({...context.repo,run_id:a.workflow_run.id});
+              if (run.path !== '.github/workflows/indexnow.yml' || run.head_branch !== 'main' || run.conclusion !== 'success') continue;
+              const response = await github.rest.actions.downloadArtifact({...context.repo, artifact_id:a.id, archive_format:'zip'});
+              fs.writeFileSync('.indexnow/receipt.zip', Buffer.from(response.data));
+              return;
+            }
+            console.log('No retained successful receipt: explicit full resubmission baseline');
+            fs.writeFileSync('.indexnow/receipt.json', 'null\n');
+      - name: Extract receipt
+        run: |
+          if [ -f .indexnow/receipt.zip ]; then unzip -o .indexnow/receipt.zip -d .indexnow; fi
+      - name: Notify current successful production
+        id: submit
+        run: node scripts/indexnow-release.mjs
+      - name: Persist successful receipt
+        if: steps.submit.outputs.notified == 'true'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: suzy-says-production-indexnow-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .indexnow/receipt.json
+          if-no-files-found: error
+          retention-days: 90
