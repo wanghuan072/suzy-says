@@ -3,6 +3,35 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { notifyIndexNow, writeCheckpoint } from "./notify-indexnow.mjs";
 
+export async function publishedManifest(
+  config,
+  expected,
+  {
+    request = fetch,
+    pause = (ms) => new Promise((resolve) => setTimeout(resolve, ms)),
+  } = {},
+) {
+  for (let attempt = 0; attempt < 6; attempt++) {
+    const response = await request(`${config.siteUrl}/seo-manifest.json`, {
+      redirect: "error",
+      cache: "no-store",
+      headers: { "Cache-Control": "no-cache" },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!response.ok)
+      throw Error(`Production manifest HTTP ${response.status}`);
+    const current = await response.json();
+    if (!expected || current.deployment?.commit === expected) return current;
+    console.log(
+      `Waiting for production alias: expected ${expected}; observed ${current.deployment?.commit}`,
+    );
+    if (attempt < 5) await pause(3000);
+  }
+  throw Error(
+    "Production alias has not reached this commit; retry after deployment propagation",
+  );
+}
+
 export async function release(
   { config, current, checkpoint, production = false },
   dependencies,
@@ -36,12 +65,6 @@ async function main() {
     console.log("IndexNow disabled: Bing verification pending");
     return;
   }
-  const response = await fetch(`${config.siteUrl}/seo-manifest.json`, {
-    redirect: "error",
-    cache: "no-store",
-  });
-  if (!response.ok) throw Error(`Production manifest HTTP ${response.status}`);
-  const current = await response.json();
   const event = JSON.parse(
     fs.readFileSync(process.env.GITHUB_EVENT_PATH, "utf8"),
   );
@@ -53,10 +76,6 @@ async function main() {
       event.context === "Vercel" &&
       event.state === "success";
     if (!valid) throw Error("Untrusted deployment status");
-    if (event.sha !== current.deployment?.commit) {
-      console.log("Skip superseded or preview deployment");
-      return;
-    }
     const target = new URL(event.target_url);
     if (
       target.origin !== "https://vercel.com" ||
@@ -68,6 +87,18 @@ async function main() {
     process.env.GITHUB_REF !== `refs/heads/${config.branch}`
   )
     throw Error("Unsupported release event");
+  if (
+    process.env.GITHUB_EVENT_NAME === "status" &&
+    Array.isArray(event.branches) &&
+    !event.branches.some((branch) => branch.name === config.branch)
+  ) {
+    console.log("Skip non-production branch");
+    return;
+  }
+  const current = await publishedManifest(
+    config,
+    process.env.GITHUB_EVENT_NAME === "status" ? event.sha : undefined,
+  );
   const checkpoint = JSON.parse(
     fs.readFileSync(".indexnow/receipt.json", "utf8"),
   );
@@ -81,7 +112,8 @@ async function main() {
     writeCheckpoint(".indexnow/receipt.json", result.checkpoint);
     fs.appendFileSync(process.env.GITHUB_OUTPUT, "notified=true\n");
   }
-  const { checkpoint: saved, ...summary } = result;
+  const summary = { ...result };
+  delete summary.checkpoint;
   console.log(JSON.stringify(summary, null, 2));
 }
 if (
