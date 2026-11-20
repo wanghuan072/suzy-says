@@ -4,7 +4,12 @@
   "repository": "wanghuan072/suzy-says",
   "branch": "main",
   "key": "8f926c187f254789848169a2e124e6af",
-  "bingVerified": false,
-  "verification": null,
-  "bootstrap": true
+  "bingVerified": true,
+  "verification": {
+    "siteUrl": "https://suzysaysgame.site",
+    "method": "BingSiteAuth.xml",
+    "confirmedAt": "2026-11-20T03:50:21.446Z",
+    "result": "Verified site selected; management reports accessible"
+  },
+  "bootstrap": false
 }

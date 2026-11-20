@@ -46,3 +46,4 @@ next-env.d.ts
 /research/media-preview/
 /research/real-media-20261119/
 /.wrangler/
+/.indexnow/
