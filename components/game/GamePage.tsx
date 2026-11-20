@@ -67,17 +67,6 @@ export default function GamePage({
                 third-party browser player has not been verified as that
                 release.
               </p>
-              <p className="next-links">
-                <a
-                  href="https://moonbit.itch.io/suzy-says"
-                  rel="noopener noreferrer"
-                >
-                  Get Suzy Says from MOONBIT
-                </a>
-                <a href="/guides/suzy-says-first-run">
-                  Prepare your first Windows session
-                </a>
-              </p>
             </div>
           )}
           <GamePlayer
