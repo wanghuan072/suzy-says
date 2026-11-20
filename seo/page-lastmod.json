@@ -4,7 +4,7 @@
     "/": {
       "kind": "game",
       "id": "suzy-says",
-      "fingerprint": "07dd0addb358bbe678f3dfc37148d41cceb5b835568d0e7f3eefbad7c2d0229e"
+      "fingerprint": "398af4cf8aceff1e627098dc790ebcddc829964636a436115936d5daa08016c5"
     },
     "/games/assessment-examination": {
       "kind": "game",
@@ -49,12 +49,12 @@
     "/guides/suzy-says-command-rules": {
       "kind": "guide",
       "id": "suzy-says-command-rules",
-      "fingerprint": "415691adcfb956887740b4c5904ec22977bdc52e3946174210f5da1b283ce0c4"
+      "fingerprint": "6acf797e29a8259655251141d5963c08529a254b4461bb587d398c624e7765f7"
     },
     "/guides/suzy-says-first-run": {
       "kind": "guide",
       "id": "suzy-says-first-run",
-      "fingerprint": "6f82a00ec4972d821d1d10b89cd12fccd5572404e071265a7d74f9e92dfcdc30"
+      "fingerprint": "55346ad83c989fdb48eb5a2137f4d6715413d20852adf1a8d5b01e1c258c2a97"
     },
     "/guides": {
       "kind": "static",

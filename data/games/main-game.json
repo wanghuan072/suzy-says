@@ -5,7 +5,7 @@
   "shortDescription": "Learn when to follow the DVD host, how to use the colored mat and which controls belong to the original Windows release.",
   "status": "published",
   "publishedAt": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "tags": [
     "Horror",
     "Listening",
@@ -41,8 +41,8 @@
     "loadTimeoutMs": 30000
   },
   "seo": {
-    "title": "Suzy Says: Command Rules, Controls and First Run",
-    "description": "Learn the Suzy Says command rule, Windows controls and edition differences. Prepare the DVD lesson with worked examples that keep later story events hidden.",
+    "title": "Suzy Says Game: Command Rules and Windows Controls",
+    "description": "Explore the Suzy Says game, command rules, Windows controls and edition differences. Use worked examples to prepare your first run without revealing endings.",
     "keywords": [
       "suzy says",
       "suzy says game",
@@ -52,7 +52,7 @@
   "content": [
     {
       "id": "listen-before-moving",
-      "heading": "Listen before you move",
+      "heading": "Suzy Says game: listen before you move",
       "blocks": [
         {
           "type": "paragraph",

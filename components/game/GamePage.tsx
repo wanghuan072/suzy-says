@@ -56,7 +56,7 @@ export default function GamePage({
           )}
           <h1 className={home ? "home-title" : undefined}>
             {home
-              ? `${game.title}: Command Rules and Player Guide`
+              ? `${game.title} Game: Command Rules and Player Guide`
               : `Play ${game.title} Online`}
           </h1>
           <p className="game-intro">{game.shortDescription}</p>
@@ -90,6 +90,24 @@ export default function GamePage({
                 <section id={s.id} key={s.id}>
                   <h2>{s.heading}</h2>
                   <Blocks blocks={s.blocks} />
+                  {home && s.id === "first-command-round" && (
+                    <p>
+                      For more worked examples, read the{" "}
+                      <a href="/guides/suzy-says-command-rules">
+                        Suzy Says command rules guide
+                      </a>
+                      .
+                    </p>
+                  )}
+                  {home && s.id === "comfortable-first-run" && (
+                    <p>
+                      Before starting the Windows release, follow the{" "}
+                      <a href="/guides/suzy-says-first-run">
+                        first-run guide to controls and subtitles
+                      </a>
+                      .
+                    </p>
+                  )}
                 </section>
               ))}
           </article>
@@ -115,7 +133,7 @@ export default function GamePage({
                 ...webPageSchema(
                   home ? "/" : "/games/" + game.slug,
                   home
-                    ? `${game.title}: Command Rules and Player Guide`
+                    ? `${game.title} Game: Command Rules and Player Guide`
                     : "Play " + game.title + " Online",
                   game.seo.description,
                 ),

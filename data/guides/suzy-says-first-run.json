@@ -12,7 +12,7 @@
   "authorId": null,
   "spoilerPolicy": "none",
   "publishedAt": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "cover": {
     "src": "/images/guides/suzy-says-first-run.webp",
     "alt": "The Suzy Says DVD box held in the hallway at the beginning of the game",
@@ -92,7 +92,7 @@
     },
     {
       "id": "prepare-your-inputs",
-      "title": "Put the movement keys within easy reach",
+      "title": "Suzy Says Windows controls: movement, jump and crouch",
       "blocks": [
         {
           "type": "table",

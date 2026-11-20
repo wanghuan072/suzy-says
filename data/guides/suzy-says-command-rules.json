@@ -12,7 +12,7 @@
   "authorId": null,
   "spoilerPolicy": "none",
   "publishedAt": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "cover": {
     "src": "/images/guides/suzy-says-command-rules.webp",
     "alt": "The Suzy Says colored floor mat in front of the television, ready for command practice",
@@ -26,7 +26,7 @@
   "sections": [
     {
       "id": "permission-before-action",
-      "title": "First decide whether the command counts",
+      "title": "Suzy Says command rules: when to follow an instruction",
       "blocks": [
         {
           "type": "paragraph",
