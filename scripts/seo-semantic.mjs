@@ -7,6 +7,13 @@ export function semanticContent(html, assetDigest = () => null) {
     const attrs = Object.fromEntries(
       (node.attrs ?? []).map((a) => [a.name, a.value]),
     );
+    for (const name of ["href", "src"]) {
+      if (attrs[name]?.startsWith("/")) {
+        const u = new URL(attrs[name], "https://suzysaysgame.site");
+        u.searchParams.delete("dpl");
+        attrs[name] = u.pathname + u.search + u.hash;
+      }
+    }
     if (
       node.tagName === "meta" &&
       ["msvalidate.01", "google-site-verification"].includes(attrs.name)

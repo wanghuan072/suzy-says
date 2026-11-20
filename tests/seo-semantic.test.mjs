@@ -1,6 +1,19 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { semanticContent } from "../scripts/seo-semantic.mjs";
+test("Vercel deployment parameters are excluded from content and image paths", () => {
+  const html = '<img src="/images/game.jpg?dpl=dpl_old" alt="Game">';
+  assert.deepEqual(
+    semanticContent(html),
+    semanticContent(html.replace("dpl_old", "dpl_new")),
+  );
+  let seen;
+  semanticContent(html, (name) => {
+    seen = name;
+    return "bytes";
+  });
+  assert.equal(seen, "/images/game.jpg");
+});
 test("styles, hydration, verification and copyright year do not change content", () => {
   const a =
     '<html><head><meta name="msvalidate.01" content="old"><style>body{color:red}</style></head><body><p class="red">Hello</p><footer>© 2026 Site</footer><script>build=1</script></body></html>';
