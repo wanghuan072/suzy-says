@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "assessment-examination",
+    "slug": "assessment-examination",
+    "title": "Assessment Examination",
+    "shortDescription": "Classify portraits as Trust or Threat, then follow the examination when its orderly test screens give way to case-file text.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": true,
+      "isNewHome": false,
+      "isRecommendedHome": true
+    },
+    "image": {
+      "src": "/images/games/assessment-examination.webp",
+      "alt": "Grainy face with dark eyes above the Assessment Examination title",
+      "width": 630,
+      "height": 500
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/5392404/Web5/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play Assessment Examination: Trust or Threat Guide",
+      "description": "Play Assessment Examination and learn when to classify a portrait or read a case file. Get help with the response buttons, fullscreen and browser loading.",
+      "keywords": []
+    },
+    "content": [
+      {
+        "id": "enter-the-examination",
+        "heading": "A job application that asks for your judgment",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Assessment Examination is a short psychological horror game built around an employment-style evaluation. You are applying to the Authenticity Assessment Department, and the examination turns that ordinary administrative setup into an uncomfortable exercise in judging what is in front of you. Its restrained interface makes the difference between an orderly test and a disturbing interruption feel unusually sharp."
+          },
+          {
+            "type": "paragraph",
+            "text": "This is a seated, screen-focused experience rather than a game about searching a house or running from an enemy. Attention matters more than movement: read the prompt, examine the image, then select an answer. Give the picture and the instruction separate moments of attention so that an unnerving detail does not make you overlook what the current question actually asks."
+          },
+          {
+            "type": "paragraph",
+            "text": "Allow around ten to fifteen minutes for the examination itself, with additional time for the browser build to download. An uninterrupted first attempt makes the changing presentation easier to follow. A line of dialogue or a brief shift on screen can connect two questions that otherwise look similar, so the quiet moments deserve as much attention as the obvious disturbances."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/assessment-examination-screen-1.webp",
+            "alt": "An examination question with three visible response labels",
+            "width": 1440,
+            "height": 900,
+            "caption": "Read each question and its available responses before clicking."
+          }
+        ]
+      },
+      {
+        "id": "choosing-an-answer",
+        "heading": "Read the label before judging the face",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The central assessment asks you to distinguish between trust and threat. Treat those as the two available judgments rather than as attack and defence moves. Look at the whole image before moving to a choice. Notice expression, facial proportions and presentation together; do not turn one detail, such as an exaggerated smile, into a rule that replaces looking at the rest of the picture."
+          },
+          {
+            "type": "paragraph",
+            "text": "A practical rhythm is to read, inspect, decide and click once. Then wait for the interface to acknowledge the selection or continue. Repeated clicking makes it harder to tell which question received your answer, especially when successive screens share the same arrangement. If a picture changes while your pointer remains over a button, stop and read the new instruction before making another judgment."
+          },
+          {
+            "type": "paragraph",
+            "text": "You do not need to reveal personal information or prove something about your real judgment. The application is a fictional horror scenario. Responding to the presentation is the activity, and uncertainty is part of its effect. A single unnerving image is not a reason to stop interpreting all later prompts individually or to assume that an entire run can be reduced to selecting the same label."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/assessment-examination-screen-2.webp",
+            "alt": "A portrait beside separate trust and threat buttons",
+            "width": 1440,
+            "height": 900,
+            "caption": "Judge the displayed portrait before choosing trust or threat."
+          }
+        ]
+      },
+      {
+        "id": "interruptions-and-pacing",
+        "heading": "When the examination changes its pace",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The assessment can give way to a case-file page with personal fields and narrative text. That change calls for reading rather than another judgment about a portrait. Follow the current text when the format shifts instead of expecting every screen to require the same classification. Let the sequence unfold before treating the absence of the familiar answer layout as a fault."
+          },
+          {
+            "type": "paragraph",
+            "text": "Separate slow presentation from a frozen browser. If text, sound or imagery is still changing, the game is continuing to communicate. Stay with that sequence rather than refreshing immediately. If the entire image remains frozen and no visible control responds, check the browser instead. Treating those as different problems prevents an intentional pause from becoming an unnecessary restart."
+          },
+          {
+            "type": "paragraph",
+            "text": "For the first playthrough, discover the structure before trying to optimise it. An answer list can reveal what somebody selected, but it also removes the uncertainty that makes the assessment distinctive. Finish a run, remember the moments that changed your expectations, and then decide whether a second pass would help you understand them."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/assessment-examination-screen-3.webp",
+            "alt": "A grainy group photograph with black bars obscuring the eyes",
+            "width": 1440,
+            "height": 900,
+            "caption": "The examination can change from answer controls to unsettling imagery."
+          }
+        ]
+      },
+      {
+        "id": "sound-and-fullscreen",
+        "heading": "Set up the examination before the unsettling parts",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use a mouse or another precise pointing device for the response buttons. You do not need a movement-key layout to begin. The F key toggles the game's fullscreen mode, which can make text and images easier to follow. The surrounding player provides separate view controls; use one method at a time so that you know which control returns you to the page."
+          },
+          {
+            "type": "paragraph",
+            "text": "Set a comfortable volume before the assessment builds tension. Sound contributes to the atmosphere, but excessive loudness does not improve your ability to follow the questions. Lower or mute it if you need a break. Disturbing images and psychological horror describe the experience more usefully than a promise that everyone will find it equally mild or frightening."
+          },
+          {
+            "type": "paragraph",
+            "text": "A desktop or laptop offers the clearest combination of readable text and precise pointer input. A small phone display can compress the picture and answer labels together. Enlarging the player may help readability, but that alone does not establish complete touch compatibility. If the choices are awkward to reach on a phone, a computer is a more practical option than repeated small-screen tapping."
+          }
+        ]
+      },
+      {
+        "id": "loading-the-browser-build",
+        "heading": "Why the first download can take time",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The browser edition loads a substantial game package before the examination begins. A progress display or a dark surface at the start can therefore be a download stage rather than the first question. Give the first load time to finish, especially on a slower connection. Opening several copies only adds competing downloads and makes the original problem harder to identify."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the player reports a timeout, retry once and watch whether the next attempt progresses. If the same failure returns, check the connection and use an up-to-date browser. The game relies on a browser graphics runtime; a restricted device, unavailable graphics acceleration or blocked game assets can prevent it from starting even when this page opens normally."
+          },
+          {
+            "type": "paragraph",
+            "text": "A completed page load does not prove that the examination has started. Look for the assessment display and a responsive control. An error document, an indefinitely empty area or a permanent loading indicator should not be mistaken for a fictional event. Resolve that problem before starting a run. Refreshing a working examination interrupts the current sequence, so reserve it for an actual failure."
+          }
+        ]
+      },
+      {
+        "id": "a-deliberate-first-run",
+        "heading": "Make the first run easy to follow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "On each portrait screen, read the label before putting the pointer over an answer. Once you have chosen, click once and look back at the display. If a case file replaces the portrait, switch to reading its fields and narrative. Reusing the previous screen’s clicking pattern can make you miss the change in what the examination is asking you to do."
+          },
+          {
+            "type": "paragraph",
+            "text": "When a moment surprises you, identify what changed: image, wording, sound or pace. That gives you a concrete detail to think about later without requiring an elaborate explanation while the game is unfolding. Useful observations describe the presentation. They do not automatically assume that every unusual event means the last answer was incorrect."
+          },
+          {
+            "type": "paragraph",
+            "text": "On a second run, compare a small number of decisions and note the response you actually see. A different selection is not proof of a different ending. Keep a distinction between the answer you changed, the presentation that followed and any interpretation you made afterward; that is more useful than treating an unsupported answer chart as a scoring system."
+          }
+        ]
+      },
+      {
+        "id": "assessment-or-action",
+        "heading": "Choose this when you want uneasy observation",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Assessment Examination fits the part of Suzy Says that puts pressure on interpreting an apparently simple instruction. The physical demand is different: this examination centres on reading and judging a screen, while Suzy's mat-based tasks make movement part of the uncertainty. Here, the uncomfortable decision occupies the centre of the experience."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please Answer Carefully offers another ordinary interface that becomes threatening, with a more personal survey framing. Last seen online instead asks you to investigate an old computer and connect clues. Choose by the action you want next: respond to questions, inspect pictures or investigate files. None uses the examination's labels as a universal set of controls."
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Follow the examination interface",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "5kBE7u-POMc",
+            "title": "Assessment Examination: follow the examination interface",
+            "description": "Watch image judgments give way to case-file text. Read the changed screen before expecting another portrait choice. This complete recording contains later story details."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "please-answer-carefully",
+      "last-seen-online",
+      "the-open-house",
+      "bad-ben",
+      "uncle-nintendo",
+      "exhibit-of-sorrows"
+    ]
+  },
+  {
+    "id": "please-answer-carefully",
+    "slug": "please-answer-carefully",
+    "title": "Please Answer Carefully",
+    "shortDescription": "Answer a questionnaire using checkboxes, single choices and a slider as its questions turn toward increasingly personal subjects.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": true,
+      "isNewHome": false,
+      "isRecommendedHome": true
+    },
+    "image": {
+      "src": "/images/games/please-answer-carefully.webp",
+      "alt": "Please Answer Carefully title and red continuation arrow on its survey screen",
+      "width": 630,
+      "height": 500
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/10245174/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play Please Answer Carefully: Survey Controls",
+      "description": "Play Please Answer Carefully and work through checkboxes, response circles and the hours slider. Find the next prompt without revealing the survey ending.",
+      "keywords": []
+    },
+    "content": [
+      {
+        "id": "a-survey-that-changes",
+        "heading": "An ordinary questionnaire becomes uncomfortable",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Please Answer Carefully begins as a modest online questionnaire. You select responses about everyday internet habits, move through a familiar form and gradually find the questions becoming less impersonal. The horror lives in that change of relationship: a screen that initially asks for information starts to feel as though it expects something from you. There is no house to explore or enemy to outrun. Your attention stays on wording, choices and sound."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game is a short text-based experience by litrouke. A first visit normally fits into a few minutes, although taking time over every change can make it longer. Its instructions allow roughly five to ten minutes. It works best when you can read without interruption, because the layout sometimes matters as much as the question. Treat it as a compact story told through a form rather than a personality quiz that will give you a useful real-world assessment."
+          },
+          {
+            "type": "paragraph",
+            "text": "Stalking is the central content concern. The personal tone and eerie audio can be uncomfortable even without an action sequence. The opening menu includes a content warning, so read that before beginning if this theme is difficult for you. You can also lower or mute the sound; completing a horror game is never a reason to ignore your own comfort."
+          }
+        ]
+      },
+      {
+        "id": "starting-the-questionnaire",
+        "heading": "Select an option, then use the arrow",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The title screen uses the same selection-and-continue language as the survey itself. Choose Begin game, then use the arrow that appears. Simply selecting the menu item is only the first part of the interaction. This is worth learning immediately, because the questionnaire repeatedly separates choosing a response from submitting it."
+          },
+          {
+            "type": "paragraph",
+            "text": "Language selection, the content warning and the credits are available from that opening menu. If the language is difficult to read, change it before starting the questionnaire. A menu choice can look selected while the page remains in place; look for the continuation arrow instead of selecting the same item repeatedly. The game is responding to a small form control, not asking you to double-click a desktop icon."
+          },
+          {
+            "type": "paragraph",
+            "text": "The introductory page includes an audio test. Use it to set a comfortable volume before the atmosphere becomes more intrusive. If the test is silent, check whether the browser tab or game sound is muted before proceeding. Audio can be important to the mood without being a reason to turn the volume unusually high. Begin at a moderate level and adjust down if necessary."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/please-answer-carefully-screen-1.webp",
+            "alt": "Survey instructions with a red volume-test label and continuation arrow",
+            "width": 1280,
+            "height": 720,
+            "caption": "Set a comfortable volume before starting the questions."
+          }
+        ]
+      },
+      {
+        "id": "three-kinds-of-input",
+        "heading": "Checkboxes, response circles and the hours slider",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The early questions teach three slightly different interactions. The device question allows multiple selections, so tick the options you want and then continue. The question about time spent online uses a slider. Later questions present a set of alternative responses. Read the instruction attached to each question instead of assuming every screen accepts the same kind of answer."
+          },
+          {
+            "type": "paragraph",
+            "text": "For the online-hours question, interact with the slider before looking for the next arrow. You can click a position on its track or move its handle to make a selection. Staring at the displayed scale does not submit an answer. If the arrow is absent at this point, first check whether you have actually interacted with the slider rather than treating the page as frozen."
+          },
+          {
+            "type": "paragraph",
+            "text": "For a question with response circles, choose one of the visible labels and then use the continuation arrow. Some controls may already have a default state, but the page can still wait for an interaction before revealing its next button. Click the label you intend to use instead of relying on a circle that looks filled. That is a more reliable way to distinguish a required selection from an unresponsive page."
+          },
+          {
+            "type": "paragraph",
+            "text": "The questions about messages deliberately separate work communication from personal communication. Read that distinction before responding. The important activity is noticing what changed between two similar-looking prompts, not finding a single answer that you can apply to every form. A quick glance can make two questions look identical even when one short phrase changes their meaning."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/please-answer-carefully-screen-2.webp",
+            "alt": "Question one with multiple device checkboxes",
+            "width": 1280,
+            "height": 720,
+            "caption": "Device choices use checkboxes rather than a single response circle."
+          }
+        ]
+      },
+      {
+        "id": "when-continue-is-missing",
+        "heading": "A missing arrow does not always mean a broken game",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you cannot continue, first identify which kind of page is open. On an ordinary multiple-choice screen, interact with an answer label. On the hours question, interact with the slider. On a passage that is still revealing new words or choices, wait. These are different situations, and repeatedly clicking the empty area below the text will not solve all three."
+          },
+          {
+            "type": "paragraph",
+            "text": "Later parts of the questionnaire use timed text and delayed controls. The wording can arrive in pieces, and the available responses can change after the page first appears. Let the current sentence finish before deciding that there is nothing left to do. Pay attention to the form itself: a newly visible label, a changed response or a continuation control can be the next event."
+          },
+          {
+            "type": "paragraph",
+            "text": "Avoid holding down the mouse button or rapidly clicking where the next arrow usually sits. A timed change can place a different control under the pointer. Wait for a stable, visible choice, select it and then continue once. If everything genuinely stops changing and the intended control remains unresponsive, a reload is a browser-recovery step, but it can also interrupt your current attempt."
+          }
+        ]
+      },
+      {
+        "id": "reading-the-pressure",
+        "heading": "Notice what the form asks you to accept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The questionnaire becomes more unsettling when its polite administrative style stops matching the substance of its demands. Read both parts of a prompt: the instruction that tells you how to respond and the statement you are responding to. Those can pull your attention in different directions. Recognising that tension is more useful than rushing to produce what looks like a successful survey response."
+          },
+          {
+            "type": "paragraph",
+            "text": "Some later choices provide less freedom than the first screens suggest. That narrowing is part of the story's pressure. Do not assume an unusual set of labels is a browser glitch merely because it no longer resembles a normal questionnaire. At the same time, the character's insistence is fictional. You are not required to agree with it outside the game or to carry any instruction away from the screen."
+          },
+          {
+            "type": "paragraph",
+            "text": "A replay is useful when you want to compare the wording around a particular answer. Change one response and read the next passage closely. That comparison can show a visible difference without telling you how every earlier answer affects the conclusion. Keep the final reveal for the end of your own run if you want the questionnaire’s change of tone to unfold gradually."
+          }
+        ]
+      },
+      {
+        "id": "reading-on-your-device",
+        "heading": "Keep the text and the controls in view",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A mouse is the simplest way to handle this questionnaire's labels and slider. Keep enough of the player visible to see the question and the continuation arrow together. If the text feels cramped, enlarge the player before answering rather than repeatedly changing the view while a timed passage is appearing. This is a reading interface, so legibility matters more than filling the screen with decorative space."
+          },
+          {
+            "type": "paragraph",
+            "text": "On a small display, watch for controls below the question before assuming they are missing. Changing the player's view can help, but it does not guarantee that every phone/browser combination handles the slider or text layout equally well. If selecting a label is unreliable, try a larger display and a precise pointer. Do not mistake a difficult target for a secret puzzle."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the sound disappears while the text continues, check the game and tab volume rather than restarting immediately. If the entire game fails to load, use the player's retry control and check the connection. Avoid clearing browser data simply to repair a missed click: a wrong interaction and a broken load are different problems, and restarting is a larger interruption than selecting the correct visible control."
+          }
+        ]
+      },
+      {
+        "id": "after-the-questionnaire",
+        "heading": "Continue with another kind of unsettling interface",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The survey rewards attention to small wording changes. Device choices may allow several selections, while a later prompt asks for one frequency or a response on each agreement row. Before continuing, check the current question’s subject and the input it expects. A familiar form layout can conceal a new distinction, such as work messages versus personal messages."
+          },
+          {
+            "type": "paragraph",
+            "text": "Assessment Examination moves the decision toward judging images, while last seen online opens the interface into a computer full of clues. Both offer a different next task after the survey. Choose image assessment when you want another focused series of judgments, or file investigation when you would rather explore and connect information at your own pace."
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Watch the questionnaire change",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "eYjjVDO2Sl4",
+            "title": "Please Answer Carefully: watch the questionnaire change",
+            "description": "Compare device checkboxes with frequency options and agreement scales as the questions grow more personal. The complete recording reveals later questions and the conclusion."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "last-seen-online",
+      "the-open-house",
+      "bad-ben",
+      "uncle-nintendo",
+      "exhibit-of-sorrows"
+    ]
+  },
+  {
+    "id": "last-seen-online",
+    "slug": "last-seen-online",
+    "title": "last seen online",
+    "shortDescription": "Investigate an old computer through chat histories, pictures and locked files. Match each password clue to the field that actually needs it.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "image": {
+      "src": "/images/games/last-seen-online.webp",
+      "alt": "Glitched portrait with the last seen online title",
+      "width": 630,
+      "height": 500
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/19480086-2047391/index.html?v=1790871920",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play last seen online: Passwords and Desktop Guide",
+      "description": "Play last seen online and connect desktop clues without a solution list. Separate login and archive codes, uncover overlapping windows and follow new prompts.",
+      "keywords": []
+    },
+    "content": [
+      {
+        "id": "inside-an-old-computer",
+        "heading": "A second-hand computer with a life inside it",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "last seen online begins with a computer bought at a garage sale. Instead of wiping it, you turn it on and step into the traces of another person's life. Files, chat histories and desktop programs become the rooms of an escape game. The central activity is investigation: open something, read what it reveals and connect that information to a lock or question elsewhere."
+          },
+          {
+            "type": "paragraph",
+            "text": "This is the game by qwook and sochinstudio. Its old desktop and the world connected to it are a different experience from other games sharing the same name. The appeal lies in treating a familiar computer interface as a space that can conceal both ordinary memories and disturbing discoveries. You need curiosity and a willingness to revisit clues, rather than a list of facts gathered outside the game."
+          },
+          {
+            "type": "paragraph",
+            "text": "Read the opening warning before continuing. Psychological horror and distressing themes make this unsuitable for children or anyone who finds such material difficult. You can follow the early investigation without knowing where the story ends. Keeping final scenes and complete puzzle solutions for later preserves the pleasure of discovering why an apparently mundane file matters."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/last-seen-online-screen-3.webp",
+            "alt": "An in-game portrait decorated with pink hearts",
+            "width": 1219,
+            "height": 1000,
+            "caption": "Personal images give the old computer a history beyond its files and locks."
+          }
+        ]
+      },
+      {
+        "id": "learning-the-desktop",
+        "heading": "Treat each program as a different kind of clue",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Begin by reading the login hint and looking for the information it describes. A useful password hint is a request for particular pieces of knowledge, not permission to guess random words indefinitely. If it points to more than one detail, identify all of those details before submitting another attempt. Revisit the hint whenever your candidate matches only part of its wording."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once inside the desktop, explore the programs with different expectations. The buddy list holds conversations and relationships. The music player holds a playlist and audio. A protected archive presents a separate lock, and the file browser gives access to pictures and folders. None should be treated as a decorative shortcut simply because it resembles an old real-world application."
+          },
+          {
+            "type": "paragraph",
+            "text": "Read a conversation far enough to understand who is speaking and what they are discussing. An old message about an attachment can matter to an archive, while a remark about a program or image can tell you where to look next. Keeping the speaker and subject together is more useful than collecting isolated numbers without knowing what they refer to."
+          },
+          {
+            "type": "paragraph",
+            "text": "If several windows obscure each other, close or move the ones that are not part of the current question. The desktop behind them is also a visible part of the game. A cluttered screen can hide information even when the relevant file is already open. Before deciding that a clue is absent, make the working area readable and examine how its pieces relate."
+          },
+          {
+            "type": "paragraph",
+            "text": "Several pictures can overlap on the desktop: a front window titled IMG004.jpg can obscure IMG003.jpg and lawson.jpg behind it. Before clicking, identify which title bar belongs to the image you want. Work with that window rather than assuming every visible corner belongs to the front picture. The desktop background remains another part of the scene, so rearranging your attention between windows and background is more useful than opening the same picture repeatedly."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/last-seen-online-screen-1.webp",
+            "alt": "LoseAmp music-player window with a green playlist and playback controls",
+            "width": 641,
+            "height": 651,
+            "caption": "Programs have different jobs; distinguish a playlist from chat or an archive lock."
+          }
+        ]
+      },
+      {
+        "id": "passwords-with-purpose",
+        "heading": "Keep the login and the archive lock separate",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The computer login and the protected photo archive are not the same lock. Solving the first does not mean its answer belongs in every later password field. The archive interface asks for a four-digit code. That tells you what kind of answer to seek, and it prevents a common wrong turn: carrying a name-based login answer into a numeric archive prompt."
+          },
+          {
+            "type": "paragraph",
+            "text": "When an archive rejects a candidate, the useful next step is to review the clue chain. Did you identify the right items? Did you arrange them in the order the clue implies? Did you enter the requested number of digits? Changing a digit without a reason produces little information. Returning to a message or picture can show which part of your interpretation needs attention."
+          },
+          {
+            "type": "paragraph",
+            "text": "The desktop's music, conversations and imagery should be considered together. If a message directs attention toward music or a visual arrangement, inspect those particular elements rather than searching unrelated folders indefinitely. Separate selecting the relevant items from deciding their order. Those are two different tasks, and getting one right does not automatically solve the other."
+          },
+          {
+            "type": "paragraph",
+            "text": "You do not need specialist computer knowledge to reason through these interfaces. Treat the archive as a puzzle within the story, not as an invitation to extract a real file or install another program. Work with the visible controls and clues the game provides. If a procedure seems to require leaving the game to obtain somebody's private information, reconsider the clue before following that assumption."
+          }
+        ]
+      },
+      {
+        "id": "beyond-the-desktop",
+        "heading": "Read feedback when the setting changes",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The investigation does not stay confined to ordinary folders. When it leads into Other World, continue using the same habit of reading the response to each action. A newly opened location can change what an interaction means. Do not assume every object is another password field merely because the opening puzzles involved a computer."
+          },
+          {
+            "type": "paragraph",
+            "text": "A black OtherCorp screen presents a different input task from the photo windows. Its InviteCode field sits with Continue and Back controls. Read that field label before typing: an invitation-code prompt is not the earlier desktop login or the protected archive simply because all three accept text. Check which screen is active and what kind of information it requests before reusing an old answer."
+          },
+          {
+            "type": "paragraph",
+            "text": "Some later interactions distinguish a brief press from holding a control. When nearby text draws attention to duration or repeated sounds, examine how the object responds to that difference. A click and a hold are separate actions. Repeating quick clicks will not demonstrate what a longer interaction does, so change the input deliberately and compare the visible or audible feedback."
+          },
+          {
+            "type": "paragraph",
+            "text": "Pay attention to partial feedback. A message that something changed does not necessarily mean the entire obstacle is solved. Pause and inspect the object again. If a mechanism has several parts, keep track of which action altered which part before restarting the whole sequence. This gives you a way to build on progress instead of treating every incomplete result as a complete failure."
+          },
+          {
+            "type": "paragraph",
+            "text": "Read instructions for a group of objects as carefully as individual clues. A requirement about order is different from a requirement about quantity. If one object needs repeated attention, selecting every object once may leave the sequence incomplete. Work out what the wording asks you to vary, then watch for the explicit response that marks progression. Exact sequences are best left until you have tried interpreting the clue yourself."
+          }
+        ]
+      },
+      {
+        "id": "notes-that-keep-you-moving",
+        "heading": "Make a small clue trail instead of a pile of guesses",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For a first run, keep notes in three columns: obstacle, related clue and attempted action. An archive entry might mention its required format, a conversation that discusses the attachment and the code you tried. A later mechanism might instead need a nearby inscription and an input pattern. The goal is to preserve relationships, not transcribe every line of dialogue."
+          },
+          {
+            "type": "paragraph",
+            "text": "When stuck, return to the nearest unanswered question. If the game asks for a numeric archive code, your immediate task is to identify numbers and their order. If it presents several objects governed by a shared instruction, the task is to apply that instruction to the group. Wandering between all open puzzles can feel active while leaving the actual missing step untouched."
+          },
+          {
+            "type": "paragraph",
+            "text": "Record what you changed after an unsuccessful attempt. For a code field, that may be the candidate and the clue you used; for a sequence, it may be which object you selected and in what order. Keep the failed attempt beside the obstacle it belongs to. Otherwise a discarded login guess can easily get mixed into your notes for a different lock."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/last-seen-online-screen-2.webp",
+            "alt": "A desktop chat window with colored names and blue response links",
+            "width": 1276,
+            "height": 940,
+            "caption": "Read the conversation before choosing a reply or recording a clue."
+          }
+        ]
+      },
+      {
+        "id": "sound-save-and-replay",
+        "heading": "Adjust the computer without erasing the investigation",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The settings include separate master, sound-effect and music volume controls. That distinction matters in a game where a playlist and other audio can help communicate a clue. If music is inaudible while effects still play, check the music setting as well as the browser tab volume. Raising the master control alone may not solve a separately muted music channel."
+          },
+          {
+            "type": "paragraph",
+            "text": "Choose a readable language before working through long conversations. The game has community translations, but an older video in another language can use different wording or an earlier visual style. Match the visible objects and the meaning of a clue rather than expecting every label or portrait to be identical to a recording."
+          },
+          {
+            "type": "paragraph",
+            "text": "Be careful with the option to restart from the beginning. It is a deliberate way to begin again, not a routine fix for a password rejected by a working puzzle. If you want to preserve progress, leave that control alone. Browser privacy settings or blocked third-party storage can also affect whether an embedded game retains state, so do not assume progress is permanently backed up merely because you have reached a later room."
+          },
+          {
+            "type": "paragraph",
+            "text": "After finishing, the credits include a replay control near their end. Scroll through them before clearing browser data to start another attempt. A fresh run is most useful when you want to revisit an earlier conversation or compare how a clue was introduced. It is less useful as a first response to an obstacle whose surrounding information you have not yet read."
+          }
+        ]
+      },
+      {
+        "id": "browser-and-device-help",
+        "heading": "Separate a puzzle problem from an input problem",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The desktop includes typing as well as pointing. Click the intended password field before entering text, and check that the characters actually appear there. If keys affect the surrounding webpage instead, return focus to the player and field. An empty field after typing is an input-focus problem; a visible rejected answer is a puzzle result. Those need different next steps."
+          },
+          {
+            "type": "paragraph",
+            "text": "A larger display makes overlapping windows, small labels and visual clue relationships easier to read. Touch input is listed for the game, but a phone still offers less room for comparing windows and handling precise targets. If a particular drag or text entry is awkward, use a computer with a mouse and keyboard instead of interpreting the difficulty as part of the mystery."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the game never reaches its own opening interface, check the connection and retry the player before investigating passwords. If it has loaded and the problem concerns a particular lock, use the clue trail rather than repeatedly reloading. The distinction keeps a technical recovery step from unnecessarily interrupting an otherwise functioning investigation."
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Follow the desktop investigation",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "6a83iH6lWPI",
+            "title": "last seen online: follow the desktop investigation",
+            "description": "Watch overlapping picture windows and the change to an invite-code screen. Notice which window and input label are active. The full recording reveals puzzle solutions and later scenes."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "please-answer-carefully",
+      "the-open-house",
+      "bad-ben",
+      "uncle-nintendo",
+      "exhibit-of-sorrows"
+    ]
+  },
+  {
+    "id": "the-open-house",
+    "slug": "the-open-house",
+    "title": "The Open House",
+    "shortDescription": "Navigate a virtual property tour, remember its room labels and compare the sales presentation with what the house shows you.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "image": {
+      "src": "/images/games/the-open-house.webp",
+      "alt": "The Open House property-tour cover showing a house and diagonal real-estate banner",
+      "width": 630,
+      "height": 500
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/2049913/The%20Open%20House%20WebGL/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play The Open House: Rooms and Tour Controls",
+      "description": "Play The Open House and find your way through the virtual property tour. Read room labels and Information panels, with help for the browser build loading.",
+      "keywords": []
+    },
+    "content": [
+      {
+        "id": "a-tour-with-another-purpose",
+        "heading": "A house tour that changes its tone",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Open House turns a familiar piece of online browsing into a short psychological horror game. Instead of arriving as an armed investigator, you enter a polished virtual property presentation. The apparent job is ordinary: look around a house, examine its rooms and understand what is being offered. That comfortable framing matters. A property tour encourages you to trust labels, interfaces and the person guiding the visit, so a change in those things feels different from a monster appearing in a place that already looked dangerous."
+          },
+          {
+            "type": "paragraph",
+            "text": "Approach the opening as a tour rather than a speed challenge. Notice the relationship between the sales presentation and the rooms it describes. A neat piece of interface text can tell you where the tour wants your attention, while the image may invite you to look elsewhere. The interest lies in that tension between a reassuring wrapper and an increasingly uncomfortable visit. You do not need knowledge of a film series, another horror game or real-estate terminology to understand the starting situation."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/the-open-house-screen-1.webp",
+            "alt": "The front exterior of the house in The Open House virtual tour",
+            "width": 1065,
+            "height": 600,
+            "caption": "Begin by recognizing the property before moving through its rooms."
+          }
+        ]
+      },
+      {
+        "id": "begin-with-the-interface",
+        "heading": "Get comfortable with the tour interface",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Start the player and wait until the property presentation is ready before trying to move through it. Once the game has focus, use the controls shown inside its own frame. The Open House is an exploration experience, but that does not mean every view behaves like a conventional first-person shooter. Read a control prompt before holding movement keys or clicking the edge of the screen repeatedly. The useful question is whether the current view offers a route, an inspection action or a piece of information to read."
+          },
+          {
+            "type": "paragraph",
+            "text": "Make one deliberate input and give the scene time to respond. That makes it easier to connect an action to its result, particularly when a transition changes both the viewpoint and the available interface. If you click several directions while a new view is arriving, you can lose track of where you entered and which part of the room you have actually examined. A small pause at a doorway is often more useful than rapid random navigation, because the building is the subject of the game rather than a corridor to rush through."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/the-open-house-screen-2.webp",
+            "alt": "Kitchen view with a bright tour navigation marker and an information tab",
+            "width": 1064,
+            "height": 600,
+            "caption": "Notice the tour marker and information tab before choosing the next view."
+          }
+        ]
+      },
+      {
+        "id": "build-a-spatial-memory",
+        "heading": "Keep track of rooms instead of wandering in circles",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use the rooms as landmarks. Remember where a doorway led, what was visible near an entrance and which route brought you back to a familiar space. You do not need a precise architectural drawing. A simple sequence such as entrance, connecting room and return route is enough to distinguish a new area from another angle on somewhere you already visited. When you are unsure, retrace one known connection before taking another unexplored route. That is a clearer method than repeatedly choosing whichever direction looks brightest."
+          },
+          {
+            "type": "paragraph",
+            "text": "Inspect the full available view before deciding a room has nothing else to offer. A tour image can hold information above, below or beside the most obvious doorway. Keep the interface and the room itself separate in your attention: a navigation marker is a way to change position, while a detail inside the room may be there to explain the current situation. If the game asks you to examine or revisit a place, return with that specific task in mind. Simply passing through a room again is not the same as checking what the new instruction asks you to inspect."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/the-open-house-screen-3.webp",
+            "alt": "Guest bathroom view labeled in the upper corner of the tour",
+            "width": 1064,
+            "height": 599,
+            "caption": "Room labels and fixtures help you recognize where the tour has taken you."
+          }
+        ]
+      },
+      {
+        "id": "notice-what-is-different",
+        "heading": "Read changes in context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The horror works best when you remember what a normal part of the tour looked like. Look at the room, then read what the presentation is asking you to do, and only then decide on the next input. If something familiar has changed, compare its position, appearance or meaning with your earlier impression. You do not have to identify every decorative object. Focus on details that affect the visit: where you can go, what the interface calls a place and whether the next requested action still fits an ordinary property inspection."
+          },
+          {
+            "type": "paragraph",
+            "text": "An unsettling image and a technical failure are not automatically the same thing. The game is deliberately atmospheric, and its presentation can become less comfortable as it progresses. Before refreshing a dark or strange scene, check whether the interface still responds and whether a new prompt or route is present. Conversely, a browser error message, a frozen loading indicator or a missing game frame belongs to a different problem. Separating these cases prevents you from restarting a working scene just because the story has stopped feeling welcoming."
+          },
+          {
+            "type": "paragraph",
+            "text": "The living-room view gives you a clear example of how to divide your attention: blue walls and a fireplace belong to the pictured property, while an Information area sits below the scene. Read the information without forgetting to inspect the room itself. Later, a view labeled Hall 2F can present distorted colors rather than the clean sales image you first encountered. Keep the location label in mind when the image becomes strange. You can recognize that you are still navigating the tour without assuming that every visual change is a browser crash or a new movement system."
+          }
+        ]
+      },
+      {
+        "id": "play-for-the-next-clear-task",
+        "heading": "Choose the next clear action",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "When you lose your place, narrow the problem to the current screen. What is the last instruction you read? Which room or part of the property does it concern? What input is available now? Answer those three questions before searching every other room. This keeps a small uncertainty from turning into a full restart. It also protects the pacing: the tour can build tension from waiting and looking, whereas constant clicking makes it harder to notice how the presentation is changing."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have lost your place, return to a room whose label you recognize and compare it with the last instruction. Use that point to retrace one route rather than clicking through every doorway again. Check the Information area when the presentation gives you a new task, then inspect the relevant room. A second visit is useful when you know what you are returning to examine."
+          }
+        ]
+      },
+      {
+        "id": "webgl-and-loading",
+        "heading": "If the browser version does not start",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Open House uses a Unity WebGL browser build. A blank frame that never reaches the tour can therefore be a loading or browser-compatibility issue rather than a mystery to solve inside the house. Let the initial game data finish arriving, keep the game tab active during startup and avoid repeatedly reopening the player while it is still working. If the frame reports an error, read that message before retrying. The size of the surrounding page does not indicate whether the game itself has finished loading."
+          },
+          {
+            "type": "paragraph",
+            "text": "If a retry still cannot reach the opening presentation, try a different current desktop browser. This is a more useful comparison than changing several unrelated browser settings at once, because the game itself warns of WebGL differences between browsers. A laptop or desktop also gives the tour more room for its interface than a narrow phone display. Do not expect a touch screen to reproduce an unconfirmed desktop input scheme. If a control lies outside the visible game area, enlarge the player or rotate the device before assuming that the game has no way forward."
+          }
+        ]
+      },
+      {
+        "id": "before-recording-the-tour",
+        "heading": "A note before recording or streaming",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Open House can display the default system username during a segment. If you are recording the game, think about that before you begin rather than discovering it while broadcasting. Use a recording setup in which a personal-looking name will not surprise you, and review footage before sharing it. This warning concerns the game presentation; it should not be read as a claim that this website can inspect your operating system or that every browser and desktop build exposes the same information in the same way."
+          },
+          {
+            "type": "paragraph",
+            "text": "Before sharing a recording, check that its frames do not expose the system username. An early property view can show the tour’s interface without revealing the late images that change its tone. A complete video reaches beyond that introduction, so expect it to show developments you may prefer to discover during your own visit."
+          }
+        ]
+      },
+      {
+        "id": "questions-before-entering",
+        "heading": "Questions before entering the house",
+        "blocks": [
+          {
+            "type": "faq",
+            "items": [
+              {
+                "question": "Is The Open House a property-buying website?",
+                "answer": "No. It is a short horror game built around a fictional virtual property tour. The sales presentation is part of that fiction, not an offer to purchase a real house."
+              },
+              {
+                "question": "Should I know the ending before I start?",
+                "answer": "The opening is designed to make an ordinary tour feel gradually less comfortable. Start without late-game details if you want the contrast to work; use a full walkthrough only when you need help with a specific point."
+              },
+              {
+                "question": "What should I do if a room seems to repeat?",
+                "answer": "Check the last instruction and the route you took. Compare the current view with your earlier visit before deciding whether you have returned to the same location, found a different angle or encountered a changed scene."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Take the virtual property tour",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "SZxTn3h34rE",
+            "title": "The Open House: take the virtual property tour",
+            "description": "Watch the sales introduction, room labels and Information control before the house presentation becomes distorted. Later footage reveals story developments."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "please-answer-carefully",
+      "last-seen-online",
+      "bad-ben",
+      "uncle-nintendo",
+      "exhibit-of-sorrows"
+    ]
+  },
+  {
+    "id": "bad-ben",
+    "slug": "bad-ben",
+    "title": "Bad Ben",
+    "shortDescription": "Search Tom Riley’s haunted house for keys, follow changing camera angles and read the tablet’s room and motion-sensor information.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "image": {
+      "src": "/images/games/bad-ben.webp",
+      "alt": "Bad Ben title written over a dark house exterior",
+      "width": 630,
+      "height": 500
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/7482889/Bad%20Ben%20-%20Edit/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play Bad Ben: House Keys, Controls and Tablet",
+      "description": "Play Bad Ben as Tom Riley, search the house for keys and learn when the tablet becomes useful. Read camera views and sensor labels without ending spoilers.",
+      "keywords": []
+    },
+    "content": [
+      {
+        "id": "tom-rileys-house",
+        "heading": "Tom Riley has bought another problem",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bad Ben is a short haunted-house adventure with a protagonist who is much less impressed by the supernatural than you might expect. You play Tom Riley, a man who has bought a house without seeing it first. The visit quickly becomes a search through an uncomfortable property, but his reactions give the experience a dry comic edge. The game combines exploration, object interactions and ghost-story surprises rather than asking you to win a conventional combat encounter."
+          },
+          {
+            "type": "paragraph",
+            "text": "The film connection explains the character, but you can begin with the situation in front of you. You have a house to investigate and things to find before you can make sense of the night. Listen to Tom's delivery as well as the surrounding sounds. His voice is part of the comedy, while the rooms and interruptions build the horror. Neither side cancels the other: a funny reaction does not mean that you have finished the current task or that the next space will be harmless."
+          }
+        ]
+      },
+      {
+        "id": "movement-and-interaction",
+        "heading": "Learn movement and interaction separately",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use W, A, S and D to move, and E to interact. Start by making a short movement in a clear part of the room, then stop and try an interaction at something the game presents as usable. Treat movement and interaction as two separate decisions. Walking close to an object can put Tom in position, but it does not mean the interaction has already happened. Conversely, pressing E repeatedly while moving past several objects makes it hard to know which one you actually examined."
+          },
+          {
+            "type": "paragraph",
+            "text": "When a view or camera angle changes, release the movement keys briefly and look at Tom's new position before continuing. A house with doorways, furniture and viewpoint changes is easier to navigate through short controlled movements than through one long key hold. If you seem to be pushing against a wall, change your approach rather than continuing the same input. The aim is to reach the object or exit you can identify on screen, not to steer by an assumption about where the camera was a moment earlier."
+          },
+          {
+            "type": "table",
+            "columns": [
+              "Input",
+              "Purpose"
+            ],
+            "rows": [
+              [
+                "W A S D",
+                "Move Tom through the house"
+              ],
+              [
+                "E",
+                "Interact with an available object"
+              ],
+              [
+                "Tab",
+                "Look at the tablet after you have acquired it"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Fixed camera views can also make a doorway momentarily confusing. Tom can walk through a door and leave the current camera view before the next view takes over. If that happens, do not conclude that movement has stopped simply because the character is no longer centered on the old screen. Release the held direction, let the view settle and locate him again. This is an orientation check, not a special escape maneuver: the purpose is to keep the room layout and your input aligned when the presentation changes."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/bad-ben-screen-1.webp",
+            "alt": "Tom Riley standing in the foyer under a fixed security-camera view",
+            "width": 1271,
+            "height": 720,
+            "caption": "Moving Tom changes his position within a fixed camera view."
+          }
+        ]
+      },
+      {
+        "id": "searching-with-a-purpose",
+        "heading": "Give every search a specific purpose",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Finding keys is central to the adventure. A useful approach is to keep track of two things: where a route was blocked and what changed after you picked something up. When you obtain a relevant object, revisit the obstruction it might address before starting an unrelated sweep of the house. This keeps your search tied to the game's current problem. It also lets you recognize progress even when the next step is another visit to a room you have already seen."
+          },
+          {
+            "type": "paragraph",
+            "text": "When you find a key, connect it to a route you already tried. Remember the blocked doorway, return to it and check whether the new item changes what E can do there. If the current objective names another object, use that prompt to narrow the search. Rechecking a relevant lock is more purposeful than revisiting every room without a new question."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/bad-ben-screen-2.webp",
+            "alt": "Living-room security view with chairs, couches and Tom near a doorway",
+            "width": 1272,
+            "height": 712,
+            "caption": "Use furniture and doorways to orient a search instead of walking in circles."
+          }
+        ]
+      },
+      {
+        "id": "tablet-after-acquisition",
+        "heading": "The tablet is a later tool",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tab is the tablet control, but it applies after Tom has acquired the device. If you press it at the beginning and nothing useful appears, that alone does not show that the browser has lost the key. Continue the opening task until the game introduces the item. A control can exist in the overall instructions without being available at every point in the story. Keeping that distinction in mind avoids restarting the session over an ability you simply have not reached yet."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once the tablet is available, stop in a place where you can read its display without also trying to guide Tom through a doorway. Inspect what it currently shows, then return attention to the house and choose your next action. Think of it as another source of information inside the adventure, not a reason to ignore your surroundings. If you are unsure whether you are reading the device or controlling Tom, close or leave its view deliberately before issuing a movement command. Clear transitions between these tasks reduce accidental inputs."
+          },
+          {
+            "type": "paragraph",
+            "text": "A useful distinction appears on the monitoring display: a room name and its status are separate pieces of information. A kitchen view can show DEACTIVATED, while another screen identifies an office motion event as ACTIVATED. Read both parts before deciding what to inspect. The room label tells you where the information belongs; the status tells you what that display is currently reporting. Do not turn the word ACTIVATED alone into a rule about what caused it or what will happen next. Follow the immediate task to check cameras and motion sensors, then compare the relevant view with your route through the house."
+          }
+        ]
+      },
+      {
+        "id": "comic-reactions-and-real-progress",
+        "heading": "Separate a reaction from an objective",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bad Ben deliberately pairs scares with Tom's blunt responses. Enjoy those interruptions, but check what the scene leaves you able to do afterward. A voice line can be a character moment rather than an instruction, and a dramatic sound does not necessarily identify the next object you need. When the moment has passed, return to the last clear problem: a door, an item, a place to inspect or a newly available tool. This keeps the comic timing intact without leaving you wandering because you mistook a joke for a new objective."
+          },
+          {
+            "type": "paragraph",
+            "text": "After a comic interruption, look for the task that remains on screen or the interaction now available in the room. Tom’s reaction can end while the search continues. Save optional extras for a replay if they distract from the key or device you currently need; the opening can be followed without a list of unlock conditions."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/bad-ben-screen-3.webp",
+            "alt": "Basement camera view partly obscured by blocky visual interference",
+            "width": 1276,
+            "height": 719,
+            "caption": "A changed camera image deserves a pause to read the room and current objective."
+          }
+        ]
+      },
+      {
+        "id": "a-comfortable-horror-session",
+        "heading": "Set up for both jokes and scares",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is a comedy horror game, not a quiet house-tour puzzle for every audience. It includes frightening moments and strong language. Choose a volume that lets you hear the performance without making sudden sounds uncomfortable, particularly if you are wearing headphones. If you are showing the game to someone else, mention both parts of that mix before starting. A viewer who expects only a silly protagonist can still be startled by a scene, and someone avoiding explicit language may prefer a different game."
+          },
+          {
+            "type": "paragraph",
+            "text": "A keyboard-equipped desktop or laptop is the straightforward choice for the listed controls. Enlarging the game view can make small objects and the tablet easier to read, but it does not change what input a task requires. A phone showing the page is not evidence of a complete touch control scheme. If you cannot reach a movement or interaction command on your device, choose a keyboard setup rather than interpreting the missing input as a puzzle. Keep the focus inside the game when using E or Tab so that the browser does not receive the key instead."
+          }
+        ]
+      },
+      {
+        "id": "webgl-startup-problems",
+        "heading": "When the house will not load",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bad Ben is presented as an HTML5 Unity game. If the player never reaches its opening scene, separate that startup issue from a blocked route inside the house. Allow the browser build to finish loading, avoid launching repeated copies while it is still preparing and use a fresh retry only when the first attempt has clearly stopped. A visible page around an empty frame does not tell you that the game's graphics engine is ready. Look for an actual menu, scene or error message before trying the movement keys."
+          },
+          {
+            "type": "paragraph",
+            "text": "Some browsers have trouble with WebGL. If startup repeatedly fails, a different current browser is a useful comparison. Hardware acceleration is another relevant browser capability for this build, though availability depends on your browser, graphics setup and device. Change one relevant condition at a time so you can tell what helped. Reloading can restart the session, so do not use it as the first answer to every unclear interaction after the game has already begun. First check position, focus and whether the required item or tool is available."
+          }
+        ]
+      },
+      {
+        "id": "questions-about-bad-ben",
+        "heading": "Before your first visit",
+        "blocks": [
+          {
+            "type": "faq",
+            "items": [
+              {
+                "question": "Do I need to watch the Bad Ben films first?",
+                "answer": "The game starts with Tom Riley buying and investigating a house. That is enough context to begin; the film connection adds familiarity with the character rather than a required set of puzzle answers."
+              },
+              {
+                "question": "Why does Tab not show the tablet at the start?",
+                "answer": "The tablet control is intended for the part of the game after the device has been acquired. Continue the opening tasks before treating its absence as an input failure."
+              },
+              {
+                "question": "Is the comedy a sign that there are no scares?",
+                "answer": "No. The game deliberately mixes comic dialogue with haunted-house horror, frightening moments and strong language. Its light delivery does not make every scene gentle."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Read the security-camera view",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "aoE79XZOqzc",
+            "title": "Bad Ben: read the security-camera view",
+            "description": "Compare the kitchen sensor status with an activated office camera while the character moves between rooms. The full playthrough includes later encounters and the ending."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "please-answer-carefully",
+      "last-seen-online",
+      "the-open-house",
+      "uncle-nintendo",
+      "exhibit-of-sorrows"
+    ]
+  },
+  {
+    "id": "uncle-nintendo",
+    "slug": "uncle-nintendo",
+    "title": "the uncle who works for nintendo",
+    "shortDescription": "Read a childhood sleepover story, choose conversation links and return to an earlier decision when you want to explore another path.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "image": {
+      "src": "/images/games/uncle-nintendo.webp",
+      "alt": "The uncle who works for nintendo title over a dim room",
+      "width": 233,
+      "height": 185
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/485403/UWWFN/Files/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "the uncle who works for nintendo: Play and Choices",
+      "description": "Read the uncle who works for nintendo and choose your way through a tense sleepover. Learn how text links and replay decisions work without ending solutions.",
+      "keywords": []
+    },
+    "content": [
+      {
+        "id": "an-ordinary-sleepover",
+        "heading": "A childhood story with an uncomfortable promise",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "the uncle who works for nintendo is a narrative horror game about staying overnight at a friend's house. You are eleven, you both like videogames and your friend seems to have an enviable collection. There is a familiar explanation for those unusual games: a relative with a remarkable job. The uncle is due to visit at midnight. That simple promise gives the evening its shape, turning ordinary childhood conversation into something you have a reason to question."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game is built around reading and decisions rather than steering a character around a room. A small response can matter because it expresses how you treat your friend, what you are willing to believe and which subject you want to pursue. Begin with the social situation, not a hunt for a monster. Notice what makes the visit appealing before deciding what makes it wrong. The contrast between wanting a good night with a friend and feeling unsure about that friend's story is the central source of tension."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/uncle-nintendo-screen-1.webp",
+            "alt": "Opening story passage about a parent dropping the player off for a sleepover",
+            "width": 620,
+            "height": 348,
+            "caption": "Read the opening situation before treating the sleepover as a puzzle."
+          }
+        ]
+      },
+      {
+        "id": "reading-and-choosing",
+        "heading": "Read the passage before choosing your response",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Work through the text in the game frame and select one of the available links when you are ready to continue. Read the whole passage first. The last sentence can change the meaning of a response that looked obvious when you reached the middle of the screen. If a passage is taller than the visible frame, check below it for the remaining text and choices. Do not assume that the first highlighted phrase is always the only way to continue."
+          },
+          {
+            "type": "paragraph",
+            "text": "Treat each choice as a statement about the situation, not merely a button that produces more text. Before selecting it, consider what your character is agreeing to, asking about or refusing. That small pause is especially helpful when the conversation becomes uncomfortable: it stops you from choosing a familiar-looking response without noticing that its context has changed. You do not need fast reflexes to read well. Give yourself time to understand who is speaking and what the current passage actually makes available."
+          },
+          {
+            "type": "paragraph",
+            "text": "The opening shows why highlighted text needs to be read in context. At the house arrival, two red choices let you decide how to say goodbye to your mother. In another passage, the narration corrects an impression about a drink and leaves a single red response to continue. Both screens use highlighted text, but they ask for different kinds of attention: one offers alternative actions, while the other follows a clarification in the narration. Read the sentence around a link instead of treating every colored phrase as an equivalent next button."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/uncle-nintendo-screen-2.webp",
+            "alt": "A story passage above a couch with several red response links",
+            "width": 800,
+            "height": 472,
+            "caption": "Each red response link advances a particular conversation choice."
+          }
+        ]
+      },
+      {
+        "id": "friendship-and-credibility",
+        "heading": "Keep the friendship in view",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The videogame collection and the uncle story are part of a relationship between children. As you read, distinguish what your friend has directly shown you from what they have only told you. An impressive claim can be exciting, irritating or hard to believe, and the response you choose need not express all of those feelings at once. Follow the conversation closely enough to know whether you are discussing a game, a family story or the friendship itself. Those are different subjects even when they appear in the same passage."
+          },
+          {
+            "type": "paragraph",
+            "text": "For the first visit, choose responses that make sense to you rather than trying to predict a perfect route. You will understand a later comparison much better if you remember why you made the original decision. For example, you can note that you asked for more explanation or accepted an invitation without writing down the story's eventual answer. That creates a useful record of your own route while keeping the ending open. The goal is to remain attentive to the exchange, not to reduce every line to a hidden score you have not established."
+          }
+        ]
+      },
+      {
+        "id": "waiting-for-midnight",
+        "heading": "Let the midnight premise guide your attention",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The expected midnight visit gives the story a point of anticipation. Keep track of where the evening seems to be in relation to that arrival, and notice when a conversation makes you think about it again. The same ordinary activity can feel different when you know someone is supposed to arrive later. This is a narrative cue rather than a reason to invent a real-world countdown. Read the timing information the game actually gives you instead of watching your device clock for a supposed secret condition."
+          },
+          {
+            "type": "paragraph",
+            "text": "When a conversation becomes uneasy, read the available responses against what the child narrator knows at that moment. Asking for an explanation and accepting an invitation express different decisions even if both advance the text. Let one route reach its conclusion before trying to compare it with another; this keeps your recollection of the choices in a single, understandable order."
+          }
+        ]
+      },
+      {
+        "id": "five-endings-and-replays",
+        "heading": "Explore another path with one deliberate change",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The game has five endings. That is a reason to revisit the story, but it is not a promise that five arbitrary first choices will immediately reveal all of them. After reaching a conclusion, think back to a response you would genuinely like to try differently. Changing one meaningful decision gives you a clear comparison with the previous run. Changing everything at once may produce a different experience, but it makes it harder to understand which conversation or choice led you there."
+          },
+          {
+            "type": "paragraph",
+            "text": "On a replay, read the passages around a changed decision again, including text that initially looks familiar. You are comparing a route, not just collecting a final screen. Watch for differences in what your character learns, how your friend responds and what choices remain available later. Keep a brief private note of the path you tried if that helps, using descriptions such as asked about the games or questioned the explanation. You can organize your attempts without copying the story or exposing an ending to someone who has not played."
+          }
+        ]
+      },
+      {
+        "id": "when-a-choice-feels-wrong",
+        "heading": "A difficult response is not necessarily a broken game",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Narrative horror can make an available choice feel uncomfortable on purpose. Before assuming you are stuck, check that you have read the current passage and found all of its visible links. A limited set of responses can be part of the situation your character is in. That is different from a page whose text has failed to appear or a game frame that never loaded. Reading carefully helps you separate the story's pressure from an actual browser problem."
+          },
+          {
+            "type": "paragraph",
+            "text": "Avoid using the browser's Back button as an assumed undo system for every decision. Navigation history and the story's own state are not the same thing, and a return to the surrounding website may interrupt the session instead of restoring the choice you wanted. Use a restart or story-navigation option only if the game itself offers one and its purpose is clear. If you want to compare paths, a deliberate new attempt after an ending is easier to understand than an accidental mixture of page history, refreshes and uncertain story state."
+          }
+        ]
+      },
+      {
+        "id": "reading-in-a-browser",
+        "heading": "Make the text comfortable to read",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is a Twine browser game, so the important display requirement is readable text and reachable choices rather than a large action-game viewport. Enlarge the player if the passage feels cramped, and keep enough of the surrounding text visible to understand what a response refers to. If you need to scroll, do so before choosing. A phone may display the prose, but the page being visible does not prove that every interaction or layout behaves identically on every device. Choose the setup in which you can comfortably read the entire passage."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the story frame remains empty, let it finish loading and try the page's retry once it has clearly failed. Do not interpret an empty frame as one of the five endings. Similarly, do not assume that a session will be preserved across a refresh, a different browser or another device: saving behavior has to be provided by the game, not by the existence of this webpage. Plan a visit when you can give the text steady attention, and keep any route notes outside the story if you want them available during a later attempt."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/uncle-nintendo-screen-3.webp",
+            "alt": "Opening screen warning about sound, browser effects and mobile optimization",
+            "width": 1024,
+            "height": 640,
+            "caption": "The opening screen explains why a readable desktop view and sound setup matter."
+          }
+        ]
+      },
+      {
+        "id": "horror-without-the-reveal",
+        "heading": "Keep the ending out of the invitation",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The childhood setting is part of the horror, not a statement that the experience is intended for young children. It places an eleven-year-old narrator in an increasingly unsettling social situation. If you are recommending the game, describe the sleepover, the videogames and the expected visitor without explaining what ultimately happens. That gives another reader the same opportunity to question the evening's ordinary details rather than beginning with an answer already in mind."
+          },
+          {
+            "type": "paragraph",
+            "text": "For help with a current passage, look for the point where you stopped understanding the conversation. Check the surrounding sentences and each visible link before seeking an ending explanation. A full playthrough follows one route far beyond its opening choices, so watching it first can reveal the visitor and conclusion before you have made those decisions yourself."
+          }
+        ]
+      },
+      {
+        "id": "sleepover-questions",
+        "heading": "Questions about the story",
+        "blocks": [
+          {
+            "type": "faq",
+            "items": [
+              {
+                "question": "Is this a Nintendo game?",
+                "answer": "No official Nintendo affiliation is claimed here. The title describes a claim within a fictional horror story about children, videogames and a visiting relative."
+              },
+              {
+                "question": "How many endings does the game have?",
+                "answer": "There are five endings. Read a first route without a solution, then compare later attempts by deliberately changing meaningful decisions."
+              },
+              {
+                "question": "Do I need action-game controls?",
+                "answer": "The main activity is reading passages and selecting available links. Follow the controls that the game presents, and make sure you have reached all the text and choices in the current view."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Read a branching conversation",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "e7JI5Zljdlo",
+            "title": "the uncle who works for nintendo: read a branching conversation",
+            "description": "Watch illustrated passages and red text links move a sleepover conversation forward. Some links continue a passage while others offer a response. Later scenes and endings are shown."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "please-answer-carefully",
+      "last-seen-online",
+      "the-open-house",
+      "bad-ben",
+      "exhibit-of-sorrows"
+    ]
+  },
+  {
+    "id": "exhibit-of-sorrows",
+    "slug": "exhibit-of-sorrows",
+    "title": "Exhibit of Sorrows",
+    "shortDescription": "Operate circus displays with the mouse. Learn the difference between holding a pump control and noticing a small change in an exhibit.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": false,
+      "isNewHome": true,
+      "isRecommendedHome": false
+    },
+    "image": {
+      "src": "/images/games/exhibit-of-sorrows.webp",
+      "alt": "Grinning blue-haired clown inside an ornate frame in Exhibit of Sorrows",
+      "width": 394,
+      "height": 342
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/14611877/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play Exhibit of Sorrows: Pump and Mouse Controls",
+      "description": "Play Exhibit of Sorrows and learn how clicks, held presses and local changes guide its circus displays. Read the pump and hand examples before continuing.",
+      "keywords": [
+        "Exhibit of Sorrows",
+        "circus horror",
+        "mouse controls"
+      ]
+    },
+    "content": [
+      {
+        "id": "enter-the-exhibit",
+        "heading": "A cheerful room with uncomfortable instructions",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Exhibit of Sorrows is a short, mouse-driven horror game set inside an interactive circus display. Your attention belongs on the exhibits: what each object invites you to do, what happens when you touch it, and whether that familiar action still feels harmless the next time you encounter it. There is no need to learn a movement-key layout before beginning. The mouse is the published input method, and the display itself supplies the immediate tasks."
+          },
+          {
+            "type": "paragraph",
+            "text": "The bright colors are part of the experience, not a promise of gentle content. This is psychological horror involving clowns, distress and disturbing interactions. If harming a doll-like character is likely to make you uncomfortable, take that seriously before starting. The tension depends on your participation in the displays rather than a long explanation of a fictional history. A brief visit can still contain scenes you would rather avoid."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/exhibit-of-sorrows-screen-1.webp",
+            "alt": "Welcome display with stars and credits in Exhibit of Sorrows",
+            "width": 1098,
+            "height": 828,
+            "caption": "Read the welcome display before exploring the interactive exhibits."
+          }
+        ]
+      },
+      {
+        "id": "read-before-acting",
+        "heading": "Look for an action, then watch its feedback",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Begin by examining the active display and its instructions. Match a pictured control to the object it appears to operate. Make one deliberate input, then watch the object rather than immediately clicking elsewhere. This separates an actual response from a movement that happens only because you are sweeping the pointer around. The clearest next step is usually the one that changes the exhibit, not the one that produces the most frantic clicking."
+          },
+          {
+            "type": "paragraph",
+            "text": "Pay particular attention to whether an interaction is a click or a sustained press. Those actions feel similar at first, but they are not interchangeable. A single click begins and ends immediately; a held button keeps an action going. If a device responds only while pressed, releasing the mouse is an important part of understanding it. Watch the response while the button is down and after you let go before concluding that the display is stuck."
+          }
+        ]
+      },
+      {
+        "id": "the-pump",
+        "heading": "Understand the pump without rushing past it",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The opening pump display provides a concrete example. An air pump is connected to Mr. Floaty, and its button operates the pump. Holding the control makes the doll inflate. Your action is visible in the changing size of the figure, so this is a useful place to learn the relationship between a sustained input and an ongoing animation. Do not treat it as a video that will necessarily finish by itself after one tap."
+          },
+          {
+            "type": "paragraph",
+            "text": "A key is part of the progression through this display. Keep your attention on what the exhibit offers after the interaction, rather than continuing to press the same control indefinitely. The useful distinction is between operating the device and recognizing that its current task has finished. When the picture changes, reassess the available object or instruction. Repeating the input that worked a moment earlier is not a substitute for reading the new state."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/exhibit-of-sorrows-screen-2.webp",
+            "alt": "A yellow-and-blue pump beside a small red clown display",
+            "width": 354,
+            "height": 270,
+            "caption": "Watch the pump and nearby exhibit for the result of a sustained input."
+          }
+        ]
+      },
+      {
+        "id": "room-details",
+        "heading": "Read silhouettes and the space around a doll",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The figures have deliberately different shapes. Use those silhouettes to keep displays distinct in your memory instead of reducing every stop to the same click puzzle. Look at the whole composition: the figure, the object attached to it, the space around its hands or body, and any short instruction. A frame, mechanism or nearby prop can help explain what a display expects without a paragraph of dialogue."
+          },
+          {
+            "type": "paragraph",
+            "text": "The room is presented with a flat, symmetrical visual language. That makes small changes in an otherwise balanced scene worth noticing. Compare the position and appearance of a familiar object before deciding what to do with it again. Background illustration can also carry implication without stating a complete backstory. Notice it, but do not assume that every suggestive picture identifies a named person, a secret ending or an exact historical event."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/exhibit-of-sorrows-screen-3.webp",
+            "alt": "A colorful jester exhibit with its instruction plaque below",
+            "width": 654,
+            "height": 500,
+            "caption": "Read the exhibit shape together with the instruction plaque."
+          }
+        ]
+      },
+      {
+        "id": "arrows-and-small-changes",
+        "heading": "Use arrows to choose where to look",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A hand display illustrates why it helps to look at the exact part an arrow indicates. A large yellow hand can occupy much of the picture, but the useful detail is a particular finger and its position. Direct your attention to the indicated area, then compare that area after an interaction. A small local change can be easier to miss than a whole doll moving, especially when the surrounding display remains almost unchanged."
+          },
+          {
+            "type": "paragraph",
+            "text": "For example, fingers may be bent in one view and partly opened in a later view. Use that difference as a reason to inspect the hand again, rather than assuming the entire task is finished or repeating an arbitrary sequence. An arrow tells you where attention is useful; it does not, by itself, establish a universal order for operating every exhibit. Read the current instruction alongside the visible feedback."
+          }
+        ]
+      },
+      {
+        "id": "choice-and-discomfort",
+        "heading": "A changed response deserves a new decision",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The uneasy part of Exhibit of Sorrows is that an action can remain mechanically simple while becoming harder to carry out emotionally. An exhibit may still ask for an obvious movement, but the visible reaction changes how that movement feels. Keep those two questions separate: do you understand the control, and do you want to continue? Confusing discomfort with a broken interface can lead to unnecessary reloading or repeated inputs."
+          },
+          {
+            "type": "paragraph",
+            "text": "There is relatively little written story beyond instructions and brief flavor text. Much of the meaning comes from the connection between your deliberate action and a visible consequence. Let an animation communicate its result before searching for a hidden explanation. You do not have to turn the visit into a speed challenge. If a scene becomes unpleasant, stop interacting or leave the player; completing a short horror game is optional."
+          }
+        ]
+      },
+      {
+        "id": "first-visit",
+        "heading": "A careful first visit",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Keep the pointer inside the game when operating a small mechanism, especially if the page is scaled down. Use a mouse if possible: the published mouse-only control scheme is a clearer fit for deliberate presses than assuming that every touch gesture will behave identically. Before a sustained action, place the pointer over the intended control. Avoid moving off it while trying to hold unless the current instruction asks you to drag."
+          },
+          {
+            "type": "paragraph",
+            "text": "At a new exhibit, locate its control and watch the corresponding part of the figure. At the pump, that means following the inflation while holding the button. At the hand, it means comparing the finger an arrow draws attention to. Once something changes, inspect the new state before repeating the same input; a response is your cue to look again, rather than a reason to click faster."
+          }
+        ]
+      },
+      {
+        "id": "window-and-sound",
+        "heading": "If a display does not seem to respond",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "First distinguish the surrounding webpage from the game surface. A scroll, a browser shortcut or a click on a page control does not operate an exhibit. If the visible controls are cramped, enlarge the player before trying again. Preserve the complete game area rather than zooming so far into one doll that an instruction or exit control moves out of view. A larger view is particularly useful for small buttons and the edges of a framed exhibit."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game has received fixes for fullscreen behavior, window fitting and an occasionally laggy introduction. Those fixes do not guarantee that every embedded version or browser behaves the same way. If the opening stalls, give it time to finish before issuing repeated inputs. A browser reload starts another loading attempt and may lose the current visit. Background music contributes to the setting; use a comfortable volume, and do not infer that silence alone means the visual interaction has failed."
+          }
+        ]
+      },
+      {
+        "id": "what-to-expect",
+        "heading": "Keep the ending a discovery",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The exhibits turn participation into the source of unease. You operate a simple mechanism and then have to look at what your action has done to the figure. Read the short instruction, operate the indicated part and pause on the result. The bright room makes that contrast easy to recognize, but it does not make the later interactions gentle."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you want to watch a playthrough after your visit, expect it to reveal later interactions and the outcome. A moving demonstration can clarify the difference between a click, a hold and a changed response, but watching the final sequence first changes the experience. Read the controls and opening advice here before playing; return to the video afterward if you want to compare the gestures and reactions without preserving the surprise."
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Watch the exhibits respond",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "mwrf9cjEeB8",
+            "title": "Exhibit of Sorrows: watch the exhibits respond",
+            "description": "Look for the white arrow and changing fingers during an exhibit interaction, then compare that local feedback with other displays. The full recording includes disturbing later scenes."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "please-answer-carefully",
+      "last-seen-online",
+      "the-open-house",
+      "bad-ben",
+      "uncle-nintendo"
+    ]
+  },
+  {
+    "id": "burger-frights",
+    "slug": "burger-frights",
+    "title": "Burger & Frights",
+    "shortDescription": "Ride home through a dark forest, use the illuminated lane markings to stay oriented and check the bicycle controls before setting off.",
+    "status": "published",
+    "publishedAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "tags": [
+      "Horror",
+      "Observation"
+    ],
+    "categories": [
+      "horror"
+    ],
+    "spoilerPolicy": "marked",
+    "flags": {
+      "isFeaturedHome": false,
+      "isNewHome": true,
+      "isRecommendedHome": false
+    },
+    "image": {
+      "src": "/images/games/burger-frights.webp",
+      "alt": "Burger & Frights title above a dark figure outside a lit burger shop",
+      "width": 315,
+      "height": 250
+    },
+    "player": {
+      "iframeSrc": "https://html-classic.itch.zone/html/5033568/index.html",
+      "aspectRatio": "16 / 10",
+      "orientation": "adaptive",
+      "permissionsPolicy": [],
+      "referrerPolicy": "strict-origin-when-cross-origin",
+      "sandbox": [
+        "allow-scripts",
+        "allow-same-origin",
+        "allow-pointer-lock"
+      ],
+      "loadTimeoutMs": 30000
+    },
+    "seo": {
+      "title": "Play Burger & Frights: Bike Controls and Road Guide",
+      "description": "Play Burger & Frights and read the forest road inside the bicycle light. Check the in-game controls, compare lane markings and diagnose unwanted camera drift.",
+      "keywords": [
+        "Burger & Frights",
+        "bicycle horror",
+        "forest ride"
+      ]
+    },
+    "content": [
+      {
+        "id": "ride-home",
+        "heading": "The difficult part is getting home",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Burger & Frights begins with an ordinary late-night problem: you have gone out for burgers and now have a bicycle ride home. The journey leads through a dark forest. It is a short, single-player horror experience built around being on the road, with a retro three-dimensional presentation. The player task is to continue the ride while paying attention to the route and whatever changes around it."
+          },
+          {
+            "type": "paragraph",
+            "text": "Keep your attention on the route out of the burger stop and into the forest. This is a bicycle journey: the controls govern the ride and view, while the road supplies your next point of orientation. The burger is the reason for returning home. There are no restaurant orders to manage or cooking tasks to complete before the horror begins."
+          }
+        ]
+      },
+      {
+        "id": "learn-the-bike",
+        "heading": "Read the control panel before setting off",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The game uses a keyboard and mouse, with its control scheme displayed inside the game. Read that scheme before committing the keys to memory. A browser page, a video overlay and the game itself may all respond to similar keys, so first make sure the game has your attention and focus. Do not import a control layout from another bicycle game and assume that it applies here."
+          },
+          {
+            "type": "paragraph",
+            "text": "Use the opening stretch to learn what a small movement of the mouse does and how the listed keys affect the ride. Change one input at a time while you establish that relationship. If you press several directions while also moving the pointer sharply, an unexpected view change is harder to diagnose. The useful first goal is a predictable response to a deliberate input, not the fastest possible departure."
+          }
+        ]
+      },
+      {
+        "id": "read-the-road",
+        "heading": "Give the route more attention than the scenery",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A dark forest ride makes the usable road especially important. Keep enough of the forward view available to judge where the route continues. Looking around can add information, but turning your attention away from the direction of travel for a long stretch makes it harder to prepare the next input. Bring your view back toward the route before making a large correction."
+          },
+          {
+            "type": "paragraph",
+            "text": "Treat the retro picture as a scene to read rather than an image to sharpen at any cost. Broad shapes, the direction of the road and changes near its edges may be easier to recognize than small surface details. If the player is too small to distinguish them comfortably, enlarge it. A larger image can help you separate an environmental feature from a control problem without changing the game itself."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/burger-frights-screen-1.webp",
+            "alt": "A red car at the edge of the illuminated road in Burger & Frights",
+            "width": 1278,
+            "height": 794,
+            "caption": "Keep the near road and passing vehicles in view when steering."
+          }
+        ]
+      },
+      {
+        "id": "light-and-lane-markings",
+        "heading": "Read the lane inside the light",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A narrow pool of forward light makes the road markings more useful than the dark trees beyond it. Look for the dashed centerline and the solid lines along the road edges. Together they give you a visible shape to follow even when the surrounding forest contains little readable detail. Keep those nearby markers in view before directing attention farther into the darkness."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the route feels hard to judge, bring your attention back to the illuminated lane and compare the centerline with the edge nearest you. This gives you a concrete point of orientation instead of staring into an unlit area while making large corrections. The markings help you read the road; they do not promise that touching a line causes a collision or that a particular road position guarantees safety."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/burger-frights-screen-2.webp",
+            "alt": "Train windows and a crossing sign beyond the bicycle headlight",
+            "width": 320,
+            "height": 240,
+            "caption": "The light cone reveals only part of the route around a crossing."
+          }
+        ]
+      },
+      {
+        "id": "respond-deliberately",
+        "heading": "Separate steering trouble from an unsettling event",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "When the ride becomes confusing, ask two questions before restarting: is the view responding to your input, and has something in the scene changed? A moving camera, a sound or an unfamiliar shape does not by itself explain why an input feels wrong. Check your current direction and mouse position instead of making several large corrections in response to a scare."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you need another attempt at a section, focus on the moment you lost a clear reading of the route. Was your attention turned away? Did you react before seeing where the road led? Did a key press reach the page rather than the game? These are useful questions for a bicycle horror game because they lead to an adjustable action. They do not depend on memorizing an ending or guessing an unseen trigger."
+          },
+          {
+            "type": "image",
+            "src": "/images/games/burger-frights-screen-3.webp",
+            "alt": "Bicycle handlebars facing a fallen bicycle and red marks on the road",
+            "width": 1273,
+            "height": 783,
+            "caption": "Pause to read a changed road scene before making a large steering correction."
+          }
+        ]
+      },
+      {
+        "id": "comfortable-view",
+        "heading": "Choose a viewing mode that keeps the road readable",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Fullscreen is the recommended way to play Burger & Frights. Expanding the player can reduce competing page detail and give the forest route a larger part of your view. Use the page expansion control when you want a large player within the webpage, or the browser fullscreen control when the browser permits it. Keep a visible way to leave the mode before concentrating on the ride."
+          },
+          {
+            "type": "paragraph",
+            "text": "Changing the viewing area does not establish that a phone or tablet has the same controls as a keyboard-and-mouse computer. A touch screen can display a browser game without supplying all the inputs that game expects. For this ride, a computer with a keyboard and mouse is the clearest match to the published control method. Do not start a long session on a device where the displayed control panel asks for inputs you cannot provide."
+          }
+        ]
+      },
+      {
+        "id": "mouse-drift",
+        "heading": "A view that drifts is not something to fight blindly",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "There is a documented Firefox fix for a mouse view that slowly drifted right in windowed mode. That specific history is useful if you see an unwanted gradual turn: distinguish a steady drift with your hand still from an intentional camera response while moving the mouse. Correcting endlessly in the other direction makes it harder to tell which behavior you are seeing."
+          },
+          {
+            "type": "paragraph",
+            "text": "The existence of an older fix does not prove that every host contains the same build, or that every camera problem has the same cause. If the view feels wrong, first stop moving the mouse and observe it. Then try the recommended fullscreen presentation and check the in-game controls again. If you reload, expect the current session to be interrupted; this page does not promise a checkpoint, cloud save or resume position."
+          }
+        ]
+      },
+      {
+        "id": "loading-and-audio",
+        "heading": "Prepare the player before the forest closes in",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Start the game with Play Now and let the initial loading finish before deciding that the bicycle controls are unresponsive. A browser frame that has not reached the game cannot respond like the game screen. If loading times out, use the retry control for a new loading attempt. That addresses delivery of the player, not a particular encounter on the road, and it should not be confused with advice about surviving the story."
+          },
+          {
+            "type": "paragraph",
+            "text": "Use a comfortable volume before you begin. Sudden sounds and threatening imagery can be more intense when the player fills your screen. You can lower the volume or stop at any point rather than pushing through discomfort for the sake of finishing. If another tab or video is producing sound, pause it first so that you are not trying to interpret two different experiences while riding through a dark scene."
+          }
+        ]
+      },
+      {
+        "id": "first-journey",
+        "heading": "Make the first journey about observation",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use the opening road to connect the displayed controls with the view you get from a small input. Once under way, bring your attention back to the illuminated centerline and edge whenever the dark surroundings become difficult to read. Before correcting sharply, check which way the lane actually runs. That gives you a visible reference even when the forest beyond the light offers very little detail."
+          },
+          {
+            "type": "paragraph",
+            "text": "Avoid an ending explanation before your first ride if you care about the surprise. A playthrough can be helpful afterward for comparing the view, movement and timing of a difficult stretch. It also shows much more than a control panel, so expect later scenes and the outcome to be revealed. The advice here deliberately keeps the reason behind the journey and its final meaning out of the opening instructions. Read the in-game controls, choose a comfortable view and let the road provide the next question."
+          }
+        ]
+      },
+      {
+        "id": "game-in-motion",
+        "heading": "Read the road inside the light",
+        "blocks": [
+          {
+            "type": "video",
+            "provider": "youtube",
+            "videoId": "VxpQdPFQxrE",
+            "title": "Burger & Frights: read the road inside the light",
+            "description": "Watch the forward light reveal road edges and center markings during the forest bicycle ride. Later footage includes frightening encounters, blood and the conclusion."
+          }
+        ]
+      }
+    ],
+    "relatedGameIds": [
+      "assessment-examination",
+      "please-answer-carefully",
+      "last-seen-online",
+      "the-open-house",
+      "bad-ben",
+      "uncle-nintendo"
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+{
+  "gameId": "the-open-house",
+  "shortDescription": "Step into a virtual property tour, study the rooms and follow a reassuring presentation as its ordinary house begins to feel less welcoming.",
+  "seo": {
+    "title": "Play The Open House Online - A Creeping House Tour",
+    "description": "Enter The Open House for an unsettling virtual property tour. Learn how to read each room, follow the interface and handle the Unity browser version."
+  },
+  "content": [
+    {
+      "id": "a-tour-with-another-purpose",
+      "heading": "A house tour that changes its tone",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Open House turns a familiar piece of online browsing into a short psychological horror game. Instead of arriving as an armed investigator, you enter a polished virtual property presentation. The apparent job is ordinary: look around a house, examine its rooms and understand what is being offered. That comfortable framing matters. A property tour encourages you to trust labels, interfaces and the person guiding the visit, so a change in those things feels different from a monster appearing in a place that already looked dangerous."
+        },
+        {
+          "type": "paragraph",
+          "text": "Approach the opening as a tour rather than a speed challenge. Notice the relationship between the sales presentation and the rooms it describes. A neat piece of interface text can tell you where the tour wants your attention, while the image may invite you to look elsewhere. The interest lies in that tension between a reassuring wrapper and an increasingly uncomfortable visit. You do not need knowledge of a film series, another horror game or real-estate terminology to understand the starting situation."
+        }
+      ]
+    },
+    {
+      "id": "begin-with-the-interface",
+      "heading": "Get comfortable with the tour interface",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start the player and wait until the property presentation is ready before trying to move through it. Once the game has focus, use the controls shown inside its own frame. The Open House is an exploration experience, but that does not mean every view behaves like a conventional first-person shooter. Read a control prompt before holding movement keys or clicking the edge of the screen repeatedly. The useful question is whether the current view offers a route, an inspection action or a piece of information to read."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make one deliberate input and give the scene time to respond. That makes it easier to connect an action to its result, particularly when a transition changes both the viewpoint and the available interface. If you click several directions while a new view is arriving, you can lose track of where you entered and which part of the room you have actually examined. A small pause at a doorway is often more useful than rapid random navigation, because the building is the subject of the game rather than a corridor to rush through."
+        }
+      ]
+    },
+    {
+      "id": "build-a-spatial-memory",
+      "heading": "Keep track of rooms instead of wandering in circles",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use the rooms as landmarks. Remember where a doorway led, what was visible near an entrance and which route brought you back to a familiar space. You do not need a precise architectural drawing. A simple sequence such as entrance, connecting room and return route is enough to distinguish a new area from another angle on somewhere you already visited. When you are unsure, retrace one known connection before taking another unexplored route. That is a clearer method than repeatedly choosing whichever direction looks brightest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inspect the full available view before deciding a room has nothing else to offer. A tour image can hold information above, below or beside the most obvious doorway. Keep the interface and the room itself separate in your attention: a navigation marker is a way to change position, while a detail inside the room may be there to explain the current situation. If the game asks you to examine or revisit a place, return with that specific task in mind. Simply passing through a room again is not the same as checking what the new instruction asks you to inspect."
+        }
+      ]
+    },
+    {
+      "id": "notice-what-is-different",
+      "heading": "Read changes in context",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The horror works best when you remember what a normal part of the tour looked like. Look at the room, then read what the presentation is asking you to do, and only then decide on the next input. If something familiar has changed, compare its position, appearance or meaning with your earlier impression. You do not have to identify every decorative object. Focus on details that affect the visit: where you can go, what the interface calls a place and whether the next requested action still fits an ordinary property inspection."
+        },
+        {
+          "type": "paragraph",
+          "text": "An unsettling image and a technical failure are not automatically the same thing. The game is deliberately atmospheric, and its presentation can become less comfortable as it progresses. Before refreshing a dark or strange scene, check whether the interface still responds and whether a new prompt or route is present. Conversely, a browser error message, a frozen loading indicator or a missing game frame belongs to a different problem. Separating these cases prevents you from restarting a working scene just because the story has stopped feeling welcoming."
+        },
+        {
+          "type": "paragraph",
+          "text": "The living-room view gives you a clear example of how to divide your attention: blue walls and a fireplace belong to the pictured property, while an Information area sits below the scene. Read the information without forgetting to inspect the room itself. Later, a view labeled Hall 2F can present distorted colors rather than the clean sales image you first encountered. Keep the location label in mind when the image becomes strange. You can recognize that you are still navigating the tour without assuming that every visual change is a browser crash or a new movement system."
+        }
+      ]
+    },
+    {
+      "id": "play-for-the-next-clear-task",
+      "heading": "Choose the next clear action",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When you lose your place, narrow the problem to the current screen. What is the last instruction you read? Which room or part of the property does it concern? What input is available now? Answer those three questions before searching every other room. This keeps a small uncertainty from turning into a full restart. It also protects the pacing: the tour can build tension from waiting and looking, whereas constant clicking makes it harder to notice how the presentation is changing."
+        },
+        {
+          "type": "paragraph",
+          "text": "A sensible first visit is exploratory. Read the introduction, learn a short route, inspect a room thoroughly and continue when the game gives you a reason to move on. Avoid treating every unfamiliar image as an invitation to hunt for a hidden ending. The initial task is to follow the experience far enough to understand its progression. If you later replay, use what you remember to compare an earlier scene with a later one, rather than assuming every alarming detail is a separate puzzle with its own solution."
+        }
+      ]
+    },
+    {
+      "id": "webgl-and-loading",
+      "heading": "If the browser version does not start",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Open House uses a Unity WebGL browser build. A blank frame that never reaches the tour can therefore be a loading or browser-compatibility issue rather than a mystery to solve inside the house. Let the initial game data finish arriving, keep the game tab active during startup and avoid repeatedly reopening the player while it is still working. If the frame reports an error, read that message before retrying. The size of the surrounding page does not indicate whether the game itself has finished loading."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a retry still cannot reach the opening presentation, try a different current desktop browser. This is a more useful comparison than changing several unrelated browser settings at once, because the game itself warns of WebGL differences between browsers. A laptop or desktop also gives the tour more room for its interface than a narrow phone display. Do not expect a touch screen to reproduce an unconfirmed desktop input scheme. If a control lies outside the visible game area, enlarge the player or rotate the device before assuming that the game has no way forward."
+        }
+      ]
+    },
+    {
+      "id": "before-recording-the-tour",
+      "heading": "A note before recording or streaming",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Open House can display the default system username during a segment. If you are recording the game, think about that before you begin rather than discovering it while broadcasting. Use a recording setup in which a personal-looking name will not surprise you, and review footage before sharing it. This warning concerns the game presentation; it should not be read as a claim that this website can inspect your operating system or that every browser and desktop build exposes the same information in the same way."
+        },
+        {
+          "type": "paragraph",
+          "text": "The same care is useful when choosing screenshots. An early property view can explain the tour without giving away a later image or exposing a personal detail. Keep major late changes out of thumbnails if you want someone else to experience the shift in tone for themselves. The game is a horror experience despite its real-estate framing, so a viewer who only sees the opening sales interface may need a clear content warning before watching a complete recording."
+        }
+      ]
+    },
+    {
+      "id": "questions-before-entering",
+      "heading": "Questions before entering the house",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "question": "Is The Open House a property-buying website?",
+              "answer": "No. It is a short horror game built around a fictional virtual property tour. The sales presentation is part of that fiction, not an offer to purchase a real house."
+            },
+            {
+              "question": "Should I know the ending before I start?",
+              "answer": "The opening is designed to make an ordinary tour feel gradually less comfortable. Start without late-game details if you want the contrast to work; use a full walkthrough only when you need help with a specific point."
+            },
+            {
+              "question": "What should I do if a room seems to repeat?",
+              "answer": "Check the last instruction and the route you took. Compare the current view with your earlier visit before deciding whether you have returned to the same location, found a different angle or encountered a changed scene."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "internalBrief": {
+    "checkedAt": "2026-11-18",
+    "sourceUrls": [
+      "https://corpsepile.itch.io/the-open-house",
+      "https://www.youtube.com/watch?v=SZxTn3h34rE"
+    ],
+    "playerTask": "Follow a virtual property tour and interpret changing rooms and interface prompts",
+    "versionScope": "Author-hosted Unity WebGL release; no runtime play test claimed",
+    "verifiedFacts": [
+      "Virtual open-house simulation framing",
+      "First-person exploration horror",
+      "Unity WebGL browser build",
+      "Official browser compatibility warning",
+      "Default system username streamer warning",
+      "Parent-observed ALPHA v0.2 video: fictional property introduction, living-room Information panel, Hall 2F color distortion"
+    ],
+    "unsupportedClaims": [
+      "Exact scanning targets and order",
+      "Specific ending triggers",
+      "Touch support",
+      "Save/checkpoint behavior",
+      "Personal data access in every platform build"
+    ],
+    "screenshotTasks": [
+      "Opening property-tour interface",
+      "Room route/inspection controls",
+      "Changed room context without final reveal"
+    ],
+    "videoResearch": "Parent handles segment observation and final media; do not treat article advice as observed footage.",
+    "videoObservations": [
+      "Parent observed00:37 introduction,02:23 living room blue walls/fireplace/Information,04:02 Hall2F distorted image; video13:02 ALPHA v0.2. Not complete route proof."
+    ]
+  }
+}

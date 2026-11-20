@@ -1,0 +1,226 @@
+{
+  "inputDate": "2026-11-18",
+  "requirements": [
+    {
+      "id": "R01",
+      "label": "Read workflow and execute sequentially",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R02",
+      "label": "Stage products and handoffs",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R03",
+      "label": "Project-only writes, no other game projects",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R04",
+      "label": "Shared navigation and unique main home",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R05",
+      "label": "JSON-backed Guides list and two details",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R06",
+      "label": "Single Game data and eight additional games",
+      "status": "pending",
+      "override": "Real game input and clean-context gameplay tests waived by subsequent user instruction; do not claim verified."
+    },
+    {
+      "id": "R07",
+      "label": "Shared player, visible button and two fullscreens",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R08",
+      "label": "Indexable player-facing content",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R09",
+      "label": "Independent minimum 4000 nonwhitespace body per game",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R10",
+      "label": "1400px full left column and bounded following sidebar",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R11",
+      "label": "Featured/New/Recommended exact membership",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R12",
+      "label": "Automatic stack/market/output decisions",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R13",
+      "label": "Research and necessary dependencies/checks",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R14",
+      "label": "Per-game cover/captures/researched YouTube",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R15",
+      "label": "Local image logo and modest intent-aligned H1",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R16",
+      "label": "Root Legal pages and accessible Footer",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R17",
+      "label": "Central static TDK and exact lengths",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R18",
+      "label": "Sitemap/canonical/fingerprints/OG consistency",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R19",
+      "label": "Only 1024px and 768px width breakpoints",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R20",
+      "label": "Natural original content without public research language",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R21",
+      "label": "English player-facing README",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R22",
+      "label": "No deployment or Git commit",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R23",
+      "label": "Stable game identity without fallback",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R24",
+      "label": "Main provisional replacement and safe player behavior",
+      "status": "pending",
+      "override": "Real game input and clean-context gameplay tests waived by subsequent user instruction; do not claim verified."
+    },
+    {
+      "id": "R25",
+      "label": "No framework/hydration/CSP/runtime resource errors",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R26",
+      "label": "Claim/query/video/blueprint traceability",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R27",
+      "label": "Final build and truthful acceptance",
+      "status": "pending",
+      "override": "Real game input and clean-context gameplay tests waived by subsequent user instruction; do not claim verified."
+    },
+    {
+      "id": "R28",
+      "label": "Per-image proportion and crop review",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R29",
+      "label": "Three live design references and high fidelity mockup",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R30",
+      "label": "Guide header/TOC and truthful identity",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R31",
+      "label": "Capability matrix and spoiler policy",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R32",
+      "label": "Machine-readable acceptance and visual evidence",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R33",
+      "label": "Independent Guide content briefs and covers",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R34",
+      "label": "Command and player runtime records",
+      "status": "pending",
+      "override": "Real game input and clean-context gameplay tests waived by subsequent user instruction; do not claim verified."
+    },
+    {
+      "id": "R35",
+      "label": "Cross-game navigation lifecycle",
+      "status": "pending",
+      "override": null
+    },
+    {
+      "id": "R36",
+      "label": "Production mobile/desktop Lighthouse",
+      "status": "pending",
+      "override": null
+    }
+  ],
+  "verificationPolicy": {
+    "gameRuntime": "not_tested_user_waived",
+    "existingUserChrome": "do_not_operate",
+    "otherRequirements": "retained"
+  }
+}

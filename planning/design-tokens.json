@@ -1,0 +1,63 @@
+{
+  "colors": {
+    "background": "#14111d",
+    "surface": "#211b2d",
+    "raised": "#30263f",
+    "accent": "#e8d964",
+    "text": "#f6f1e9",
+    "muted": "#c5bdce"
+  },
+  "fonts": {
+    "heading": "Trebuchet MS, sans-serif",
+    "body": "Arial, sans-serif",
+    "data": "monospace"
+  },
+  "typography": {
+    "homeH1": [
+      48,
+      40,
+      34
+    ],
+    "detailH1": [
+      40,
+      36,
+      30
+    ],
+    "body": 17,
+    "lineHeight": 1.75
+  },
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "container": 1400,
+  "sidebar": {
+    "desktop": 400,
+    "tablet": 308,
+    "gap": 28,
+    "headerOffset": "measured header + 16px",
+    "internalScroll": false,
+    "tall": "direction-sensitive bounded position"
+  },
+  "breakpoints": [
+    1024,
+    768
+  ],
+  "radius": {
+    "player": 16,
+    "card": 10,
+    "button": 8
+  },
+  "motion": {
+    "durationMs": 160,
+    "reducedMotion": "none"
+  },
+  "covers": "contain; no source recoloring",
+  "focus": "3px solid #e8d964, offset 4px"
+}

@@ -1,0 +1,1796 @@
+[
+  {
+    "page_id": "home",
+    "gameId": "suzy-says",
+    "sections": [
+      {
+        "id": "listen-before-moving",
+        "heading": "Listen before you move",
+        "player_question": "Listen before you move",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": "Suzy Says builds its tension around a simple problem: hearing an instruction does not always mean you should act on it. A smiling host addresses you through a television, and a colorful floor mat gives ordinary movements a precise meaning. The familiar presentation makes it tempting to react as soon as you recognize a color or an action. Identify the qualifying words and requested action before moving, then respond within the time shown by the current task.",
+        "screenshot_slot": "suzy-says-capture-1",
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "suzy-says-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "first-command-round",
+        "heading": "The first command round",
+        "player_question": "The first command round",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": "The qualifying Suzy says words are the decision you make before choosing a destination. When the host uses those words to give an instruction, carry out the requested action. When that qualification is missing, do not perform the requested action merely because you recognize its target. The opening practice draws attention to missing qualifying words, so listen for that distinction before matching an action to the room.",
+        "screenshot_slot": "suzy-says-capture-2",
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "suzy-says-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "room-and-objects",
+        "heading": "Keep a map of the ordinary house",
+        "player_question": "Keep a map of the ordinary house",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": "This is why memorizing only a list of keys is not enough. You are connecting language to a physical state: where you stand, what you face and which object you reach. If you are uncertain after a mistake, reconstruct those parts separately. You may have understood the noun but reacted to an unqualified line, performed the right movement in the wrong place, or become distracted before the instruction finished.",
+        "screenshot_slot": "suzy-says-capture-3",
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "pressure-and-mistakes",
+        "heading": "Separate a mistake from a technical problem",
+        "player_question": "Separate a mistake from a technical problem",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": "A scare or sharp change in presentation does not by itself prove that a key failed. The game uses uncertainty to put pressure on an otherwise small control set. Before changing browser settings, remember the instruction, its prefix and your position. If you obeyed an unqualified command, that is a different problem from a movement key that never reaches the player.",
+        "screenshot_slot": null,
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "choose-your-session",
+        "heading": "Choose the session you want",
+        "player_question": "Choose the session you want",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": "For a first visit, prepare the session before looking for ending triggers. Choose the original edition you want, make the controls and subtitles comfortable, then use the television and mat as starting landmarks. The first-run guide walks through those preparation decisions. Once an instruction is present, the command guide takes over with qualifying-word and action examples without revealing later events.",
+        "screenshot_slot": null,
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "suzy-says-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "comfortable-first-run",
+        "heading": "Make the first run easier to read",
+        "player_question": "Make the first run easier to read",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "quick-questions",
+        "heading": "Questions before starting",
+        "player_question": "Questions before starting",
+        "claim_ids": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "7CLLI0ijVGQ",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "home-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "suzy-says-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/suzy-says-screen-1.webp",
+      "/images/games/suzy-says-screen-2.webp",
+      "/images/games/suzy-says-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "assessment-examination",
+    "gameId": "assessment-examination",
+    "sections": [
+      {
+        "id": "enter-the-examination",
+        "heading": "A job application that asks for your judgment",
+        "player_question": "A job application that asks for your judgment",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": "Allow around ten to fifteen minutes for the examination itself, with additional time for the browser build to download. An uninterrupted first attempt makes the changing presentation easier to follow. A line of dialogue or a brief shift on screen can connect two questions that otherwise look similar, so the quiet moments deserve as much attention as the obvious disturbances.",
+        "screenshot_slot": "assessment-examination-capture-1",
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "assessment-examination-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "choosing-an-answer",
+        "heading": "Read the label before judging the face",
+        "player_question": "Read the label before judging the face",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": "You do not need to reveal personal information or prove something about your real judgment. The application is a fictional horror scenario. Responding to the presentation is the activity, and uncertainty is part of its effect. A single unnerving image is not a reason to stop interpreting all later prompts individually or to assume that an entire run can be reduced to selecting the same label.",
+        "screenshot_slot": "assessment-examination-capture-2",
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "assessment-examination-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "interruptions-and-pacing",
+        "heading": "When the examination changes its pace",
+        "player_question": "When the examination changes its pace",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "assessment-examination-capture-3",
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "assessment-examination-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "sound-and-fullscreen",
+        "heading": "Set up the examination before the unsettling parts",
+        "player_question": "Set up the examination before the unsettling parts",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": "A desktop or laptop offers the clearest combination of readable text and precise pointer input. A small phone display can compress the picture and answer labels together. Enlarging the player may help readability, but that alone does not establish complete touch compatibility. If the choices are awkward to reach on a phone, a computer is a more practical option than repeated small-screen tapping.",
+        "screenshot_slot": null,
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "loading-the-browser-build",
+        "heading": "Why the first download can take time",
+        "player_question": "Why the first download can take time",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "a-deliberate-first-run",
+        "heading": "Make the first run easy to follow",
+        "player_question": "Make the first run easy to follow",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "assessment-or-action",
+        "heading": "Choose this when you want uneasy observation",
+        "player_question": "Choose this when you want uneasy observation",
+        "claim_ids": [
+          "assessment-examination-identity",
+          "assessment-examination-video-case"
+        ],
+        "case_text": "Please Answer Carefully offers another ordinary interface that becomes threatening, with a more personal survey framing. Last seen online instead asks you to investigate an old computer and connect clues. Choose by the action you want next: respond to questions, inspect pictures or investigate files. None uses the examination's labels as a universal set of controls.",
+        "screenshot_slot": null,
+        "video_id": "5kBE7u-POMc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "assessment-examination-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "assessment-examination-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/assessment-examination-screen-1.webp",
+      "/images/games/assessment-examination-screen-2.webp",
+      "/images/games/assessment-examination-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "please-answer-carefully",
+    "gameId": "please-answer-carefully",
+    "sections": [
+      {
+        "id": "a-survey-that-changes",
+        "heading": "An ordinary questionnaire becomes uncomfortable",
+        "player_question": "An ordinary questionnaire becomes uncomfortable",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "Please Answer Carefully begins as a modest online questionnaire. You select responses about everyday internet habits, move through a familiar form and gradually find the questions becoming less impersonal. The horror lives in that change of relationship: a screen that initially asks for information starts to feel as though it expects something from you. There is no house to explore or enemy to outrun. Your attention stays on wording, choices and sound.",
+        "screenshot_slot": "please-answer-carefully-capture-1",
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "starting-the-questionnaire",
+        "heading": "Select an option, then use the arrow",
+        "player_question": "Select an option, then use the arrow",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "The title screen uses the same selection-and-continue language as the survey itself. Choose Begin game, then use the arrow that appears. Simply selecting the menu item is only the first part of the interaction. This is worth learning immediately, because the questionnaire repeatedly separates choosing a response from submitting it.",
+        "screenshot_slot": "please-answer-carefully-capture-2",
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "please-answer-carefully-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "three-kinds-of-input",
+        "heading": "Checkboxes, response circles and the hours slider",
+        "player_question": "Checkboxes, response circles and the hours slider",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "The early questions teach three slightly different interactions. The device question allows multiple selections, so tick the options you want and then continue. The question about time spent online uses a slider. Later questions present a set of alternative responses. Read the instruction attached to each question instead of assuming every screen accepts the same kind of answer.",
+        "screenshot_slot": "please-answer-carefully-capture-3",
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "please-answer-carefully-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "when-continue-is-missing",
+        "heading": "A missing arrow does not always mean a broken game",
+        "player_question": "A missing arrow does not always mean a broken game",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "If you cannot continue, first identify which kind of page is open. On an ordinary multiple-choice screen, interact with an answer label. On the hours question, interact with the slider. On a passage that is still revealing new words or choices, wait. These are different situations, and repeatedly clicking the empty area below the text will not solve all three.",
+        "screenshot_slot": null,
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "reading-the-pressure",
+        "heading": "Notice what the form asks you to accept",
+        "player_question": "Notice what the form asks you to accept",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "Some later choices provide less freedom than the first screens suggest. That narrowing is part of the story's pressure. Do not assume an unusual set of labels is a browser glitch merely because it no longer resembles a normal questionnaire. At the same time, the character's insistence is fictional. You are not required to agree with it outside the game or to carry any instruction away from the screen.",
+        "screenshot_slot": null,
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "reading-on-your-device",
+        "heading": "Keep the text and the controls in view",
+        "player_question": "Keep the text and the controls in view",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "A mouse is the simplest way to handle this questionnaire's labels and slider. Keep enough of the player visible to see the question and the continuation arrow together. If the text feels cramped, enlarge the player before answering rather than repeatedly changing the view while a timed passage is appearing. This is a reading interface, so legibility matters more than filling the screen with decorative space.",
+        "screenshot_slot": null,
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "after-the-questionnaire",
+        "heading": "Continue with another kind of unsettling interface",
+        "player_question": "Continue with another kind of unsettling interface",
+        "claim_ids": [
+          "please-answer-carefully-identity",
+          "please-answer-carefully-video-case"
+        ],
+        "case_text": "Assessment Examination moves the decision toward judging images, while last seen online opens the interface into a computer full of clues. Both offer a different next task after the survey. Choose image assessment when you want another focused series of judgments, or file investigation when you would rather explore and connect information at your own pace.",
+        "screenshot_slot": null,
+        "video_id": "eYjjVDO2Sl4",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "please-answer-carefully-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "2 clear direct captures; third deferred after rejecting transition frame",
+    "videoMediaIds": [
+      "please-answer-carefully-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/please-answer-carefully-screen-1.webp",
+      "/images/games/please-answer-carefully-screen-2.webp"
+    ]
+  },
+  {
+    "page_id": "last-seen-online",
+    "gameId": "last-seen-online",
+    "sections": [
+      {
+        "id": "inside-an-old-computer",
+        "heading": "A second-hand computer with a life inside it",
+        "player_question": "A second-hand computer with a life inside it",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": "last seen online begins with a computer bought at a garage sale. Instead of wiping it, you turn it on and step into the traces of another person's life. Files, chat histories and desktop programs become the rooms of an escape game. The central activity is investigation: open something, read what it reveals and connect that information to a lock or question elsewhere.",
+        "screenshot_slot": "last-seen-online-capture-1",
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "last-seen-online-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "learning-the-desktop",
+        "heading": "Treat each program as a different kind of clue",
+        "player_question": "Treat each program as a different kind of clue",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": "If several windows obscure each other, close or move the ones that are not part of the current question. The desktop behind them is also a visible part of the game. A cluttered screen can hide information even when the relevant file is already open. Before deciding that a clue is absent, make the working area readable and examine how its pieces relate.",
+        "screenshot_slot": "last-seen-online-capture-2",
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "last-seen-online-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "passwords-with-purpose",
+        "heading": "Keep the login and the archive lock separate",
+        "player_question": "Keep the login and the archive lock separate",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "last-seen-online-capture-3",
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "beyond-the-desktop",
+        "heading": "Read feedback when the setting changes",
+        "player_question": "Read feedback when the setting changes",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": "A black OtherCorp screen presents a different input task from the photo windows. Its InviteCode field sits with Continue and Back controls. Read that field label before typing: an invitation-code prompt is not the earlier desktop login or the protected archive simply because all three accept text. Check which screen is active and what kind of information it requests before reusing an old answer.",
+        "screenshot_slot": null,
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "notes-that-keep-you-moving",
+        "heading": "Make a small clue trail instead of a pile of guesses",
+        "player_question": "Make a small clue trail instead of a pile of guesses",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": "For a first run, keep notes in three columns: obstacle, related clue and attempted action. An archive entry might mention its required format, a conversation that discusses the attachment and the code you tried. A later mechanism might instead need a nearby inscription and an input pattern. The goal is to preserve relationships, not transcribe every line of dialogue.",
+        "screenshot_slot": null,
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "last-seen-online-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "sound-save-and-replay",
+        "heading": "Adjust the computer without erasing the investigation",
+        "player_question": "Adjust the computer without erasing the investigation",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": "Choose a readable language before working through long conversations. The game has community translations, but an older video in another language can use different wording or an earlier visual style. Match the visible objects and the meaning of a clue rather than expecting every label or portrait to be identical to a recording.",
+        "screenshot_slot": null,
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "browser-and-device-help",
+        "heading": "Separate a puzzle problem from an input problem",
+        "player_question": "Separate a puzzle problem from an input problem",
+        "claim_ids": [
+          "last-seen-online-identity",
+          "last-seen-online-video-case"
+        ],
+        "case_text": "A larger display makes overlapping windows, small labels and visual clue relationships easier to read. Touch input is listed for the game, but a phone still offers less room for comparing windows and handling precise targets. If a particular drag or text entry is awkward, use a computer with a mouse and keyboard instead of interpreting the difficulty as part of the mystery.",
+        "screenshot_slot": null,
+        "video_id": "6a83iH6lWPI",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "last-seen-online-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "2 game-interface screenshots plus 1 in-game portrait asset",
+    "videoMediaIds": [
+      "last-seen-online-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/last-seen-online-screen-3.webp",
+      "/images/games/last-seen-online-screen-1.webp",
+      "/images/games/last-seen-online-screen-2.webp"
+    ]
+  },
+  {
+    "page_id": "the-open-house",
+    "gameId": "the-open-house",
+    "sections": [
+      {
+        "id": "a-tour-with-another-purpose",
+        "heading": "A house tour that changes its tone",
+        "player_question": "A house tour that changes its tone",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": "The Open House turns a familiar piece of online browsing into a short psychological horror game. Instead of arriving as an armed investigator, you enter a polished virtual property presentation. The apparent job is ordinary: look around a house, examine its rooms and understand what is being offered. That comfortable framing matters. A property tour encourages you to trust labels, interfaces and the person guiding the visit, so a change in those things feels different from a monster appearing in a place that already looked dangerous.",
+        "screenshot_slot": "the-open-house-capture-1",
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "the-open-house-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "begin-with-the-interface",
+        "heading": "Get comfortable with the tour interface",
+        "player_question": "Get comfortable with the tour interface",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "the-open-house-capture-2",
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "the-open-house-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "build-a-spatial-memory",
+        "heading": "Keep track of rooms instead of wandering in circles",
+        "player_question": "Keep track of rooms instead of wandering in circles",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "the-open-house-capture-3",
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "the-open-house-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "notice-what-is-different",
+        "heading": "Read changes in context",
+        "player_question": "Read changes in context",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": "The living-room view gives you a clear example of how to divide your attention: blue walls and a fireplace belong to the pictured property, while an Information area sits below the scene. Read the information without forgetting to inspect the room itself. Later, a view labeled Hall 2F can present distorted colors rather than the clean sales image you first encountered. Keep the location label in mind when the image becomes strange. You can recognize that you are still navigating the tour without assuming that every visual change is a browser crash or a new movement system.",
+        "screenshot_slot": null,
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "play-for-the-next-clear-task",
+        "heading": "Choose the next clear action",
+        "player_question": "Choose the next clear action",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": "When you lose your place, narrow the problem to the current screen. What is the last instruction you read? Which room or part of the property does it concern? What input is available now? Answer those three questions before searching every other room. This keeps a small uncertainty from turning into a full restart. It also protects the pacing: the tour can build tension from waiting and looking, whereas constant clicking makes it harder to notice how the presentation is changing.",
+        "screenshot_slot": null,
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "webgl-and-loading",
+        "heading": "If the browser version does not start",
+        "player_question": "If the browser version does not start",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": "If a retry still cannot reach the opening presentation, try a different current desktop browser. This is a more useful comparison than changing several unrelated browser settings at once, because the game itself warns of WebGL differences between browsers. A laptop or desktop also gives the tour more room for its interface than a narrow phone display. Do not expect a touch screen to reproduce an unconfirmed desktop input scheme. If a control lies outside the visible game area, enlarge the player or rotate the device before assuming that the game has no way forward.",
+        "screenshot_slot": null,
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "before-recording-the-tour",
+        "heading": "A note before recording or streaming",
+        "player_question": "A note before recording or streaming",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "questions-before-entering",
+        "heading": "Questions before entering the house",
+        "player_question": "Questions before entering the house",
+        "claim_ids": [
+          "the-open-house-identity",
+          "the-open-house-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "SZxTn3h34rE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "the-open-house-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "the-open-house-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/the-open-house-screen-1.webp",
+      "/images/games/the-open-house-screen-2.webp",
+      "/images/games/the-open-house-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "bad-ben",
+    "gameId": "bad-ben",
+    "sections": [
+      {
+        "id": "tom-rileys-house",
+        "heading": "Tom Riley has bought another problem",
+        "player_question": "Tom Riley has bought another problem",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "bad-ben-capture-1",
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "movement-and-interaction",
+        "heading": "Learn movement and interaction separately",
+        "player_question": "Learn movement and interaction separately",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "bad-ben-capture-2",
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "bad-ben-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "searching-with-a-purpose",
+        "heading": "Give every search a specific purpose",
+        "player_question": "Give every search a specific purpose",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "bad-ben-capture-3",
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "bad-ben-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "tablet-after-acquisition",
+        "heading": "The tablet is a later tool",
+        "player_question": "The tablet is a later tool",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": "A useful distinction appears on the monitoring display: a room name and its status are separate pieces of information. A kitchen view can show DEACTIVATED, while another screen identifies an office motion event as ACTIVATED. Read both parts before deciding what to inspect. The room label tells you where the information belongs; the status tells you what that display is currently reporting. Do not turn the word ACTIVATED alone into a rule about what caused it or what will happen next. Follow the immediate task to check cameras and motion sensors, then compare the relevant view with your route through the house.",
+        "screenshot_slot": null,
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "comic-reactions-and-real-progress",
+        "heading": "Separate a reaction from an objective",
+        "player_question": "Separate a reaction from an objective",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": "Bad Ben deliberately pairs scares with Tom's blunt responses. Enjoy those interruptions, but check what the scene leaves you able to do afterward. A voice line can be a character moment rather than an instruction, and a dramatic sound does not necessarily identify the next object you need. When the moment has passed, return to the last clear problem: a door, an item, a place to inspect or a newly available tool. This keeps the comic timing intact without leaving you wandering because you mistook a joke for a new objective.",
+        "screenshot_slot": null,
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "bad-ben-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "a-comfortable-horror-session",
+        "heading": "Set up for both jokes and scares",
+        "player_question": "Set up for both jokes and scares",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "webgl-startup-problems",
+        "heading": "When the house will not load",
+        "player_question": "When the house will not load",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "questions-about-bad-ben",
+        "heading": "Before your first visit",
+        "player_question": "Before your first visit",
+        "claim_ids": [
+          "bad-ben-identity",
+          "bad-ben-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "aoE79XZOqzc",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "bad-ben-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "bad-ben-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/bad-ben-screen-1.webp",
+      "/images/games/bad-ben-screen-2.webp",
+      "/images/games/bad-ben-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "uncle-nintendo",
+    "gameId": "uncle-nintendo",
+    "sections": [
+      {
+        "id": "an-ordinary-sleepover",
+        "heading": "A childhood story with an uncomfortable promise",
+        "player_question": "A childhood story with an uncomfortable promise",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "uncle-nintendo-capture-1",
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "uncle-nintendo-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "reading-and-choosing",
+        "heading": "Read the passage before choosing your response",
+        "player_question": "Read the passage before choosing your response",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "uncle-nintendo-capture-2",
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "uncle-nintendo-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "friendship-and-credibility",
+        "heading": "Keep the friendship in view",
+        "player_question": "Keep the friendship in view",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": "For the first visit, choose responses that make sense to you rather than trying to predict a perfect route. You will understand a later comparison much better if you remember why you made the original decision. For example, you can note that you asked for more explanation or accepted an invitation without writing down the story's eventual answer. That creates a useful record of your own route while keeping the ending open. The goal is to remain attentive to the exchange, not to reduce every line to a hidden score you have not established.",
+        "screenshot_slot": "uncle-nintendo-capture-3",
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "waiting-for-midnight",
+        "heading": "Let the midnight premise guide your attention",
+        "player_question": "Let the midnight premise guide your attention",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "five-endings-and-replays",
+        "heading": "Explore another path with one deliberate change",
+        "player_question": "Explore another path with one deliberate change",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "when-a-choice-feels-wrong",
+        "heading": "A difficult response is not necessarily a broken game",
+        "player_question": "A difficult response is not necessarily a broken game",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "reading-in-a-browser",
+        "heading": "Make the text comfortable to read",
+        "player_question": "Make the text comfortable to read",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "uncle-nintendo-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "horror-without-the-reveal",
+        "heading": "Keep the ending out of the invitation",
+        "player_question": "Keep the ending out of the invitation",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "sleepover-questions",
+        "heading": "Questions about the story",
+        "player_question": "Questions about the story",
+        "claim_ids": [
+          "uncle-nintendo-identity",
+          "uncle-nintendo-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "e7JI5Zljdlo",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "uncle-nintendo-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "uncle-nintendo-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/uncle-nintendo-screen-1.webp",
+      "/images/games/uncle-nintendo-screen-2.webp",
+      "/images/games/uncle-nintendo-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "exhibit-of-sorrows",
+    "gameId": "exhibit-of-sorrows",
+    "sections": [
+      {
+        "id": "enter-the-exhibit",
+        "heading": "A cheerful room with uncomfortable instructions",
+        "player_question": "A cheerful room with uncomfortable instructions",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "exhibit-of-sorrows-capture-1",
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "exhibit-of-sorrows-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "read-before-acting",
+        "heading": "Look for an action, then watch its feedback",
+        "player_question": "Look for an action, then watch its feedback",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "exhibit-of-sorrows-capture-2",
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "the-pump",
+        "heading": "Understand the pump without rushing past it",
+        "player_question": "Understand the pump without rushing past it",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": "The opening pump display provides a concrete example. An air pump is connected to Mr. Floaty, and its button operates the pump. Holding the control makes the doll inflate. Your action is visible in the changing size of the figure, so this is a useful place to learn the relationship between a sustained input and an ongoing animation. Do not treat it as a video that will necessarily finish by itself after one tap.",
+        "screenshot_slot": "exhibit-of-sorrows-capture-3",
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "exhibit-of-sorrows-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "room-details",
+        "heading": "Read silhouettes and the space around a doll",
+        "player_question": "Read silhouettes and the space around a doll",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "exhibit-of-sorrows-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "arrows-and-small-changes",
+        "heading": "Use arrows to choose where to look",
+        "player_question": "Use arrows to choose where to look",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": "A hand display illustrates why it helps to look at the exact part an arrow indicates. A large yellow hand can occupy much of the picture, but the useful detail is a particular finger and its position. Direct your attention to the indicated area, then compare that area after an interaction. A small local change can be easier to miss than a whole doll moving, especially when the surrounding display remains almost unchanged.",
+        "screenshot_slot": null,
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "choice-and-discomfort",
+        "heading": "A changed response deserves a new decision",
+        "player_question": "A changed response deserves a new decision",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "first-visit",
+        "heading": "A careful first visit",
+        "player_question": "A careful first visit",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "window-and-sound",
+        "heading": "If a display does not seem to respond",
+        "player_question": "If a display does not seem to respond",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": "The game has received fixes for fullscreen behavior, window fitting and an occasionally laggy introduction. Those fixes do not guarantee that every embedded version or browser behaves the same way. If the opening stalls, give it time to finish before issuing repeated inputs. A browser reload starts another loading attempt and may lose the current visit. Background music contributes to the setting; use a comfortable volume, and do not infer that silence alone means the visual interaction has failed.",
+        "screenshot_slot": null,
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "what-to-expect",
+        "heading": "Keep the ending a discovery",
+        "player_question": "Keep the ending a discovery",
+        "claim_ids": [
+          "exhibit-of-sorrows-identity",
+          "exhibit-of-sorrows-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "mwrf9cjEeB8",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "exhibit-of-sorrows-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "exhibit-of-sorrows-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/exhibit-of-sorrows-screen-1.webp",
+      "/images/games/exhibit-of-sorrows-screen-2.webp",
+      "/images/games/exhibit-of-sorrows-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "burger-frights",
+    "gameId": "burger-frights",
+    "sections": [
+      {
+        "id": "ride-home",
+        "heading": "The difficult part is getting home",
+        "player_question": "The difficult part is getting home",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "burger-frights-capture-1",
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "learn-the-bike",
+        "heading": "Read the control panel before setting off",
+        "player_question": "Read the control panel before setting off",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "burger-frights-capture-2",
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "read-the-road",
+        "heading": "Give the route more attention than the scenery",
+        "player_question": "Give the route more attention than the scenery",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": "burger-frights-capture-3",
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "burger-frights-real-screen-1"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "light-and-lane-markings",
+        "heading": "Read the lane inside the light",
+        "player_question": "Read the lane inside the light",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": "A narrow pool of forward light makes the road markings more useful than the dark trees beyond it. Look for the dashed centerline and the solid lines along the road edges. Together they give you a visible shape to follow even when the surrounding forest contains little readable detail. Keep those nearby markers in view before directing attention farther into the darkness.",
+        "screenshot_slot": null,
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "burger-frights-real-screen-2"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "respond-deliberately",
+        "heading": "Separate steering trouble from an unsettling event",
+        "player_question": "Separate steering trouble from an unsettling event",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": [
+          "burger-frights-real-screen-3"
+        ],
+        "mediaStatus": "real-game-image-adopted"
+      },
+      {
+        "id": "comfortable-view",
+        "heading": "Choose a viewing mode that keeps the road readable",
+        "player_question": "Choose a viewing mode that keeps the road readable",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "mouse-drift",
+        "heading": "A view that drifts is not something to fight blindly",
+        "player_question": "A view that drifts is not something to fight blindly",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": "There is a documented Firefox fix for a mouse view that slowly drifted right in windowed mode. That specific history is useful if you see an unwanted gradual turn: distinguish a steady drift with your hand still from an intentional camera response while moving the mouse. Correcting endlessly in the other direction makes it harder to tell which behavior you are seeing.",
+        "screenshot_slot": null,
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "loading-and-audio",
+        "heading": "Prepare the player before the forest closes in",
+        "player_question": "Prepare the player before the forest closes in",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      },
+      {
+        "id": "first-journey",
+        "heading": "Make the first journey about observation",
+        "player_question": "Make the first journey about observation",
+        "claim_ids": [
+          "burger-frights-identity",
+          "burger-frights-video-case"
+        ],
+        "case_text": null,
+        "screenshot_slot": null,
+        "video_id": "VxpQdPFQxrE",
+        "version_scope": "Creator facts and sampled exact-game footage; configured iframe input not tested",
+        "excluded_claims": [
+          "Unobserved ending causes",
+          "Unverified touch compatibility"
+        ],
+        "content_status": "written-draft",
+        "adoptedMediaIds": []
+      }
+    ],
+    "minimumVisibleNonWhitespaceCharacters": 4000,
+    "video_slot": "burger-frights-video-after-body",
+    "mediaException": "planning/media-policy.json",
+    "gameplayScreenshots": "3 real game screenshots, including appropriate opening/interface states",
+    "videoMediaIds": [
+      "burger-frights-video-candidate"
+    ],
+    "realImagePaths": [
+      "/images/games/burger-frights-screen-1.webp",
+      "/images/games/burger-frights-screen-2.webp",
+      "/images/games/burger-frights-screen-3.webp"
+    ]
+  },
+  {
+    "page_id": "suzy-says-command-rules",
+    "guideId": "suzy-says-command-rules",
+    "task": "Decide whether to obey a spoken instruction and avoid premature actions",
+    "exclusions": [
+      "A decision aid, not a chronological story walkthrough"
+    ],
+    "cover_slot": "guide-command-cover",
+    "sections": [
+      {
+        "id": "permission-before-action",
+        "heading": "First decide whether the command counts",
+        "player_question": "First decide whether the command counts",
+        "blocks": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "worked-command-comparison",
+        "heading": "Practice the same action with and without qualification",
+        "player_question": "Practice the same action with and without qualification",
+        "blocks": [
+          "paragraph",
+          "table",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "body-view-and-target",
+        "heading": "Match the action to the right kind of control",
+        "player_question": "Match the action to the right kind of control",
+        "blocks": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "working-through-a-round",
+        "heading": "A repeatable way to handle a round",
+        "player_question": "A repeatable way to handle a round",
+        "blocks": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "recover-without-guessing",
+        "heading": "Recover without confusing rules and input",
+        "player_question": "Recover without confusing rules and input",
+        "blocks": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "know-this-guides-boundary",
+        "heading": "Keep the story discoveries for later",
+        "player_question": "Keep the story discoveries for later",
+        "blocks": [
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      }
+    ],
+    "primary_task": "Use a three-part decision to separate real instructions from traps, connect each action to the mat or house, and work out what went wrong without spoiling the story."
+  },
+  {
+    "page_id": "suzy-says-first-run",
+    "guideId": "suzy-says-first-run",
+    "task": "Follow the story phases and understand which version includes additional modes",
+    "exclusions": [
+      "Ordered progression with spoiler warnings; not a duplicated command glossary"
+    ],
+    "cover_slot": "guide-first-run-cover",
+    "sections": [
+      {
+        "id": "choose-the-original-release",
+        "heading": "Choose the release that contains what you want",
+        "player_question": "Choose the release that contains what you want",
+        "blocks": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "prepare-the-windows-copy",
+        "heading": "Finish preparing the Windows copy before playing",
+        "player_question": "Finish preparing the Windows copy before playing",
+        "blocks": [
+          "steps",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "prepare-your-inputs",
+        "heading": "Put the movement keys within easy reach",
+        "player_question": "Put the movement keys within easy reach",
+        "blocks": [
+          "table",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "choose-subtitles-and-comfort",
+        "heading": "Make the spoken instructions easy to follow",
+        "player_question": "Make the spoken instructions easy to follow",
+        "blocks": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "recognize-the-opening",
+        "heading": "Orient yourself from the DVD to the first instruction",
+        "player_question": "Orient yourself from the DVD to the first instruction",
+        "blocks": [
+          "paragraph",
+          "steps",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      },
+      {
+        "id": "recover-the-right-step",
+        "heading": "Return to the step that actually failed",
+        "player_question": "Return to the step that actually failed",
+        "blocks": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ],
+        "evidence_ids": [
+          "main-official",
+          "main-command-rule"
+        ],
+        "content_status": "written-draft"
+      }
+    ],
+    "primary_task": "Choose the original Windows version, prepare its movement controls and subtitle language, then recognize the opening DVD and first command without reading ahead into the story."
+  }
+]

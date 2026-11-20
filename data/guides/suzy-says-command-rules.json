@@ -1,0 +1,155 @@
+{
+  "id": "suzy-says-command-rules",
+  "slug": "suzy-says-command-rules",
+  "status": "published",
+  "title": "Suzy Says commands: decide before you move",
+  "summary": "Decide whether a command qualifies, identify its action and target, and check a missed response against the sentence, your position and the input method.",
+  "tags": [
+    "Commands",
+    "Controls",
+    "No story spoilers"
+  ],
+  "authorId": null,
+  "spoilerPolicy": "none",
+  "publishedAt": "2026-11-19",
+  "updatedAt": "2026-11-19",
+  "cover": {
+    "src": "/images/guides/suzy-says-command-rules.webp",
+    "alt": "The Suzy Says colored floor mat in front of the television, ready for command practice",
+    "width": 1440,
+    "height": 810
+  },
+  "seo": {
+    "title": "Suzy Says Commands: Qualifying Words and Controls",
+    "description": "Understand Suzy Says commands with a crouch example. Check qualifying words, mat targets and Windows inputs before diagnosing a missed or rushed response."
+  },
+  "sections": [
+    {
+      "id": "permission-before-action",
+      "title": "First decide whether the command counts",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A familiar action can still be the wrong response. Listen for the host’s qualifying Suzy says words before turning the rest of the instruction into movement. If those words are absent, do not perform the requested action just because you recognize its destination. The task is conditional obedience, not following every line as quickly as possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "A color is only the destination part of an instruction. Before responding, identify whether the host supplied the qualifying words and whether the verb asks for a jump, crouch or another action. Read those parts together within the task’s visible timer. Hearing the destination first is not permission to begin moving before the sentence is clear."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have already made a mistake, reconstruct that exact sentence rather than changing several settings. Did it qualify? What action did it name? Where were you standing? A correct understanding of the color cannot compensate for acting on an instruction that should have been ignored."
+        }
+      ]
+    },
+    {
+      "id": "worked-command-comparison",
+      "title": "Practice the same action with and without qualification",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use a crouch instruction as a practice example. The two lines below are examples of applying the rule to the original crouch control, not two different movements. Decide whether the action is requested before reaching for C."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Practice line",
+            "Your decision",
+            "Control decision"
+          ],
+          "rows": [
+            [
+              "Suzy says, crouch.",
+              "Carry out the qualified action.",
+              "Use C for the original Windows crouch action."
+            ],
+            [
+              "Crouch.",
+              "Do not carry out this unqualified request.",
+              "Do not press C in response to that line."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The missing words change your decision even though the physical action would be identical. This is why knowing the control is only half the task. If you react to crouch alone, you skip the condition. On a task with a visible timer, identify the qualification and action promptly enough to respond within that timer; the rule does not give you unlimited time to deliberate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transfer that comparison to a mat task by adding its target. For a qualified jump, identify the named color and your position before pressing Space. For an unqualified request, recognizing the pad does not change your decision to withhold the action. The rule stays the same; the additional work is locating the target while keeping the full sentence in mind."
+        }
+      ]
+    },
+    {
+      "id": "body-view-and-target",
+      "title": "Match the action to the right kind of control",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The original Windows release lists WASD for movement, Space for jumping and C for crouching. Looking at a target is different from walking to it. Before you move, identify whether the instruction concerns your position, your body or the direction of your view. That distinction prevents you from reaching a correct location while performing the wrong kind of action."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a mat task, establish the color layout before a fast sequence. A small adjustment that puts you on the intended area is easier to control than a long run across the room followed by a jump. Do not assume that being near a pad counts as landing on it. Use the visible floor as your reference rather than trying to estimate everything from the television image."
+        },
+        {
+          "type": "paragraph",
+          "text": "For an object task, identify the requested object before choosing the route. A room may contain several things that attract your attention, and a nearby doorway is only a path, not the task itself. Keep the object name in mind while moving, then orient yourself again when you return to the game area."
+        }
+      ]
+    },
+    {
+      "id": "working-through-a-round",
+      "title": "A repeatable way to handle a round",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin in a position where you can see the host and understand your relation to the mat. Keep the camera settled while the next line begins. Check the prefix, identify the action and then choose its target. Perform the response deliberately. When the line does not qualify, remaining still is the response you chose, rather than a failure to find something to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "Longer errands add travel time and an extra recognition task. Avoid mentally shortening an instruction to a single noun. Keep its action attached: looking at a picture, approaching a picture and touching a picture are different descriptions. Follow the wording presented by your current build instead of assuming that every mention of an object asks for the same interaction."
+        },
+        {
+          "type": "paragraph",
+          "text": "If subtitles are available, use them to check the sentence rather than reading only the last highlighted word. A late-game subtitle was corrected in an original release patch, so text and build differences can matter. That known correction is not evidence that every missed response is a subtitle bug."
+        }
+      ]
+    },
+    {
+      "id": "recover-without-guessing",
+      "title": "Recover without confusing rules and input",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the Windows release, first make sure the game window is active. In a browser-hosted version, click the game surface and check whether the next key affects it or scrolls the surrounding page. That visible distinction tells you whether to address focus before reconsidering the command. It does not establish that the hosted version uses the original Windows inputs."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the game is running and reacts to other inputs, compare the failed action with the precise command and your position. If none of the expected controls responds, return to the in-game instruction screen if available and use the control scheme it displays. The Windows keys listed here should not be treated as a guarantee for a separately hosted browser implementation."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a subtitle or mat target is too small to distinguish, enlarge the view before the next round. Webpage Fullscreen expands this page’s player; Browser Fullscreen requests the browser’s display mode. For a player that never starts, use its retry action and wait for the new load. Once the game responds to input, return to the sentence-and-position check rather than treating every missed command as a loading fault."
+        }
+      ]
+    },
+    {
+      "id": "know-this-guides-boundary",
+      "title": "Keep the story discoveries for later",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This guide focuses on decisions during commands and leaves ending discoveries untouched. For choosing the original edition, preparing Windows controls and subtitles, and reaching the opening DVD activity, use the first-run guide."
+        },
+        {
+          "type": "paragraph",
+          "text": "The original Full version adds an endless mode and a secret ending. Those features should not be assumed to exist in every similarly named recreation. Match the game identity and menu to the version you are using before applying mode-specific advice. A video label that says all endings is not a substitute for that comparison."
+        }
+      ]
+    }
+  ],
+  "relatedGuideIds": [
+    "suzy-says-first-run"
+  ]
+}

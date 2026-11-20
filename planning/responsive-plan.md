@@ -1,0 +1,3 @@
+# Responsive and accessibility plan
+
+Only max-width1024px and max-width768px queries. Desktop 1400px max container; 400px right rail. Tablet308px right rail, hamburger and 4-column index; mobile single column with 2-column cards/index. Game article uses entire player track without extra max-width. Guide reading track may use readable width plus TOC. Header offset measured; anchors scroll-margin. Focus ring3px; body17px (minimum16 mobile); 44px controls; no zoom lock. Reduced motion removes optional transitions. Images reserve real dimensions; below-player images lazy, main cover eager. Footer #c5bdce/#f6f1e9 on #211b2d. Formless Legal. Full document links reset game state. Browser captures later assess actual layout, not claimed here.

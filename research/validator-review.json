@@ -1,0 +1,130 @@
+{
+  "reviewedAt": "2026-11-18",
+  "reviewedFile": "scripts/validate.mjs",
+  "sha256": "8088c6f9308f666cf6879da7a1c2166d126dcdb293f876e38d620759cb86c047",
+  "method": "Read-only static review plus pure exported bodyText probe and local evidence-image inspection. No data or validator code changed.",
+  "runtimeWaiver": "Game iframe real input/clean-context tests intentionally waived; not treated as validation defects.",
+  "findings": [
+    {
+      "id": "V01",
+      "priority": "P1",
+      "area": "iframe safety",
+      "line": 281,
+      "status": "open",
+      "finding": "Additional iframe safety only checks HTTPS and no credentials. It permits localhost, single-label/internal hosts and private/reserved IPs, and never validates sandbox tokens, referrerPolicy, aspectRatio or permissions allowlist.",
+      "impact": "A future configuration can pass publication with popup/top-navigation privileges or a nonpublic iframe. Gameplay waiver does not waive safe URL configuration.",
+      "suggestedFix": "Use shared pure URL/player validator with public HTTPS host checks and a small token/permission/referrer allowlist; reject popup/top-navigation tokens and require additional sandbox. Preserve main safe-refusal exception."
+    },
+    {
+      "id": "V02",
+      "priority": "P1",
+      "area": "media evidence",
+      "line": 304,
+      "status": "open",
+      "finding": "Media mode checks three distinct screenshot paths but not screenshot byte hashes, kind=game-capture adopted ledger entries, same-game ownership/task mapping or content-brief/video-analysis links. Video check only counts syntactically valid IDs.",
+      "impact": "Copies of the same screenshot under three paths or an unrelated video can pass. This is not equivalent to required media evidence.",
+      "suggestedFix": "Cross-check media-ledger adopted records, stable game ID, capture kind, unique hashes, screenshot slot/question mappings and video-analysis/brief references. Keep actual playback result separate from waived game input tests."
+    },
+    {
+      "id": "V03",
+      "priority": "P2",
+      "area": "body counting",
+      "line": 34,
+      "status": "confirmed",
+      "finding": "bodyText includes every section heading even when the section contains only post-body video blocks. A pure function probe returns the video-only heading as body text.",
+      "impact": "A game just below4000 can be incorrectly pushed over the floor by excluded video-section text.",
+      "suggestedFix": "Filter video-only sections out before extracting headings; use the same definition for rendered DOM and JSON checks. Define whether collapsed FAQ answers are counted based on actual visibility."
+    },
+    {
+      "id": "V04",
+      "priority": "P2",
+      "area": "date maintenance",
+      "line": 226,
+      "status": "open",
+      "finding": "Future-date validation hardcodes2026-11-18.",
+      "impact": "Legitimate content published after this date is rejected indefinitely.",
+      "suggestedFix": "Compute current Asia/Shanghai date from the clock or accept explicit test date through an injected validation context."
+    },
+    {
+      "id": "V05",
+      "priority": "P2",
+      "area": "draft filtering",
+      "line": 319,
+      "status": "open",
+      "finding": "Publish mode asserts every entry in games.json and every Guide is published, rather than validating only the published set while retaining valid drafts.",
+      "impact": "Adding a future draft makes the existing valid production site fail, contrary to draft filtering requirements.",
+      "suggestedFix": "Apply structural checks to all records, public completeness/media/count checks only to published records or explicit batch-preflight set; published links must resolve only to published targets."
+    },
+    {
+      "id": "V06",
+      "priority": "P2",
+      "area": "schema completeness",
+      "line": 100,
+      "status": "open",
+      "finding": "Block validation is partial: nested step/list/FAQ shapes, text ranges, unknown nested fields, array maxima, trimmed plain text and forbidden HTML/third-party addresses are mostly unchecked. Game title/tags/categories and Guide spoilerPolicy/tags/summary limits are incomplete; SEO extra fields are not rejected.",
+      "impact": "Malformed content may pass the strict-schema gate or fail later inside rendering. Unknown content can enter public JSON despite the documented contract.",
+      "suggestedFix": "Complete the documented per-block runtime schemas and apply text/array limits consistently; validate nullable draft values without accepting invalid nonempty values."
+    },
+    {
+      "id": "V07",
+      "priority": "P2",
+      "area": "metadata identity",
+      "line": 331,
+      "status": "open",
+      "finding": "Game SEO only checks title contains game name; description containment, Guide target keyword, duplicate metadata, static route/TDK ID equality and canonical set equality are not validated here.",
+      "impact": "Length-correct but mismatched/duplicated metadata can pass.",
+      "suggestedFix": "Validate final title/description against page-specific target and unique published route registry; use generated canonical sets."
+    },
+    {
+      "id": "V08",
+      "priority": "P2",
+      "area": "image paths and uniqueness",
+      "line": 193,
+      "status": "open",
+      "finding": "Game covers may use any /images path rather than /images/games; dev mode does not validate nonempty dimensions or alt bounds. Cover hash uniqueness runs only at publish, Guide covers are not checked for cross-Guide duplicate hash, and image src paths are not checked against current game ownership.",
+      "impact": "Wrong-game or duplicate Guide media may pass relevant stages.",
+      "suggestedFix": "Validate path namespace and nonempty field ranges in dev; file/dimension/hash/ledger/identity checks in media and publish for each intended record."
+    },
+    {
+      "id": "V09",
+      "priority": "P2",
+      "area": "evidence chain",
+      "line": 398,
+      "status": "open",
+      "finding": "Validator never loads keyword-video-map, game/guide-content-briefs, game-claim-matrix, page-content-blueprints or site-capabilities identities. authorId is blanket required null rather than resolved against verified identity records.",
+      "impact": "Missing claim/brief/media traceability or a valid future verified author cannot be handled according to the documented data flow.",
+      "suggestedFix": "Add reference-integrity checks with exact stable IDs and verified author lookup; leave research wording out of public data."
+    }
+  ],
+  "evidenceReview": [
+    {
+      "file": "reports/screenshots/video-openhouse-tour.jpg",
+      "correction": "Visible player clock is1:23;143s was a requested seek target, not proof of displayed frame. Blue-wall/fireplace/Information claims supported."
+    },
+    {
+      "file": "reports/screenshots/video-openhouse-intro.jpg",
+      "correction": "Saved image is living room with ALPHA v0.2, not an opening title/agent-introduction frame."
+    },
+    {
+      "file": "reports/screenshots/video-openhouse-continue.jpg",
+      "correction": "Supports HALL-2F color distortion and ALPHA v0.2; no exact clock visible."
+    },
+    {
+      "file": "reports/screenshots/video-badben-opening.jpg",
+      "correction": "Supports Kitchen DEACTIVATED, tablet held, camera/motion task. Exact timestamp not saved."
+    },
+    {
+      "file": "reports/screenshots/video-badben-camera.jpg",
+      "correction": "Supports OFFICE MOTION ACTIVATED and doorway position; static file alone cannot establish full movement sequence."
+    },
+    {
+      "file": "reports/screenshots/video-uncle-arrival.jpg",
+      "correction": "Shows two red goodbye choices outside house, not merely one generic continue link."
+    },
+    {
+      "file": "reports/screenshots/video-uncle-dialogue.jpg",
+      "correction": "Shows single red continuation after lemonade/beer clarification, not den/dinner pair. Parent live-observed dinner state is separate unsaved-frame evidence."
+    }
+  ],
+  "contentChanges": "Three independent briefs written in game-content-briefs-three.json; Uncle concrete example corrected to saved-frame evidence in its isolated content draft."
+}

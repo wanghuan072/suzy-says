@@ -1,0 +1,12 @@
+{
+  "game_id":"assessment-examination",
+  "status":"blocked-browser-unavailable",
+  "checkedAt":"2026-11-18",
+  "attempt":{"method":"cua_repl","requestedBrowser":"iab","requestedUrl":"http://127.0.0.1:4781/?game=assessment-examination","browserInventory":[],"error":"Browser is not available: iab","note":"Attempt to open independent IAB tab failed before a tab was created. Inventory was read only; no native Chrome window selected or operated."},
+  "reviewed_ranges":[],
+  "screenshots":[],
+  "childVideoPlayback":"not_run",
+  "parentReportedObservation":{"notChildObservation":true,"video_id":"5kBE7u-POMc","ranges":[{"start":"00:02:10","end":"00:03:16","reportedState":"Portrait and Threat button, followed by case-file fields and narrative call text","supports":"Classification interface changes to narrative presentation","doesNotSupport":["Answer correctness","Scoring","Ending causality","Browser game compatibility"]}],"note":"Retained only as task context. Parent must merge their own actual evidence; this file does not certify their screenshot or precise continuous coverage."},
+  "requiredFollowup":"Use root's available IAB session for actual video playback and save observed ranges/screenshots. Do not substitute source text, metadata or parent recollection for a new child observation.",
+  "constraintsRespected":["No original Chrome operations","No viewport modification","No game runtime input","No shared JSON edits"]
+}

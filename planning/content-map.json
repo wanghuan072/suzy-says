@@ -1,0 +1,1099 @@
+{
+  "urlPolicy": {
+    "trailingSlash": false
+  },
+  "siteIdentity": {
+    "site_name": "Suzy Says",
+    "short_name": "Suzy Says",
+    "site_name_basis": "Natural startup keyword casing; no official identity claim"
+  },
+  "primaryNavigation": [
+    {
+      "page_id": "home",
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "page_id": "guides",
+      "label": "Guides",
+      "path": "/guides"
+    },
+    {
+      "page_id": "games",
+      "label": "More Games",
+      "path": "/games"
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "home",
+      "path": "/",
+      "nav_level": "primary",
+      "page_role": "game",
+      "primary_intent": "Understand Suzy Says command rules, choose the creator release, and distinguish the unverified browser embed.",
+      "secondary_intents": [],
+      "h1_direction": "Suzy Says command rules and player guide; no verified-browser-play claim.",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "guides",
+      "path": "/guides",
+      "nav_level": "primary",
+      "page_role": "guide-index",
+      "primary_intent": "Find specific Suzy Says help",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "games",
+      "path": "/games",
+      "nav_level": "primary",
+      "page_role": "game-index",
+      "primary_intent": "Choose one of the eight additional experiences",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "assessment-examination",
+      "path": "/games/assessment-examination",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Reading the assessment",
+        "Understand the exam interface and image decisions",
+        "Trust and threat decisions",
+        "Observe interruptions without treating unsettling presentation as an instruction to click at random",
+        "Completing the test",
+        "Discuss evaluation flow while protecting the reveal"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "please-answer-carefully",
+      "path": "/games/please-answer-carefully",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Starting the questionnaire",
+        "Choose a supported language and read one question at a time",
+        "Answers and discomfort",
+        "Separate selectable survey responses from surrounding narrative changes",
+        "Finishing a short session",
+        "Explain stalking themes without pretending there is a reflex challenge"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "last-seen-online",
+      "path": "/games/last-seen-online",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Exploring a digital desktop",
+        "Distinguish files, chat logs and interactive windows",
+        "Following clues",
+        "Relate discovered information to password and escape-room tasks",
+        "Managing discoveries",
+        "Preserve a record of clues without revealing solutions in teasers"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "the-open-house",
+      "path": "/games/the-open-house",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Entering the property tour",
+        "Understand navigation between rooms in a virtual inspection",
+        "Noticing changes",
+        "Read the interface and room changes as the tour progresses",
+        "Handling the browser build",
+        "Explain WebGL limits and protect any personal-looking text in captures"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "bad-ben",
+      "path": "/games/bad-ben",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Finding a way through the house",
+        "Learn WASD movement and E interactions in the author-listed build",
+        "Cameras and the tablet",
+        "Explain viewpoint changes and the tablet after it is acquired",
+        "Reading comic horror cues",
+        "Distinguish deliberate voice reactions from functional input feedback"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "uncle-nintendo",
+      "path": "/games/uncle-nintendo",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Beginning the sleepover",
+        "Make narrative choices rather than searching for action keys",
+        "Following time and dialogue",
+        "Understand the midnight premise and branching path choices",
+        "Replaying a route",
+        "Discuss five author-stated endings without listing hidden choices in teasers"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "exhibit-of-sorrows",
+      "path": "/games/exhibit-of-sorrows",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Operating the exhibits",
+        "Follow each circus display interaction with the mouse",
+        "Returning through the room",
+        "Watch how a repeated traversal changes the meaning of familiar interactions",
+        "Content boundaries",
+        "Explain disturbing themes with guarded late-state images"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "burger-frights",
+      "path": "/games/burger-frights",
+      "nav_level": "detail",
+      "page_role": "game",
+      "primary_intent": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest.",
+      "secondary_intents": [],
+      "h1_direction": "Natural play intent with full continuous game title",
+      "sections": [
+        "Starting the bicycle ride",
+        "Read the in-game input panel before entering the forest",
+        "Reading the road",
+        "Connect route observation and encounter reactions without inventing checkpoints",
+        "Keeping controls responsive",
+        "Explain author-noted mouse drift and fullscreen guidance within version scope"
+      ],
+      "media_slots": [],
+      "visual_role": "Game-first playable surface with a substantial independent article",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "suzy-says-command-rules",
+      "path": "/guides/suzy-says-command-rules",
+      "nav_level": "detail",
+      "page_role": "guide",
+      "primary_intent": "Decide whether to obey a spoken instruction and avoid premature actions",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "suzy-says-first-run",
+      "path": "/guides/suzy-says-first-run",
+      "nav_level": "detail",
+      "page_role": "guide",
+      "primary_intent": "Follow the story phases and understand which version includes additional modes",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "marked",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "privacy",
+      "path": "/privacy",
+      "nav_level": "detail",
+      "page_role": "legal",
+      "primary_intent": "Understand privacy for this independent game site",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "terms",
+      "path": "/terms",
+      "nav_level": "detail",
+      "page_role": "legal",
+      "primary_intent": "Understand terms for this independent game site",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "copyright",
+      "path": "/copyright",
+      "nav_level": "detail",
+      "page_role": "legal",
+      "primary_intent": "Understand copyright for this independent game site",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "about",
+      "path": "/about",
+      "nav_level": "detail",
+      "page_role": "legal",
+      "primary_intent": "Understand about for this independent game site",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    },
+    {
+      "page_id": "contact",
+      "path": "/contact",
+      "nav_level": "detail",
+      "page_role": "legal",
+      "primary_intent": "Understand contact for this independent game site",
+      "secondary_intents": [],
+      "h1_direction": "Direct page task",
+      "sections": [],
+      "media_slots": [],
+      "visual_role": "Readable task page",
+      "internal_links_in": [
+        "global-navigation-or-parent"
+      ],
+      "internal_links_out": [
+        "/",
+        "/guides",
+        "/games"
+      ],
+      "risk_notes": [
+        "No unverified playable/official/free claims"
+      ],
+      "freshness_notes": [
+        "Only change date when visible content changes"
+      ],
+      "spoiler_policy": "none",
+      "spoiler_exclusions": [
+        "Final reveals",
+        "Ending solutions in cards/TDK/alt"
+      ],
+      "status": "planned"
+    }
+  ],
+  "utilityPages": [
+    {
+      "page_id": "privacy",
+      "path": "/privacy",
+      "footerGroup": "Legal"
+    },
+    {
+      "page_id": "terms",
+      "path": "/terms",
+      "footerGroup": "Legal"
+    },
+    {
+      "page_id": "copyright",
+      "path": "/copyright",
+      "footerGroup": "Legal"
+    },
+    {
+      "page_id": "about",
+      "path": "/about",
+      "footerGroup": "Legal"
+    },
+    {
+      "page_id": "contact",
+      "path": "/contact",
+      "footerGroup": "Legal"
+    }
+  ],
+  "homepageContent": {
+    "minimumVisibleNonWhitespaceTextUnitsAfterPlayer": 4000,
+    "plannedCoverage": [
+      "Reading the DVD host",
+      "Recognize the prefix before choosing an action; Windows controls are not configured-embed test results",
+      "Moving between mat and house",
+      "Understand errands without revealing late outcomes",
+      "Mode and platform choices",
+      "Distinguish downloadable base/Full release from provisional browser player"
+    ]
+  },
+  "games": {
+    "mainDataFile": "data/games/main-game.json",
+    "indexPath": "/games",
+    "additionalDataFile": "data/games/games.json",
+    "detailPattern": "/games/[slug]",
+    "minimumPublishedAdditionalGames": 8,
+    "minimumVisibleNonWhitespaceTextUnitsAfterPlayerPerGame": 4000,
+    "gamePageSections": {
+      "featuredGames": {
+        "minimum": 6,
+        "maximum": 8,
+        "columns": 2
+      },
+      "newGames": {
+        "minimum": 6,
+        "maximum": 8,
+        "columns": 2
+      },
+      "recommendedGames": {
+        "count": 6,
+        "placement": "after-player-before-content"
+      }
+    },
+    "items": [
+      {
+        "game_id": "assessment-examination",
+        "slug": "assessment-examination",
+        "candidate_id": "assessment-examination",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "please-answer-carefully",
+        "slug": "please-answer-carefully",
+        "candidate_id": "please-answer-carefully",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "last-seen-online",
+        "slug": "last-seen-online",
+        "candidate_id": "last-seen-online",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "the-open-house",
+        "slug": "the-open-house",
+        "candidate_id": "the-open-house",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "bad-ben",
+        "slug": "bad-ben",
+        "candidate_id": "bad-ben",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "uncle-nintendo",
+        "slug": "uncle-nintendo",
+        "candidate_id": "uncle-nintendo",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "exhibit-of-sorrows",
+        "slug": "exhibit-of-sorrows",
+        "candidate_id": "exhibit-of-sorrows",
+        "coverage_status": "planned"
+      },
+      {
+        "game_id": "burger-frights",
+        "slug": "burger-frights",
+        "candidate_id": "burger-frights",
+        "coverage_status": "planned"
+      }
+    ]
+  },
+  "guides": {
+    "indexPath": "/guides",
+    "dataDirectory": "data/guides",
+    "items": [
+      {
+        "guide_id": "suzy-says-command-rules",
+        "slug": "suzy-says-command-rules",
+        "intent_cluster_id": "commands",
+        "coverage_status": "planned"
+      },
+      {
+        "guide_id": "suzy-says-first-run",
+        "slug": "suzy-says-first-run",
+        "intent_cluster_id": "routes",
+        "coverage_status": "planned"
+      }
+    ]
+  },
+  "internalLinks": [
+    {
+      "from": "/",
+      "to": "/guides",
+      "purpose": "Instruction and progression help"
+    },
+    {
+      "from": "/",
+      "to": "/games",
+      "purpose": "Choose another playable experience"
+    },
+    {
+      "from": "/games",
+      "to": "/games/assessment-examination",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games",
+      "to": "/games/last-seen-online",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games",
+      "to": "/games/the-open-house",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games",
+      "to": "/games/bad-ben",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games",
+      "to": "/games/burger-frights",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest."
+    },
+    {
+      "from": "/guides",
+      "to": "/guides/suzy-says-command-rules",
+      "purpose": "Decide whether to obey a spoken instruction and avoid premature actions"
+    },
+    {
+      "from": "/guides",
+      "to": "/guides/suzy-says-first-run",
+      "purpose": "Follow the story phases and understand which version includes additional modes"
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/last-seen-online",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/the-open-house",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/bad-ben",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/assessment-examination",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/last-seen-online",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/the-open-house",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/bad-ben",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/assessment-examination",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/the-open-house",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/bad-ben",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/assessment-examination",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/last-seen-online",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/bad-ben",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/assessment-examination",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/last-seen-online",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/the-open-house",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/assessment-examination",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/last-seen-online",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/the-open-house",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/bad-ben",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/assessment-examination",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/last-seen-online",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/the-open-house",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/bad-ben",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/assessment-examination",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/last-seen-online",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/the-open-house",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/bad-ben",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    }
+  ],
+  "excludedIdeas": [
+    "Thin download topic",
+    "Duplicate main-game detail",
+    "Comments",
+    "Ads placeholders"
+  ]
+}

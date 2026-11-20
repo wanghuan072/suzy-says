@@ -1,0 +1,106 @@
+{
+  "observedAt": "2026-11-18",
+  "language": "en",
+  "market": "US",
+  "queries": [
+    {
+      "query": "suzy says",
+      "monthlyVolume": 10,
+      "volumePeriod": "2025-10 to 2026-09",
+      "volumeSource": "gefei Google Ads historical cache",
+      "precision": "historical average, not launch demand",
+      "trend": {
+        "window": "12m",
+        "source": "gefei Google Trends",
+        "weekly": [
+          {
+            "date": "2026-11-08",
+            "heat": 46
+          },
+          {
+            "date": "2026-11-15",
+            "heat": 100,
+            "partial": true
+          }
+        ]
+      },
+      "kd": 40.8,
+      "kdScope": "Third-party content top-ten estimate; automated brand classification unreliable",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says game",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says walkthrough",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says endings",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says secret ending",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says download",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says where to play",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says online",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    },
+    {
+      "query": "suzy says steam",
+      "monthlyVolume": "unavailable",
+      "precision": "unavailable",
+      "intent": "Qualitative task; do not infer volume",
+      "evidenceIds": [
+        "previous-gefei"
+      ]
+    }
+  ]
+}

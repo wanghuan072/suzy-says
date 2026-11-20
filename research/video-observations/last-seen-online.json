@@ -1,0 +1,13 @@
+{
+  "game_id":"last-seen-online",
+  "status":"blocked-browser-unavailable",
+  "checkedAt":"2026-11-18",
+  "attempt":{"method":"cua_repl","requestedBrowser":"iab","requestedUrl":"http://127.0.0.1:4781/?game=last-seen-online","error":"Browser is not available: iab","browserInventory":[],"note":"createBrowserTab failed before creating a tab. cua.getState confirmed no available browser providers. Native user windows were not selected or operated."},
+  "reviewed_ranges":[],
+  "screenshots":[],
+  "childVideoPlayback":"not_run",
+  "supportedVideoClaims":[],
+  "unsupported_claims":["Actual watched gameplay range","Visual confirmation of current art/build","Observed puzzle success or failure","Video embed playback in this child context"],
+  "requiredFollowup":"Root must use its available IAB provider for real playback, identity-bearing frames and continuous mechanism observation; record frame/time/action/result and honest limitations.",
+  "constraintsRespected":["No original Chrome operations","No viewport modification","No game runtime input","No shared JSON edits"]
+}

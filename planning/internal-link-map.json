@@ -1,0 +1,555 @@
+{
+  "navigation": [
+    {
+      "page_id": "home",
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "page_id": "guides",
+      "label": "Guides",
+      "path": "/guides"
+    },
+    {
+      "page_id": "games",
+      "label": "More Games",
+      "path": "/games"
+    }
+  ],
+  "links": [
+    {
+      "from": "/",
+      "to": "/guides",
+      "purpose": "Instruction and progression help"
+    },
+    {
+      "from": "/",
+      "to": "/games",
+      "purpose": "Choose another playable experience"
+    },
+    {
+      "from": "/games",
+      "to": "/games/assessment-examination",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games",
+      "to": "/games/last-seen-online",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games",
+      "to": "/games/the-open-house",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games",
+      "to": "/games/bad-ben",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games",
+      "to": "/games/burger-frights",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest."
+    },
+    {
+      "from": "/guides",
+      "to": "/guides/suzy-says-command-rules",
+      "purpose": "Decide whether to obey a spoken instruction and avoid premature actions"
+    },
+    {
+      "from": "/guides",
+      "to": "/guides/suzy-says-first-run",
+      "purpose": "Follow the story phases and understand which version includes additional modes"
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/last-seen-online",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/the-open-house",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/bad-ben",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/assessment-examination",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/assessment-examination",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/last-seen-online",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/the-open-house",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/bad-ben",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/please-answer-carefully",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/assessment-examination",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/the-open-house",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/bad-ben",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/last-seen-online",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/assessment-examination",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/last-seen-online",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/bad-ben",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/the-open-house",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/assessment-examination",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/last-seen-online",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/the-open-house",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/bad-ben",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/assessment-examination",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/last-seen-online",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/the-open-house",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/bad-ben",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/uncle-nintendo",
+      "to": "/games/exhibit-of-sorrows",
+      "purpose": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/assessment-examination",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/last-seen-online",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/the-open-house",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/bad-ben",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/exhibit-of-sorrows",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/assessment-examination",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/please-answer-carefully",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/last-seen-online",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/the-open-house",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/bad-ben",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+    },
+    {
+      "from": "/games/burger-frights",
+      "to": "/games/uncle-nintendo",
+      "purpose": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+    }
+  ],
+  "perGameRelatedCandidates": [
+    {
+      "gameId": "assessment-examination",
+      "related": [
+        {
+          "id": "please-answer-carefully",
+          "reason": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "reason": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+        }
+      ]
+    },
+    {
+      "gameId": "please-answer-carefully",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "reason": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+        }
+      ]
+    },
+    {
+      "gameId": "last-seen-online",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "please-answer-carefully",
+          "reason": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "reason": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+        }
+      ]
+    },
+    {
+      "gameId": "the-open-house",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "please-answer-carefully",
+          "reason": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "reason": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+        }
+      ]
+    },
+    {
+      "gameId": "bad-ben",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "please-answer-carefully",
+          "reason": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "reason": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+        }
+      ]
+    },
+    {
+      "gameId": "uncle-nintendo",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "please-answer-carefully",
+          "reason": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "reason": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully. Related next experience: Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link."
+        }
+      ]
+    },
+    {
+      "gameId": "exhibit-of-sorrows",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "please-answer-carefully",
+          "reason": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        }
+      ]
+    },
+    {
+      "gameId": "burger-frights",
+      "related": [
+        {
+          "id": "assessment-examination",
+          "reason": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Judge unsettling images through a test interface rather than blindly trusting a cheerful host."
+        },
+        {
+          "id": "please-answer-carefully",
+          "reason": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread."
+        },
+        {
+          "id": "last-seen-online",
+          "reason": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host."
+        },
+        {
+          "id": "the-open-house",
+          "reason": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection."
+        },
+        {
+          "id": "bad-ben",
+          "reason": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera."
+        },
+        {
+          "id": "uncle-nintendo",
+          "reason": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest. Related next experience: Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully."
+        }
+      ]
+    }
+  ]
+}

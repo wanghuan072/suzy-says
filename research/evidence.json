@@ -1,0 +1,300 @@
+[
+  {
+    "id": "main-official",
+    "kind": "official-web",
+    "location": "https://moonbit.itch.io/suzy-says",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "MOONBIT horror game; Windows download.",
+      "WASD movement, Space jump, C crouch.",
+      "Full version includes endless mode and secret ending; $1.50 minimum.",
+      "Flashing lights and jumpscares warning."
+    ],
+    "confidence": "high",
+    "versionScope": "November 2026 itch release",
+    "conflictStatus": "none"
+  },
+  {
+    "id": "main-language-update",
+    "kind": "official-web",
+    "location": "https://moonbit.itch.io/suzy-says/devlog/1774969/additional-languages-added",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Ten subtitle languages listed in November update."
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "main-patch",
+    "kind": "official-web",
+    "location": "https://moonbit.itch.io/suzy-says/devlog/1764041/launch-and-patch",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Launch update corrected a late-game subtitle."
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "main-video-opening",
+    "kind": "video-observation",
+    "location": "https://www.youtube.com/watch?v=7CLLI0ijVGQ",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Viewed mother note, DVD/CRT introduction, purple-walled room and spoken mat command."
+    ],
+    "confidence": "medium",
+    "versionScope": "CatPlay November 2026 recording; not configured iframe",
+    "conflictStatus": "open",
+    "notes": "Only opening observed. No full-run or ending observation claimed."
+  },
+  {
+    "id": "previous-gefei",
+    "kind": "tool-results",
+    "location": "Current chat earlier gefei calls",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "US/en historical volume average 10 through September 2026.",
+      "US 12m relative heat 46 at November 8 week, 100 at November 15 partial week.",
+      "KD40.8; brand classification error noted."
+    ],
+    "confidence": "medium",
+    "versionScope": "SERP cached November16 Beijing; trends retrieved November18"
+  },
+  {
+    "id": "assessment-examination-author",
+    "kind": "official-web",
+    "location": "https://wenderlygames.itch.io/assessment-examination",
+    "title": "Assessment Examination",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Exam interface, assessment choices, interruptions, evaluation outcome, F fullscreen, 10–15 minute session."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "please-answer-carefully-author",
+    "kind": "official-web",
+    "location": "https://litrouke.itch.io/please-answer-carefully",
+    "title": "Please Answer Carefully",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Survey responses, changing question tone, stalking theme, available language selection, Twine text interface, short session."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "last-seen-online-author",
+    "kind": "official-web",
+    "location": "https://qwook.itch.io/last-seen-online",
+    "title": "last seen online",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Files and computer interface, clue-based passwords, chat logs, escape-room progression, replay facility, 2025 art update, current 2026 build."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "the-open-house-author",
+    "kind": "official-web",
+    "location": "https://corpsepile.itch.io/the-open-house",
+    "title": "The Open House",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Virtual property tour, room navigation, changing presentation, WebGL issues, author warning about system username display."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "make-sure-its-closed-author",
+    "kind": "official-web",
+    "location": "https://corpsepile.itch.io/make-sure-its-closed",
+    "title": "make sure it's closed",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Garage-door interaction and childhood fear premise",
+      "extremely short experience",
+      "WebGL lighting caveat."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "bad-ben-author",
+    "kind": "official-web",
+    "location": "https://corpsepile.itch.io/bad-ben",
+    "title": "Bad Ben",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Tom Riley role, key fetching, changing camera views, tablet after acquisition, WASD move/E interact/Tab tablet, WebGL hardware acceleration."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "six-cats-under-author",
+    "kind": "official-web",
+    "location": "https://teambeanloop.itch.io/six-cats-under",
+    "title": "Six Cats Under",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Poltergeist interactions, cat personalities, room-object puzzle chains, escape goal, Unity browser version, pixel-art scene."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "uncle-nintendo-author",
+    "kind": "official-web",
+    "location": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+    "title": "the uncle who works for nintendo",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Sleepover setting, dialogue choices, arrival at midnight, five endings stated by author, replaying different paths, Twine browser build."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "exhibit-of-sorrows-author",
+    "kind": "official-web",
+    "location": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+    "title": "Exhibit of Sorrows",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Interactive circus exhibits, mouse actions, return traversal and changed rules",
+      "July 2025 intro-lag fix",
+      "content warnings needed."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "burger-frights-author",
+    "kind": "official-web",
+    "location": "https://donitz.itch.io/burger-frights",
+    "title": "Burger & Frights",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Bicycle ride through forest, input scheme shown inside game, fullscreen recommendation, Firefox mouse-drift fix, route changes and encounter rules to test."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "sort-the-court-author",
+    "kind": "official-web",
+    "location": "https://graebor.itch.io/sort-the-court",
+    "title": "Sort the Court!",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Yes/no decisions, three resources and population outcomes to verify, visitor patterns, day transition, old Unity build limitation",
+      "mobile updated version exclusive to Poki."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "the-exhibit-author",
+    "kind": "official-web",
+    "location": "https://adayofjoy.itch.io/the-exhibit",
+    "title": "The Exhibit",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "One room and unusual portrait",
+      "prototype identity",
+      "minimal scrolling",
+      "no clowns",
+      "depth may be insufficient for 4000 useful characters."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "fatal-survey-author",
+    "kind": "official-web",
+    "location": "https://glompyy.itch.io/fatal-survey",
+    "title": "Fatal Survey",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "HTML visual novel, two endings, dark room/computer setup, survey buttons",
+      "explicit graphic-violence and strobe warning."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "the-survey-rishi-author",
+    "kind": "official-web",
+    "location": "https://rishisampath.itch.io/the-survey",
+    "title": "The Survey",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Email after work setup, Twine choice structure, proof-of-concept status, author reports puzzle/bug fix",
+      "unique puzzles must be verified."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "we-become-what-we-behold-author",
+    "kind": "official-web",
+    "location": "https://ncase.itch.io/wbwwb",
+    "title": "We Become What We Behold",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Camera framing, selective capture and escalating social reactions",
+      "public-domain code/art",
+      "content violence needs in-game review."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "routine-author",
+    "kind": "official-web",
+    "location": "https://corpsepile.itch.io/routine",
+    "title": "Routine",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Wake/relax/repeat narrative experiment",
+      "official page lists only Windows/macOS/Linux."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  },
+  {
+    "id": "parsnip-author",
+    "kind": "official-web",
+    "location": "https://bunbirb.itch.io/parsnip",
+    "title": "Parsnip",
+    "accessedAt": "2026-11-18",
+    "claims": [
+      "Point-and-click cake-ingredient quest",
+      "official Windows-only build",
+      "author warns of crashes."
+    ],
+    "confidence": "medium",
+    "versionScope": "Current author page; browser build identity not play-verified",
+    "conflictStatus": "open"
+  }
+]

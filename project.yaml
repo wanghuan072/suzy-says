@@ -1,0 +1,53 @@
+project:
+  keyword: suzy says
+  language: en
+  language_basis: English keyword and English official game content and observed search tasks.
+  target_market: US
+  target_market_basis: Prior gefei US/en analysis; broader English-speaking visitors supported.
+paths:
+  workflow_dir: D:\wh\Agent\Game-Agent
+  project_dir: D:\wh\202611\suzy says\suzy says\suzy-says
+  research_dir: research
+  planning_dir: planning
+  reports_dir: reports
+  handoff_dir: handoff
+runtime:
+  frontend_framework: Next.js 16.4.6 App Router / React 19.3.0 / TypeScript
+  package_manager: npm
+  has_existing_code: true
+  node_version: v24.19.0
+  rendering: Next.js App Router, published content statically generated
+game:
+  config_path: data/games/main-game.json
+domain:
+  value: suzysaysgame.site
+  origin: https://suzysaysgame.site
+  status: configured
+deployment:
+  target: Cloudflare Pages static export
+  production_output: out
+  build_command: npm run build
+  package_command: npm run package
+execution:
+  network_research: true
+  code_changes: true
+  install_needed_dependencies: true
+  run_checks_and_build: true
+  deploy: true
+  git_commit: true
+  game_runtime_interaction_tests: false
+boundaries:
+  forbidden_operations:
+    - Read other game projects
+    - Write outside project_dir
+    - Deploy
+    - Git commit or remote mutation
+notes:
+  - Existing create-next-app scaffold; retain root app architecture.
+  - >-
+    Main player is provisional and replaceable; research must distinguish configured embed identity from Suzy Says game
+    identity.
+  - Preview lifecycle follows current user workflow; no unrelated persistent service.
+  - >-
+    2026-11-18 user override: no game iframe real-play/clean-context tests; integrate configured iframe directly and
+    report not_tested. Other research/content/build requirements retained.

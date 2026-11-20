@@ -1,0 +1,57 @@
+[
+  {
+    "guide_id": "suzy-says-command-rules",
+    "slug": "suzy-says-command-rules",
+    "intent_cluster_id": "commands",
+    "primary_task": "Decide whether to obey a spoken instruction and avoid premature actions",
+    "queries": [
+      "suzy says commands",
+      "suzy says how to play"
+    ],
+    "unique_scope": "A decision aid, not a chronological story walkthrough",
+    "required_sections": [
+      "prefix-decision",
+      "mat-and-errands",
+      "mistakes-and-recovery",
+      "controls-and-limits"
+    ],
+    "media_slots": [
+      {
+        "slot_id": "guide-command-cover",
+        "task": "A distinct instruction-reading diagram or approved mat image"
+      }
+    ],
+    "freshness_risk": "Mode and subtitle changes",
+    "coverage_status": "planned",
+    "spoilerPolicy": "none"
+  },
+  {
+    "guide_id": "suzy-says-first-run",
+    "slug": "suzy-says-first-run",
+    "intent_cluster_id": "first-run",
+    "primary_task": "Choose the original edition and prepare a first session through the opening DVD activity",
+    "queries": [
+      "suzy says Windows",
+      "suzy says controls",
+      "suzy says languages"
+    ],
+    "unique_scope": "Edition, file preparation, input and subtitle setup before the first command; no ending walkthrough",
+    "required_sections": [
+      "choose-the-edition",
+      "prepare-windows-files",
+      "prepare-the-controls",
+      "subtitles-and-comfort",
+      "opening-dvd",
+      "recover-by-stage"
+    ],
+    "media_slots": [
+      {
+        "slot_id": "guide-first-run-cover",
+        "task": "Original preparation checklist diagram distinct from command decision diagram"
+      }
+    ],
+    "freshness_risk": "Edition/features and subtitle updates",
+    "coverage_status": "planned",
+    "spoilerPolicy": "none"
+  }
+]

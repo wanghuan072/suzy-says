@@ -1,0 +1,128 @@
+[
+  {
+    "id": "home",
+    "path": "/",
+    "type": "game",
+    "dataSource": "data/games/main-game.json",
+    "canonical": "/"
+  },
+  {
+    "id": "guides",
+    "path": "/guides",
+    "type": "guide-index",
+    "dataSource": "static",
+    "canonical": "/guides"
+  },
+  {
+    "id": "games",
+    "path": "/games",
+    "type": "game-index",
+    "dataSource": "static",
+    "canonical": "/games"
+  },
+  {
+    "id": "assessment-examination",
+    "path": "/games/assessment-examination",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/assessment-examination"
+  },
+  {
+    "id": "please-answer-carefully",
+    "path": "/games/please-answer-carefully",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/please-answer-carefully"
+  },
+  {
+    "id": "last-seen-online",
+    "path": "/games/last-seen-online",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/last-seen-online"
+  },
+  {
+    "id": "the-open-house",
+    "path": "/games/the-open-house",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/the-open-house"
+  },
+  {
+    "id": "bad-ben",
+    "path": "/games/bad-ben",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/bad-ben"
+  },
+  {
+    "id": "uncle-nintendo",
+    "path": "/games/uncle-nintendo",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/uncle-nintendo"
+  },
+  {
+    "id": "exhibit-of-sorrows",
+    "path": "/games/exhibit-of-sorrows",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/exhibit-of-sorrows"
+  },
+  {
+    "id": "burger-frights",
+    "path": "/games/burger-frights",
+    "type": "game",
+    "dataSource": "data/games/games.json",
+    "canonical": "/games/burger-frights"
+  },
+  {
+    "id": "suzy-says-command-rules",
+    "path": "/guides/suzy-says-command-rules",
+    "type": "guide",
+    "dataSource": "data/guides/suzy-says-command-rules.json",
+    "canonical": "/guides/suzy-says-command-rules"
+  },
+  {
+    "id": "suzy-says-first-run",
+    "path": "/guides/suzy-says-first-run",
+    "type": "guide",
+    "dataSource": "data/guides/suzy-says-first-run.json",
+    "canonical": "/guides/suzy-says-first-run"
+  },
+  {
+    "id": "privacy",
+    "path": "/privacy",
+    "type": "legal",
+    "dataSource": "static",
+    "canonical": "/privacy"
+  },
+  {
+    "id": "terms",
+    "path": "/terms",
+    "type": "legal",
+    "dataSource": "static",
+    "canonical": "/terms"
+  },
+  {
+    "id": "copyright",
+    "path": "/copyright",
+    "type": "legal",
+    "dataSource": "static",
+    "canonical": "/copyright"
+  },
+  {
+    "id": "about",
+    "path": "/about",
+    "type": "legal",
+    "dataSource": "static",
+    "canonical": "/about"
+  },
+  {
+    "id": "contact",
+    "path": "/contact",
+    "type": "legal",
+    "dataSource": "static",
+    "canonical": "/contact"
+  }
+]

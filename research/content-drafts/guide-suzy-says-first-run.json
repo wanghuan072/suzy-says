@@ -1,0 +1,83 @@
+{
+  "id":"suzy-says-first-run",
+  "slug":"suzy-says-first-run",
+  "status":"draft",
+  "title":"Your first Suzy Says session: version, controls and subtitles",
+  "summary":"Choose the original Windows version, prepare its movement controls and subtitle language, then recognize the opening DVD and first command without reading ahead into the story.",
+  "tags":["First run","Windows","Subtitles"],
+  "authorId":null,
+  "spoilerPolicy":"none",
+  "publishedAt":null,
+  "updatedAt":null,
+  "cover":{"src":"","alt":"","width":null,"height":null},
+  "seo":{
+    "title":"Suzy Says First Run: Versions, Controls and Subtitles",
+    "description":"Prepare your first Suzy Says session: choose the Windows release, compare base and Full, check movement keys and subtitles, and recognize the opening DVD."
+  },
+  "sections":[
+    {
+      "id":"choose-the-original-release",
+      "title":"Choose the release that contains what you want",
+      "blocks":[
+        {"type":"paragraph","text":"The original Suzy Says is a Windows game by MOONBIT. Choose that release if you want the DVD-host experience described here. A browser game with a similar name or a recreation can have a different opening, controls or set of modes. Check the developer and platform before treating any version as interchangeable."},
+        {"type":"table","columns":["Choice","What to check before starting"],"rows":[["Base Windows download","Use this when beginning with the original release. Do not assume its available modes match Full."],["Full Windows version","Includes endless mode and a secret ending. The listed minimum payment is USD1.50."],["A browser-hosted game","Read its own control prompts. A player loading on a webpage does not establish that it is an official Windows-game port."]]},
+        {"type":"paragraph","text":"Choose by the session you want. If you want the additional endless mode or secret-ending content, check that you have selected Full before downloading. If you are still deciding whether the listening-and-movement premise interests you, begin by understanding the base release rather than choosing a version because a video title promises every ending. No ending solution is needed for this preparation."}
+      ]
+    },
+    {
+      "id":"prepare-the-windows-copy",
+      "title":"Finish preparing the Windows copy before playing",
+      "blocks":[
+        {"type":"steps","items":[
+          {"title":"Check the game and platform","body":"On the original itch.io listing, confirm Suzy Says and MOONBIT, then check that the chosen download is the Windows release you intend to use. Keep the base/Full distinction in mind rather than assuming every file contains the same modes."},
+          {"title":"Let the download finish","body":"Wait until the browser reports that the file has finished downloading. A partially downloaded game is a different problem from a game that opens and then waits for input."},
+          {"title":"Prepare the downloaded files","body":"If Windows shows the download as a compressed archive, extract it before trying to run its contents. Keep the extracted files together. Follow the instructions supplied with the downloaded copy rather than guessing an executable name, an installer screen or a special destination folder."}
+        ]},
+        {"type":"paragraph","text":"Choose a location you can find again so you do not accidentally start an older or different copy on your next visit. If you later choose Full, confirm which copy you are opening. Changing a browser player's view does not add the modes of a separately downloaded edition, and renaming a file does not turn the base release into Full."},
+        {"type":"paragraph","text":"If the file is still downloading or cannot be extracted, solve that step before interpreting anything as a game event. Check the download status and whether Windows can read the archive. Do not remove security protections or install an unrelated extension to force a game to open. Use the game's own instructions if Windows presents an unfamiliar file or prompt."}
+      ]
+    },
+    {
+      "id":"prepare-your-inputs",
+      "title":"Put the movement keys within easy reach",
+      "blocks":[
+        {"type":"table","columns":["Input in the original Windows release","Action"],"rows":[["WASD","Move"],["Space","Jump"],["C","Crouch"]]},
+        {"type":"paragraph","text":"Before the instructions become demanding, place your hand so you can move between the movement keys, Space and C without searching for them. Keep the game window active when checking a key. The aim of this setup is to make each action easy to reach, not to begin moving continuously before the game asks for a response."},
+        {"type":"paragraph","text":"If a movement key does nothing, first check which window has focus and whether the game is still showing an introduction or loading state. In a browser player, a key can affect the surrounding webpage instead of the game. Click the active game area and read its prompts. These Windows controls describe the original release; they do not guarantee that a differently hosted game supports the same inputs."},
+        {"type":"paragraph","text":"A phone displaying the website is not equivalent to having this keyboard layout. Use a Windows computer for the original download. If you choose another implementation, check its own visible controls rather than assuming a screen tap replaces jumping or crouching. Do not spend a first session trying to solve an input mismatch as though it were part of the command puzzle."}
+      ]
+    },
+    {
+      "id":"choose-subtitles-and-comfort",
+      "title":"Make the spoken instructions easy to follow",
+      "blocks":[
+        {"type":"paragraph","text":"The original release offers subtitles in English, French, German, Italian, Spanish, Brazilian Portuguese, Polish, Russian, Chinese and Japanese. Choose a language you can read comfortably when the game presents its language or subtitle options. Subtitle availability does not mean every language has a separate spoken performance."},
+        {"type":"paragraph","text":"Keep the subtitle area readable. On a small game window, enlarge the view before a command begins instead of changing the display while you are trying to respond. In a webpage player, Webpage Fullscreen expands the page's game area and Browser Fullscreen uses the browser display mode. Those are viewing tools; they do not alter the original game's control scheme or edition."},
+        {"type":"paragraph","text":"Use a comfortable sound level. The original game includes flashing lights, jumpscares and unsettling themes, so loudness is not a useful measure of readiness. Lower the volume or stop if the effects become uncomfortable. Subtitles can make wording easier to follow, but you should still allow yourself to read the current instruction rather than treating a sudden sound as a new task."}
+      ]
+    },
+    {
+      "id":"recognize-the-opening",
+      "title":"Orient yourself from the DVD to the first instruction",
+      "blocks":[
+        {"type":"paragraph","text":"The opening places a mysterious interactive DVD in a familiar home. Take time to read the opening information instead of rushing past it in search of an action sequence. A note and the DVD presentation help establish why the television matters. You do not need to know what happens later to understand those starting landmarks."},
+        {"type":"steps","items":[
+          {"title":"Read the opening information","body":"Allow the opening text or note to be read before assuming that a quiet moment is a loading fault. Follow the interaction prompt currently visible in the game; do not substitute an assumed key that is absent from its instructions."},
+          {"title":"Recognize the television presentation","body":"When the DVD introduction appears on the television, keep that screen in view and listen to the current instructions. The host and the floor mat are the immediate points of attention; this is not yet a reason to search for later story objectives."},
+          {"title":"Locate yourself before responding","body":"Notice the television, the mat and the nearest doorway so you understand where you are standing. When the first command appears, read its wording and any visible timer before choosing the requested action. Move into command practice once the instruction is actually present."}
+        ]},
+        {"type":"paragraph","text":"This is the handoff between preparation and play. At that point, the separate command guide can help with deciding which lines qualify and matching an action to its target. You do not need a finale walkthrough, an ending checklist or a late-object location list to prepare this first response."}
+      ]
+    },
+    {
+      "id":"recover-the-right-step",
+      "title":"Return to the step that actually failed",
+      "blocks":[
+        {"type":"paragraph","text":"Distinguish three situations. A download that has not finished needs the download step. A game that opens but does not receive your keys needs an input and focus check. A working game presenting a note, introduction or instruction needs you to read the current screen. Repeating the same restart for all three can make the original problem harder to identify."},
+        {"type":"paragraph","text":"For a browser player that reports a loading failure, use one retry and let the new attempt finish before opening another copy. For the original Windows copy, check that you are opening the intended extracted release. A persistent black screen does not reveal a single cause by itself; avoid guessing a game-specific fix from its appearance alone."},
+        {"type":"paragraph","text":"Do not assume a restart will preserve your place. Finish the small preparation checks before a longer session, and avoid clearing stored browser data as a first response to a missed key. Once the version, readable subtitles, comfortable sound and active inputs are settled, your next task is the current command itself. The command guide takes over there without revealing later story events."}
+      ]
+    }
+  ],
+  "relatedGuideIds":["suzy-says-command-rules"]
+}

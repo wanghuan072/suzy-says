@@ -1,0 +1,2842 @@
+{
+  "stage": "02 discovery only",
+  "status": "needs-secondary-check",
+  "generatedAt": "2026-11-18",
+  "candidateCount": 17,
+  "eligibleCount": 0,
+  "publicDataChanged": false,
+  "limitations": [
+    "No CUA used by this child; all candidates need parent controlled browser tests.",
+    "Official itch shell pages returned frame-ancestors self/itch.io; use actual html-classic game builds, not author shell URL.",
+    "Video metadata is initial triage, not observed-game or embed-playback proof.",
+    "No permission to contact developers was requested or exercised."
+  ],
+  "candidates": [
+    {
+      "id": "assessment-examination",
+      "title": "Assessment Examination",
+      "slug": "assessment-examination",
+      "author": "Wenderly Games",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://wenderlygames.itch.io/assessment-examination",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "Exam interface, assessment choices, interruptions, evaluation outcome, F fullscreen, 10–15 minute session."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/5392404/Web5/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Exam interface",
+          "assessment choices",
+          "interruptions",
+          "evaluation outcome",
+          "F fullscreen",
+          "10–15 minute session."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Assessment Examination Wenderly Games trust threat examination gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Assessment%20Examination%20Wenderly%20Games%20trust%20threat%20examination%20gameplay",
+            "status": 200,
+            "error": "No ytInitialData; no video candidate inferred",
+            "candidates": [],
+            "authorEmbeddedLead": {
+              "videoId": "zRwynlUyQ2A",
+              "provenance": "Extracted YouTube embed from https://wenderlygames.itch.io/assessment-examination HTML",
+              "identity": "unknown",
+              "visuallyWatched": false,
+              "embedPlayback": "not_run",
+              "note": "Author-provided lead; no footage or metadata inference. Self-search remains separately recorded."
+            }
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "please-answer-carefully",
+      "title": "Please Answer Carefully",
+      "slug": "please-answer-carefully",
+      "author": "litrouke",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://litrouke.itch.io/please-answer-carefully",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "Survey responses, changing question tone, stalking theme, available language selection, Twine text interface, short session."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/10245174/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Survey responses",
+          "changing question tone",
+          "stalking theme",
+          "available language selection",
+          "Twine text interface",
+          "short session."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Please Answer Carefully litrouke survey choices horror full game",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Please%20Answer%20Carefully%20litrouke%20survey%20choices%20horror%20full%20game",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "eYjjVDO2Sl4",
+                "title": "Please Answer Carefully (Full Game) - A SURVEY TURNS SCARY!",
+                "publisher": "GoopyApple TV",
+                "duration": "9:10",
+                "publishedText": "2y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "aK3IThvK_Cw",
+                "title": "Lets Play Please Answer Carefully: Laying my soul bare for this questionnaire",
+                "publisher": "Hula Noob plays Horror Games",
+                "duration": "12:37",
+                "publishedText": "5y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "h2qxez9TBGU",
+                "title": "Please Answer Carefully (Full Game, No Commentary)",
+                "publisher": "Jeriah in the middle of the woods",
+                "duration": "5:54",
+                "publishedText": "2y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "last-seen-online",
+      "title": "last seen online",
+      "slug": "last-seen-online",
+      "author": "qwook / sochinstudio",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://qwook.itch.io/last-seen-online",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host.",
+      "inputs": "keyboard, mouse; touch listed by author",
+      "knownFacts": [
+        "Files and computer interface, clue-based passwords, chat logs, escape-room progression, replay facility, 2025 art update, current 2026 build."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/19480086-2047391/index.html?v=1790871920",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Files and computer interface",
+          "clue-based passwords",
+          "chat logs",
+          "escape-room progression",
+          "replay facility",
+          "2025 art update",
+          "current 2026 build."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "last seen online qwook password files other world walkthrough 2026",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=last%20seen%20online%20qwook%20password%20files%20other%20world%20walkthrough%202026",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "6a83iH6lWPI",
+                "title": "Last seen online  2026 playthrough  Full Game[No Commentary; Just Confusion, a little bit]",
+                "publisher": "Coffeedsoul890",
+                "duration": "19:26",
+                "publishedText": "4w ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "OYN6adQJTu8",
+                "title": "LAST SEEN ONLINE | Click to Creep [Walkthrough]",
+                "publisher": "gamaverse.online — free games",
+                "duration": "15:31",
+                "publishedText": "2y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "9E8yGPsJcA0",
+                "title": "LAST SEEN ONLINE// No commentary Full Gameplay Walkthrough #videogames  #fyp  #new #walkthrough",
+                "publisher": "Old3ra",
+                "duration": "25:02",
+                "publishedText": "1mo ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks.",
+      "identityDisambiguation": {
+        "correct": "qwook / sochinstudio original released 2023; current artwork changed in 2025",
+        "excluded": [
+          "Leonardo Guidolin 2026 game using same words",
+          "Teharra Rose game jam edition",
+          "jeromegame messenger title"
+        ],
+        "check": "Compare Liz desktop/escape-room identity in game and video; do not mix their endings, accounts, art or version claims."
+      }
+    },
+    {
+      "id": "the-open-house",
+      "title": "The Open House",
+      "slug": "the-open-house",
+      "author": "corpsepile",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://corpsepile.itch.io/the-open-house",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection.",
+      "inputs": "mouse; confirm controls in build",
+      "knownFacts": [
+        "Virtual property tour, room navigation, changing presentation, WebGL issues, author warning about system username display."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/2049913/The%20Open%20House%20WebGL/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Virtual property tour",
+          "room navigation",
+          "changing presentation",
+          "WebGL issues",
+          "author warning about system username display."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "The Open House corpsepile house tour no commentary full playthrough",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=The%20Open%20House%20corpsepile%20house%20tour%20no%20commentary%20full%20playthrough",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "SZxTn3h34rE",
+                "title": "The open house - Full game - No commentary",
+                "publisher": "Cookie",
+                "duration": "13:03",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "86yht3TCh8k",
+                "title": "The Open House - Indie Horror Game (No Commentary)",
+                "publisher": "rodteabaggins",
+                "duration": "20:59",
+                "publishedText": "6y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "b-cYzOrj-ig",
+                "title": "THE OPEN HOUSE by corpsepile - Full Playthrough (No Commentary) New Home Buying Walk-Through (2020)",
+                "publisher": "Modern Horror Gaming",
+                "duration": "15:30",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually.",
+        "privacy": "Author warns the game can display system username; verify browser-build behavior and avoid exposing personal identifiers in captures."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "make-sure-its-closed",
+      "title": "make sure it's closed",
+      "slug": "make-sure-its-closed",
+      "author": "corpsepile",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://corpsepile.itch.io/make-sure-its-closed",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Carry out one domestic safety instruction while a threat approaches; close obedience and home-invasion connection.",
+      "inputs": "confirm interaction in build",
+      "knownFacts": [
+        "Garage-door interaction and childhood fear premise",
+        "extremely short experience",
+        "WebGL lighting caveat."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/1342653/MSIC-WEBGL/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Garage-door interaction and childhood fear premise; extremely short experience; WebGL lighting caveat."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ],
+        "warning": "Very short experience/prototype: reject if observed facts cannot support substantive 4000-character article without repetition."
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "make sure its closed corpsepile garage door button gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=make%20sure%20its%20closed%20corpsepile%20garage%20door%20button%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "UBGoSjbiKD8",
+                "title": "Make Sure It's Closed - A Short & Scary Horror Game About Closing a Garage Door!",
+                "publisher": "Alpha Beta Gamer",
+                "duration": "1:51",
+                "publishedText": "7y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "sYYqkNePvMI",
+                "title": "WORST GARAGE EVER! | Make Sure it's Closed",
+                "publisher": "Sugarcat",
+                "duration": "3:58",
+                "publishedText": "6y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "LiFkAOlInRI",
+                "title": "Make Sure It's Closed | Remember to Close the Garage Door in this Super Short Horror Game!",
+                "publisher": "crum_",
+                "duration": "1:51",
+                "publishedText": "6y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "bad-ben",
+      "title": "Bad Ben",
+      "slug": "bad-ben",
+      "author": "corpsepile / DreadXP",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://corpsepile.itch.io/bad-ben",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera.",
+      "inputs": "WASD, E, Tab",
+      "knownFacts": [
+        "Tom Riley role, key fetching, changing camera views, tablet after acquisition, WASD move/E interact/Tab tablet, WebGL hardware acceleration."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/7482889/Bad%20Ben%20-%20Edit/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Tom Riley role",
+          "key fetching",
+          "changing camera views",
+          "tablet after acquisition",
+          "WASD move/E interact/Tab tablet",
+          "WebGL hardware acceleration."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Bad Ben corpsepile keys tablet gameplay walkthrough",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Bad%20Ben%20corpsepile%20keys%20tablet%20gameplay%20walkthrough",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "aoE79XZOqzc",
+                "title": "BAD BEN by corpsepile - Full Playthrough (No Commentary) Found Footage VHS Horror based on Web Show",
+                "publisher": "Modern Horror Gaming",
+                "duration": "21:05",
+                "publishedText": "5y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "4fMot1AQY-o",
+                "title": "Bad Ben by corpsepile",
+                "publisher": "MrChocho",
+                "duration": "20:42",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "jz0sbiRYnBQ",
+                "title": "BAD BEN - Someone Is Secretly Living In Your House In A Found Footage Horror Game they have a bat",
+                "publisher": "ManlyBadassHero",
+                "duration": "22:02",
+                "publishedText": "5y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "six-cats-under",
+      "title": "Six Cats Under",
+      "slug": "six-cats-under",
+      "author": "Team Bean Loop / Mosu",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://teambeanloop.itch.io/six-cats-under",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Study household objects and use cause-and-effect interactions to move characters; calmer ghost puzzle alternative after Suzy.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "Poltergeist interactions, cat personalities, room-object puzzle chains, escape goal, Unity browser version, pixel-art scene."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/2267583/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Poltergeist interactions",
+          "cat personalities",
+          "room-object puzzle chains",
+          "escape goal",
+          "Unity browser version",
+          "pixel-art scene."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Six Cats Under cat rescue puzzle walkthrough Team Bean Loop",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Six%20Cats%20Under%20cat%20rescue%20puzzle%20walkthrough%20Team%20Bean%20Loop",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "HZBXaVn2_To",
+                "title": "Six Cats Under (Full Playthrough)",
+                "publisher": "Warp Door",
+                "duration": "3:21",
+                "publishedText": "6y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "iW07mRFdOKw",
+                "title": "Six Cats Under | by Team Bean Loop | DATENITE",
+                "publisher": "ABAYARTS / DATENITE",
+                "duration": "27:28",
+                "publishedText": "6y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "6zl2McMjdYE",
+                "title": "Part 03 Six Cats Under by Team Bean Loop",
+                "publisher": "Pop Shop Packs",
+                "duration": "0:33",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "uncertain",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "uncle-nintendo",
+      "title": "the uncle who works for nintendo",
+      "slug": "uncle-nintendo",
+      "author": "ztul / Michael Lutz",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully.",
+      "inputs": "text links; confirm keyboard navigation",
+      "knownFacts": [
+        "Sleepover setting, dialogue choices, arrival at midnight, five endings stated by author, replaying different paths, Twine browser build."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "exhibit-of-sorrows",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/485403/UWWFN/Files/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Sleepover setting",
+          "dialogue choices",
+          "arrival at midnight",
+          "five endings stated by author",
+          "replaying different paths",
+          "Twine browser build."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "the uncle who works for nintendo ztul Michael Lutz endings gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=the%20uncle%20who%20works%20for%20nintendo%20ztul%20Michael%20Lutz%20endings%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "e7JI5Zljdlo",
+                "title": "Let's Play the uncle who works for nintendo (by Michael Lutz) [CW]",
+                "publisher": "Zachawry",
+                "duration": "1:22:55",
+                "publishedText": "5y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "p9Qlyg_ohNk",
+                "title": "Does he really work for Nintendo? | The Uncle Who Works for Nintendo [FINALE]",
+                "publisher": "GameGrumps",
+                "duration": "32:58",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "9TsvS2S51oY",
+                "title": "Hello baddies - the uncle who works for nintendo [ALL ENDINGS]",
+                "publisher": "Yuhoui",
+                "duration": "1:14:42",
+                "publishedText": "6y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "exhibit-of-sorrows",
+      "title": "Exhibit of Sorrows",
+      "slug": "exhibit-of-sorrows",
+      "author": "adayofjoy / Maxim Tsai",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "Interactive circus exhibits, mouse actions, return traversal and changed rules",
+        "July 2025 intro-lag fix",
+        "content warnings needed."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/14611877/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Interactive circus exhibits",
+          "mouse actions",
+          "return traversal and changed rules; July 2025 intro-lag fix; content warnings needed."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "Author lists code Unlicense and assets CC-BY 4.0. Verify each adopted asset, retain creator/title/license/change attribution; resolve public no-external-anchor constraint before use.",
+        "videoSearch": {
+          "query": "Exhibit of Sorrows clown instructions keys full playthrough",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Exhibit%20of%20Sorrows%20clown%20instructions%20keys%20full%20playthrough",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "mwrf9cjEeB8",
+                "title": "DON'T UPSET THE CLOWN!!! | Exhibit Of Sorrows - Full Playthrough",
+                "publisher": "Reapz",
+                "duration": "18:07",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "Y5OxqQjbXX0",
+                "title": "Full Game Playthrough (No Commentary) | Exhibit of Sorrows",
+                "publisher": "Hold To Reset",
+                "duration": "6:22",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "ILVtgJ93aps",
+                "title": "Exhibit of Sorrows - Crazygames  - Full Walkthrough  4K",
+                "publisher": "Walkthrough GhostGuide",
+                "duration": "8:04",
+                "publishedText": "1y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "present",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Author horror designation; surfaced full-playthrough description reports injury to circus exhibits. Must inspect degree before publication.",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "burger-frights",
+      "title": "Burger & Frights",
+      "slug": "burger-frights",
+      "author": "Donitz",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://donitz.itch.io/burger-frights",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest.",
+      "inputs": "mouse and keyboard",
+      "knownFacts": [
+        "Bicycle ride through forest, input scheme shown inside game, fullscreen recommendation, Firefox mouse-drift fix, route changes and encounter rules to test."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/5033568/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Bicycle ride through forest",
+          "input scheme shown inside game",
+          "fullscreen recommendation",
+          "Firefox mouse-drift fix",
+          "route changes and encounter rules to test."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Burger and Frights Donitz bicycle forest chase full gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Burger%20and%20Frights%20Donitz%20bicycle%20forest%20chase%20full%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "VxpQdPFQxrE",
+                "title": "Burger & Frights by Donitz  Full Gameplay",
+                "publisher": "Sleep Paralysis",
+                "duration": "17:05",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "w6PXpK8pwR8",
+                "title": "BURGER & FRIGHTS by Donitz - Full Playthrough (No Commentary) Retro Horror Nighttime Burger Run 2021",
+                "publisher": "Modern Horror Gaming",
+                "duration": "19:33",
+                "publishedText": "5y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "Ef-5VQjfz1I",
+                "title": "SURPRISINGLY SCARY | Burger & Frights",
+                "publisher": "Markiplier",
+                "duration": "17:55",
+                "publishedText": "5y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "sort-the-court",
+      "title": "Sort the Court!",
+      "slug": "sort-the-court",
+      "author": "Graeme Borland",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://graebor.itch.io/sort-the-court",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Listen to a character request, decide whether to comply, then evaluate consequences; non-horror rule-reading alternative.",
+      "inputs": "keyboard, mouse; gamepad listed",
+      "knownFacts": [
+        "Yes/no decisions, three resources and population outcomes to verify, visitor patterns, day transition, old Unity build limitation",
+        "mobile updated version exclusive to Poki."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/347310/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Yes/no decisions",
+          "three resources and population outcomes to verify",
+          "visitor patterns",
+          "day transition",
+          "old Unity build limitation; mobile updated version exclusive to Poki."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Sort the Court Graeme Borland yes no decisions gameplay guide",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Sort%20the%20Court%20Graeme%20Borland%20yes%20no%20decisions%20gameplay%20guide",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "5XV9kRNKqEk",
+                "title": "Saying Yes & No is Easy! | Sort the Court!",
+                "publisher": "Autumn Asphodel",
+                "duration": "31:49",
+                "publishedText": "3w ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "gxaHF9hRQkc",
+                "title": "I HAVE TO MAKE DECISIONS! | Sort The Court",
+                "publisher": "Danomally",
+                "duration": "18:53",
+                "publishedText": "2y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "WNOgyKJlh6w",
+                "title": "MARKIPLIER IS A QUEEN!! | Sort the Court UPDATED AGAIN",
+                "publisher": "Markiplier",
+                "duration": "1:18:23",
+                "publishedText": "8y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "uncertain",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "none",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "the-exhibit",
+      "title": "The Exhibit",
+      "slug": "the-exhibit",
+      "author": "adayofjoy",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://adayofjoy.itch.io/the-exhibit",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Inspect an unsettling interactive room; older prototype of Exhibit of Sorrows, distinct portrait-based experience.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "One room and unusual portrait",
+        "prototype identity",
+        "minimal scrolling",
+        "no clowns",
+        "depth may be insufficient for 4000 useful characters."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/12000816/index.html",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "One room and unusual portrait; prototype identity; minimal scrolling; no clowns; depth may be insufficient for 4000 useful characters."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ],
+        "warning": "Very short experience/prototype: reject if observed facts cannot support substantive 4000-character article without repetition."
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "The Exhibit adayofjoy portrait room horror gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=The%20Exhibit%20adayofjoy%20portrait%20room%20horror%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "QpzeYWlAif8",
+                "title": "One Picture... | The Exhibit | Gameplay",
+                "publisher": "DollFace",
+                "duration": "4:03",
+                "publishedText": "11mo ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "y_4YfiQZqJ0",
+                "title": "Exhibit of Sorrows - adayofjoy",
+                "publisher": "Flipping.Pancakes🥞",
+                "duration": "6:27",
+                "publishedText": "7mo ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "j2bnn6ehztc",
+                "title": "The Exhibit by adayofjoy",
+                "publisher": "MrChocho",
+                "duration": "2:30",
+                "publishedText": "1y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "fatal-survey",
+      "title": "Fatal Survey",
+      "slug": "fatal-survey",
+      "author": "Glompyy",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://glompyy.itch.io/fatal-survey",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Answer instructions at a computer while the setting becomes unsafe; strong survey-obedience connection.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "HTML visual novel, two endings, dark room/computer setup, survey buttons",
+        "explicit graphic-violence and strobe warning."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/13961267/index.html?v=1782550066",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "HTML visual novel",
+          "two endings",
+          "dark room/computer setup",
+          "survey buttons; explicit graphic-violence and strobe warning."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Fatal Survey Glompyy survey two endings gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Fatal%20Survey%20Glompyy%20survey%20two%20endings%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "WNL9X_87vO0",
+                "title": "Roblox START DARK SURVEY? | ALL ENDINGS [ FULL WALKTHROUGH ]",
+                "publisher": "LethalJection",
+                "duration": "20:29",
+                "publishedText": "1y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "RiBgdF8tPQs",
+                "title": "Start Dark Survey? ALL ENDINGS [Full Walkthrough] - Roblox",
+                "publisher": "NotSoToxicJim",
+                "duration": "12:18",
+                "publishedText": "1y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "dVQzJNAkFpo",
+                "title": "The Survey All Endings and Badges",
+                "publisher": "lerf",
+                "duration": "8:01",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "present",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Author explicitly warns of graphic violence and strobe lighting; not suitable for young children.",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "the-survey-rishi",
+      "title": "The Survey",
+      "slug": "the-survey-rishi",
+      "author": "Rishi :)",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://rishisampath.itch.io/the-survey",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Read seemingly mundane survey instructions and investigate escalating horror; alternative to instruction obedience without 3D controls.",
+      "inputs": "text choices; verify in build",
+      "knownFacts": [
+        "Email after work setup, Twine choice structure, proof-of-concept status, author reports puzzle/bug fix",
+        "unique puzzles must be verified."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/7308864/index.html?v=1782610118",
+        "provenance": "Extracted current game iframe from official itch page source",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "Looks like fixed author-upload build; query values observed are version cache busters, not proven signatures",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Email after work setup",
+          "Twine choice structure",
+          "proof-of-concept status",
+          "author reports puzzle/bug fix; unique puzzles must be verified."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "The Survey Rishi Sampath Twine email puzzle gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=The%20Survey%20Rishi%20Sampath%20Twine%20email%20puzzle%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "UchbnJfklm0",
+                "title": "This Puzzle Game Is SO Satisfying! 🧶😍 | Unwind Knot #Shorts #games #gameplay",
+                "publisher": "MindMella",
+                "duration": "0:12",
+                "publishedText": "6d ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "wpzyR4_TyJA",
+                "title": "Satisfying Puzzle Gameplay: Snake vs Obstacles! 🐍✨ #shorts #youtubeshorts #viral #youtube",
+                "publisher": "Zyven YT",
+                "duration": "0:22",
+                "publishedText": "2mo ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "UyI-JkAkpvw",
+                "title": "PUZZLES GAME SHORTS VIDEOS, 😋 #gameplay #youtubeshorts #bgmi #puzzle",
+                "publisher": "A Time ",
+                "duration": "0:12",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "we-become-what-we-behold",
+      "title": "We Become What We Behold",
+      "slug": "we-become-what-we-behold",
+      "author": "Nicky Case",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://ncase.itch.io/wbwwb",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Choose which observed event to amplify, then watch consequences; connects observing screen cues with decisions rather than reflexes.",
+      "inputs": "mouse",
+      "knownFacts": [
+        "Camera framing, selective capture and escalating social reactions",
+        "public-domain code/art",
+        "content violence needs in-game review."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": "https://html-classic.itch.zone/html/300364/index.html?v=1782253839",
+        "provenance": "Opened actual game iframe link from official ncase itch page via web click",
+        "https": "yes",
+        "httpStatus": 200,
+        "redirect": "none_observed",
+        "xFrameOptions": "not_present",
+        "frameAncestors": "not_present",
+        "stability": "unknown",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Camera framing",
+          "selective capture and escalating social reactions; public-domain code/art; content violence needs in-game review."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "Author explicitly places own code/art in public domain and offers screenshot/promo album; verify third-party sounds/asset credits separately.",
+        "videoSearch": {
+          "query": "We Become What We Behold Nicky Case camera full game",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=We%20Become%20What%20We%20Behold%20Nicky%20Case%20camera%20full%20game",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "krafldtfTio",
+                "title": "We Become What We Behold Full Playthrough / Longplay / Walkthrough (no commentary)",
+                "publisher": "Ludophiles",
+                "duration": "5:55",
+                "publishedText": "7y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "Xhp6KxzlrlY",
+                "title": "(GORE WARNING!) We Become What We Behold by Nicky Case | Full Gameplay",
+                "publisher": "𝕊𝕖𝕒 𝕊𝕖𝕣𝕡𝕖𝕟𝕥 𝔾𝕒𝕞𝕖𝕣 (Femfour)",
+                "duration": "4:59",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "OcpvMpZVGZA",
+                "title": "We Become What We Behold (Creator: Nicky Case) Full Gameplay",
+                "publisher": "DUDG ",
+                "duration": "8:40",
+                "publishedText": "1y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "uncertain",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "needs-secondary-check",
+      "decisionReason": "Promising discovery only; must pass controlled sandboxed iframe/input, media rights, video identity/embed and depth checks."
+    },
+    {
+      "id": "routine",
+      "title": "Routine",
+      "slug": "routine",
+      "author": "corpsepile",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://corpsepile.itch.io/routine",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Domestic routine and rule repetition with changing outcomes, but no author browser build found.",
+      "inputs": "not tested",
+      "knownFacts": [
+        "Wake/relax/repeat narrative experiment",
+        "official page lists only Windows/macOS/Linux."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": null,
+        "provenance": "No verified address extracted",
+        "https": "unknown",
+        "httpStatus": null,
+        "redirect": "unknown",
+        "xFrameOptions": "unknown",
+        "frameAncestors": "unknown",
+        "stability": "unknown",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Wake/relax/repeat narrative experiment; official page lists only Windows/macOS/Linux."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Routine corpsepile daily tasks horror gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Routine%20corpsepile%20daily%20tasks%20horror%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "QYZAu-_oCHM",
+                "title": "Routine by corpsepile | No Commentary Walkthrough (2 Year Anniversary Special!)",
+                "publisher": "Commentary Free Gaming",
+                "duration": "22:56",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "yGmBhtk9XYo",
+                "title": "ROUTINE by corpsepile - Full Playthrough (No Commentary) Another Virtual Open House Game! Short Sim",
+                "publisher": "Modern Horror Gaming",
+                "duration": "27:40",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "LYc0aPpDM3k",
+                "title": "This Alien-inspired horror game may be Horror GOTY [ Routine ]",
+                "publisher": "John Wolfe Gaming",
+                "duration": "6:12:09",
+                "publishedText": "10mo ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "excluded",
+      "decisionReason": "Official release is downloadable-only; no authorized browser build found."
+    },
+    {
+      "id": "parsnip",
+      "title": "Parsnip",
+      "slug": "parsnip",
+      "author": "Bun & Birb / Digital Poppy",
+      "discoveredAt": "2026-11-18",
+      "observedAt": "2026-11-18",
+      "language": "en",
+      "market": "US initial",
+      "authorPage": "https://bunbirb.itch.io/parsnip",
+      "evidenceMethod": "Opened official author page via web tool; direct author-shell/source and embed HTTP for first 14 records. No browser gameplay claimed.",
+      "playerBehaviorConnection": "Cheerful character errands hiding threatening material, but no author browser build.",
+      "inputs": "not tested",
+      "knownFacts": [
+        "Point-and-click cake-ingredient quest",
+        "official Windows-only build",
+        "author warns of crashes."
+      ],
+      "coreTaskStatus": "Author-page facts only; mechanics details in media task plan remain hypotheses until observed.",
+      "feedbackMechanism": "unknown until controlled gameplay",
+      "attemptLimit": "unknown",
+      "failureCondition": "unknown",
+      "dailyChallenge": "not claimed",
+      "otherCandidateConnections": [
+        {
+          "id": "assessment-examination",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "please-answer-carefully",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "last-seen-online",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "the-open-house",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "make-sure-its-closed",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "bad-ben",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "six-cats-under",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        },
+        {
+          "id": "uncle-nintendo",
+          "basis": "Compare horror/observation/house-object or instruction interpretation interests during stage03; no automatic relatedness certification"
+        }
+      ],
+      "candidateEmbed": {
+        "url": null,
+        "provenance": "No verified address extracted",
+        "https": "unknown",
+        "httpStatus": null,
+        "redirect": "unknown",
+        "xFrameOptions": "unknown",
+        "frameAncestors": "unknown",
+        "stability": "unknown",
+        "conclusion": "unknown",
+        "iframeVisualTest": "not_run",
+        "cleanBrowserContext": "not_run",
+        "interactiveInputTest": "not_run",
+        "sandbox": null,
+        "reason": "HTTP success/header absence is not embed or input proof."
+      },
+      "contentDepth": {
+        "status": "needs-secondary-check",
+        "possibleFacts": [
+          "Point-and-click cake-ingredient quest; official Windows-only build; author warns of crashes."
+        ],
+        "missing": [
+          "Real start flow and controls",
+          "At least one observed cause/effect interaction",
+          "Actual failure or recovery behavior",
+          "Browser storage/audio/touch limits",
+          "Enough distinct material for 4000 non-whitespace useful characters"
+        ]
+      },
+      "mediaPlan": {
+        "cover": "Capture a representative non-spoiling game state, distinct from the three article captures; do not download author art without use basis.",
+        "captures": [
+          {
+            "task": "Explain how a new player begins",
+            "state": "Opening actionable gameplay state; not loading/menu unless task requires it"
+          },
+          {
+            "task": "Explain the central decision or input",
+            "state": "Mid-action with relevant control and visible feedback"
+          },
+          {
+            "task": "Explain progression or recovery",
+            "state": "A distinct later state; hide major reveals under spoiler policy"
+          }
+        ],
+        "rights": "unresolved; author-hosted playable does not grant screenshot/art republication",
+        "videoSearch": {
+          "query": "Parsnip Bun Birb cake ingredients gameplay",
+          "entry": "youtube self-search HTTP",
+          "result": {
+            "url": "https://www.youtube.com/results?search_query=Parsnip%20Bun%20Birb%20cake%20ingredients%20gameplay",
+            "status": 200,
+            "candidates": [
+              {
+                "videoId": "cEfvSe8gyeg",
+                "title": "Bloodied Plays Parsnip",
+                "publisher": "Cult Plays",
+                "duration": "40:09",
+                "publishedText": "3y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "OGGIO1SKcO8",
+                "title": "The Cake is Filled with Many Wonderful Things: Parsnip [Full Playthrough]",
+                "publisher": "Meeka's Grimoiriaums",
+                "duration": "49:52",
+                "publishedText": "4y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              },
+              {
+                "videoId": "ZMQdfzNLBYQ",
+                "title": "COC 513 Parsnip Cake",
+                "publisher": "Cookin' on the Coast",
+                "duration": "23:20",
+                "publishedText": "7y ago",
+                "identity": "unknown",
+                "embedPlayback": "not_run",
+                "visuallyWatched": false,
+                "reason": "Search metadata only; must open and watch identity-bearing frames before exact-game classification."
+              }
+            ]
+          }
+        }
+      },
+      "risk": {
+        "adultSexual": "uncertain",
+        "gambling": "uncertain",
+        "violence": "uncertain",
+        "horror": "present",
+        "minorSensitive": "uncertain",
+        "basis": "Game-specific author labels and warnings; not comprehensive runtime review",
+        "spoilerPolicy": "marked",
+        "excludeFromPublicTeasers": [
+          "Final reveal",
+          "Ending condition",
+          "Late transformation"
+        ],
+        "secondaryCheck": "Inspect actual gameplay, video segments, thumbnails and author warnings individually."
+      },
+      "status": "excluded",
+      "decisionReason": "Official release is downloadable-only; no authorized browser build found."
+    }
+  ]
+}

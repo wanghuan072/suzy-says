@@ -1,0 +1,207 @@
+{
+  "id": "exhibit-of-sorrows",
+  "shortDescription": "Explore an interactive circus exhibit with mouse-controlled displays, cheerful dolls and increasingly uncomfortable choices.",
+  "seo": {
+    "title": "Play Exhibit of Sorrows Online: Controls and Guide",
+    "description": "Explore Exhibit of Sorrows, learn how its mouse-driven circus displays work, understand click-and-hold interactions and prepare for unsettling scenes ahead.",
+    "keywords": [
+      "Exhibit of Sorrows",
+      "circus horror",
+      "mouse controls"
+    ]
+  },
+  "content": [
+    {
+      "id": "enter-the-exhibit",
+      "heading": "A cheerful room with uncomfortable instructions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Exhibit of Sorrows is a short, mouse-driven horror game set inside an interactive circus display. Your attention belongs on the exhibits: what each object invites you to do, what happens when you touch it, and whether that familiar action still feels harmless the next time you encounter it. There is no need to learn a movement-key layout before beginning. The mouse is the published input method, and the display itself supplies the immediate tasks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The bright colors are part of the experience, not a promise of gentle content. This is psychological horror involving clowns, distress and disturbing interactions. If harming a doll-like character is likely to make you uncomfortable, take that seriously before starting. The tension depends on your participation in the displays rather than a long explanation of a fictional history. A brief visit can still contain scenes you would rather avoid."
+        }
+      ]
+    },
+    {
+      "id": "read-before-acting",
+      "heading": "Look for an action, then watch its feedback",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin by examining the active display and its instructions. Match a pictured control to the object it appears to operate. Make one deliberate input, then watch the object rather than immediately clicking elsewhere. This separates an actual response from a movement that happens only because you are sweeping the pointer around. The clearest next step is usually the one that changes the exhibit, not the one that produces the most frantic clicking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pay particular attention to whether an interaction is a click or a sustained press. Those actions feel similar at first, but they are not interchangeable. A single click begins and ends immediately; a held button keeps an action going. If a device responds only while pressed, releasing the mouse is an important part of understanding it. Watch the response while the button is down and after you let go before concluding that the display is stuck."
+        }
+      ]
+    },
+    {
+      "id": "the-pump",
+      "heading": "Understand the pump without rushing past it",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The opening pump display provides a concrete example. An air pump is connected to Mr. Floaty, and its button operates the pump. Holding the control makes the doll inflate. Your action is visible in the changing size of the figure, so this is a useful place to learn the relationship between a sustained input and an ongoing animation. Do not treat it as a video that will necessarily finish by itself after one tap."
+        },
+        {
+          "type": "paragraph",
+          "text": "A key is part of the progression through this display. Keep your attention on what the exhibit offers after the interaction, rather than continuing to press the same control indefinitely. The useful distinction is between operating the device and recognizing that its current task has finished. When the picture changes, reassess the available object or instruction. Repeating the input that worked a moment earlier is not a substitute for reading the new state."
+        }
+      ]
+    },
+    {
+      "id": "room-details",
+      "heading": "Read silhouettes and the space around a doll",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The figures have deliberately different shapes. Use those silhouettes to keep displays distinct in your memory instead of reducing every stop to the same click puzzle. Look at the whole composition: the figure, the object attached to it, the space around its hands or body, and any short instruction. A frame, mechanism or nearby prop can help explain what a display expects without a paragraph of dialogue."
+        },
+        {
+          "type": "paragraph",
+          "text": "The room is presented with a flat, symmetrical visual language. That makes small changes in an otherwise balanced scene worth noticing. Compare the position and appearance of a familiar object before deciding what to do with it again. Background illustration can also carry implication without stating a complete backstory. Notice it, but do not assume that every suggestive picture identifies a named person, a secret ending or an exact historical event."
+        }
+      ]
+    },
+    {
+      "id": "arrows-and-small-changes",
+      "heading": "Use arrows to choose where to look",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A hand display illustrates why it helps to look at the exact part an arrow indicates. A large yellow hand can occupy much of the picture, but the useful detail is a particular finger and its position. Direct your attention to the indicated area, then compare that area after an interaction. A small local change can be easier to miss than a whole doll moving, especially when the surrounding display remains almost unchanged."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, fingers may be bent in one view and partly opened in a later view. Use that difference as a reason to inspect the hand again, rather than assuming the entire task is finished or repeating an arbitrary sequence. An arrow tells you where attention is useful; it does not, by itself, establish a universal order for operating every exhibit. Read the current instruction alongside the visible feedback."
+        }
+      ]
+    },
+    {
+      "id": "choice-and-discomfort",
+      "heading": "A changed response deserves a new decision",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The uneasy part of Exhibit of Sorrows is that an action can remain mechanically simple while becoming harder to carry out emotionally. An exhibit may still ask for an obvious movement, but the visible reaction changes how that movement feels. Keep those two questions separate: do you understand the control, and do you want to continue? Confusing discomfort with a broken interface can lead to unnecessary reloading or repeated inputs."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is relatively little written story beyond instructions and brief flavor text. Much of the meaning comes from the connection between your deliberate action and a visible consequence. Let an animation communicate its result before searching for a hidden explanation. You do not have to turn the visit into a speed challenge. If a scene becomes unpleasant, stop interacting or leave the player; completing a short horror game is optional."
+        }
+      ]
+    },
+    {
+      "id": "first-visit",
+      "heading": "A careful first visit",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Keep the pointer inside the game when operating a small mechanism, especially if the page is scaled down. Use a mouse if possible: the published mouse-only control scheme is a clearer fit for deliberate presses than assuming that every touch gesture will behave identically. Before a sustained action, place the pointer over the intended control. Avoid moving off it while trying to hold unless the current instruction asks you to drag."
+        },
+        {
+          "type": "paragraph",
+          "text": "For each new display, identify the requested action, observe its effect, and look again after the response. That rhythm is more helpful than memorizing a universal button sequence. The exhibits are short enough that individual gestures matter. Taking a moment to distinguish a new instruction from an old habit keeps you engaged with the actual scene and prevents a mistaken click from becoming several mistaken clicks in quick succession."
+        }
+      ]
+    },
+    {
+      "id": "window-and-sound",
+      "heading": "If a display does not seem to respond",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "First distinguish the surrounding webpage from the game surface. A scroll, a browser shortcut or a click on a page control does not operate an exhibit. If the visible controls are cramped, enlarge the player before trying again. Preserve the complete game area rather than zooming so far into one doll that an instruction or exit control moves out of view. A larger view is particularly useful for small buttons and the edges of a framed exhibit."
+        },
+        {
+          "type": "paragraph",
+          "text": "The game has received fixes for fullscreen behavior, window fitting and an occasionally laggy introduction. Those fixes do not guarantee that every embedded version or browser behaves the same way. If the opening stalls, give it time to finish before issuing repeated inputs. A browser reload starts another loading attempt and may lose the current visit. Background music contributes to the setting; use a comfortable volume, and do not infer that silence alone means the visual interaction has failed."
+        }
+      ]
+    },
+    {
+      "id": "what-to-expect",
+      "heading": "Keep the ending a discovery",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is a compact interactive horror experience rather than a large inventory adventure or an action campaign. Its value lies in how the displays reinterpret participation. Approach it as a sequence of unsettling decisions, and give each response enough attention to understand why a simple task has become uncomfortable. Bright artwork, a short duration and a straightforward input method do not remove the horror themes."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you want to watch a playthrough after your visit, expect it to reveal later interactions and the outcome. A moving demonstration can clarify the difference between a click, a hold and a changed response, but watching the final sequence first changes the experience. Read the controls and opening advice here before playing; return to the video afterward if you want to compare the gestures and reactions without preserving the surprise."
+        }
+      ]
+    }
+  ],
+  "internalBrief": {
+    "checkedAt": "2026-11-18",
+    "identity": "adayofjoy HTML5 game; no iframe gameplay test",
+    "primaryTask": "Read and operate interactive displays while noticing feedback and emotional escalation",
+    "verifiedInputs": [
+      "Mouse",
+      "Click/hold pump button"
+    ],
+    "concreteCase": "Opening Mr. Floaty pump: hold operates inflation and progression key; late injury outcome intentionally omitted",
+    "screenshotTasks": [
+      "Opening room and complete instruction area",
+      "Pump control and changing figure",
+      "Different display silhouette and surrounding objects without late reveal"
+    ],
+    "videoDecision": "pending-media-review",
+    "risk": "Psychological horror, clowns and distressing doll interactions; no general child-friendly claim",
+    "evidence": [
+      "official game page",
+      "developer design post",
+      "artist post",
+      "post-release fixes"
+    ],
+    "unsupportedClaims": [
+      "Exact ending count",
+      "Hidden lore identity",
+      "Touchscreen parity",
+      "Current embedded-build compatibility",
+      "Unobserved scenes or outcomes"
+    ],
+    "videoObservations": [
+      {
+        "videoId": "mwrf9cjEeB8",
+        "duration": "18:06",
+        "observedBy": "parent agent IAB",
+        "samples": [
+          "02:31",
+          "02:45"
+        ],
+        "state": "Large yellow hand; bent fingers; white arrow indicates a finger; later frame shows some fingers partly opened",
+        "supports": [
+          "Localized exhibit interaction",
+          "Arrow-directed attention",
+          "Comparison of local visual feedback"
+        ],
+        "cannotSupport": [
+          "Exact input used between samples",
+          "Full action sequence",
+          "Complete stage solution"
+        ],
+        "screenshots": [
+          "video-exhibit-hands.jpg",
+          "video-exhibit-open-hand.jpg"
+        ]
+      }
+    ],
+    "content_status": "Author-scoped draft enriched with parent-observed limited hand-display case"
+  },
+  "sourceUrls": [
+    "https://adayofjoy.itch.io/exhibit-of-sorrows",
+    "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/375461/creating-horror-with-bright-and-cheerful-clowns",
+    "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/375812/creating-the-art-for-exhibit-of-sorrows",
+    "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/373203/post-release-fixes"
+  ],
+  "unsupportedClaims": [
+    "Gameplay not tested by explicit user waiver; parent video review pending."
+  ]
+}

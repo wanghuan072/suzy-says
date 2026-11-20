@@ -1,0 +1,827 @@
+[
+  {
+    "slot_id": "home-cover",
+    "page_id": "home",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "suzy-says-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "suzy-says-real-cover"
+    ]
+  },
+  {
+    "slot_id": "home-capture-1",
+    "page_id": "home",
+    "section_id": "home-section-1",
+    "player_question": "Recognize the prefix before choosing an action; Windows controls are not configured-embed test results",
+    "fact_to_show": "Recognize the prefix before choosing an action; Windows controls are not configured-embed test results",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "main-controls"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "suzy-says-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "home-capture-2",
+    "page_id": "home",
+    "section_id": "home-section-2",
+    "player_question": "Understand errands without revealing late outcomes",
+    "fact_to_show": "Understand errands without revealing late outcomes",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "main-controls"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "suzy-says-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "home-capture-3",
+    "page_id": "home",
+    "section_id": "home-section-3",
+    "player_question": "Distinguish downloadable base/Full release from provisional browser player",
+    "fact_to_show": "Distinguish downloadable base/Full release from provisional browser player",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "main-controls"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "suzy-says-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "home-video-after-body",
+    "page_id": "home",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "suzy-says-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "suzy-says-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "assessment-examination-cover",
+    "page_id": "assessment-examination",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "assessment-examination-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "assessment-examination-real-cover"
+    ]
+  },
+  {
+    "slot_id": "assessment-examination-capture-1",
+    "page_id": "assessment-examination",
+    "section_id": "assessment-examination-section-1",
+    "player_question": "Understand the exam interface and image decisions",
+    "fact_to_show": "Understand the exam interface and image decisions",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "assessment-examination-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "assessment-examination-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "assessment-examination-capture-2",
+    "page_id": "assessment-examination",
+    "section_id": "assessment-examination-section-2",
+    "player_question": "Observe interruptions without treating unsettling presentation as an instruction to click at random",
+    "fact_to_show": "Observe interruptions without treating unsettling presentation as an instruction to click at random",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "assessment-examination-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "assessment-examination-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "assessment-examination-capture-3",
+    "page_id": "assessment-examination",
+    "section_id": "assessment-examination-section-3",
+    "player_question": "Discuss evaluation flow while protecting the reveal",
+    "fact_to_show": "Discuss evaluation flow while protecting the reveal",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "assessment-examination-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "assessment-examination-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "assessment-examination-video-after-body",
+    "page_id": "assessment-examination",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "assessment-examination-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "assessment-examination-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "please-answer-carefully-cover",
+    "page_id": "please-answer-carefully",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "please-answer-carefully-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "please-answer-carefully-real-cover"
+    ]
+  },
+  {
+    "slot_id": "please-answer-carefully-capture-1",
+    "page_id": "please-answer-carefully",
+    "section_id": "please-answer-carefully-section-1",
+    "player_question": "Choose a supported language and read one question at a time",
+    "fact_to_show": "Choose a supported language and read one question at a time",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "please-answer-carefully-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "please-answer-carefully-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "please-answer-carefully-capture-2",
+    "page_id": "please-answer-carefully",
+    "section_id": "please-answer-carefully-section-2",
+    "player_question": "Separate selectable survey responses from surrounding narrative changes",
+    "fact_to_show": "Separate selectable survey responses from surrounding narrative changes",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "please-answer-carefully-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "please-answer-carefully-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "please-answer-carefully-capture-3",
+    "page_id": "please-answer-carefully",
+    "section_id": "please-answer-carefully-section-3",
+    "player_question": "Explain stalking themes without pretending there is a reflex challenge",
+    "fact_to_show": "Explain stalking themes without pretending there is a reflex challenge",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "please-answer-carefully-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "deferred-after-quality-rejection",
+    "media_ledger_ids": [],
+    "reason": "Third capture was a transition frame and has been excluded"
+  },
+  {
+    "slot_id": "please-answer-carefully-video-after-body",
+    "page_id": "please-answer-carefully",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "please-answer-carefully-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "please-answer-carefully-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "last-seen-online-cover",
+    "page_id": "last-seen-online",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "last-seen-online-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "last-seen-online-real-cover"
+    ]
+  },
+  {
+    "slot_id": "last-seen-online-capture-1",
+    "page_id": "last-seen-online",
+    "section_id": "last-seen-online-section-1",
+    "player_question": "Distinguish files, chat logs and interactive windows",
+    "fact_to_show": "Distinguish files, chat logs and interactive windows",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "last-seen-online-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "last-seen-online-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "last-seen-online-capture-2",
+    "page_id": "last-seen-online",
+    "section_id": "last-seen-online-section-2",
+    "player_question": "Relate discovered information to password and escape-room tasks",
+    "fact_to_show": "Relate discovered information to password and escape-room tasks",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "last-seen-online-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "last-seen-online-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "last-seen-online-capture-3",
+    "page_id": "last-seen-online",
+    "section_id": "last-seen-online-section-3",
+    "player_question": "Preserve a record of clues without revealing solutions in teasers",
+    "fact_to_show": "Preserve a record of clues without revealing solutions in teasers",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "last-seen-online-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-in-game-artwork",
+    "media_ledger_ids": [
+      "last-seen-online-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "last-seen-online-video-after-body",
+    "page_id": "last-seen-online",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "last-seen-online-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "last-seen-online-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "the-open-house-cover",
+    "page_id": "the-open-house",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "the-open-house-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "the-open-house-real-cover"
+    ]
+  },
+  {
+    "slot_id": "the-open-house-capture-1",
+    "page_id": "the-open-house",
+    "section_id": "the-open-house-section-1",
+    "player_question": "Understand navigation between rooms in a virtual inspection",
+    "fact_to_show": "Understand navigation between rooms in a virtual inspection",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "the-open-house-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "the-open-house-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "the-open-house-capture-2",
+    "page_id": "the-open-house",
+    "section_id": "the-open-house-section-2",
+    "player_question": "Read the interface and room changes as the tour progresses",
+    "fact_to_show": "Read the interface and room changes as the tour progresses",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "the-open-house-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "the-open-house-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "the-open-house-capture-3",
+    "page_id": "the-open-house",
+    "section_id": "the-open-house-section-3",
+    "player_question": "Explain WebGL limits and protect any personal-looking text in captures",
+    "fact_to_show": "Explain WebGL limits and protect any personal-looking text in captures",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "the-open-house-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "the-open-house-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "the-open-house-video-after-body",
+    "page_id": "the-open-house",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "the-open-house-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "the-open-house-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "bad-ben-cover",
+    "page_id": "bad-ben",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "bad-ben-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "bad-ben-real-cover"
+    ]
+  },
+  {
+    "slot_id": "bad-ben-capture-1",
+    "page_id": "bad-ben",
+    "section_id": "bad-ben-section-1",
+    "player_question": "Learn WASD movement and E interactions in the author-listed build",
+    "fact_to_show": "Learn WASD movement and E interactions in the author-listed build",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "bad-ben-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "bad-ben-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "bad-ben-capture-2",
+    "page_id": "bad-ben",
+    "section_id": "bad-ben-section-2",
+    "player_question": "Explain viewpoint changes and the tablet after it is acquired",
+    "fact_to_show": "Explain viewpoint changes and the tablet after it is acquired",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "bad-ben-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "bad-ben-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "bad-ben-capture-3",
+    "page_id": "bad-ben",
+    "section_id": "bad-ben-section-3",
+    "player_question": "Distinguish deliberate voice reactions from functional input feedback",
+    "fact_to_show": "Distinguish deliberate voice reactions from functional input feedback",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "bad-ben-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "bad-ben-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "bad-ben-video-after-body",
+    "page_id": "bad-ben",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "bad-ben-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "bad-ben-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "uncle-nintendo-cover",
+    "page_id": "uncle-nintendo",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "uncle-nintendo-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "uncle-nintendo-real-cover"
+    ]
+  },
+  {
+    "slot_id": "uncle-nintendo-capture-1",
+    "page_id": "uncle-nintendo",
+    "section_id": "uncle-nintendo-section-1",
+    "player_question": "Make narrative choices rather than searching for action keys",
+    "fact_to_show": "Make narrative choices rather than searching for action keys",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "uncle-nintendo-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "uncle-nintendo-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "uncle-nintendo-capture-2",
+    "page_id": "uncle-nintendo",
+    "section_id": "uncle-nintendo-section-2",
+    "player_question": "Understand the midnight premise and branching path choices",
+    "fact_to_show": "Understand the midnight premise and branching path choices",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "uncle-nintendo-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "uncle-nintendo-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "uncle-nintendo-capture-3",
+    "page_id": "uncle-nintendo",
+    "section_id": "uncle-nintendo-section-3",
+    "player_question": "Discuss five author-stated endings without listing hidden choices in teasers",
+    "fact_to_show": "Discuss five author-stated endings without listing hidden choices in teasers",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "uncle-nintendo-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "uncle-nintendo-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "uncle-nintendo-video-after-body",
+    "page_id": "uncle-nintendo",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "uncle-nintendo-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "uncle-nintendo-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "exhibit-of-sorrows-cover",
+    "page_id": "exhibit-of-sorrows",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "exhibit-of-sorrows-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "exhibit-of-sorrows-real-cover"
+    ]
+  },
+  {
+    "slot_id": "exhibit-of-sorrows-capture-1",
+    "page_id": "exhibit-of-sorrows",
+    "section_id": "exhibit-of-sorrows-section-1",
+    "player_question": "Follow each circus display interaction with the mouse",
+    "fact_to_show": "Follow each circus display interaction with the mouse",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "exhibit-of-sorrows-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "exhibit-of-sorrows-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "exhibit-of-sorrows-capture-2",
+    "page_id": "exhibit-of-sorrows",
+    "section_id": "exhibit-of-sorrows-section-2",
+    "player_question": "Watch how a repeated traversal changes the meaning of familiar interactions",
+    "fact_to_show": "Watch how a repeated traversal changes the meaning of familiar interactions",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "exhibit-of-sorrows-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "exhibit-of-sorrows-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "exhibit-of-sorrows-capture-3",
+    "page_id": "exhibit-of-sorrows",
+    "section_id": "exhibit-of-sorrows-section-3",
+    "player_question": "Explain disturbing themes with guarded late-state images",
+    "fact_to_show": "Explain disturbing themes with guarded late-state images",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "exhibit-of-sorrows-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "exhibit-of-sorrows-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "exhibit-of-sorrows-video-after-body",
+    "page_id": "exhibit-of-sorrows",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "exhibit-of-sorrows-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "exhibit-of-sorrows-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "burger-frights-cover",
+    "page_id": "burger-frights",
+    "player_question": "Recognize the current game before activating its player",
+    "fact_to_show": "Current game identity with complete title and subject",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Short current-game invitation",
+    "candidate_evidence_ids": [
+      "burger-frights-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another legitimate current-game cover; never generic fallback",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "burger-frights-real-cover"
+    ]
+  },
+  {
+    "slot_id": "burger-frights-capture-1",
+    "page_id": "burger-frights",
+    "section_id": "burger-frights-section-1",
+    "player_question": "Read the in-game input panel before entering the forest",
+    "fact_to_show": "Read the in-game input panel before entering the forest",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "burger-frights-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "burger-frights-real-screen-1"
+    ]
+  },
+  {
+    "slot_id": "burger-frights-capture-2",
+    "page_id": "burger-frights",
+    "section_id": "burger-frights-section-2",
+    "player_question": "Connect route observation and encounter reactions without inventing checkpoints",
+    "fact_to_show": "Connect route observation and encounter reactions without inventing checkpoints",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "burger-frights-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "burger-frights-real-screen-2"
+    ]
+  },
+  {
+    "slot_id": "burger-frights-capture-3",
+    "page_id": "burger-frights",
+    "section_id": "burger-frights-section-3",
+    "player_question": "Explain author-noted mouse drift and fullscreen guidance within version scope",
+    "fact_to_show": "Explain author-noted mouse drift and fullscreen guidance within version scope",
+    "preferred_format": "game-screenshot",
+    "adjacent_copy_task": "Observe a concrete state/action/result in current-game video and write within its limits",
+    "candidate_evidence_ids": [
+      "burger-frights-identity"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with a different current-game gameplay capture fulfilling the same question",
+    "adoption_status": "adopted-real-game-capture",
+    "media_ledger_ids": [
+      "burger-frights-real-screen-3"
+    ]
+  },
+  {
+    "slot_id": "burger-frights-video-after-body",
+    "page_id": "burger-frights",
+    "player_question": "See the described actions and visible feedback in motion",
+    "fact_to_show": "Current-game sequence matching the article; warn about later reveals",
+    "preferred_format": "youtube-video",
+    "adjacent_copy_task": "Article remains usable without playing the video",
+    "candidate_evidence_ids": [
+      "burger-frights-author"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Replace with another same-game embeddable video; no empty module",
+    "adoption_status": "adopted",
+    "media_ledger_ids": [
+      "burger-frights-video-candidate"
+    ]
+  },
+  {
+    "slot_id": "guide-command-cover",
+    "page_id": "suzy-says-command-rules",
+    "player_question": "Decide whether to obey a spoken instruction and avoid premature actions",
+    "fact_to_show": "Actual television and colored mat used for command practice",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Introduce the unique Guide task",
+    "candidate_evidence_ids": [
+      "main-controls"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another verified actual game image matching this task; no original substitute",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "suzy-says-command-rules-real-cover"
+    ]
+  },
+  {
+    "slot_id": "guide-first-run-cover",
+    "page_id": "suzy-says-first-run",
+    "player_question": "Choose an original edition and prepare controls, subtitles and the opening DVD activity",
+    "fact_to_show": "Actual Suzy Says DVD box introducing the first session",
+    "preferred_format": "approved-image",
+    "adjacent_copy_task": "Introduce the unique Guide task",
+    "candidate_evidence_ids": [
+      "main-controls"
+    ],
+    "rights_check_needed": true,
+    "fallback_if_unavailable": "Find another verified actual game image matching this task; no original substitute",
+    "adoption_status": "adopted-real-game-media",
+    "media_ledger_ids": [
+      "suzy-says-first-run-real-cover"
+    ]
+  }
+]

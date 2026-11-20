@@ -1,0 +1,160 @@
+[
+  {
+    "id": "suzy-says",
+    "title": "Suzy Says",
+    "local": "public/images/games/suzy-says.webp",
+    "width": 630,
+    "height": 500,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "assessment-examination",
+    "title": "Assessment Examination",
+    "local": "public/images/games/assessment-examination.webp",
+    "width": 630,
+    "height": 500,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "please-answer-carefully",
+    "title": "Please Answer Carefully",
+    "local": "public/images/games/please-answer-carefully.webp",
+    "width": 630,
+    "height": 500,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "last-seen-online",
+    "title": "last seen online",
+    "local": "public/images/games/last-seen-online.webp",
+    "width": 630,
+    "height": 500,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "the-open-house",
+    "title": "The Open House",
+    "local": "public/images/games/the-open-house.webp",
+    "width": 630,
+    "height": 500,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "bad-ben",
+    "title": "Bad Ben",
+    "local": "public/images/games/bad-ben.webp",
+    "width": 630,
+    "height": 500,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "uncle-nintendo",
+    "title": "the uncle who works for nintendo",
+    "local": "public/images/games/uncle-nintendo.webp",
+    "width": 233,
+    "height": 185,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "exhibit-of-sorrows",
+    "title": "Exhibit of Sorrows",
+    "local": "public/images/games/exhibit-of-sorrows.webp",
+    "width": 394,
+    "height": 342,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  },
+  {
+    "id": "burger-frights",
+    "title": "Burger & Frights",
+    "local": "public/images/games/burger-frights.webp",
+    "width": 315,
+    "height": 250,
+    "fit": "contain",
+    "focus": "Complete actual game cover, including title and subject. Preserve native aspect ratio.",
+    "allContexts": [
+      "player",
+      "featured",
+      "new",
+      "recommended",
+      "index"
+    ],
+    "evidence": "reports/media-correction-20261119/covers.png",
+    "runtimeCropCheck": "Not repeated after image correction; source CSS remains contain."
+  }
+]

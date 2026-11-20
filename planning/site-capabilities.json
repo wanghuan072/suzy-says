@@ -1,0 +1,65 @@
+{
+  "features": {
+    "accounts": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "contactForm": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "commentsOrRatings": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "analytics": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "localStorage": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "cookies": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "gameIframes": {
+      "enabled": true,
+      "implementation": "Shared click-to-load iframe player with safety rejection, timeout/retry and fullscreen",
+      "notes": "Third-party requests/storage may occur within embed boundary; no claim of their private practices."
+    },
+    "youtubeIframes": {
+      "enabled": true,
+      "implementation": "Direct lazy privacy-enhanced YouTube iframes after game articles",
+      "notes": "Third-party requests/storage may occur within embed boundary; no claim of their private practices."
+    },
+    "payments": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "uploads": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "subscriptions": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    },
+    "advertising": {
+      "enabled": false,
+      "implementation": "Not implemented",
+      "notes": "No first-party functionality or storage."
+    }
+  },
+  "identities": []
+}

@@ -1,0 +1,183 @@
+{
+  "gameId": "uncle-nintendo",
+  "shortDescription": "Spend an uneasy sleepover with a friend whose unusual games come with an even stranger family story. Read closely and choose how the night unfolds.",
+  "seo": {
+    "title": "Play the uncle who works for nintendo Online",
+    "description": "Read the uncle who works for nintendo, a sleepover horror story with five endings. Follow dialogue choices and explore the night without early spoilers."
+  },
+  "content": [
+    {
+      "id": "an-ordinary-sleepover",
+      "heading": "A childhood story with an uncomfortable promise",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "the uncle who works for nintendo is a narrative horror game about staying overnight at a friend's house. You are eleven, you both like videogames and your friend seems to have an enviable collection. There is a familiar explanation for those unusual games: a relative with a remarkable job. The uncle is due to visit at midnight. That simple promise gives the evening its shape, turning ordinary childhood conversation into something you have a reason to question."
+        },
+        {
+          "type": "paragraph",
+          "text": "The game is built around reading and decisions rather than steering a character around a room. A small response can matter because it expresses how you treat your friend, what you are willing to believe and which subject you want to pursue. Begin with the social situation, not a hunt for a monster. Notice what makes the visit appealing before deciding what makes it wrong. The contrast between wanting a good night with a friend and feeling unsure about that friend's story is the central source of tension."
+        }
+      ]
+    },
+    {
+      "id": "reading-and-choosing",
+      "heading": "Read the passage before choosing your response",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Work through the text in the game frame and select one of the available links when you are ready to continue. Read the whole passage first. The last sentence can change the meaning of a response that looked obvious when you reached the middle of the screen. If a passage is taller than the visible frame, check below it for the remaining text and choices. Do not assume that the first highlighted phrase is always the only way to continue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Treat each choice as a statement about the situation, not merely a button that produces more text. Before selecting it, consider what your character is agreeing to, asking about or refusing. That small pause is especially helpful when the conversation becomes uncomfortable: it stops you from choosing a familiar-looking response without noticing that its context has changed. You do not need fast reflexes to read well. Give yourself time to understand who is speaking and what the current passage actually makes available."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opening shows why highlighted text needs to be read in context. At the house arrival, two red choices let you decide how to say goodbye to your mother. In another passage, the narration corrects an impression about a drink and leaves a single red response to continue. Both screens use highlighted text, but they ask for different kinds of attention: one offers alternative actions, while the other follows a clarification in the narration. Read the sentence around a link instead of treating every colored phrase as an equivalent next button."
+        }
+      ]
+    },
+    {
+      "id": "friendship-and-credibility",
+      "heading": "Keep the friendship in view",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The videogame collection and the uncle story are part of a relationship between children. As you read, distinguish what your friend has directly shown you from what they have only told you. An impressive claim can be exciting, irritating or hard to believe, and the response you choose need not express all of those feelings at once. Follow the conversation closely enough to know whether you are discussing a game, a family story or the friendship itself. Those are different subjects even when they appear in the same passage."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the first visit, choose responses that make sense to you rather than trying to predict a perfect route. You will understand a later comparison much better if you remember why you made the original decision. For example, you can note that you asked for more explanation or accepted an invitation without writing down the story's eventual answer. That creates a useful record of your own route while keeping the ending open. The goal is to remain attentive to the exchange, not to reduce every line to a hidden score you have not established."
+        }
+      ]
+    },
+    {
+      "id": "waiting-for-midnight",
+      "heading": "Let the midnight premise guide your attention",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The expected midnight visit gives the story a point of anticipation. Keep track of where the evening seems to be in relation to that arrival, and notice when a conversation makes you think about it again. The same ordinary activity can feel different when you know someone is supposed to arrive later. This is a narrative cue rather than a reason to invent a real-world countdown. Read the timing information the game actually gives you instead of watching your device clock for a supposed secret condition."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the story becomes tense, return to the immediate decision. What has just happened? What does your character know at this point? Which responses are genuinely on screen? Questions like these help you stay within the scene rather than importing something you heard about a different route. Knowing that the game has multiple endings does not mean you must interrupt every conversation to search for one. Let a first path develop far enough that you can see how the evening's setup and your decisions relate to its conclusion."
+        }
+      ]
+    },
+    {
+      "id": "five-endings-and-replays",
+      "heading": "Explore another path with one deliberate change",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The game has five endings. That is a reason to revisit the story, but it is not a promise that five arbitrary first choices will immediately reveal all of them. After reaching a conclusion, think back to a response you would genuinely like to try differently. Changing one meaningful decision gives you a clear comparison with the previous run. Changing everything at once may produce a different experience, but it makes it harder to understand which conversation or choice led you there."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a replay, read the passages around a changed decision again, including text that initially looks familiar. You are comparing a route, not just collecting a final screen. Watch for differences in what your character learns, how your friend responds and what choices remain available later. Keep a brief private note of the path you tried if that helps, using descriptions such as asked about the games or questioned the explanation. You can organize your attempts without copying the story or exposing an ending to someone who has not played."
+        }
+      ]
+    },
+    {
+      "id": "when-a-choice-feels-wrong",
+      "heading": "A difficult response is not necessarily a broken game",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Narrative horror can make an available choice feel uncomfortable on purpose. Before assuming you are stuck, check that you have read the current passage and found all of its visible links. A limited set of responses can be part of the situation your character is in. That is different from a page whose text has failed to appear or a game frame that never loaded. Reading carefully helps you separate the story's pressure from an actual browser problem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avoid using the browser's Back button as an assumed undo system for every decision. Navigation history and the story's own state are not the same thing, and a return to the surrounding website may interrupt the session instead of restoring the choice you wanted. Use a restart or story-navigation option only if the game itself offers one and its purpose is clear. If you want to compare paths, a deliberate new attempt after an ending is easier to understand than an accidental mixture of page history, refreshes and uncertain story state."
+        }
+      ]
+    },
+    {
+      "id": "reading-in-a-browser",
+      "heading": "Make the text comfortable to read",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is a Twine browser game, so the important display requirement is readable text and reachable choices rather than a large action-game viewport. Enlarge the player if the passage feels cramped, and keep enough of the surrounding text visible to understand what a response refers to. If you need to scroll, do so before choosing. A phone may display the prose, but the page being visible does not prove that every interaction or layout behaves identically on every device. Choose the setup in which you can comfortably read the entire passage."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the story frame remains empty, let it finish loading and try the page's retry once it has clearly failed. Do not interpret an empty frame as one of the five endings. Similarly, do not assume that a session will be preserved across a refresh, a different browser or another device: saving behavior has to be provided by the game, not by the existence of this webpage. Plan a visit when you can give the text steady attention, and keep any route notes outside the story if you want them available during a later attempt."
+        }
+      ]
+    },
+    {
+      "id": "horror-without-the-reveal",
+      "heading": "Keep the ending out of the invitation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The childhood setting is part of the horror, not a statement that the experience is intended for young children. It places an eleven-year-old narrator in an increasingly unsettling social situation. If you are recommending the game, describe the sleepover, the videogames and the expected visitor without explaining what ultimately happens. That gives another reader the same opportunity to question the evening's ordinary details rather than beginning with an answer already in mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "A full playthrough video is more revealing than the opening premise. Decide whether you want to experience a route yourself before watching someone else reach its conclusion. If you need help, locate the current passage or task rather than jumping directly to a compilation of all endings. The most useful assistance preserves the difference between a choice you can understand now and a late discovery that changes your interpretation of earlier scenes. Leave that discovery to the story unless you intentionally want a complete explanation."
+        }
+      ]
+    },
+    {
+      "id": "sleepover-questions",
+      "heading": "Questions about the story",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "question": "Is this a Nintendo game?",
+              "answer": "No official Nintendo affiliation is claimed here. The title describes a claim within a fictional horror story about children, videogames and a visiting relative."
+            },
+            {
+              "question": "How many endings does the game have?",
+              "answer": "There are five endings. Read a first route without a solution, then compare later attempts by deliberately changing meaningful decisions."
+            },
+            {
+              "question": "Do I need action-game controls?",
+              "answer": "The main activity is reading passages and selecting available links. Follow the controls that the game presents, and make sure you have reached all the text and choices in the current view."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "internalBrief": {
+    "checkedAt": "2026-11-18",
+    "sourceUrls": [
+      "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "https://www.youtube.com/watch?v=e7JI5Zljdlo"
+    ],
+    "playerTask": "Read a sleepover narrative, make contextual choices and compare routes without spoiling the reveal",
+    "versionScope": "Author-listed Twine HTML5 release; no runtime input or complete playthrough claimed",
+    "verifiedFacts": [
+      "Eleven-year-old sleepover narrator",
+      "Friend with videogames and an uncle claimed to work for Nintendo",
+      "Expected visit at midnight",
+      "Narrative horror with five endings",
+      "Twine HTML5 release",
+      "Parent-observed arrival conversation advances through a red link; den dinner question offers two red response links"
+    ],
+    "unsupportedClaims": [
+      "Specific ending triggers",
+      "Exact clock progression mechanics",
+      "All choices affect outcome",
+      "A universal undo feature",
+      "Autosave or cross-device persistence",
+      "Complete mobile compatibility"
+    ],
+    "screenshotTasks": [
+      "Opening sleepover passage with readable choices",
+      "A dialogue decision before midnight without reveal",
+      "A replay-relevant choice contrast without ending text"
+    ],
+    "videoResearch": "Parent handles exact video segments and version comparison; no unobserved route outcome described as fact.",
+    "videoObservations": [
+      "Parent-observed02:08 arrival/mother conversation and04:47 den dinner question in82:54 video; no universal timing or ending effect inferred."
+    ]
+  }
+}

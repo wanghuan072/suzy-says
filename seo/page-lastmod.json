@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "pages": {
+    "/": {
+      "kind": "game",
+      "id": "suzy-says",
+      "fingerprint": "07dd0addb358bbe678f3dfc37148d41cceb5b835568d0e7f3eefbad7c2d0229e"
+    },
+    "/games/assessment-examination": {
+      "kind": "game",
+      "id": "assessment-examination",
+      "fingerprint": "d7c0c1348a5cc76c9e443fe0abbff60b6af5ffa1541e965209b01be0df390058"
+    },
+    "/games/please-answer-carefully": {
+      "kind": "game",
+      "id": "please-answer-carefully",
+      "fingerprint": "cda1f6e36ae90b55364242edd863d3115ca968bb3ec89d52fb4620a0263e886a"
+    },
+    "/games/last-seen-online": {
+      "kind": "game",
+      "id": "last-seen-online",
+      "fingerprint": "31acd7d4545a5be279f93b9db6007c3dbe4828a0901671a491312575b3b7eeab"
+    },
+    "/games/the-open-house": {
+      "kind": "game",
+      "id": "the-open-house",
+      "fingerprint": "595dc32d80833605181362df50596e5f195874243fd9d5931f46a2b81de2c468"
+    },
+    "/games/bad-ben": {
+      "kind": "game",
+      "id": "bad-ben",
+      "fingerprint": "5d74f9dc77d8501f0fc7ceb0ce7137380dbfb35290945ca0e8dea92ba6967303"
+    },
+    "/games/uncle-nintendo": {
+      "kind": "game",
+      "id": "uncle-nintendo",
+      "fingerprint": "e318c6897316883770aa0f9b0526c14e7a5bc5c6af05cc06836e4be03d386d62"
+    },
+    "/games/exhibit-of-sorrows": {
+      "kind": "game",
+      "id": "exhibit-of-sorrows",
+      "fingerprint": "a4fd8019a64245079016f107828e7c00bf2bfcd973331c7460893a2a4a1506fd"
+    },
+    "/games/burger-frights": {
+      "kind": "game",
+      "id": "burger-frights",
+      "fingerprint": "59725ade1dd60b6f668daaed5026832398085618b6e72dad3a9feaed29ac0e43"
+    },
+    "/guides/suzy-says-command-rules": {
+      "kind": "guide",
+      "id": "suzy-says-command-rules",
+      "fingerprint": "415691adcfb956887740b4c5904ec22977bdc52e3946174210f5da1b283ce0c4"
+    },
+    "/guides/suzy-says-first-run": {
+      "kind": "guide",
+      "id": "suzy-says-first-run",
+      "fingerprint": "6f82a00ec4972d821d1d10b89cd12fccd5572404e071265a7d74f9e92dfcdc30"
+    },
+    "/guides": {
+      "kind": "static",
+      "id": "guides",
+      "fingerprint": "ca05fa22a4c7409b704390bd5cda7fba14897e4b131302487cff74301baa79ae",
+      "lastModified": "2026-11-19"
+    },
+    "/games": {
+      "kind": "static",
+      "id": "games",
+      "fingerprint": "a863e88fa377219b995b1703c480d6a021c3668b27c187ffea71821b80bb06a4",
+      "lastModified": "2026-11-19"
+    },
+    "/privacy": {
+      "kind": "static",
+      "id": "privacy",
+      "fingerprint": "71b020058dd9ae0cc6c5cfdc999bb5a6ef6c360a7ac1ba2f2a458b1694732423",
+      "lastModified": "2026-11-19"
+    },
+    "/terms": {
+      "kind": "static",
+      "id": "terms",
+      "fingerprint": "e0d6bae446ede5be51c151156d8ed17015aa499b9beb0daec46ae47562c6f3cd",
+      "lastModified": "2026-11-19"
+    },
+    "/copyright": {
+      "kind": "static",
+      "id": "copyright",
+      "fingerprint": "18b71ed472be0ee123c92c6d931b6a992532218dc4364e1e8efc8b2075f1df4d",
+      "lastModified": "2026-11-19"
+    },
+    "/about": {
+      "kind": "static",
+      "id": "about",
+      "fingerprint": "23a30bcf362de51e96cd0248cf2e5dfec9ce7f525cc5d9b0fbe8f8f2a16e70f4",
+      "lastModified": "2026-11-19"
+    },
+    "/contact": {
+      "kind": "static",
+      "id": "contact",
+      "fingerprint": "5e22e8fcb2d38c0ed64be1a55a0e18cb40aa78c3b88f2c79878e093aab19b73d",
+      "lastModified": "2026-11-19"
+    }
+  }
+}

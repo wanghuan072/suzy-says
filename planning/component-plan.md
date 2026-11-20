@@ -1,0 +1,5 @@
+# Component plan
+
+SiteHeader/SiteFooter consume one navigation configuration; local logo, skip link, keyboard hamburger and Legal group. GamePage owns a left track (heading/player/recommended/body/videos) and sibling Sidebar. GameCard consumes only its stable Game object and cover dimensions; never a fallback. GamePlayer is shared, click-to-load, one iframe, timeout/retry and two mutually exclusive fullscreen modes with cleanup. Article renders strict structured blocks as text and typed elements. Videos render only after article as direct lazy youtube-nocookie iframes. GuidePage uses full header order and optional measured-header TOC. Breadcrumbs share JSON-LD data. LegalPage is text only. No comments, fake rating or advertising.
+
+Header ResizeObserver writes actual header height token. Sidebar uses a bounded translated/sticky position computed from scroll delta, viewport space and parent bounds; clamps between header-safe top and bottom-safe tall position. No inner overflow scroll and no permanent viewport-fixed sidebar. Mobile disables logic with the existing breakpoint.

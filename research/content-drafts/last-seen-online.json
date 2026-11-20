@@ -1,0 +1,263 @@
+{
+  "gameId": "last-seen-online",
+  "shortDescription": "Explore a stranger's old computer, read conversations and connect hidden clues in a psychological horror escape room that reaches beyond the desktop.",
+  "seo": {
+    "title": "last seen online: Play the Computer Horror Puzzle",
+    "description": "Play last seen online and investigate the old desktop, connect password and music clues, understand puzzle feedback, and manage sound, saves and replay."
+  },
+  "content": [
+    {
+      "id": "inside-an-old-computer",
+      "heading": "A second-hand computer with a life inside it",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "last seen online begins with a computer bought at a garage sale. Instead of wiping it, you turn it on and step into the traces of another person's life. Files, chat histories and desktop programs become the rooms of an escape game. The central activity is investigation: open something, read what it reveals and connect that information to a lock or question elsewhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the game by qwook and sochinstudio. Its old desktop and the world connected to it are a different experience from other games sharing the same name. The appeal lies in treating a familiar computer interface as a space that can conceal both ordinary memories and disturbing discoveries. You need curiosity and a willingness to revisit clues, rather than a list of facts gathered outside the game."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the opening warning before continuing. Psychological horror and distressing themes make this unsuitable for children or anyone who finds such material difficult. You can follow the early investigation without knowing where the story ends. Keeping final scenes and complete puzzle solutions for later preserves the pleasure of discovering why an apparently mundane file matters."
+        }
+      ]
+    },
+    {
+      "id": "learning-the-desktop",
+      "heading": "Treat each program as a different kind of clue",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin by reading the login hint and looking for the information it describes. A useful password hint is a request for particular pieces of knowledge, not permission to guess random words indefinitely. If it points to more than one detail, identify all of those details before submitting another attempt. Revisit the hint whenever your candidate matches only part of its wording."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once inside the desktop, explore the programs with different expectations. The buddy list holds conversations and relationships. The music player holds a playlist and audio. A protected archive presents a separate lock, and the file browser gives access to pictures and folders. None should be treated as a decorative shortcut simply because it resembles an old real-world application."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read a conversation far enough to understand who is speaking and what they are discussing. An old message about an attachment can matter to an archive, while a remark about a program or image can tell you where to look next. Keeping the speaker and subject together is more useful than collecting isolated numbers without knowing what they refer to."
+        },
+        {
+          "type": "paragraph",
+          "text": "If several windows obscure each other, close or move the ones that are not part of the current question. The desktop behind them is also a visible part of the game. A cluttered screen can hide information even when the relevant file is already open. Before deciding that a clue is absent, make the working area readable and examine how its pieces relate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Several pictures can overlap on the desktop: a front window titled IMG004.jpg can obscure IMG003.jpg and lawson.jpg behind it. Before clicking, identify which title bar belongs to the image you want. Work with that window rather than assuming every visible corner belongs to the front picture. The desktop background remains another part of the scene, so rearranging your attention between windows and background is more useful than opening the same picture repeatedly."
+        }
+      ]
+    },
+    {
+      "id": "passwords-with-purpose",
+      "heading": "Keep the login and the archive lock separate",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The computer login and the protected photo archive are not the same lock. Solving the first does not mean its answer belongs in every later password field. The archive interface asks for a four-digit code. That tells you what kind of answer to seek, and it prevents a common wrong turn: carrying a name-based login answer into a numeric archive prompt."
+        },
+        {
+          "type": "paragraph",
+          "text": "When an archive rejects a candidate, the useful next step is to review the clue chain. Did you identify the right items? Did you arrange them in the order the clue implies? Did you enter the requested number of digits? Changing a digit without a reason produces little information. Returning to a message or picture can show which part of your interpretation needs attention."
+        },
+        {
+          "type": "paragraph",
+          "text": "The desktop's music, conversations and imagery should be considered together. If a message directs attention toward music or a visual arrangement, inspect those particular elements rather than searching unrelated folders indefinitely. Separate selecting the relevant items from deciding their order. Those are two different tasks, and getting one right does not automatically solve the other."
+        },
+        {
+          "type": "paragraph",
+          "text": "You do not need specialist computer knowledge to reason through these interfaces. Treat the archive as a puzzle within the story, not as an invitation to extract a real file or install another program. Work with the visible controls and clues the game provides. If a procedure seems to require leaving the game to obtain somebody's private information, reconsider the clue before following that assumption."
+        }
+      ]
+    },
+    {
+      "id": "beyond-the-desktop",
+      "heading": "Read feedback when the setting changes",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The investigation does not stay confined to ordinary folders. When it leads into Other World, continue using the same habit of reading the response to each action. A newly opened location can change what an interaction means. Do not assume every object is another password field merely because the opening puzzles involved a computer."
+        },
+        {
+          "type": "paragraph",
+          "text": "A black OtherCorp screen presents a different input task from the photo windows. Its InviteCode field sits with Continue and Back controls. Read that field label before typing: an invitation-code prompt is not the earlier desktop login or the protected archive simply because all three accept text. Check which screen is active and what kind of information it requests before reusing an old answer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some later interactions distinguish a brief press from holding a control. When nearby text draws attention to duration or repeated sounds, examine how the object responds to that difference. A click and a hold are separate actions. Repeating quick clicks will not demonstrate what a longer interaction does, so change the input deliberately and compare the visible or audible feedback."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pay attention to partial feedback. A message that something changed does not necessarily mean the entire obstacle is solved. Pause and inspect the object again. If a mechanism has several parts, keep track of which action altered which part before restarting the whole sequence. This gives you a way to build on progress instead of treating every incomplete result as a complete failure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read instructions for a group of objects as carefully as individual clues. A requirement about order is different from a requirement about quantity. If one object needs repeated attention, selecting every object once may leave the sequence incomplete. Work out what the wording asks you to vary, then watch for the explicit response that marks progression. Exact sequences are best left until you have tried interpreting the clue yourself."
+        }
+      ]
+    },
+    {
+      "id": "notes-that-keep-you-moving",
+      "heading": "Make a small clue trail instead of a pile of guesses",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For a first run, keep notes in three columns: obstacle, related clue and attempted action. An archive entry might mention its required format, a conversation that discusses the attachment and the code you tried. A later mechanism might instead need a nearby inscription and an input pattern. The goal is to preserve relationships, not transcribe every line of dialogue."
+        },
+        {
+          "type": "paragraph",
+          "text": "When stuck, return to the nearest unanswered question. If the game asks for a numeric archive code, your immediate task is to identify numbers and their order. If it presents several objects governed by a shared instruction, the task is to apply that instruction to the group. Wandering between all open puzzles can feel active while leaving the actual missing step untouched."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use failed attempts as information only when you changed something intentionally. Try one interpretation, observe the response and record it. Changing item choice, order and input duration together makes the result difficult to interpret. A controlled change gives you a clearer next decision without needing to restart the entire game each time an idea fails."
+        }
+      ]
+    },
+    {
+      "id": "sound-save-and-replay",
+      "heading": "Adjust the computer without erasing the investigation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The settings include separate master, sound-effect and music volume controls. That distinction matters in a game where a playlist and other audio can help communicate a clue. If music is inaudible while effects still play, check the music setting as well as the browser tab volume. Raising the master control alone may not solve a separately muted music channel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose a readable language before working through long conversations. The game has community translations, but an older video in another language can use different wording or an earlier visual style. Match the visible objects and the meaning of a clue rather than expecting every label or portrait to be identical to a recording."
+        },
+        {
+          "type": "paragraph",
+          "text": "Be careful with the option to restart from the beginning. It is a deliberate way to begin again, not a routine fix for a password rejected by a working puzzle. If you want to preserve progress, leave that control alone. Browser privacy settings or blocked third-party storage can also affect whether an embedded game retains state, so do not assume progress is permanently backed up merely because you have reached a later room."
+        },
+        {
+          "type": "paragraph",
+          "text": "After finishing, the credits include a replay control near their end. Scroll through them before clearing browser data to start another attempt. A fresh run is most useful when you want to revisit an earlier conversation or compare how a clue was introduced. It is less useful as a first response to an obstacle whose surrounding information you have not yet read."
+        }
+      ]
+    },
+    {
+      "id": "browser-and-device-help",
+      "heading": "Separate a puzzle problem from an input problem",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The desktop includes typing as well as pointing. Click the intended password field before entering text, and check that the characters actually appear there. If keys affect the surrounding webpage instead, return focus to the player and field. An empty field after typing is an input-focus problem; a visible rejected answer is a puzzle result. Those need different next steps."
+        },
+        {
+          "type": "paragraph",
+          "text": "A larger display makes overlapping windows, small labels and visual clue relationships easier to read. Touch input is listed for the game, but a phone still offers less room for comparing windows and handling precise targets. If a particular drag or text entry is awkward, use a computer with a mouse and keyboard instead of interpreting the difficulty as part of the mystery."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the game never reaches its own opening interface, check the connection and retry the player before investigating passwords. If it has loaded and the problem concerns a particular lock, use the clue trail rather than repeatedly reloading. The distinction keeps a technical recovery step from unnecessarily interrupting an otherwise functioning investigation."
+        }
+      ]
+    }
+  ],
+  "internal": {
+    "status": "content-draft-source-reviewed-video-pending",
+    "checkedAt": "2026-11-18",
+    "sourceUrls": [
+      "https://qwook.itch.io/last-seen-online",
+      "https://raw.githubusercontent.com/qwook/lastseenonline/main/en.jsonc",
+      "https://qwook.itch.io/last-seen-online/devlog/670839/added-a-replay-button"
+    ],
+    "evidence_ids": [
+      "last-seen-online-author",
+      "last-seen-online-identity"
+    ],
+    "directSourceReview": {
+      "method": "Read author-owned localization file and official devlog; no execution or real-play claim",
+      "keys": [
+        "PASSWORD_HINT",
+        "UNZIPPER_TEXT",
+        "UNZIPPER_INCORRECT_PASSWORD",
+        "EMMBER_CHATLOG",
+        "OTHER_WORLD_DOOR_PUZZLE_JORDEN",
+        "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES",
+        "OTHER_WORLD_STATUE_PUZZLE_INTRO",
+        "SETTINGS_MASTER_VOLUME",
+        "SETTINGS_SFX_VOLUME",
+        "SETTINGS_MUSIC_VOLUME",
+        "SETTINGS_DELETE_SAVE",
+        "TRIGGER_WARNING"
+      ],
+      "confirmed": [
+        "Login hint uses multiple components",
+        "Archive asks for4digit code",
+        "Music/wallpaper/window relationships are discussed by game dialogue",
+        "Short/long input distinctions and partial feedback exist in later puzzle wording",
+        "Order/count distinctions exist in statue instructions",
+        "Separate audio/language/restart settings",
+        "Author devlog says replay control near credits end"
+      ]
+    },
+    "videoFacts": "Root actual-playback samples of6a83iH6lWPI at05:20 show overlapping desktop image windows with IMG004.jpg in front, IMG003.jpg/lawson.jpg behind and Liz+Em background. At06:52 a black OtherCorp1994 screen shows InviteCode field with Continue/Back. Root verified time and screenshot frames. These samples support window/input-target recognition, not code values, action causality, complete route or ending. Child did not operate IAB or independently watch.",
+    "unsupported_claims": [
+      "Exact solved code or puzzle sequence",
+      "Guaranteed persistence in cross-origin embed",
+      "All phones fully supported",
+      "Observed input success",
+      "Specific number of endings",
+      "Conflating other authors' same-title games"
+    ],
+    "brief": {
+      "uniqueTask": "Connect computer files, dialogue, music and later mechanism feedback while avoiding blind guessing",
+      "captureTasks": [
+        "Readable early desktop with distinct programs, no private player identity",
+        "Archive and clue-bearing music/window arrangement without displaying the solved code",
+        "Later non-final mechanism showing an input distinction or partial feedback"
+      ],
+      "versionScope": "qwook/sochinstudio author browser release and current public English localization",
+      "spoilerPolicy": "marked",
+      "publicExclusions": [
+        "Password answer",
+        "Archive digits and full ordered selection",
+        "Exact later puzzle sequences",
+        "Final narrative reveal"
+      ]
+    },
+    "root_reported_video_cases": [
+      {
+        "video_id": "6a83iH6lWPI",
+        "duration": "00:19:25",
+        "timestamp": "00:05:20",
+        "game_state": "Overlapping desktop image windows; front IMG004.jpg, behind IMG003.jpg/lawson.jpg; Liz+Em background",
+        "player_action": "No individual click confirmed by this sample; public text gives a proposed window-selection decision rather than claiming recorded input.",
+        "visible_result": "Distinct overlapping window identities visible",
+        "supports": [
+          "Recognize active image window",
+          "Keep window/background clues distinct"
+        ],
+        "cannot_support": [
+          "Which click opened each image",
+          "Exact password/code",
+          "Full puzzle solution"
+        ],
+        "evidence_path": "reports/screenshots/video-lastseen-desktop.jpg",
+        "observer": "root-reported-not-child-observation"
+      },
+      {
+        "video_id": "6a83iH6lWPI",
+        "timestamp": "00:06:52",
+        "game_state": "OtherCorp1994 black screen with InviteCode input and Continue/Back",
+        "player_action": "No entry or submission confirmed in sample",
+        "visible_result": "Separate labelled code-entry target visible",
+        "supports": [
+          "Distinguish current invitation input from login/archive fields"
+        ],
+        "cannot_support": [
+          "Accepted code value",
+          "Successful submission",
+          "Connection that caused transition",
+          "Complete route or ending"
+        ],
+        "evidence_path": "reports/screenshots/video-lastseen-next.jpg",
+        "observer": "root-reported-not-child-observation"
+      }
+    ]
+  }
+}

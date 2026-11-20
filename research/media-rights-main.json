@@ -1,0 +1,270 @@
+{
+  "game_id": "suzy-says",
+  "checkedAt": "2026-11-18",
+  "task_scope": "Read-only search for official MOONBIT screenshot/cover/press-kit permission. No contact, publication, download adoption or game interaction.",
+  "conclusion": "uncertain",
+  "permission_established": false,
+  "conclusion_detail": "Official provenance was confirmed, but no public MOONBIT/Suzy-specific grant permitting republication of these images on this site was found in the checked sources. This is not a claim that permission is impossible or explicitly denied.",
+  "official_identity_chain": [
+    {
+      "url": "https://moonbit.itch.io/",
+      "observation": "Author profile links www.moonbit.net and @moonbitgames."
+    },
+    {
+      "url": "https://www.moonbit.net/",
+      "observation": "Studio website naming MoonbitLtd and listing game storefronts."
+    }
+  ],
+  "checks": [
+    {
+      "url": "https://moonbit.itch.io/suzy-says",
+      "kind": "official-game-page",
+      "access": "200 via web and HTTP",
+      "observed": "Game description, controls, download/Full details, screenshots, devlogs and trailer. No identified screenshot/cover reuse license or press-kit link.",
+      "permission_quote": null,
+      "scope": "This game page and displayed metadata; author provenance is established, reuse terms are not.",
+      "conclusion": "uncertain"
+    },
+    {
+      "url": "https://moonbit.itch.io/",
+      "kind": "official-author-profile",
+      "access": "200",
+      "observed": "Game catalogue and official website/social links, no media-reuse terms found.",
+      "permission_quote": null,
+      "scope": "Studio identity and catalogue; no per-image grant.",
+      "conclusion": "uncertain"
+    },
+    {
+      "url": "https://www.moonbit.net/",
+      "kind": "official-studio-home",
+      "access": "200",
+      "observed": "Game-store links, merchandise and privacy-policy link; no press-kit or screenshot policy identified.",
+      "context_quote": "© Moonbit Ltd.",
+      "quote_role": "Copyright identity notice, not a permission grant.",
+      "permission_quote": null,
+      "scope": "Studio homepage only; notice does not establish scope of allowed reproduction.",
+      "conclusion": "uncertain"
+    },
+    {
+      "url": "https://www.moonbit.net/privacy-policy",
+      "kind": "official-policy",
+      "access": "200 via clicked homepage link and HTTP",
+      "observed": "Privacy/data collection, analytics, data retention and contact terms. No game-image republication license identified.",
+      "context_quote": "PRIVACY POLICY - 10.06.2024",
+      "quote_role": "Document heading, not a media license.",
+      "permission_quote": null,
+      "scope": "Privacy policy; must not be repurposed into image permission.",
+      "conclusion": "not-a-media-license"
+    },
+    {
+      "url": "https://www.moonbit.net/sitemap.xml",
+      "kind": "official-sitemap-index",
+      "access": "200 via HTTP; web extraction unavailable",
+      "observed": "Points to pages-sitemap.xml.",
+      "permission_quote": null,
+      "scope": "Discovery only.",
+      "conclusion": "not-a-media-license"
+    },
+    {
+      "url": "https://www.moonbit.net/pages-sitemap.xml",
+      "kind": "official-page-sitemap",
+      "access": "200 via HTTP; web extraction unavailable",
+      "listedUrls": [
+        "https://www.moonbit.net",
+        "https://www.moonbit.net/privacy-policy",
+        "https://www.moonbit.net/app-ads-txt"
+      ],
+      "observed": "No press/media-policy page listed. A sitemap can be incomplete and does not prove no policy exists anywhere.",
+      "permission_quote": null,
+      "scope": "Bounded official route discovery.",
+      "conclusion": "no-press-page-discovered"
+    },
+    {
+      "url": "https://www.moonbit.net/robots.txt",
+      "kind": "official-robots",
+      "access": "200 via HTTP",
+      "context_quote": "Allow: /",
+      "quote_role": "Crawler instruction, not copyright/media reuse permission.",
+      "permission_quote": null,
+      "scope": "Crawling only; not republication.",
+      "conclusion": "not-a-media-license"
+    },
+    {
+      "url": "https://www.moonbit.net/press",
+      "kind": "guessed-conventional-press-path",
+      "access": "HTTP404",
+      "observed": "No page at this tested conventional route; not evidence that other undiscovered press assets do not exist.",
+      "permission_quote": null,
+      "scope": "This exact URL only.",
+      "conclusion": "not-found"
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "suzy-official-screenshot-1",
+      "kind": "author-page-game-screenshot",
+      "asset_url": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5NC5qcGc=/original/VXYOt8.jpg",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Extracted original-size href from official screenshot_list HTML.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review",
+      "visual_identity_and_crop_review": "Separate task; not performed in this rights-only review."
+    },
+    {
+      "asset_id": "suzy-official-screenshot-2",
+      "kind": "author-page-game-screenshot",
+      "asset_url": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5Ni5qcGc=/original/nT%2FiHP.jpg",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Extracted original-size href from official screenshot_list HTML.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review",
+      "visual_identity_and_crop_review": "Separate task; not performed in this rights-only review."
+    },
+    {
+      "asset_id": "suzy-official-screenshot-3",
+      "kind": "author-page-game-screenshot",
+      "asset_url": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5OS5qcGc=/original/as%2B78f.jpg",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Extracted original-size href from official screenshot_list HTML.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review",
+      "visual_identity_and_crop_review": "Separate task; not performed in this rights-only review."
+    },
+    {
+      "asset_id": "suzy-official-screenshot-4",
+      "kind": "author-page-game-screenshot",
+      "asset_url": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5Ny5qcGc=/original/c0yNSV.jpg",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Extracted original-size href from official screenshot_list HTML.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review",
+      "visual_identity_and_crop_review": "Separate task; not performed in this rights-only review."
+    },
+    {
+      "asset_id": "suzy-official-screenshot-5",
+      "kind": "author-page-game-screenshot",
+      "asset_url": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5NS5qcGc=/original/oZvLsc.jpg",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Extracted original-size href from official screenshot_list HTML.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review",
+      "visual_identity_and_crop_review": "Separate task; not performed in this rights-only review."
+    },
+    {
+      "asset_id": "suzy-official-screenshot-6",
+      "kind": "author-page-game-screenshot",
+      "asset_url": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5OC5qcGc=/original/t5Xy9p.jpg",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Extracted original-size href from official screenshot_list HTML.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review",
+      "visual_identity_and_crop_review": "Separate task; not performed in this rights-only review."
+    },
+    {
+      "asset_id": "suzy-official-og-cover",
+      "kind": "author-page-animated-cover",
+      "asset_url": "https://img.itch.zone/aW1nLzMxOTQ4NDA2LmdpZg==/original/CO9l5G.gif",
+      "source_page": "https://moonbit.itch.io/suzy-says",
+      "provenance_method": "Official og:image and twitter:image metadata.",
+      "permission_quote": null,
+      "license_url": null,
+      "allowed_use_scope": "not-established",
+      "modification_or_credit_conditions": "not-established",
+      "conclusion": "uncertain",
+      "adoption_status": "not-cleared-by-this-review"
+    }
+  ],
+  "searches": [
+    {
+      "query": "MOONBIT games official Suzy Says press kit media policy screenshots",
+      "result": "Official author/studio surfaced alongside fan sites; no permission text identified."
+    },
+    {
+      "query": "site.moonbitgames.com press media screenshots",
+      "result": "No official license surfaced; correct official studio domain is moonbit.net."
+    },
+    {
+      "query": "MOONBIT Suzy Says screenshot permission presskit",
+      "result": "No official Suzy media license surfaced."
+    },
+    {
+      "query": "site:moonbit.net press",
+      "result": "No result in this search."
+    },
+    {
+      "query": "site:moonbit.net media permission",
+      "result": "No result in this search."
+    },
+    {
+      "query": "site:moonbit.itch.io permission screenshots",
+      "result": "No result in this search."
+    },
+    {
+      "query": "moonbitgames presskit / press kit",
+      "result": "No official Suzy kit surfaced; third-party IGDB listing for another title is out of scope."
+    },
+    {
+      "query": "moonbit.net presskit OR media kit OR license",
+      "result": "No official Suzy grant surfaced."
+    },
+    {
+      "query": "site:moonbit.itch.io/suzy-says permission OR license OR press",
+      "result": "No indexed permission surfaced."
+    }
+  ],
+  "excluded_as_permission": [
+    {
+      "url": "https://suzysaysguide.com/about",
+      "reason": "Independent fan site describing its own image practice; cannot grant MOONBIT rights."
+    },
+    {
+      "url": "https://suzysaysgame.org/about/",
+      "reason": "Independent fan site identity disclaimer; cannot grant MOONBIT rights."
+    },
+    {
+      "url": "https://www.igdb.com/games/mr-hopps-playhouse-3/presskit",
+      "reason": "Third-party press-kit presentation for another game, no transferable Suzy license."
+    },
+    {
+      "url": "https://mooncakes.io/",
+      "reason": "Unrelated MoonBit programming-language ecosystem; name collision."
+    }
+  ],
+  "workflow_next_steps": [
+    "Keep each author-page image individually uncertain until a suitable use basis is recorded; do not change the conclusion to cleared because the URL loads or another fan site copied it.",
+    "The workflow self-capture branch is a different provenance option: if used, record capture from an available actual game version and its state/action/context. Do not call a YouTube screenshot or downloaded store image a self-captured game frame.",
+    "A video being embeddable is not a separate license to redistribute its still frames as site art.",
+    "No external contact was made; any new author inquiry requires the user-specific send approval procedure."
+  ],
+  "not_performed": [
+    "No developer/customer-support/social contact",
+    "No copyrighted video download",
+    "No legal fair-use determination",
+    "No file/media adoption or public asset modification",
+    "No game installation or execution"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "checkedAt": "2026-11-18",
+  "method": "Read-only primary author/publisher pages plus exact candidate URL inventory. No external contact, no fan-site reuse inference, no legal fair-use determination.",
+  "games": [
+    {
+      "gameId": "the-open-house",
+      "sources": [
+        {
+          "url": "https://corpsepile.itch.io/the-open-house",
+          "scope": "Official author game page and screenshot links",
+          "result": "No explicit third-party screenshot/cover redistribution license found in opened page."
+        },
+        {
+          "url": "https://corpsepile.itch.io/",
+          "scope": "Official creator profile",
+          "result": "Game links and creator identity, no general media-use grant found."
+        }
+      ],
+      "note": "In-game PROPERTY OF NORTHTREE/NOT FOR DISTRIBUTION text is fictional UI and not analyzed as a real copyright license; neither grant nor prohibition inferred.",
+      "candidates": [
+        {
+          "url": "https://img.itch.zone/aW1nLzMxMzA3NDAucG5n/original/KEnve9.png",
+          "kind": "cover",
+          "scope": "Author-page cover previously identified by parent",
+          "rightsStatus": "uncertain"
+        }
+      ],
+      "candidateCount": 1,
+      "explicitReusableAssetCount": 0,
+      "rightsStatus": "uncertain",
+      "allowableModifications": "Not established for these third-party source images",
+      "nextStep": "Do not mark downloaded assets approved merely because public. Parent may evaluate an independent legitimate direct-game capture route or obtain specific permission only if user explicitly authorizes sending; no author contact performed."
+    },
+    {
+      "gameId": "bad-ben",
+      "sources": [
+        {
+          "url": "https://corpsepile.itch.io/bad-ben",
+          "scope": "Official author game page",
+          "result": "Credits DreadXP/Nigel Bach and provides screenshot media; no explicit screenshot/asset reuse terms found."
+        },
+        {
+          "url": "https://dreadxp.com/category/press-kits/",
+          "scope": "Publisher press archive page1",
+          "result": "Other game-specific kits; Bad Ben not listed in opened page."
+        },
+        {
+          "url": "https://dreadxp.com/category/press-kits/page/2/",
+          "scope": "Publisher press archive page2",
+          "result": "Other game-specific kits; Bad Ben not listed in opened page."
+        },
+        {
+          "url": "https://dreadxp.com/category/press-kits/page/3/",
+          "scope": "Publisher press archive page3",
+          "result": "Dread X collection kits; these do not establish a license for Bad Ben images."
+        }
+      ],
+      "note": "Publisher has press kits but none located for this game in the three observed archive pages. No contact sent.",
+      "candidates": [
+        {
+          "url": "https://img.itch.zone/aW1nLzcxMjU0NDYuanBn/original/XXJhWV.jpg",
+          "kind": "cover",
+          "localPath": "research/media-preview/bad-ben-cover.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        },
+        {
+          "url": "https://img.itch.zone/aW1hZ2UvOTU1NTY1LzcyNDExOTAuanBn/original/YM%2FH%2BE.jpg",
+          "kind": "screenshot",
+          "localPath": "research/media-preview/bad-ben-screen-1.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        },
+        {
+          "url": "https://img.itch.zone/aW1hZ2UvOTU1NTY1LzcyNDExOTEuanBn/original/Wj%2FjR8.jpg",
+          "kind": "screenshot",
+          "localPath": "research/media-preview/bad-ben-screen-2.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        },
+        {
+          "url": "https://img.itch.zone/aW1hZ2UvOTU1NTY1LzcyNTE3NzMuanBn/original/y0VNRT.jpg",
+          "kind": "screenshot",
+          "localPath": "research/media-preview/bad-ben-screen-3.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        }
+      ],
+      "candidateCount": 4,
+      "explicitReusableAssetCount": 0,
+      "rightsStatus": "uncertain",
+      "allowableModifications": "Not established for these third-party source images",
+      "nextStep": "Do not mark downloaded assets approved merely because public. Parent may evaluate an independent legitimate direct-game capture route or obtain specific permission only if user explicitly authorizes sending; no author contact performed."
+    },
+    {
+      "gameId": "uncle-nintendo",
+      "sources": [
+        {
+          "url": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+          "scope": "Official game page",
+          "result": "Game display and support/play access; no explicit screenshot or artwork redistribution terms found."
+        },
+        {
+          "url": "https://ztul.itch.io/",
+          "scope": "Official creator profile",
+          "result": "Game links; no general media license found."
+        },
+        {
+          "url": "https://correlatedcontents.com/creative-work/",
+          "scope": "Michael Lutz official creative-work page",
+          "result": "Connects author and game; no presskit or screenshot license found."
+        },
+        {
+          "url": "https://correlatedcontents.com/misc/UWWFN/UncleNotes.html",
+          "scope": "Author notes",
+          "result": "Notes made separately available to review/share; that scope is notes, not a blanket license for game art or screenshots."
+        },
+        {
+          "url": "https://correlatedcontents.com/misc/UWWFN/UWWFN.html",
+          "scope": "Original game path discovered in author notes",
+          "result": "404 in current web fetch; no license conclusion."
+        }
+      ],
+      "note": "Game includes commissioned/credited artwork. Freeware/play access and other websites hosting with permission do not transfer that permission to this project.",
+      "candidates": [
+        {
+          "url": "https://img.itch.zone/aW1hZ2UvMTQwMjcvNTI5ODkucG5n/original/ElyDed.png",
+          "kind": "cover",
+          "localPath": "research/media-preview/uncle-nintendo-cover.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        },
+        {
+          "url": "https://img.itch.zone/aW1hZ2UvMTQwMjcvNDc5NDAuanBn/original/i4TpFt.jpg",
+          "kind": "screenshot",
+          "localPath": "research/media-preview/uncle-nintendo-screen-1.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        },
+        {
+          "url": "https://img.itch.zone/aW1hZ2UvMTQwMjcvNDc5NDEucG5n/original/D%2FF2C9.png",
+          "kind": "screenshot",
+          "localPath": "research/media-preview/uncle-nintendo-screen-2.webp",
+          "rightsStatus": "uncertain",
+          "scope": "Exact author-hosted asset"
+        }
+      ],
+      "candidateCount": 3,
+      "explicitReusableAssetCount": 0,
+      "rightsStatus": "uncertain",
+      "allowableModifications": "Not established for these third-party source images",
+      "nextStep": "Do not mark downloaded assets approved merely because public. Parent may evaluate an independent legitimate direct-game capture route or obtain specific permission only if user explicitly authorizes sending; no author contact performed."
+    }
+  ],
+  "overall": "No explicit screenshot/asset reuse grant located in examined official pages. This is bounded search uncertainty, not proof that no grant exists anywhere."
+}

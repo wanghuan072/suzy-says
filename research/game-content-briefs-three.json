@@ -1,0 +1,388 @@
+[
+  {
+    "game_id": "the-open-house",
+    "game_identity": "the-open-house",
+    "checked_at": "2026-11-18",
+    "primary_task": "Follow a virtual property tour and interpret changing rooms and interface prompts",
+    "completion_result": "Recognize tour navigation and room information, remain oriented when the presentation becomes distorted, and separate a working eerie scene from a startup problem.",
+    "unique_hook": "The Open House turns a familiar piece of online browsing into a short psychological horror game. Instead of arriving as an armed investigator, you enter a polished virtual property presentation. The apparent job is ordinary: look around a house, examine its rooms and understand what is being offered. That comfortable framing matters. A property tour encourages you to trust labels, interfaces and the person guiding the visit, so a change in those things feels different from a monster appearing in a place that already looked dangerous.",
+    "mandatory_questions": [
+      "What is being toured?",
+      "How do room labels and Information relate to the pictured room?",
+      "What should be checked before restarting a strange view?",
+      "What does the streamer warning mean?"
+    ],
+    "actual_steps_or_judgments": [
+      "Read a current prompt before choosing a route.",
+      "Compare room identity, available action and visible details rather than clicking repeatedly.",
+      "If a scene remains responsive, examine its task before treating distortion as failure."
+    ],
+    "verified_inputs": [
+      "First-person exploration horror"
+    ],
+    "progression_scope": "Recognize tour navigation and room information, remain oriented when the presentation becomes distorted, and separate a working eerie scene from a startup problem.",
+    "observed_cases": [
+      {
+        "videoId": "SZxTn3h34rE",
+        "evidencePath": "reports/screenshots/video-openhouse-tour.jpg",
+        "visibleTime": "00:01:23",
+        "observed": "Blue-walled living room, fireplace, Information area.",
+        "supports": [
+          "Separate room content from interface information"
+        ],
+        "limits": [
+          "Seek target reported143 seconds but captured frame is1:23; screenshot clock wins.",
+          "Not a complete room traversal."
+        ]
+      },
+      {
+        "videoId": "SZxTn3h34rE",
+        "evidencePath": "reports/screenshots/video-openhouse-continue.jpg",
+        "visibleTime": null,
+        "observed": "HALL - 2F label with distorted color image; ALPHA v0.2 label.",
+        "supports": [
+          "Distorted picture can coexist with an identifiable tour interface"
+        ],
+        "limits": [
+          "No exact time retained in image",
+          "No full scanning or ending rule established."
+        ]
+      }
+    ],
+    "failure_and_recovery": [
+      "Re-read last clear task and revisit known room connection.",
+      "For loading failure try one fresh retry or another current browser; do not assume late narrative effects are failure."
+    ],
+    "version_scope": "Author browser release plus sampled ALPHA v0.2 video; relationship to current embed not gameplay-tested.",
+    "browser_device_storage_audio_scope": "No direct gameplay tests, touch/audio/save capability claims not generalized. Site layout controls are separate from game mechanics.",
+    "content_risks": [
+      "Psychological horror",
+      "System-username display warning; platform scope not universal"
+    ],
+    "spoiler_policy": "marked",
+    "screenshot_tasks": [
+      {
+        "slot_id": "the-open-house-capture-1",
+        "target_section": "begin-with-the-interface",
+        "fact_to_show": "Opening room label and Information panel",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      },
+      {
+        "slot_id": "the-open-house-capture-2",
+        "target_section": "build-a-spatial-memory",
+        "fact_to_show": "Different route or room navigation state",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      },
+      {
+        "slot_id": "the-open-house-capture-3",
+        "target_section": "notice-what-is-different",
+        "fact_to_show": "HALL - 2F distortion without final reveal",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      }
+    ],
+    "youtube_research": {
+      "searched_at": "2026-11-18",
+      "query_scope": "See keyword-video-map for independently discovered current-game candidate",
+      "candidate_video_ids": [
+        "SZxTn3h34rE"
+      ],
+      "candidate_media_ledger_ids": [],
+      "adopted_media_ledger_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Compare ordinary tour presentation with later distorted room presentation; no complete walkthrough promise.",
+      "observation_scope": "Limited parent-observed samples plus direct child inspection of the listed saved frames; no full video/session watching claimed."
+    },
+    "page_boundary": "Not a complete map, scan-target solution or ending guide.",
+    "evidence_ids": [
+      "the-open-house-identity",
+      "the-open-house-author"
+    ],
+    "sourceUrls": [
+      "https://corpsepile.itch.io/the-open-house",
+      "https://www.youtube.com/watch?v=SZxTn3h34rE"
+    ],
+    "unsupported_claims": [
+      "Exact scanning targets and order",
+      "Specific ending triggers",
+      "Touch support",
+      "Save/checkpoint behavior",
+      "Personal data access in every platform build"
+    ],
+    "sections": [
+      "a-tour-with-another-purpose",
+      "begin-with-the-interface",
+      "build-a-spatial-memory",
+      "notice-what-is-different",
+      "play-for-the-next-clear-task",
+      "webgl-and-loading",
+      "before-recording-the-tour",
+      "questions-before-entering"
+    ],
+    "content_status": "original-draft-complete; sampled cases absorbed; final media review pending",
+    "runtime_result": "not_tested_user_waived"
+  },
+  {
+    "game_id": "bad-ben",
+    "game_identity": "bad-ben",
+    "checked_at": "2026-11-18",
+    "primary_task": "Explore the house as Tom, find relevant objects and use the tablet after acquisition",
+    "completion_result": "Use the listed keyboard inputs deliberately, understand tablet availability and distinguish monitoring labels from evidence of an objective being completed.",
+    "unique_hook": "Bad Ben is a short haunted-house adventure with a protagonist who is much less impressed by the supernatural than you might expect. You play Tom Riley, a man who has bought a house without seeing it first. The visit quickly becomes a search through an uncomfortable property, but his reactions give the experience a dry comic edge. The game combines exploration, object interactions and ghost-story surprises rather than asking you to win a conventional combat encounter.",
+    "mandatory_questions": [
+      "Which inputs move/interact?",
+      "Why is Tab not useful before the tablet?",
+      "What does a room label tell me versus a displayed status?",
+      "How should I reorient after a fixed-camera doorway transition?",
+      "What is needed if WebGL will not start?"
+    ],
+    "actual_steps_or_judgments": [
+      "Stop near an available object before E interaction.",
+      "Wait for tablet acquisition before diagnosing its absence.",
+      "Read room name and status together; do not infer detection rules from one label.",
+      "Release movement and reacquire Tom after a view changes."
+    ],
+    "verified_inputs": [
+      "WASD movement, E interaction, Tab tablet once acquired"
+    ],
+    "progression_scope": "Use the listed keyboard inputs deliberately, understand tablet availability and distinguish monitoring labels from evidence of an objective being completed.",
+    "observed_cases": [
+      {
+        "videoId": "aoE79XZOqzc",
+        "evidencePath": "reports/screenshots/video-badben-opening.jpg",
+        "visibleTime": null,
+        "observed": "Kitchen DEACTIVATED label; Tom holds tablet; dialogue requests a camera/motion-sensor check.",
+        "supports": [
+          "Room and status are separate fields",
+          "Monitoring task exists after tablet is held"
+        ],
+        "limits": [
+          "Parent sample target02:17; saved image has no reliable time",
+          "No sensor detection algorithm or success condition inferred."
+        ]
+      },
+      {
+        "videoId": "aoE79XZOqzc",
+        "evidencePath": "reports/screenshots/video-badben-camera.jpg",
+        "visibleTime": null,
+        "observed": "OFFICE MOTION ACTIVATED; Tom at a doorway in an angled room view.",
+        "supports": [
+          "Monitoring labels change by view",
+          "Fixed viewpoint and doorway orientation are relevant"
+        ],
+        "limits": [
+          "Parent sample target04:52; screenshot alone does not prove a complete movement sequence.",
+          "No key locations or unlock conditions."
+        ]
+      }
+    ],
+    "failure_and_recovery": [
+      "Before restart check game focus, Tom position and whether the tablet is acquired.",
+      "If startup fails compare a current alternate browser and relevant WebGL capability."
+    ],
+    "version_scope": "Author-hosted HTML5 Unity release; no runtime test or first-person experience claim",
+    "browser_device_storage_audio_scope": "No direct gameplay tests, touch/audio/save capability claims not generalized. Site layout controls are separate from game mechanics.",
+    "content_risks": [
+      "Horror",
+      "Strong language",
+      "Scares"
+    ],
+    "spoiler_policy": "marked",
+    "screenshot_tasks": [
+      {
+        "slot_id": "bad-ben-capture-1",
+        "target_section": "movement-and-interaction",
+        "fact_to_show": "Tom near an available interaction in a room",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      },
+      {
+        "slot_id": "bad-ben-capture-2",
+        "target_section": "tablet-after-acquisition",
+        "fact_to_show": "Monitoring room label/status and tablet task",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      },
+      {
+        "slot_id": "bad-ben-capture-3",
+        "target_section": "movement-and-interaction",
+        "fact_to_show": "Doorway and changed camera orientation",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      }
+    ],
+    "youtube_research": {
+      "searched_at": "2026-11-18",
+      "query_scope": "See keyword-video-map for independently discovered current-game candidate",
+      "candidate_video_ids": [
+        "aoE79XZOqzc"
+      ],
+      "candidate_media_ledger_ids": [],
+      "adopted_media_ledger_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Show the camera/tablet task and orientation context that cannot be explained by a key table alone.",
+      "observation_scope": "Limited parent-observed samples plus direct child inspection of the listed saved frames; no full video/session watching claimed."
+    },
+    "page_boundary": "No film chronology, complete key route, combat guide or extra-mode unlock recipe.",
+    "evidence_ids": [
+      "bad-ben-identity",
+      "bad-ben-author"
+    ],
+    "sourceUrls": [
+      "https://corpsepile.itch.io/bad-ben",
+      "https://www.youtube.com/watch?v=aoE79XZOqzc"
+    ],
+    "unsupported_claims": [
+      "Exact key locations or routes",
+      "Exact unlock requirements",
+      "Combat or weapon mechanics",
+      "Touch support",
+      "Checkpoint/save behavior",
+      "Specific tablet puzzle solution"
+    ],
+    "sections": [
+      "tom-rileys-house",
+      "movement-and-interaction",
+      "searching-with-a-purpose",
+      "tablet-after-acquisition",
+      "comic-reactions-and-real-progress",
+      "a-comfortable-horror-session",
+      "webgl-startup-problems",
+      "questions-about-bad-ben"
+    ],
+    "content_status": "original-draft-complete; sampled cases absorbed; final media review pending",
+    "runtime_result": "not_tested_user_waived"
+  },
+  {
+    "game_id": "uncle-nintendo",
+    "game_identity": "uncle-nintendo",
+    "checked_at": "2026-11-18",
+    "primary_task": "Read a sleepover narrative, make contextual choices and compare routes without spoiling the reveal",
+    "completion_result": "Read available links in context, distinguish alternative responses from continuing narration and compare routes without inventing clock or ending rules.",
+    "unique_hook": "the uncle who works for nintendo is a narrative horror game about staying overnight at a friend's house. You are eleven, you both like videogames and your friend seems to have an enviable collection. There is a familiar explanation for those unusual games: a relative with a remarkable job. The uncle is due to visit at midnight. That simple promise gives the evening its shape, turning ordinary childhood conversation into something you have a reason to question.",
+    "mandatory_questions": [
+      "What is the sleepover premise?",
+      "Which colored words are available responses?",
+      "How should a first route be approached?",
+      "What does five endings establish and what does it not establish?",
+      "Can browser history be treated as undo?"
+    ],
+    "actual_steps_or_judgments": [
+      "Read the complete passage and all visible links before choosing.",
+      "At a pair of responses, compare what each means socially.",
+      "After a clarification, use the available continuation without assuming a hidden timer rule.",
+      "On replay, deliberately change a decision so the comparison remains understandable."
+    ],
+    "verified_inputs": [
+      "Twine HTML5 release"
+    ],
+    "progression_scope": "Read available links in context, distinguish alternative responses from continuing narration and compare routes without inventing clock or ending rules.",
+    "observed_cases": [
+      {
+        "videoId": "e7JI5Zljdlo",
+        "evidencePath": "reports/screenshots/video-uncle-arrival.jpg",
+        "visibleTime": null,
+        "observed": "House approach and mother conversation; two red goodbye alternatives.",
+        "supports": [
+          "Text choices can offer distinct social actions"
+        ],
+        "limits": [
+          "Parent sample target02:08; screenshot does not display a reliable playback clock",
+          "No outcome or ending effect established."
+        ]
+      },
+      {
+        "videoId": "e7JI5Zljdlo",
+        "evidencePath": "reports/screenshots/video-uncle-dialogue.jpg",
+        "visibleTime": null,
+        "observed": "Narration clarifies a drink impression; single red continuation.",
+        "supports": [
+          "A red link can follow a narrative correction rather than offer a pair of alternatives"
+        ],
+        "limits": [
+          "The saved file is not the separately live-observed den/dinner two-choice frame.",
+          "Parent live observation at04:47 is separate evidence without matching saved frame.",
+          "No time-per-link or branch condition inferred."
+        ]
+      }
+    ],
+    "failure_and_recovery": [
+      "Check for remaining text and links before calling a passage stuck.",
+      "Do not assume browser Back restores story state; use visible game options only."
+    ],
+    "version_scope": "Author-listed Twine HTML5 release; no runtime input or complete playthrough claimed",
+    "browser_device_storage_audio_scope": "No direct gameplay tests, touch/audio/save capability claims not generalized. Site layout controls are separate from game mechanics.",
+    "content_risks": [
+      "Child narrator in horror story; not a suitability recommendation",
+      "Late reveals excluded"
+    ],
+    "spoiler_policy": "marked",
+    "screenshot_tasks": [
+      {
+        "slot_id": "uncle-nintendo-capture-1",
+        "target_section": "an-ordinary-sleepover",
+        "fact_to_show": "House arrival with readable choice context",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      },
+      {
+        "slot_id": "uncle-nintendo-capture-2",
+        "target_section": "reading-and-choosing",
+        "fact_to_show": "Single-link clarification versus choice alternatives",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      },
+      {
+        "slot_id": "uncle-nintendo-capture-3",
+        "target_section": "five-endings-and-replays",
+        "fact_to_show": "Nonspoiling distinct dialogue context supporting route comparison",
+        "distinctness": "Must use a distinct actual game state, not the cover or a recrop of another capture",
+        "adopted_media_ledger_ids": []
+      }
+    ],
+    "youtube_research": {
+      "searched_at": "2026-11-18",
+      "query_scope": "See keyword-video-map for independently discovered current-game candidate",
+      "candidate_video_ids": [
+        "e7JI5Zljdlo"
+      ],
+      "candidate_media_ledger_ids": [],
+      "adopted_media_ledger_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Show how a passage, colored links and surrounding scene work together; not an all-endings solution.",
+      "observation_scope": "Limited parent-observed samples plus direct child inspection of the listed saved frames; no full video/session watching claimed."
+    },
+    "page_boundary": "No story reveal, branch trigger chart, autosave claim or real-time countdown.",
+    "evidence_ids": [
+      "uncle-nintendo-identity",
+      "uncle-nintendo-author"
+    ],
+    "sourceUrls": [
+      "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "https://www.youtube.com/watch?v=e7JI5Zljdlo"
+    ],
+    "unsupported_claims": [
+      "Specific ending triggers",
+      "Exact clock progression mechanics",
+      "All choices affect outcome",
+      "A universal undo feature",
+      "Autosave or cross-device persistence",
+      "Complete mobile compatibility"
+    ],
+    "sections": [
+      "an-ordinary-sleepover",
+      "reading-and-choosing",
+      "friendship-and-credibility",
+      "waiting-for-midnight",
+      "five-endings-and-replays",
+      "when-a-choice-feels-wrong",
+      "reading-in-a-browser",
+      "horror-without-the-reveal",
+      "sleepover-questions"
+    ],
+    "content_status": "original-draft-complete; sampled cases absorbed; final media review pending",
+    "runtime_result": "not_tested_user_waived"
+  }
+]

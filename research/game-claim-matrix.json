@@ -1,0 +1,555 @@
+[
+  {
+    "id": "main-platform",
+    "gameId": "suzy-says",
+    "claim": "Official release is a Windows download.",
+    "evidenceIds": [
+      "main-official"
+    ],
+    "status": "confirmed",
+    "publicLimit": "Do not label supplied iframe as official browser port."
+  },
+  {
+    "id": "main-identity-conflict",
+    "gameId": "suzy-says",
+    "claim": "Configured /scream/ embed identity differs or remains unknown.",
+    "evidenceIds": [],
+    "status": "open",
+    "publicLimit": "No verified-play claim; retain configured string and provisional status."
+  },
+  {
+    "id": "main-controls",
+    "gameId": "suzy-says",
+    "claim": "WASD move, Space jump, C crouch in official Windows release.",
+    "evidenceIds": [
+      "main-official"
+    ],
+    "status": "confirmed",
+    "publicLimit": "Do not assert controls tested in configured iframe."
+  },
+  {
+    "id": "main-secret-scope",
+    "gameId": "suzy-says",
+    "claim": "Secret ending and endless mode belong to paid Full version.",
+    "evidenceIds": [
+      "main-official"
+    ],
+    "status": "confirmed",
+    "publicLimit": "Do not expose ending solution in teasers."
+  },
+  {
+    "id": "assessment-examination-identity",
+    "gameId": "assessment-examination",
+    "claim": "Exam interface, assessment choices, interruptions, evaluation outcome, F fullscreen, 10–15 minute session.",
+    "evidenceIds": [
+      "assessment-examination-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "please-answer-carefully-identity",
+    "gameId": "please-answer-carefully",
+    "claim": "Survey responses, changing question tone, stalking theme, available language selection, Twine text interface, short session.",
+    "evidenceIds": [
+      "please-answer-carefully-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "last-seen-online-identity",
+    "gameId": "last-seen-online",
+    "claim": "Files and computer interface, clue-based passwords, chat logs, escape-room progression, replay facility, 2025 art update, current 2026 build.",
+    "evidenceIds": [
+      "last-seen-online-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "the-open-house-identity",
+    "gameId": "the-open-house",
+    "claim": "Virtual property tour, room navigation, changing presentation, WebGL issues, author warning about system username display.",
+    "evidenceIds": [
+      "the-open-house-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "make-sure-its-closed-identity",
+    "gameId": "make-sure-its-closed",
+    "claim": "Garage-door interaction and childhood fear premise extremely short experience WebGL lighting caveat.",
+    "evidenceIds": [
+      "make-sure-its-closed-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "bad-ben-identity",
+    "gameId": "bad-ben",
+    "claim": "Tom Riley role, key fetching, changing camera views, tablet after acquisition, WASD move/E interact/Tab tablet, WebGL hardware acceleration.",
+    "evidenceIds": [
+      "bad-ben-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "six-cats-under-identity",
+    "gameId": "six-cats-under",
+    "claim": "Poltergeist interactions, cat personalities, room-object puzzle chains, escape goal, Unity browser version, pixel-art scene.",
+    "evidenceIds": [
+      "six-cats-under-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "uncle-nintendo-identity",
+    "gameId": "uncle-nintendo",
+    "claim": "Sleepover setting, dialogue choices, arrival at midnight, five endings stated by author, replaying different paths, Twine browser build.",
+    "evidenceIds": [
+      "uncle-nintendo-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "exhibit-of-sorrows-identity",
+    "gameId": "exhibit-of-sorrows",
+    "claim": "Interactive circus exhibits, mouse actions, return traversal and changed rules July 2025 intro-lag fix content warnings needed.",
+    "evidenceIds": [
+      "exhibit-of-sorrows-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "burger-frights-identity",
+    "gameId": "burger-frights",
+    "claim": "Bicycle ride through forest, input scheme shown inside game, fullscreen recommendation, Firefox mouse-drift fix, route changes and encounter rules to test.",
+    "evidenceIds": [
+      "burger-frights-author"
+    ],
+    "status": "confirmed-author-scope",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "sort-the-court-identity",
+    "gameId": "sort-the-court",
+    "claim": "Yes/no decisions, three resources and population outcomes to verify, visitor patterns, day transition, old Unity build limitation mobile updated version exclusive to Poki.",
+    "evidenceIds": [
+      "sort-the-court-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "the-exhibit-identity",
+    "gameId": "the-exhibit",
+    "claim": "One room and unusual portrait prototype identity minimal scrolling no clowns depth may be insufficient for 4000 useful characters.",
+    "evidenceIds": [
+      "the-exhibit-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "fatal-survey-identity",
+    "gameId": "fatal-survey",
+    "claim": "HTML visual novel, two endings, dark room/computer setup, survey buttons explicit graphic-violence and strobe warning.",
+    "evidenceIds": [
+      "fatal-survey-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "the-survey-rishi-identity",
+    "gameId": "the-survey-rishi",
+    "claim": "Email after work setup, Twine choice structure, proof-of-concept status, author reports puzzle/bug fix unique puzzles must be verified.",
+    "evidenceIds": [
+      "the-survey-rishi-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "we-become-what-we-behold-identity",
+    "gameId": "we-become-what-we-behold",
+    "claim": "Camera framing, selective capture and escalating social reactions public-domain code/art content violence needs in-game review.",
+    "evidenceIds": [
+      "we-become-what-we-behold-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "routine-identity",
+    "gameId": "routine",
+    "claim": "Wake/relax/repeat narrative experiment official page lists only Windows/macOS/Linux.",
+    "evidenceIds": [
+      "routine-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "parsnip-identity",
+    "gameId": "parsnip",
+    "claim": "Point-and-click cake-ingredient quest official Windows-only build author warns of crashes.",
+    "evidenceIds": [
+      "parsnip-author"
+    ],
+    "status": "excluded",
+    "versionScope": "Author page; runtime not tested by user instruction",
+    "publicLimit": "Do not turn proposed actions or controls into observed outcomes."
+  },
+  {
+    "id": "main-command-rule",
+    "gameId": "suzy-says",
+    "claim": "The opening tutorial explicitly says to follow instructions only when the host gives the qualifying Suzy says words.",
+    "status": "confirmed-recorded-tutorial-scope",
+    "versionScope": "Exact-game original MOONBIT recording; no configured iframe identity or input verification.",
+    "supporting_observation": {
+      "timestamp": "00:01:51",
+      "state": "Opening tutorial with readable yellow subtitle",
+      "visible_result": "The subtitle states the qualifying-word condition",
+      "evidence_path": "reports/screenshots/video-suzy-prefix.jpg"
+    },
+    "publicLimit": "Say qualifying words. Do not reinterpret this as a substring-anywhere rule, invent exceptions, or derive lives/scoring/ending effects."
+  },
+  {
+    "id": "main-practice-feedback",
+    "gameId": "suzy-says",
+    "claim": "The opening practice displays feedback calling attention to absent qualifying words and presents a yellow-target jump instruction.",
+    "status": "confirmed-recorded-presentation-scope",
+    "versionScope": "Recorded opening practice; no complete input-causality trace claimed.",
+    "supporting_observations": [
+      {
+        "timestamp": "00:02:21",
+        "state": "Practice feedback",
+        "visible_result": "Subtitle explains qualifying words were not said, followed by yellow-target jump practice",
+        "evidence_path": "reports/screenshots/video-suzy-practice.jpg"
+      },
+      {
+        "timestamp": "00:02:26",
+        "state": "Yellow jump instruction",
+        "visible_result": "Yellow target remains readable in the instruction",
+        "evidence_path": "reports/screenshots/video-suzy-yellow.jpg"
+      }
+    ],
+    "publicLimit": "Supports worked condition/target comparison; does not prove a specific recorded keypress, collision threshold, life loss, score deduction or ending cause."
+  },
+  {
+    "id": "main-timed-response-advice",
+    "gameId": "suzy-says",
+    "claim": "A timer is visible in a retained opening command sample; advice should respect the current task's displayed time.",
+    "status": "advice-derived-from-recorded-interface",
+    "supporting_evidence_ids": [
+      "main-video-opening"
+    ],
+    "publicLimit": "Do not invent a fixed number of seconds or require waiting through the entire spoken line regardless of remaining time."
+  },
+  {
+    "id": "assessment-examination-video-case",
+    "gameId": "assessment-examination",
+    "claim": [
+      {
+        "range_id": "assessment-0210-0316",
+        "start": "00:02:10",
+        "end": "00:03:16",
+        "game_state": "Distorted portrait and Threat button, later case-file screen",
+        "player_action": "Recorded player progresses through classification sequence",
+        "visible_result": "Classification presentation gives way to named case narrative",
+        "reasoning_value": "Article should distinguish the repeatable classification interface from interruptions containing narrative information",
+        "supports_claim_ids": [
+          "assessment-examination-identity"
+        ],
+        "limitations": [
+          "Only sampled frames across playback interval; no answer correctness, score or branching conclusion",
+          "Cannot prove iframe controls or hidden game logic"
+        ],
+        "page_section_ids": [
+          "choosing-an-answer"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "5kBE7u-POMc"
+    ],
+    "versionScope": "Recorded full game; author build matching initial title and classification UI, browser build not input-tested",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "please-answer-carefully-video-case",
+    "gameId": "please-answer-carefully",
+    "claim": [
+      {
+        "range": "00:55.9 sampled",
+        "state": "Question1 internet-enabled device checkboxes",
+        "action": "Recorded player reads device choices",
+        "visibleResult": "Checkbox survey layout with desktop/tablet/mobile/TV choices",
+        "supports": [
+          "Multi-select input differs from radio questions"
+        ],
+        "cannotSupport": [
+          "Ending effects or truthful-answer scoring"
+        ]
+      },
+      {
+        "range": "02:40 sample; playback continued to04:02",
+        "state": "Frequency radio options followed by several agreement scales",
+        "action": "Recorded player selects questionnaire responses",
+        "visibleResult": "Survey advances to rows about phone reach/windows/neighbors/home safety",
+        "supports": [
+          "Several rows can each require their own response",
+          "Personal-space wording grows uneasy"
+        ],
+        "cannotSupport": [
+          "All paths",
+          "Exact branching or device access"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "eYjjVDO2Sl4"
+    ],
+    "versionScope": "Twine questionnaire UI matches author browser game; streamer recording with facecam",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "last-seen-online-video-case",
+    "gameId": "last-seen-online",
+    "claim": [
+      {
+        "range": "05:20 sample",
+        "state": "Pink desktop with overlapping image viewers IMG004.jpg and other images",
+        "action": "Recorded cursor moves among picture windows",
+        "visibleResult": "Several windows can conceal one another while icons remain visible",
+        "supports": [
+          "Separate hidden windows from missing clues"
+        ],
+        "cannotSupport": [
+          "Correct clue order",
+          "All filenames necessary"
+        ]
+      },
+      {
+        "range": "06:52 sample",
+        "state": "OtherCorp invite screen",
+        "action": "Recorded cursor focuses InviteCode field",
+        "visibleResult": "InviteCode,Continue,Back controls visible",
+        "supports": [
+          "Identify current input role before reusing an earlier password"
+        ],
+        "cannotSupport": [
+          "Correct code or final outcome"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "6a83iH6lWPI"
+    ],
+    "versionScope": "Virtual desktop browser-style game recording, 2026video title not build date",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "the-open-house-video-case",
+    "gameId": "the-open-house",
+    "claim": [
+      {
+        "range": "00:37 sample",
+        "state": "Fictional NorthTree property presentation",
+        "action": "Recorded player advances sales introduction",
+        "visibleResult": "Click-to-continue real-estate onboarding",
+        "supports": [
+          "Sales interface is fictional narrative framing"
+        ],
+        "cannotSupport": [
+          "Real real-estate service"
+        ]
+      },
+      {
+        "range": "01:23 visible screenshot sample; DOM seek target02:23 was ahead of buffered image, later04:02 sample",
+        "state": "Livingroom view then Hall2F",
+        "action": "Recorded viewpoint moves through property tour",
+        "visibleResult": "Information control at bottom and later colored visual interference",
+        "supports": [
+          "Room labels help retain location",
+          "A changed image is not automatically a browser failure"
+        ],
+        "cannotSupport": [
+          "Exact late puzzle order",
+          "Every version identical"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "SZxTn3h34rE"
+    ],
+    "versionScope": "ALPHA v0.2 visible in recording",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "bad-ben-video-case",
+    "gameId": "bad-ben",
+    "claim": [
+      {
+        "range": "02:17 sample",
+        "state": "Kitchen DEACTIVATED",
+        "action": "Character holds tablet, task mentions camera/motion-sensor check",
+        "visibleResult": "Room and sensor status share upper-left HUD",
+        "supports": [
+          "Separate room label from sensor state"
+        ],
+        "cannotSupport": [
+          "Complete activation sequence"
+        ]
+      },
+      {
+        "range": "04:52 sample",
+        "state": "Office MOTION ACTIVATED",
+        "action": "Character walks toward doorway",
+        "visibleResult": "Fixed high camera shows leaving character and red sensor status",
+        "supports": [
+          "Fixed angle does not itself mean movement is blocked"
+        ],
+        "cannotSupport": [
+          "Exact sensor trigger area or ending cause"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "aoE79XZOqzc"
+    ],
+    "versionScope": "corpsepile browser recording with fixed security-camera views",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "uncle-nintendo-video-case",
+    "gameId": "uncle-nintendo",
+    "claim": [
+      {
+        "range": "02:08 sample",
+        "state": "Outside friend house on Friday evening",
+        "action": "Recorded player reads arrival and mother conversation link",
+        "visibleResult": "Narrative text over house illustration and red continuation link",
+        "supports": [
+          "Reading and link progression"
+        ],
+        "cannotSupport": [
+          "All opening name variations"
+        ]
+      },
+      {
+        "range": "04:47 sample",
+        "state": "Den narration followed by dinner invitation",
+        "action": "Recorded player reaches two red response links",
+        "visibleResult": "Two responses rather than single continuation",
+        "supports": [
+          "Distinguish reading/continuation from choice"
+        ],
+        "cannotSupport": [
+          "Each choice clock cost",
+          "Ending cause"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "e7JI5Zljdlo"
+    ],
+    "versionScope": "Michael Lutz illustrated Twine story recording; no branch equivalence claim",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "exhibit-of-sorrows-video-case",
+    "gameId": "exhibit-of-sorrows",
+    "claim": [
+      {
+        "range": "02:31 and02:45 samples",
+        "state": "Clown with oversized yellow hands and white arrow",
+        "action": "Recorded cursor interacts near indicated finger",
+        "visibleResult": "Later frame has changed/extended fingers",
+        "supports": [
+          "Read local arrow and look for local visual feedback"
+        ],
+        "cannotSupport": [
+          "Full sequence",
+          "Later injury requirements",
+          "Exact press duration"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "mwrf9cjEeB8"
+    ],
+    "versionScope": "Illustrated clown exhibit recorded with facecam, visible art matches author",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  },
+  {
+    "id": "burger-frights-video-case",
+    "gameId": "burger-frights",
+    "claim": [
+      {
+        "range": "02:58 sample",
+        "state": "Road encounter with fallen bicycle and red trail",
+        "action": "Recorded camera turns toward roadside event",
+        "visibleResult": "Encounter contrasts with ordinary forward ride",
+        "supports": [
+          "Road scenery changes during journey",
+          "Horror/blood warning appropriate"
+        ],
+        "cannotSupport": [
+          "Cause of failure",
+          "Ending trigger"
+        ]
+      },
+      {
+        "range": "05:42 sample",
+        "state": "Dark roadway within forward light cone",
+        "action": "Recorded viewpoint centers on dashed line and road edges",
+        "visibleResult": "Limited lit view makes lane direction readable while trees remain dark",
+        "supports": [
+          "Use road-edge/centerline information rather than dark surroundings"
+        ],
+        "cannotSupport": [
+          "Exact steering keys",
+          "Every encounter path"
+        ]
+      }
+    ],
+    "status": "confirmed-sampled-recording-scope",
+    "evidenceIds": [
+      "VxpQdPFQxrE"
+    ],
+    "versionScope": "Donitz first-person bicycle forest ride recording",
+    "publicLimit": "Only observed interface/process; do not invent input causality, solutions or cross-build guarantees"
+  }
+]

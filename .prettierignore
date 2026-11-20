@@ -1,0 +1,10 @@
+.next
+node_modules
+dist
+research
+planning
+reports
+handoff
+data
+public
+package-lock.json

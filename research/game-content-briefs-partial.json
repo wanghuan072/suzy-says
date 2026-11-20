@@ -1,0 +1,892 @@
+[
+  {
+    "checkedAt": "2026-11-18",
+    "runtime_status": "not_tested_user_waived",
+    "spoiler_policy": "marked",
+    "publication_status": "draft",
+    "media_status": "pending",
+    "identity_status": "author-scoped-not-configured-frame-verified",
+    "game_id": "suzy-says",
+    "game_identity": "Original Suzy Says Windows release by MOONBIT; configured main iframe identity remains provisional and is not inferred from the keyword.",
+    "version_scope": "November2026 original Windows release; main supplied iframe retained separately without gameplay certification.",
+    "primary_player_task": "Understand the listening premise, original movement controls and version boundaries before choosing command help or a spoiler-aware route.",
+    "unique_hook": "A cheerful DVD host and colorful floor mat turn a familiar conditional-instruction game into first-person domestic horror.",
+    "verified_inputs": [
+      {
+        "input": "WASD",
+        "purpose": "movement",
+        "basis": "main-official"
+      },
+      {
+        "input": "Space",
+        "purpose": "jump",
+        "basis": "main-official"
+      },
+      {
+        "input": "C",
+        "purpose": "crouch",
+        "basis": "main-official"
+      }
+    ],
+    "goals_and_progression": {
+      "confirmed": [
+        "DVD/mat instruction premise",
+        "Original release contains base and Full distributions",
+        "Full adds endless mode and a secret ending"
+      ],
+      "not_yet_confirmed": [
+        "Valid versus invalid command feedback comparison",
+        "Household errand completion example",
+        "Visitor/phone/hide phase order",
+        "Four candles and mat-return objective"
+      ]
+    },
+    "steps_or_judgments": [
+      {
+        "task": "Read current on-screen control instructions",
+        "limit": "Original Windows keys are not current iframe compatibility evidence."
+      },
+      {
+        "task": "Distinguish qualifying words, action and target",
+        "limit": "Exact prefix rule still needs retained tutorial or paired-example evidence; respect the visible task timer."
+      },
+      {
+        "task": "Recognize whether the immediate obstacle is a command decision or input focus",
+        "limit": "Generic player recovery advice, not a tested game bug fix."
+      },
+      {
+        "task": "Select command Guide for rule help or story Guide for later phases",
+        "limit": "Story Guide remains incomplete until late-video verification."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "basis": "saved main video opening sample0:43",
+        "state": "Opening house note",
+        "recorded_action": "Player inspects the note",
+        "visible_result": "Note establishes the uncle item and warning about opening the door",
+        "supports": "Home-alone narrative setup only",
+        "cannot_support": "Any visitor trigger, concealment mechanic or ending cause"
+      },
+      {
+        "basis": "saved main video opening sample1:18",
+        "state": "CRT introduction",
+        "recorded_action": "Player faces television",
+        "visible_result": "DVD-style purple introduction",
+        "supports": "Current-game visual identity and presentation",
+        "cannot_support": "All tutorial rules or a whole completed run"
+      },
+      {
+        "basis": "saved opening sample without retained timestamp",
+        "state": "Command scene",
+        "recorded_action": "Player camera turns between doorway and screen",
+        "visible_result": "Green-jump subtitle and timer",
+        "supports": "First-person instruction presentation and timed prompt",
+        "cannot_support": "Correctness of response or universal timer duration"
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "Key operates webpage rather than game",
+        "action": "Give active player/field focus before retrying",
+        "status": "Browser usage advice; not game-input verified"
+      },
+      {
+        "problem": "Command seems missed",
+        "action": "Compare qualifying wording, target and visible timer before blaming a subtitle bug",
+        "status": "Decision framework, exact game feedback pending"
+      },
+      {
+        "problem": "Loading failure",
+        "action": "Use one player retry, avoid parallel copies; preserve provisional record",
+        "status": "Site player behavior, not proof game itself works"
+      }
+    ],
+    "first_session_advice": "Establish the mat/television orientation and read the current timed instruction; do not reveal late events in a first-run teaser.",
+    "browser_device_save_sound": {
+      "desktop": "Original control set presumes keyboard movement; configured iframe capabilities unknown.",
+      "touch": "Not certified; phone page rendering is not full game control support.",
+      "save": "No universal checkpoint or embed persistence claim.",
+      "sound": "Original horror warning includes jumpscares/flashing lights; use comfortable volume and subtitles when offered."
+    },
+    "content_risks": {
+      "confirmed": [
+        "Horror",
+        "Flashing lights",
+        "Jumpscares",
+        "Unsettling themes"
+      ],
+      "public_exclusions": [
+        "Secret ending solution",
+        "Unobserved late objective names/counts",
+        "Final reveal"
+      ]
+    },
+    "actual_player_questions": [
+      "Which movements are used in the original game?",
+      "Do I need to act on every line? Exact rule requires paired evidence.",
+      "What does Full contain?",
+      "Is this configured browser player an official Windows-game port? No such claim."
+    ],
+    "screenshot_tasks": [
+      {
+        "slot_id": "home-capture-1",
+        "target_section": "first-command-round",
+        "fact_to_show": "An original-game command subtitle, mat and timer",
+        "distinct_information": "Explains wording/action relation; cannot prove absent-prefix failure by itself",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      },
+      {
+        "slot_id": "home-capture-2",
+        "target_section": "room-and-objects",
+        "fact_to_show": "A specific observed household target with prompt once verified",
+        "distinct_information": "Explains one actual errand rather than another starting-room image",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      },
+      {
+        "slot_id": "home-capture-3",
+        "target_section": "choose-your-session",
+        "fact_to_show": "Distinct original-game menu/mode state, only if actually available and rights-cleared",
+        "distinct_information": "May explain visible mode choice; cannot by itself establish store price/distribution",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "task": "Understand command rule and complete story",
+          "query": "suzy says game walkthrough",
+          "entry": "YouTube self-search",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "candidate_video_ids": [
+        "7CLLI0ijVGQ",
+        "jCvkG7amBQ4"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Actual segmented viewing, version matching and final embed adoption must be recorded by root; search metadata alone is insufficient.",
+      "page_purpose": "Show command timing and room-task progression; late sequences require clear spoiler warning."
+    },
+    "evidence_ids": [
+      "main-official",
+      "main-patch",
+      "main-language-update",
+      "main-video-opening"
+    ],
+    "unsupported_claims": [
+      "Configured iframe is original Suzy Says or official browser port",
+      "Exact absent-prefix penalty without observation",
+      "Line-of-sight/solid-wall hiding success",
+      "Visitor and phone sequence order",
+      "Four-candle count and mat delivery",
+      "All endings or triggers",
+      "Guaranteed save/touch support"
+    ],
+    "content_status": "written-draft-requires-content-review-corrections-and-more-video-evidence",
+    "review_file": "research/content-review.json",
+    "content_boundary": "Home gives orientation and verified setup, command Guide gives worked decisions, story Guide owns observed ordered phases. Do not duplicate the same rule paragraphs to fill all three."
+  },
+  {
+    "checkedAt": "2026-11-18",
+    "runtime_status": "not_tested_user_waived",
+    "spoiler_policy": "marked",
+    "publication_status": "draft",
+    "media_status": "pending",
+    "identity_status": "author-scoped-not-configured-frame-verified",
+    "game_id": "assessment-examination",
+    "game_identity": "Wenderly Games image-assessment psychological horror; author Web5 browser upload.",
+    "version_scope": "Author current browser page plus recorded5kBE7u-POMc sampled130–196s; no current iframe gameplay test.",
+    "primary_player_task": "Interpret classification prompts and recognize when the interface changes to narrative information.",
+    "unique_hook": "An employment examination asks for uncomfortable judgments about portraits, interrupted by case-file presentation.",
+    "verified_inputs": [
+      {
+        "input": "Mouse",
+        "purpose": "select visible choices",
+        "basis": "author page"
+      },
+      {
+        "input": "F",
+        "purpose": "toggle game fullscreen",
+        "basis": "author page"
+      }
+    ],
+    "goals_and_progression": {
+      "confirmed": [
+        "Application-style assessment framing",
+        "Portrait classification presentation with Threat button",
+        "Later case-file fields and narrative text"
+      ],
+      "not_yet_confirmed": [
+        "Every trust-label screen",
+        "Scoring/correctness",
+        "Branching ending triggers"
+      ]
+    },
+    "steps_or_judgments": [
+      {
+        "task": "Read the current prompt before choosing a portrait judgment",
+        "limit": "Advice; no correct answer key."
+      },
+      {
+        "task": "Select once and notice the next screen",
+        "limit": "Do not infer score from unsettling imagery."
+      },
+      {
+        "task": "When a case-file page appears, read its text rather than repeating a portrait-choice action",
+        "limit": "Scoped to root-observed transition."
+      },
+      {
+        "task": "Distinguish loading runtime from intentional narrative pacing",
+        "limit": "Do not treat a permanent error as fiction."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "basis": "root saved observation assessment-classification-sample",
+        "state": "Distorted portrait near02:10",
+        "recorded_action": "Recorded player progresses through classification segment",
+        "visible_result": "Threat button and portrait visible; case-file text visible by03:16",
+        "supports": "Interface classification to narrative transition",
+        "cannot_support": "Chosen answer was correct, exact branching or ending causality"
+      },
+      {
+        "basis": "author-upload Godot bootstrap source",
+        "state": "Startup before application loads",
+        "source_defined_behavior": "Loader expects index.pck157866560 bytes and wasm13342428 bytes",
+        "supports": "Substantial initial download can precede examination",
+        "cannot_support": "Actual transfer speed, successful graphics or local playability"
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "No examination display after starting",
+        "action": "Distinguish progress/error from real game interface; try one reload/retry and current browser",
+        "status": "Runtime-source-informed advice, not reproduced bug"
+      },
+      {
+        "problem": "Question type changes",
+        "action": "Read narrative fields rather than click absent portrait controls",
+        "status": "Grounded in root-observed presentation"
+      },
+      {
+        "problem": "Small targets/text",
+        "action": "Use F or page view controls and a precise pointer",
+        "status": "Author input/fullscreen supported; phone support unknown"
+      }
+    ],
+    "first_session_advice": "Use a deliberate read-inspect-select rhythm; comfortable sound, no assumed numerical pass mark.",
+    "browser_device_save_sound": {
+      "load": "Godot runtime with substantial package; no tested load duration.",
+      "touch": "Unknown; no blanket mobile support.",
+      "save": "No checkpoint guarantee.",
+      "sound": "Psychological horror presentation; use comfortable volume."
+    },
+    "content_risks": {
+      "confirmed": [
+        "Horror",
+        "Disturbing portraits"
+      ],
+      "unknown": [
+        "Complete violence/gore scope"
+      ],
+      "public_exclusions": [
+        "Case identities/outcomes",
+        "Final scene",
+        "Supposed correct answer set"
+      ]
+    },
+    "actual_player_questions": [
+      "How do classification choices differ from narrative pages?",
+      "What does F do?",
+      "Why might the initial load take time?",
+      "Does an unsettling response prove an incorrect answer? Not established."
+    ],
+    "screenshot_tasks": [
+      {
+        "slot_id": "assessment-examination-capture-1",
+        "target_section": "choosing-an-answer",
+        "fact_to_show": "Complete portrait and visible response control",
+        "distinct_information": "Shows target/choice relationship",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      },
+      {
+        "slot_id": "assessment-examination-capture-2",
+        "target_section": "interruptions-and-pacing",
+        "fact_to_show": "Case-file layout with nonessential personal details withheld",
+        "distinct_information": "Shows change from classification to reading",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      },
+      {
+        "slot_id": "assessment-examination-capture-3",
+        "target_section": "sound-and-fullscreen",
+        "fact_to_show": "An actual instruction/evaluation context different from portrait and case file, only after viewing",
+        "distinct_information": "Explains another real state without exposing final reveal",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "task": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host.",
+          "query": "Assessment Examination Wenderly Games trust threat examination gameplay",
+          "entry": "youtube self-search HTTP",
+          "observedAt": "2026-11-18"
+        },
+        {
+          "query": "Related gameplay result visible beside author-linked trailer",
+          "entry": "YouTube player related result",
+          "task": "See classification-to-narrative transitions"
+        }
+      ],
+      "candidate_video_ids": [
+        "5kBE7u-POMc"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Actual segmented viewing, version matching and final embed adoption must be recorded by root; search metadata alone is insufficient.",
+      "page_purpose": "Show the classification-to-case-file transition; author trailer is promotion, not control proof."
+    },
+    "evidence_ids": [
+      "assessment-examination-author"
+    ],
+    "source_urls": [
+      "https://wenderlygames.itch.io/assessment-examination",
+      "https://html-classic.itch.zone/html/5392404/Web5/index.html"
+    ],
+    "unsupported_claims": [
+      "Correct answer set",
+      "Ending triggers/count",
+      "Score thresholds",
+      "Mobile compatibility",
+      "Save/checkpoint guarantees",
+      "Successful runtime input"
+    ],
+    "content_status": "source-and-partial-video-informed-draft-pending-full-media-review",
+    "content_draft": "research/content-drafts/assessment-examination.json",
+    "content_metrics": {
+      "nonWhitespaceCharacters": 6344,
+      "words": 1179,
+      "includesFaqOrMedia": false
+    },
+    "content_boundary": "Image assessment and changed information format, not Suzy movement commands or a complete ending guide."
+  },
+  {
+    "checkedAt": "2026-11-18",
+    "runtime_status": "not_tested_user_waived",
+    "spoiler_policy": "marked",
+    "publication_status": "draft",
+    "media_status": "pending",
+    "identity_status": "author-scoped-not-configured-frame-verified",
+    "game_id": "please-answer-carefully",
+    "game_identity": "litrouke multilingual SugarCube/Twine survey-horror game.",
+    "version_scope": "Current publicly served author HTML10245174; passage source read, not real-play observed.",
+    "primary_player_task": "Use each form control correctly and distinguish a delayed continue control from a missing selection.",
+    "unique_hook": "A routine internet-use questionnaire becomes a coercive personal conversation through changing form text and audio.",
+    "verified_inputs": [
+      {
+        "input": "Mouse labels",
+        "purpose": "select menu/radio/checkbox choices",
+        "basis": "author page and public passage event handlers"
+      },
+      {
+        "input": "Range slider",
+        "purpose": "online-hours response",
+        "basis": "English passage1.5"
+      },
+      {
+        "input": "Continuation arrow",
+        "purpose": "advance after a required interaction or timed reveal",
+        "basis": "Start and question passage code"
+      }
+    ],
+    "goals_and_progression": {
+      "confirmed": [
+        "Choose opening menu option then continuation",
+        "Checkbox device question",
+        "Hours slider",
+        "Distinct work/non-work response questions",
+        "Timed text and choice reveals",
+        "Stalking content warning"
+      ],
+      "not_yet_confirmed": [
+        "Exact appearance in embedded layout",
+        "A verified final video adoption"
+      ]
+    },
+    "steps_or_judgments": [
+      {
+        "task": "Select language/warning/begin option, then arrow",
+        "limit": "Selection and advancing are separate."
+      },
+      {
+        "task": "Use checkbox/radio/slider matching current question",
+        "limit": "Do not infer every page uses the same control."
+      },
+      {
+        "task": "If arrow is absent, interact with required control",
+        "limit": "Source handlers require actual label/slider interaction on several pages."
+      },
+      {
+        "task": "If words or choices are still arriving, wait before clicking",
+        "limit": "Timed passages exist; not a universal frozen-page workaround."
+      },
+      {
+        "task": "Test sound at intro and lower volume if stalking/audio themes are uncomfortable",
+        "limit": "No need to expose private data or follow fictional instructions outside game."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "basis": "author English passage1",
+        "state": "Device ownership question",
+        "source_defined_action": "Click checkbox label",
+        "source_defined_result": "Button container changes from hidden to visible",
+        "supports": "A missing continue control can mean no form interaction yet",
+        "cannot_support": "Actual browser compatibility or reply transmission"
+      },
+      {
+        "basis": "author English passage1.5",
+        "state": "Online-hours range input",
+        "source_defined_action": "Interact with slider",
+        "source_defined_result": "Continue control is revealed",
+        "supports": "Slider must be operated rather than merely viewed",
+        "cannot_support": "Successful touchscreen behavior"
+      },
+      {
+        "basis": "author English passages5/6true/6false",
+        "state": "Later statements with timed choices",
+        "source_defined_action": "Wait for timed insert and use revealed choice",
+        "source_defined_result": "Text/controls become available over time",
+        "supports": "Do not spam-click the usual arrow location",
+        "cannot_support": "Every early answer creates a distinct ending"
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "Arrow not visible",
+        "action": "Identify form type, click intended label or slider, then look again",
+        "status": "Source-defined control logic"
+      },
+      {
+        "problem": "Page changes slowly",
+        "action": "Wait while timed text or choices are still appearing",
+        "status": "Source-defined timer logic"
+      },
+      {
+        "problem": "Audio silent",
+        "action": "Use intro audio test and check game/tab volume",
+        "status": "Source defines test link; actual sound output not tested"
+      }
+    ],
+    "first_session_advice": "Read both instruction and question; use precise single selections, then continue. Do not read late exact dialogue in advance.",
+    "browser_device_save_sound": {
+      "engine": "SugarCube/Twine browser presentation.",
+      "touch": "Not certified; small-screen slider/label layout may need larger view.",
+      "save": "No persistence guarantee.",
+      "sound": "Intro test exists; source warning centres stalking and spooky audio; mute if necessary."
+    },
+    "content_risks": {
+      "confirmed": [
+        "Stalking",
+        "Psychological horror",
+        "Unsettling audio"
+      ],
+      "public_exclusions": [
+        "Exact late personal phrases",
+        "Final demand/scene",
+        "Timing of ending return"
+      ]
+    },
+    "actual_player_questions": [
+      "Why is the next arrow missing?",
+      "Does the hours scale require an interaction?",
+      "Why are choices appearing late?",
+      "How do work and personal-message questions differ?"
+    ],
+    "screenshot_tasks": [
+      {
+        "slot_id": "please-answer-carefully-capture-1",
+        "target_section": "starting-the-questionnaire",
+        "fact_to_show": "Menu selected option and visible continuation, or first checkbox state",
+        "distinct_information": "Explains two-step navigation",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      },
+      {
+        "slot_id": "please-answer-carefully-capture-2",
+        "target_section": "three-kinds-of-input",
+        "fact_to_show": "Hours slider after interaction with continuation visible",
+        "distinct_information": "Explains different input type",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      },
+      {
+        "slot_id": "please-answer-carefully-capture-3",
+        "target_section": "when-continue-is-missing",
+        "fact_to_show": "Non-final timed statement/choice state",
+        "distinct_information": "Explains deliberate delay without final narrative reveal",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "task": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread.",
+          "query": "Please Answer Carefully litrouke survey choices horror full game",
+          "entry": "youtube self-search HTTP",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "candidate_video_ids": [
+        "eYjjVDO2Sl4",
+        "aK3IThvK_Cw",
+        "h2qxez9TBGU"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Actual segmented viewing, version matching and final embed adoption must be recorded by root; search metadata alone is insufficient.",
+      "page_purpose": "Show checkbox-to-slider-to-timed-form changes; ensure selected video is the litrouke build."
+    },
+    "evidence_ids": [
+      "please-answer-carefully-author"
+    ],
+    "source_urls": [
+      "https://litrouke.itch.io/please-answer-carefully",
+      "https://html-classic.itch.zone/html/10245174/index.html"
+    ],
+    "source_passages": [
+      "Start",
+      "0",
+      "1",
+      "1.5",
+      "2",
+      "2.2",
+      "3",
+      "3.5",
+      "4",
+      "5",
+      "6true",
+      "6false",
+      "7",
+      "8",
+      "9",
+      "warning"
+    ],
+    "unsupported_claims": [
+      "Every answer changes an ending",
+      "A winning response sequence",
+      "A count of distinct endings",
+      "Mobile compatibility guarantee",
+      "Data collection or surveillance actually performed by fiction",
+      "Browser save guarantee"
+    ],
+    "content_status": "source-reviewed-independent-draft-video-and-media-pending",
+    "content_draft": "research/content-drafts/please-answer-carefully.json",
+    "content_metrics": {
+      "nonWhitespaceCharacters": 6874,
+      "words": 1334,
+      "includesFaqOrMedia": false
+    },
+    "content_boundary": "Survey control literacy and coercive form presentation, not an answer key or unrelated stalking quiz."
+  },
+  {
+    "checkedAt": "2026-11-18",
+    "runtime_status": "not_tested_user_waived",
+    "spoiler_policy": "marked",
+    "publication_status": "draft",
+    "media_status": "pending",
+    "identity_status": "author-scoped-not-configured-frame-verified",
+    "game_id": "last-seen-online",
+    "game_identity": "qwook/sochinstudio original computer escape-room game; exclude other authors using the same title.",
+    "version_scope": "Current creator page plus official English localization and replay devlog; current iframe not real-play tested.",
+    "primary_player_task": "Connect files, conversations, music and mechanism feedback without treating every obstacle as the same password.",
+    "unique_hook": "A second-hand computer turns familiar desktop programs and a connected world into a psychological-horror escape room.",
+    "verified_inputs": [
+      {
+        "input": "Keyboard/mouse",
+        "purpose": "desktop fields and pointing",
+        "basis": "author page"
+      },
+      {
+        "input": "Short versus held interaction",
+        "purpose": "later mechanism distinction described in localization",
+        "basis": "OTHER_WORLD_DOOR_PUZZLE_JORDEN, not input tested"
+      },
+      {
+        "input": "Touch",
+        "purpose": "Listed by author, not certified for every device",
+        "basis": "author page"
+      }
+    ],
+    "goals_and_progression": {
+      "confirmed": [
+        "Investigate old computer files/chats",
+        "Login hint has multiple components",
+        "Separate archive asks four-digit code",
+        "Dialogue connects music/window imagery to archive clue",
+        "Later text distinguishes short/long input and partial response",
+        "Settings split master/music/effects and restart",
+        "Replay near credits end"
+      ],
+      "not_yet_confirmed": [
+        "Exact current visual/layout match",
+        "All puzzle implementation logic",
+        "Current embed storage behavior"
+      ]
+    },
+    "steps_or_judgments": [
+      {
+        "task": "Read login hint as a request for specific information",
+        "limit": "No exact password answer published."
+      },
+      {
+        "task": "Separate buddy chats, music player, archive and file browser functions",
+        "limit": "No instruction to install or access real private files."
+      },
+      {
+        "task": "Separate item selection from ordering when a clue connects music and imagery",
+        "limit": "No solved four-digit code."
+      },
+      {
+        "task": "Use local mechanism wording to distinguish input duration, quantity and order",
+        "limit": "Localization proves instructions exist, not complete success causality."
+      },
+      {
+        "task": "Use settings deliberately; do not reset progress to solve an ordinary clue",
+        "limit": "Storage persistence cannot be guaranteed in iframe."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "basis": "UNZIPPER_TEXT and UNZIPPER_INCORRECT_PASSWORD",
+        "state": "Protected photo archive",
+        "source_defined_action": "Submit candidate four-digit answer",
+        "source_defined_result": "Incorrect-answer text exists",
+        "supports": "Archive format differs from initial login and a rejected answer calls for clue review",
+        "cannot_support": "Rate limits, endless retries or exact accepted answer"
+      },
+      {
+        "basis": "EMMBER_CHATLOG",
+        "state": "Conversation about archive and playlist",
+        "source_defined_action": "Read dialogue linking music/window/background information",
+        "source_defined_result": "Text points to selecting and ordering clues",
+        "supports": "Treat desktop windows as related information, not isolated props",
+        "cannot_support": "A specific entered code or current UI position"
+      },
+      {
+        "basis": "Door puzzle and statue localization keys",
+        "state": "Later mechanism instructions",
+        "source_defined_action": "Interpret duration/order/count wording",
+        "source_defined_result": "Partial-change and solved-response strings exist",
+        "supports": "Partial feedback should not automatically be read as complete success",
+        "cannot_support": "All exact sequences or reproduction in configured iframe"
+      },
+      {
+        "basis": "Official replay devlog",
+        "state": "Credits",
+        "source_defined_action": "Scroll toward end",
+        "source_defined_result": "Replay control is described by creator",
+        "supports": "No need to clear browser data simply to find replay",
+        "cannot_support": "Current embed persistence on all browsers"
+      },
+      {
+        "video_id": "6a83iH6lWPI",
+        "duration": "00:19:25",
+        "timestamp": "00:05:20",
+        "game_state": "Overlapping desktop image windows; front IMG004.jpg, behind IMG003.jpg/lawson.jpg; Liz+Em background",
+        "player_action": "No individual click confirmed by this sample; public text gives a proposed window-selection decision rather than claiming recorded input.",
+        "visible_result": "Distinct overlapping window identities visible",
+        "supports": [
+          "Recognize active image window",
+          "Keep window/background clues distinct"
+        ],
+        "cannot_support": [
+          "Which click opened each image",
+          "Exact password/code",
+          "Full puzzle solution"
+        ],
+        "evidence_path": "reports/screenshots/video-lastseen-desktop.jpg",
+        "observer": "root-reported-not-child-observation",
+        "case_id": "lastseen-root-desktop0520",
+        "basis": "Root actual playback with timestamp/frame cross-check; no child IAB access"
+      },
+      {
+        "video_id": "6a83iH6lWPI",
+        "timestamp": "00:06:52",
+        "game_state": "OtherCorp1994 black screen with InviteCode input and Continue/Back",
+        "player_action": "No entry or submission confirmed in sample",
+        "visible_result": "Separate labelled code-entry target visible",
+        "supports": [
+          "Distinguish current invitation input from login/archive fields"
+        ],
+        "cannot_support": [
+          "Accepted code value",
+          "Successful submission",
+          "Connection that caused transition",
+          "Complete route or ending"
+        ],
+        "evidence_path": "reports/screenshots/video-lastseen-next.jpg",
+        "observer": "root-reported-not-child-observation",
+        "case_id": "lastseen-root-invite0652",
+        "basis": "Root actual playback with timestamp/frame cross-check; no child IAB access"
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "Typing does not enter field",
+        "action": "Focus the intended game field; distinguish no input from rejected visible answer",
+        "status": "Browser/interface advice"
+      },
+      {
+        "problem": "Archive rejects answer",
+        "action": "Review requested format, selected clue items and their order",
+        "status": "Source-informed reasoning; no accepted solution claimed"
+      },
+      {
+        "problem": "Music silent but effects audible",
+        "action": "Check music channel as well as master/tab volume",
+        "status": "Separate settings exist; actual output not tested"
+      },
+      {
+        "problem": "Want replay",
+        "action": "Use credits replay before deleting browser storage",
+        "status": "Official devlog support"
+      }
+    ],
+    "first_session_advice": "Keep a small obstacle-clue-attempt trail; change one interpretation at a time instead of blind guessing.",
+    "browser_device_save_sound": {
+      "graphics": "Author Three.js browser game; current runtime compatibility untested.",
+      "touch": "Author lists touch; small windows and precise controls may be easier on desktop, no guarantee.",
+      "save": "Settings include restart; persistence depends on actual browser boundary and is not certified.",
+      "sound": "Music/FX/master channels distinct; audio may carry a clue."
+    },
+    "content_risks": {
+      "confirmed": [
+        "Psychological horror",
+        "Author warning not suitable for children/easily disturbed"
+      ],
+      "public_exclusions": [
+        "Login answer",
+        "Archive digits/order",
+        "Later full mechanism sequences",
+        "Final narrative reveal"
+      ]
+    },
+    "actual_player_questions": [
+      "Why does the login answer not unlock the archive?",
+      "How are conversation/music/image clues connected?",
+      "What does partial feedback mean?",
+      "How can I replay without deleting everything?"
+    ],
+    "screenshot_tasks": [
+      {
+        "slot_id": "last-seen-online-capture-1",
+        "target_section": "learning-the-desktop",
+        "fact_to_show": "Distinct desktop programs in a readable early state",
+        "distinct_information": "Explains each program role, no private player identifiers",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending",
+        "root_sample_support": "05:20 overlapping image windows, useful for window identity; rights and final capture adoption remain separate."
+      },
+      {
+        "slot_id": "last-seen-online-capture-2",
+        "target_section": "passwords-with-purpose",
+        "fact_to_show": "Archive and relevant music/window arrangement without solution digits",
+        "distinct_information": "Explains relationships and answer format",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending",
+        "root_sample_support": "06:52 InviteCode target differs from archive, supports input-label comparison without code value."
+      },
+      {
+        "slot_id": "last-seen-online-capture-3",
+        "target_section": "beyond-the-desktop",
+        "fact_to_show": "Non-final mechanism and actual partial feedback if observed",
+        "distinct_information": "Explains input distinction/progression rather than another desktop view",
+        "adopted_media_id": null,
+        "status": "planned-rights-and-visual-review-pending"
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "task": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host.",
+          "query": "last seen online qwook password files other world walkthrough 2026",
+          "entry": "youtube self-search HTTP",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "candidate_video_ids": [
+        "6a83iH6lWPI",
+        "OYN6adQJTu8",
+        "9E8yGPsJcA0"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Actual segmented viewing, version matching and final embed adoption must be recorded by root; search metadata alone is insufficient.",
+      "page_purpose": "Show one desktop clue relationship and a distinct later mechanism; compare recording visual style to current build.",
+      "observed_video_ids": [
+        "6a83iH6lWPI"
+      ],
+      "observed_sample_times": [
+        "00:05:20",
+        "00:06:52"
+      ],
+      "observation_limit": "Two root-reported timestamped state samples, not a continuous puzzle or successful code entry. Final media adoption pending."
+    },
+    "evidence_ids": [
+      "last-seen-online-author"
+    ],
+    "source_urls": [
+      "https://qwook.itch.io/last-seen-online",
+      "https://raw.githubusercontent.com/qwook/lastseenonline/main/en.jsonc",
+      "https://qwook.itch.io/last-seen-online/devlog/670839/added-a-replay-button"
+    ],
+    "source_keys": [
+      "PASSWORD_HINT",
+      "UNZIPPER_TEXT",
+      "UNZIPPER_INCORRECT_PASSWORD",
+      "EMMBER_CHATLOG",
+      "OTHER_WORLD_DOOR_PUZZLE_JORDEN",
+      "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES",
+      "OTHER_WORLD_STATUE_PUZZLE_INTRO",
+      "SETTINGS_MASTER_VOLUME",
+      "SETTINGS_SFX_VOLUME",
+      "SETTINGS_MUSIC_VOLUME",
+      "SETTINGS_DELETE_SAVE",
+      "TRIGGER_WARNING"
+    ],
+    "unsupported_claims": [
+      "Exact solved code or puzzle sequence",
+      "Guaranteed persistence in cross-origin embed",
+      "All phones fully supported",
+      "Observed input success",
+      "Specific number of endings",
+      "Conflating other authors' same-title games"
+    ],
+    "content_status": "source-and-root-video-sample-informed-draft-media-adoption-pending",
+    "content_draft": "research/content-drafts/last-seen-online.json",
+    "content_metrics": {
+      "nonWhitespaceCharacters": 8632,
+      "words": 1653,
+      "includesFaqOrMedia": false
+    },
+    "content_boundary": "Clue relationships and feedback literacy, not an exact solution list or same-title2026 messenger game."
+  }
+]

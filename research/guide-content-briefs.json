@@ -1,0 +1,703 @@
+[
+  {
+    "guide_id": "suzy-says-command-rules",
+    "slug": "suzy-says-command-rules",
+    "game_id": "suzy-says",
+    "checkedAt": "2026-11-18",
+    "authorId": null,
+    "primary_player_task": "Decide whether a spoken command qualifies, identify action and target, and separate a command mistake from a page-input issue without revealing the story.",
+    "completion_result": "After evidence is completed, reader can interpret one valid and one invalid command and choose a relevant recovery step.",
+    "unique_scope": "Worked instruction decisions, body/view/target distinctions and timed-response interpretation; no chronological late-story route or ending solutions.",
+    "required_player_questions": [
+      "What wording qualifies a command?",
+      "What must I do when it does not qualify?",
+      "Does the instruction concern movement, body state or view?",
+      "How does the active timer affect the response?",
+      "Did my input reach the game or the webpage?"
+    ],
+    "verified_facts": [
+      {
+        "claim": "Original Windows controls WASD/Space/C",
+        "evidence_ids": [
+          "main-official"
+        ]
+      },
+      {
+        "claim": "Simon Says-inspired DVD/mat premise",
+        "evidence_ids": [
+          "main-official"
+        ]
+      },
+      {
+        "claim": "Late incorrect subtitle corrected in launch patch",
+        "evidence_ids": [
+          "main-patch"
+        ]
+      },
+      {
+        "claim": "Opening sample shows green jump subtitle and timer",
+        "evidence_ids": [
+          "main-video-opening"
+        ]
+      }
+    ],
+    "steps_or_judgments": [
+      {
+        "step": 1,
+        "action": "Read the qualifying phrase and current action/target",
+        "status": "Exact rule needs tutorial or valid/invalid comparison before final adoption."
+      },
+      {
+        "step": 2,
+        "action": "Respond using original controls only when matching current build prompts",
+        "status": "Windows keys confirmed; configured iframe support not certified."
+      },
+      {
+        "step": 3,
+        "action": "Complete response within active task timing",
+        "status": "Visible timer exists; no universal numeric deadline established."
+      },
+      {
+        "step": 4,
+        "action": "If response seems wrong, separate wording/target/timing from keyboard focus",
+        "status": "A reasoning aid, not a tested universal bug fix."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "case_id": "command-opening-timed-jump",
+        "basis": "main-video-opening",
+        "state": "Original command scene",
+        "recorded_action": "Camera turns between doorway and screen",
+        "visible_result": "Green-jump subtitle and timer sampled",
+        "can_support": "Spatial instruction display and task timing",
+        "cannot_support": "Absent-prefix failure, correct response or exact deadline"
+      },
+      {
+        "case_id": "command-valid-invalid-pair",
+        "basis": null,
+        "status": "required-not-yet-observed",
+        "task": "Observe an explicitly qualifying instruction and an unqualified line, recorded action/inaction and game response; avoid deriving penalty solely from a scare."
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "Movement key affects page",
+        "decision": "Refocus player before treating it as a game-rule mistake",
+        "evidence": "Browser/player usage recommendation; no gameplay success claim"
+      },
+      {
+        "problem": "Action not accepted despite recognized color",
+        "decision": "Compare qualifying wording, requested action, target and timer",
+        "evidence": "Framework requires direct command example before deterministic failure explanation"
+      },
+      {
+        "problem": "Subtitle differs from expected",
+        "decision": "Keep known launch subtitle correction scoped; do not label all missed commands as patched bug",
+        "evidence_ids": [
+          "main-patch"
+        ]
+      }
+    ],
+    "version_scope": "Original MOONBIT Windows November2026 release. Browser iframe provisional and user waived game-input tests. Similar-name recreations excluded.",
+    "screenshot_tasks": [
+      {
+        "slot_id": "guide-command-cover",
+        "purpose": "Original explanation of permission/action/target using verified wording; materially distinct from story cover",
+        "format": "original-task-diagram-or-approved-mat-image",
+        "spoiler_exclusions": [
+          "Late events",
+          "Endings"
+        ],
+        "adopted_media_id": null
+      },
+      {
+        "slot_id": "home-capture-1",
+        "purpose": "If reused contextually, illustrate actual command wording and timer, not a hidden failure rule",
+        "format": "game-screenshot",
+        "note": "Guide may need distinct task crop/diagram; do not create multiple Guide covers by retitling same screenshot.",
+        "adopted_media_id": null
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "task": "Understand command rule and complete story",
+          "query": "suzy says game walkthrough",
+          "entry": "YouTube self-search",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "candidate_video_ids": [
+        "7CLLI0ijVGQ",
+        "jCvkG7amBQ4"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Saved main footage covers opening samples, not complete command comparison or late route. Root must observe task-matching ranges and select actual adopted media.",
+      "page_purpose": "A continuous command comparison, action type and visible feedback; no ending montage needed."
+    },
+    "evidence_ids": [
+      "main-official",
+      "main-patch",
+      "main-video-opening"
+    ],
+    "unsupported_claims": [
+      "Exact prefix rule not yet proved in retained samples",
+      "Absence-of-prefix penalty",
+      "Unlimited response time",
+      "Camera motion always counts as failure",
+      "Precise target collision/landing zone",
+      "Every hosted version uses Windows keys",
+      "All missed commands fixed by subtitle patch"
+    ],
+    "content_status": "written-draft-needs-command-case-verification",
+    "review_file": "research/content-review.json",
+    "spoiler_policy": "none",
+    "boundaries": {
+      "home": "Home introduces rule and setup briefly; this Guide must add specific observed cases, not repeat all overview paragraphs.",
+      "other_guide": "First-run Guide owns edition choice, Windows preparation, subtitle/input setup and opening orientation. This Guide owns qualifying-command judgment and action/target decisions.",
+      "do_not_publish": [
+        "Evidence IDs",
+        "Runtime test-waiver wording",
+        "Internal configuration paths",
+        "Unverified score/ending answers"
+      ]
+    },
+    "planned_section_mapping": [
+      {
+        "section_id": "permission-before-action",
+        "task": "First decide whether the command counts"
+      },
+      {
+        "section_id": "body-view-and-target",
+        "task": "Match the action to the right kind of control"
+      },
+      {
+        "section_id": "working-through-a-round",
+        "task": "A repeatable way to handle a round"
+      },
+      {
+        "section_id": "recover-without-guessing",
+        "task": "Recover without confusing rules and input"
+      },
+      {
+        "section_id": "know-this-guides-boundary",
+        "task": "Keep the story discoveries for later"
+      }
+    ],
+    "source_urls": [
+      "https://moonbit.itch.io/suzy-says",
+      "https://moonbit.itch.io/suzy-says/devlog/1764041/launch-and-patch"
+    ],
+    "planned": true,
+    "coverage_status": "planned",
+    "currentCover": {
+      "src": "/images/guides/suzy-says-command-rules.webp",
+      "alt": "The Suzy Says colored floor mat in front of the television, ready for command practice",
+      "width": 1440,
+      "height": 810,
+      "mediaId": "suzy-says-command-rules-real-cover",
+      "purpose": "Recognize the actual command mat and television",
+      "reviewedAt": "2026-11-19"
+    }
+  },
+  {
+    "guide_id": "suzy-says-story-route",
+    "slug": "suzy-says-story-route",
+    "game_id": "suzy-says",
+    "checkedAt": "2026-11-18",
+    "authorId": null,
+    "primary_player_task": "Follow the original story in its real phase order and distinguish base/Full scope with explicit spoiler boundaries.",
+    "completion_result": "Not yet achieved: reader needs observed transition cues, actual next actions and completion feedback for later phases.",
+    "unique_scope": "Chronological route and mode boundaries, not another command glossary; title currently overpromises a step-by-step finale.",
+    "required_player_questions": [
+      "What should I inspect at the start?",
+      "What shows that the mat tutorial has progressed?",
+      "Which actual objectives follow and how do I complete them?",
+      "What proves a later task completed?",
+      "Which modes or ending features belong only to Full?"
+    ],
+    "verified_facts": [
+      {
+        "claim": "DVD introduced in a home-alone opening",
+        "evidence_ids": [
+          "main-official",
+          "main-video-opening"
+        ]
+      },
+      {
+        "claim": "Original WASD/Space/C controls",
+        "evidence_ids": [
+          "main-official"
+        ]
+      },
+      {
+        "claim": "Full version includes endless mode and secret ending",
+        "evidence_ids": [
+          "main-official"
+        ]
+      }
+    ],
+    "steps_or_judgments": [
+      {
+        "step": 1,
+        "action": "Inspect the opening note/DVD presentation and follow displayed controls",
+        "status": "Opening sampled; precise interaction order still requires continuous range."
+      },
+      {
+        "step": 2,
+        "action": "Learn current command presentation on mat",
+        "status": "One green-jump/timer sample; full tutorial response pattern not established."
+      },
+      {
+        "step": 3,
+        "action": "Follow household and later objectives in observed order",
+        "status": "Pending late footage; no fixed route may be asserted yet."
+      },
+      {
+        "step": 4,
+        "action": "Apply only mode-specific guidance matching base or Full release",
+        "status": "Feature availability confirmed; exact ending trigger unknown."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "case_id": "route-opening-note",
+        "basis": "main-video-opening0:43",
+        "state": "Home interior",
+        "recorded_action": "Inspect note",
+        "visible_result": "Uncle item and stranger-door warning",
+        "supports": "Opening setup only",
+        "cannot_support": "A later visitor trigger or cause"
+      },
+      {
+        "case_id": "route-dvd-introduction",
+        "basis": "main-video-opening1:18",
+        "state": "CRT screen",
+        "recorded_action": "Face TV",
+        "visible_result": "DVD introduction",
+        "supports": "Original presentation identity",
+        "cannot_support": "Endings or all command rounds"
+      },
+      {
+        "case_id": "route-visitor-and-phone",
+        "status": "not_observed_in_saved_record",
+        "task": "Find a continuous range before retaining visitor/phone timing or order."
+      },
+      {
+        "case_id": "route-hiding",
+        "status": "not_observed_in_saved_record",
+        "task": "Identify instruction, chosen position and visible completion/failure; do not infer line-of-sight/solid-wall rules from appearance."
+      },
+      {
+        "case_id": "route-four-candles",
+        "status": "not_observed_in_saved_record",
+        "task": "Confirm exact object/count/destination from visible instruction and resulting actions before retaining four candles/mat return."
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "Unclear current phase",
+        "decision": "Use observed prompt and last completed task as landmarks; do not fill gaps with a guessed sequence",
+        "status": "Advice only until phase cues are retained"
+      },
+      {
+        "problem": "Hiding appears stalled",
+        "decision": "No verified workaround; focus/load advice can be offered separately from deterministic hiding fixes",
+        "status": "Only public comments provide low-confidence leads"
+      },
+      {
+        "problem": "Collection does not respond",
+        "decision": "Cannot prescribe item location/order/placement without late footage",
+        "status": "Pending evidence, not a completed solution"
+      },
+      {
+        "problem": "Guide route differs from player",
+        "decision": "Do not force original Windows route onto unverified browser or Roblox recreation",
+        "status": "Identity boundary"
+      }
+    ],
+    "version_scope": "Original MOONBIT WindowsNovember2026 story, with base/Full distribution distinction. User runtime waiver does not waive factual route observation.",
+    "screenshot_tasks": [
+      {
+        "slot_id": "guide-story-cover",
+        "purpose": "Distinct house-navigation/story orientation image or original route visual using only observed phases",
+        "format": "approved-game-view-or-original-diagram",
+        "must_differ_from": "guide-command-cover",
+        "spoiler_exclusions": [
+          "Visitor identity",
+          "Late object answers",
+          "Final reveal"
+        ],
+        "adopted_media_id": null
+      },
+      {
+        "slot_id": "guide-story-early-phase",
+        "purpose": "Opening note/DVD/mat landmarks that show actual location sequence",
+        "format": "game-screenshot",
+        "status": "Needs rights and retained visual choice",
+        "adopted_media_id": null
+      },
+      {
+        "slot_id": "guide-story-late-transition",
+        "purpose": "Observed new objective cue inside an accessible spoiler-marked region",
+        "format": "game-screenshot",
+        "status": "Not yet observed; no invented file or image",
+        "adopted_media_id": null
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "task": "Understand command rule and complete story",
+          "query": "suzy says game walkthrough",
+          "entry": "YouTube self-search",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "candidate_video_ids": [
+        "7CLLI0ijVGQ",
+        "jCvkG7amBQ4"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Saved main footage covers opening samples, not complete command comparison or late route. Root must observe task-matching ranges and select actual adopted media.",
+      "page_purpose": "Continuous opening and actual later phase transitions, with discrete timestamped action/result cases; late-video spoiler warning precedes details."
+    },
+    "evidence_ids": [
+      "main-official",
+      "main-video-opening"
+    ],
+    "unsupported_claims": [
+      "Visitor and phone interruption order",
+      "Line-of-sight hiding mechanism",
+      "Crouching anywhere or particular position guarantees concealment",
+      "Four-candle quantity",
+      "Candle-room list",
+      "Return-to-mat objective",
+      "Finale completion steps",
+      "Secret-ending trigger",
+      "Any exact all-endings count",
+      "Universal save/checkpoint behavior"
+    ],
+    "content_status": "replaced-unpublished-insufficient-late-route-evidence",
+    "review_file": "research/content-review.json",
+    "spoiler_policy": "marked",
+    "spoiler_presentation": "Warn before naming later events, then accessible marked region for substantial details. Current warning after visitor/phone names needs correction.",
+    "boundaries": {
+      "home": "Home covers setup, controls and mode overview without a route.",
+      "other_guide": "Instruction interpretation belongs to commands Guide; route should reference it instead of repeating broad advice.",
+      "fallback": "If later evidence cannot support complete route, narrow Guide intent and synchronize planning/TDK; do not retain a full-walkthrough promise with generic advice.",
+      "do_not_publish": [
+        "Unverified late-event claims",
+        "Internal research disclaimer such as this guide does not invent",
+        "Solutions in teaser/TDK/alt/cover"
+      ]
+    },
+    "planned_section_mapping": [
+      {
+        "section_id": "before-the-dvd",
+        "task": "Before you begin the DVD",
+        "status": "draft"
+      },
+      {
+        "section_id": "mat-and-permission",
+        "task": "Learn the mat before chasing the next task",
+        "status": "draft"
+      },
+      {
+        "section_id": "household-errands",
+        "task": "Carry the rule into the rest of the house",
+        "status": "draft"
+      },
+      {
+        "section_id": "visitor-and-hiding",
+        "task": "Recognize the shift to danger and hiding",
+        "status": "requires-evidence"
+      },
+      {
+        "section_id": "late-objective",
+        "task": "Approach the later search one task at a time",
+        "status": "requires-evidence"
+      },
+      {
+        "section_id": "full-version-and-replay",
+        "task": "Check the version before planning another route",
+        "status": "draft"
+      }
+    ],
+    "source_urls": [
+      "https://moonbit.itch.io/suzy-says"
+    ],
+    "validation_note": "Current story seo.description length161 exceeds160; rewrite after scope correction and recount.",
+    "planned": false,
+    "coverage_status": "replaced",
+    "replaced_by": "suzy-says-first-run",
+    "replacement_reason": "Unpublished full-route promise exceeded retained video evidence; no late route or ending claims adopted."
+  },
+  {
+    "guide_id": "suzy-says-first-run",
+    "slug": "suzy-says-first-run",
+    "game_id": "suzy-says",
+    "checkedAt": "2026-11-18",
+    "planned": true,
+    "coverage_status": "planned",
+    "authorId": null,
+    "primary_player_task": "Choose original Windows edition and prepare the download, keyboard layout, subtitle readability and opening orientation for a first session.",
+    "completion_result": "Reader can distinguish base/Full, identify the proper Windows copy, prepare WASD/Space/C and subtitle language, recognize the opening DVD/mat context, and choose a recovery step if preparation fails.",
+    "unique_scope": "Version, local-file/session preparation and opening landmarks. No command-answer classification tutorial, later route, hiding/collection objectives or ending solutions.",
+    "required_player_questions": [
+      "Which original edition should I choose?",
+      "Does Full contain extra modes?",
+      "What should I check before running the Windows copy?",
+      "Which keys should be ready?",
+      "Which subtitle languages are available?",
+      "How do I recognize the opening DVD and first instruction?",
+      "Is the problem download, focus, loading or a working introduction?"
+    ],
+    "verified_facts": [
+      {
+        "claim": "Original MOONBIT release is Windows download with base and Full files",
+        "evidence_ids": [
+          "main-official"
+        ]
+      },
+      {
+        "claim": "Full includes endless mode and secret ending at current USD1.50 minimum",
+        "evidence_ids": [
+          "main-official"
+        ]
+      },
+      {
+        "claim": "WASD move/Space jump/C crouch",
+        "evidence_ids": [
+          "main-official"
+        ]
+      },
+      {
+        "claim": "Ten subtitle languages offered",
+        "evidence_ids": [
+          "main-official",
+          "main-language-update"
+        ]
+      },
+      {
+        "claim": "Opening note and CRT/DVD presentation seen in existing samples",
+        "evidence_ids": [
+          "main-video-opening"
+        ]
+      }
+    ],
+    "steps_or_judgments": [
+      {
+        "step": 1,
+        "action": "Confirm original title/developer/platform; choose edition by desired modes",
+        "basis": "Creator store listing",
+        "limit": "No official browser-port claim."
+      },
+      {
+        "step": 2,
+        "action": "Finish download; conditionally extract compressed copy and keep its files together",
+        "basis": "General Windows archive handling applied to downloadable release",
+        "limit": "No invented executable filename, installer page, install path or security bypass."
+      },
+      {
+        "step": 3,
+        "action": "Prepare original movement inputs with active game focus",
+        "basis": "Creator listed keys",
+        "limit": "No claim input was real-play tested."
+      },
+      {
+        "step": 4,
+        "action": "Choose a readable offered subtitle language and comfortable sound/view",
+        "basis": "Creator languages and content warning; practical reading advice",
+        "limit": "No invented subtitle-menu location or dubbing promise."
+      },
+      {
+        "step": 5,
+        "action": "Read opening information, recognize CRT/DVD and mat, respond only once an instruction is present",
+        "basis": "Current opening samples and original premise",
+        "limit": "No guessed interaction key, exact item pickup chain or late objective."
+      }
+    ],
+    "concrete_cases": [
+      {
+        "case_id": "first-run-edition-choice",
+        "type": "documented-product-decision",
+        "state": "Player wants endless mode or secret-ending feature",
+        "decision": "Choose Full rather than assuming all editions include those features",
+        "result": "Decision matches creator feature scope",
+        "evidence_ids": [
+          "main-official"
+        ],
+        "cannot_support": "Exact secret-ending trigger or iframe mode inclusion"
+      },
+      {
+        "case_id": "first-run-opening-note",
+        "type": "recorded-video-sample",
+        "state": "Opening home scene at0:43",
+        "recorded_action": "Inspect note",
+        "visible_result": "Starting context involving uncle item and stranger-door warning",
+        "evidence_ids": [
+          "main-video-opening"
+        ],
+        "cannot_support": "A later visitor trigger"
+      },
+      {
+        "case_id": "first-run-dvd-presentation",
+        "type": "recorded-video-sample",
+        "state": "CRT introduction at1:18",
+        "recorded_action": "Player faces television",
+        "visible_result": "Purple DVD-style introduction",
+        "evidence_ids": [
+          "main-video-opening"
+        ],
+        "cannot_support": "Exact unobserved interaction keys or full tutorial completion"
+      }
+    ],
+    "failure_and_recovery": [
+      {
+        "problem": "Download incomplete or archive cannot be read",
+        "action": "Check download completion and extraction step before diagnosing game behavior",
+        "basis": "General OS/file preparation advice, no specific installer claim"
+      },
+      {
+        "problem": "Movement key does nothing",
+        "action": "Check active window/player focus and current introduction/loading state",
+        "basis": "Input-boundary advice, not certified game bug repair"
+      },
+      {
+        "problem": "Text or controls too small",
+        "action": "Enlarge active view and use a readable subtitle language",
+        "basis": "Page viewing controls and creator subtitle availability"
+      },
+      {
+        "problem": "Browser load failure",
+        "action": "Retry one player session without opening multiple copies",
+        "basis": "Implemented page player behavior"
+      },
+      {
+        "problem": "Persistent black screen",
+        "action": "Separate failed load from visible changing introduction; do not infer a single cause or guaranteed fix",
+        "basis": "No causal fix claimed"
+      },
+      {
+        "problem": "Want to restart",
+        "action": "Do not assume progress persists or clear browser data just for a missed key",
+        "basis": "Conservative session advice; no save-path promise"
+      }
+    ],
+    "version_scope": "Original MOONBIT Windows November2026 release; opening sample from exact original-game recording. Configured main iframe remains provisional; game-input tests waived.",
+    "screenshot_tasks": [
+      {
+        "slot_id": "guide-first-run-cover",
+        "purpose": "Original task-specific version/input/subtitle preparation diagram; visually independent of command-decision cover",
+        "format": "original-explanatory-visual",
+        "adopted_media_id": null
+      },
+      {
+        "slot_id": "guide-first-run-opening",
+        "purpose": "Approved opening CRT/DVD context illustrating recognition before first instruction; avoid later reveals",
+        "format": "game-screenshot-if-appropriate",
+        "adopted_media_id": null
+      },
+      {
+        "slot_id": "guide-first-run-language",
+        "purpose": "Only if an actual language/settings view is approved, illustrate readability/language selection; never invent a menu screenshot",
+        "format": "approved-image-or-text-only",
+        "adopted_media_id": null
+      }
+    ],
+    "youtube_research": {
+      "searchedAt": "2026-11-18",
+      "query_directions": [
+        {
+          "query": "suzy says game walkthrough",
+          "entry": "YouTube self-search",
+          "task": "Recognize original opening and DVD presentation"
+        }
+      ],
+      "candidate_video_ids": [
+        "7CLLI0ijVGQ",
+        "jCvkG7amBQ4"
+      ],
+      "candidate_media_ids": [],
+      "adopted_media_ids": [],
+      "decision": "pending-media-review",
+      "reason": "Opening samples support orientation; final adopted range/media must be registered separately. No late route needed for this task.",
+      "page_purpose": "Opening recognition and current visible controls, without revealing later story."
+    },
+    "evidence_ids": [
+      "main-official",
+      "main-language-update",
+      "main-video-opening"
+    ],
+    "source_urls": [
+      "https://moonbit.itch.io/suzy-says",
+      "https://moonbit.itch.io/suzy-says/devlog/1774969/additional-languages-added"
+    ],
+    "unsupported_claims": [
+      "Exact executable filename or installer procedure",
+      "Minimum hardware specification",
+      "Specific subtitle-menu key/location",
+      "All languages dubbed",
+      "Save path or guaranteed persistence",
+      "Official browser identity of supplied iframe",
+      "DVD pickup/use interaction key",
+      "Later visitor/hiding/candles or ending sequence"
+    ],
+    "content_status": "task-complete-draft-pending-cover-and-final-review",
+    "content_draft": "research/content-drafts/guide-suzy-says-first-run.json",
+    "spoiler_policy": "none",
+    "boundaries": {
+      "home": "Home briefly introduces identity/gameplay; this Guide gives the complete practical preparation decision sequence.",
+      "other_guide": "Commands Guide takes over only after an actual instruction is present; no repeated command solution paragraphs here.",
+      "replaces": "Unpublished suzy-says-story-route; parent updates planning and route links.",
+      "do_not_publish": [
+        "Internal evidence IDs",
+        "Original late-story unsupported claims",
+        "Runtime waiver/report talk"
+      ]
+    },
+    "planned_section_mapping": [
+      {
+        "section_id": "choose-the-original-release",
+        "task": "Choose the release that contains what you want"
+      },
+      {
+        "section_id": "prepare-the-windows-copy",
+        "task": "Finish preparing the Windows copy before playing"
+      },
+      {
+        "section_id": "prepare-your-inputs",
+        "task": "Put the movement keys within easy reach"
+      },
+      {
+        "section_id": "choose-subtitles-and-comfort",
+        "task": "Make the spoken instructions easy to follow"
+      },
+      {
+        "section_id": "recognize-the-opening",
+        "task": "Orient yourself from the DVD to the first instruction"
+      },
+      {
+        "section_id": "recover-the-right-step",
+        "task": "Return to the step that actually failed"
+      }
+    ],
+    "currentCover": {
+      "src": "/images/guides/suzy-says-first-run.webp",
+      "alt": "The Suzy Says DVD box held in the hallway at the beginning of the game",
+      "width": 1440,
+      "height": 810,
+      "mediaId": "suzy-says-first-run-real-cover",
+      "purpose": "Recognize the opening DVD activity",
+      "reviewedAt": "2026-11-19"
+    }
+  }
+]

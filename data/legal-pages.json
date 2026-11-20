@@ -1,0 +1,127 @@
+{
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "heading": "Reading the website",
+        "text": "You can read this website without an account. It does not provide contact forms, comments, ratings, payments, uploads or email subscriptions. Its current implementation does not install first-party analytics or set a first-party tracking cookie. This statement concerns the website itself; embedded services operate separately."
+      },
+      {
+        "heading": "Game players",
+        "text": "Choosing Play Now connects your browser to the configured game host. Requests can disclose your IP address, browser information and the page origin needed to deliver the player. A host may contact other services or use its own cookies or browser storage. Those practices differ between hosts and have not been exhaustively audited here. Leaving a page ends its player session but does not necessarily remove data stored by the host."
+      },
+      {
+        "heading": "YouTube videos",
+        "text": "Videos use YouTube’s privacy-enhanced embedding domain and load lazily after the article. A browser may request the player before you press play once it approaches the loading range. Playing or interacting with it can cause further requests. Privacy-enhanced embedding does not mean that no information reaches YouTube."
+      },
+      {
+        "heading": "Email correspondence",
+        "text": "If you contact support@suzysaysgame.site, your email address, message and any information you choose to include are used to understand and respond to that request. Do not send passwords, payment details, identity documents or unrelated personal information. This website does not use a contact form or provide an account dashboard for managing correspondence."
+      },
+      {
+        "heading": "Your choices and questions",
+        "text": "You can read the articles without launching a game. Browser controls can limit third-party cookies and storage, although these settings may affect a player. Use your browser’s site-data controls to review or clear stored data. Send questions about this website’s handling of information to support@suzysaysgame.site and identify the page or feature involved."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "sections": [
+      {
+        "heading": "Using this website",
+        "text": "This independent fan and guide website provides writing about Suzy Says, related games and third-party embedded players. Use the website lawfully and respect other visitors and game creators. Frightening scenes, flashing imagery and mature themes may make an experience unsuitable for some visitors. Check each game’s own content warnings; this website does not assign an official age rating."
+      },
+      {
+        "heading": "Independent players and versions",
+        "text": "The website is not an official release channel for MOONBIT or the other game creators. A third-party player may differ from the version discussed in an article. The home-page player uses its configured address and has not been verified by direct play as a browser edition of the original Suzy Says. Read the player’s own title and instructions before proceeding."
+      },
+      {
+        "heading": "Availability and guidance",
+        "text": "Game and video hosts can change, remove or restrict their content. A visible page does not guarantee that an embedded experience works on every browser, device or network. Guidance distinguishes known rules and observed video examples where possible, but it does not guarantee a particular outcome. Actual game-input testing has not been completed for this website’s game selection."
+      },
+      {
+        "heading": "Acceptable use and ownership",
+        "text": "Do not interfere with the website, bypass a host’s access restrictions, attempt unauthorized access or misrepresent ownership of game material. Sharing a page link is welcome. Access to a player does not grant a license to copy or redistribute its software, artwork or video. This website does not sell game access or process payments."
+      },
+      {
+        "heading": "Changes and questions",
+        "text": "Pages may change when an error is corrected, a game host changes or a website feature is introduced. Updated guidance should be read in the context of the version it describes. Stop using an experience if it causes discomfort. Questions about these terms or a specific website issue can be sent to support@suzysaysgame.site."
+      }
+    ]
+  },
+  "copyright": {
+    "title": "Copyright",
+    "sections": [
+      {
+        "heading": "Game ownership and independence",
+        "text": "Game names, characters, software and associated artwork belong to their respective rights holders. This independent website does not claim to be the developer, publisher or official home of Suzy Says or any game it discusses. Displaying a player, image or video does not imply creator endorsement."
+      },
+      {
+        "heading": "Website writing and design",
+        "text": "The website’s original writing and design are separate from the games. Do not reproduce substantial website material without permission or another applicable basis. Images can have different ownership and reuse conditions from the surrounding writing. A credit identifies a creator; it does not by itself grant permission to reuse that creator’s work."
+      },
+      {
+        "heading": "Game artwork credits",
+        "text": "Suzy Says: MOONBIT. Assessment Examination: Wenderly Games. Please Answer Carefully: litrouke. last seen online: qwook and sochinstudio. The Open House: corpsepile. Bad Ben: corpsepile, DreadXP and Nigel Bach. the uncle who works for nintendo: Michael Lutz. Burger & Frights: Donitz. These credits do not assert a blanket license for their images, characters or software."
+      },
+      {
+        "heading": "Exhibit of Sorrows artwork",
+        "text": "Artwork by Theresa Kao / adayofjoy, licensed under Creative Commons Attribution 4.0 International. Work URI: https://adayofjoy.itch.io/exhibit-of-sorrows . License URI: https://creativecommons.org/licenses/by/4.0/ . Images have been resized and converted to WebP; animated promotional images are displayed as still frames. No endorsement is implied. This attribution concerns the artwork and does not describe the license for the game’s code or other games’ material."
+      },
+      {
+        "heading": "Copyright concerns",
+        "text": "Send concerns to support@suzysaysgame.site. Identify the page and exact item, explain the right involved and your connection to it, and provide a reliable way to reach you. Include enough detail to locate the material without sending identity documents or unrelated sensitive files. A request will need to be considered on its specific facts; an email does not guarantee a particular outcome or response time."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "sections": [
+      {
+        "heading": "An independent place for careful players",
+        "text": "This is an independent Suzy Says fan and guide website for players who want to understand an instruction before reacting to it. The focus is practical: recognizing qualifying words, choosing an action, preparing a first session and finding another unsettling game with a different kind of decision. The website is not operated by MOONBIT or affiliated with the creators of the additional games."
+      },
+      {
+        "heading": "Choose the help you need",
+        "text": "The Suzy Says home page explains the original game’s premise and command rule. One Guide works through command decisions; the other prepares a first Windows session, including edition choice, controls and subtitles. More Games introduces eight separate experiences, from portrait judgments and questionnaires to desktop puzzles, property tours and branching fiction."
+      },
+      {
+        "heading": "How the guidance is written",
+        "text": "Writing draws on creator descriptions, published game information and reviewed gameplay recordings. Specific video examples help explain visible actions and results, while version differences and uncertain outcomes are kept separate from established rules. This is desk and video research, not a claim that every game has been played through here. Actual input testing of the embedded games has not been completed."
+      },
+      {
+        "heading": "The home-page player",
+        "text": "The Windows release of Suzy Says is available from MOONBIT on itch.io. The creator also announced a separate Android release. The home-page browser player uses a third-party address and has not been verified by direct play as either release. Its controls, scenes and features should not be treated as proof of the original game’s behavior. The written Guides identify their version scope."
+      },
+      {
+        "heading": "Corrections and spoiler boundaries",
+        "text": "Corrections should identify the affected page, the version involved and the specific statement or step that needs attention. Clear errors can be corrected without inventing a new explanation for an unverified event. Important story details belong behind a warning, and the two Guides avoid ending routes. Send corrections, accessibility problems or broken-page details to support@suzysaysgame.site."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "sections": [
+      {
+        "heading": "Contact the website",
+        "text": "Email support@suzysaysgame.site about inaccurate guidance, broken pages, accessibility problems or concerns about material displayed here. This address is for this independent website. It is not a support address for MOONBIT, YouTube or an individual game developer."
+      },
+      {
+        "heading": "Help identify the problem",
+        "text": "Include the page address, game or Guide title, what you expected and what happened. For a display or player problem, add the device, browser version and whether the problem happened before or after Play Now. If a statement seems wrong, quote the short passage and identify the game version it concerns."
+      },
+      {
+        "heading": "Player and version questions",
+        "text": "The home-page player uses its configured address, while the Suzy Says writing discusses the original Windows game. Direct play of that frame has not been completed. Report a mismatch with the page and player title rather than assuming the two experiences share controls or progress. Third-party hosts control their own games, availability and accounts; this website cannot promise to resolve a host’s service problem."
+      },
+      {
+        "heading": "Protect your information",
+        "text": "Do not send passwords, payment details, identity documents or private account information. There is no contact form or upload tool on this website. Keep any email attachment relevant and avoid including other people’s personal details. Sending a message does not create an account, subscription or guaranteed support commitment."
+      },
+      {
+        "heading": "Rights and accessibility concerns",
+        "text": "For a rights concern, identify the exact item and page and explain your connection to the right involved. For an accessibility issue, describe the task you could not complete and any assistive technology involved if you are comfortable sharing it. A reply or resolution time is not guaranteed."
+      }
+    ]
+  }
+}

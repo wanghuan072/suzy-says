@@ -1,0 +1,401 @@
+{
+  "mode": "real-game-images",
+  "approvedAt": "2026-11-19",
+  "userDecision": "图片全都不对，要按游戏的真实图片来做，从全网查找",
+  "allowOriginalGameArtwork": false,
+  "deferGameplayScreenshots": true,
+  "gameIds": [
+    "suzy-says",
+    "assessment-examination",
+    "please-answer-carefully",
+    "last-seen-online",
+    "the-open-house",
+    "bad-ben",
+    "uncle-nintendo",
+    "exhibit-of-sorrows",
+    "burger-frights"
+  ],
+  "minimumBodyImages": 3,
+  "scope": "Replace all fabricated game covers, diagrams and Guide illustrations with verified author-published game imagery or direct game captures. Earlier deferral of additional gameplay screenshots is retained only where a real in-game artwork is used; it is never counted as a gameplay capture.",
+  "rightsPolicy": "User requests adoption; this does not grant third-party copyrights. Keep editorial-use review distinct from explicit CC BY permission, preserve credits and disclose unresolved grants internally.",
+  "reviewedAssets": [
+    {
+      "subjectGameId": "suzy-says",
+      "localPath": "/images/games/suzy-says.webp",
+      "sha256": "f6461bd566800dca5352e679e26c8fab492e8ca12463096b9335c65f53fd5d3f",
+      "sourcePage": "https://moonbit.itch.io/suzy-says",
+      "sourceUrl": "https://img.itch.zone/aW1nLzMxOTQ4NDA2LmdpZg==/original/CO9l5G.gif",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "suzy-says",
+      "localPath": "/images/games/suzy-says-screen-1.webp",
+      "sha256": "62abe04b0322b4aedeb24f82e44c66eabffca723b498614ff1845336a4b7a945",
+      "sourcePage": "https://moonbit.itch.io/suzy-says",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5NC5qcGc=/original/VXYOt8.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "suzy-says",
+      "localPath": "/images/games/suzy-says-screen-2.webp",
+      "sha256": "47fde352026b466b1e961086526e4541e09c9bfc3e2ca31460b9fcfcc655ee45",
+      "sourcePage": "https://moonbit.itch.io/suzy-says",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5Ni5qcGc=/original/nT%2FiHP.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "suzy-says",
+      "localPath": "/images/games/suzy-says-screen-3.webp",
+      "sha256": "740bea2d3c38c546f3d80b8f0b6b2653eb15ca42a64e4c944f0f5772a4b22dd0",
+      "sourcePage": "https://moonbit.itch.io/suzy-says",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5OS5qcGc=/original/as%2B78f.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "assessment-examination",
+      "localPath": "/images/games/assessment-examination.webp",
+      "sha256": "db324f022f7b5f7604015a46724bc4f0bc0d4f8fdee66d1c6d6588a9d52759a0",
+      "sourcePage": "https://wenderlygames.itch.io/assessment-examination",
+      "sourceUrl": "https://img.itch.zone/aW1nLzgyNzQzNjEucG5n/original/VRbxAQ.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "assessment-examination",
+      "localPath": "/images/games/assessment-examination-screen-1.webp",
+      "sha256": "74d6d4a891a10ae1b7f3d3cfee1a4a44717cee590f0cbaabc204d2a86e48921f",
+      "sourcePage": "https://wenderlygames.itch.io/assessment-examination",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQyMDc0Ny84Mjc0NTM3LnBuZw==/original/WfI1Te.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "assessment-examination",
+      "localPath": "/images/games/assessment-examination-screen-2.webp",
+      "sha256": "e13c1e7c636492fadd2bb783e62c19c5838847b9e12beedd6b6f0acf7799ea51",
+      "sourcePage": "https://wenderlygames.itch.io/assessment-examination",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQyMDc0Ny84Mjc0NTM1LnBuZw==/original/J1xk4u.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "assessment-examination",
+      "localPath": "/images/games/assessment-examination-screen-3.webp",
+      "sha256": "747ae5b08b12f1bd645043a558a347aa9959d4bc2c70076ac2c915393ba36e25",
+      "sourcePage": "https://wenderlygames.itch.io/assessment-examination",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQyMDc0Ny84Mjc0NTM2LnBuZw==/original/LqQYuD.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "please-answer-carefully",
+      "localPath": "/images/games/please-answer-carefully.webp",
+      "sha256": "d3ff4dd8ae6b5bf6aa9c3d4b19b864647516beda4f4bc5db5f64185568cce157",
+      "sourcePage": "https://litrouke.itch.io/please-answer-carefully",
+      "sourceUrl": "https://img.itch.zone/aW1nLzI3MTY2MjMucG5n/original/hBG9lJ.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "please-answer-carefully",
+      "localPath": "/images/games/please-answer-carefully-screen-1.webp",
+      "sha256": "6ff8071bca604f6ea1af5f010f70a29acd8b9e583850a1f36d438a8fc718dead",
+      "sourcePage": "https://litrouke.itch.io/please-answer-carefully",
+      "sourceUrl": "https://html-classic.itch.zone/html/10245174/index.html",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "please-answer-carefully",
+      "localPath": "/images/games/please-answer-carefully-screen-2.webp",
+      "sha256": "68ae81a8e607e94c63695600177fed535adf2e2b612ddeeced8a2e4975acb432",
+      "sourcePage": "https://litrouke.itch.io/please-answer-carefully",
+      "sourceUrl": "https://html-classic.itch.zone/html/10245174/index.html",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "last-seen-online",
+      "localPath": "/images/games/last-seen-online.webp",
+      "sha256": "55b95736cc1ba0d2c8cb86b5faf468360e2069311de89f9beadc4beae1555a1b",
+      "sourcePage": "https://qwook.itch.io/last-seen-online",
+      "sourceUrl": "https://img.itch.zone/aW1nLzE0NDM1NDk3LnBuZw==/original/gRPrhC.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "last-seen-online",
+      "localPath": "/images/games/last-seen-online-screen-1.webp",
+      "sha256": "f337e438b232ec52d052676c9e7e3e6660d2f4259f6328f49e45571a9763a7e7",
+      "sourcePage": "https://qwook.itch.io/last-seen-online",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMjQyMTA4OC8xNDQ0NTU2OC5wbmc=/original/Gyiuc9.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "last-seen-online",
+      "localPath": "/images/games/last-seen-online-screen-2.webp",
+      "sha256": "ef40cd5f0425b018d7418ccfae9fdb5b5414f6873060d6beae1e87e8a791f633",
+      "sourcePage": "https://qwook.itch.io/last-seen-online",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMjQyMTA4OC8xNDQzNTU2OS5wbmc=/original/DDRnW8.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "last-seen-online",
+      "localPath": "/images/games/last-seen-online-screen-3.webp",
+      "sha256": "7fe790c2ed336013437ba5bfc2b0666ba0a53701d07ea970a4bbe7c8e70887af",
+      "sourcePage": "https://qwook.itch.io/last-seen-online",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMjQyMTA4OC8xOTEzODc4MC5wbmc=/original/CikhBL.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-artwork"
+    },
+    {
+      "subjectGameId": "the-open-house",
+      "localPath": "/images/games/the-open-house.webp",
+      "sha256": "fb71649b5a290a1d874d67bb21c1a63553bac8df0cb1f34e29bd1f8b3930f638",
+      "sourcePage": "https://corpsepile.itch.io/the-open-house",
+      "sourceUrl": "https://img.itch.zone/aW1nLzMxMzA3NDAucG5n/original/KEnve9.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "the-open-house",
+      "localPath": "/images/games/the-open-house-screen-1.webp",
+      "sha256": "a76cf738072456f26d425d1363229c1f1c5bba70b65e733ae7cca3ba7d9d279c",
+      "sourcePage": "https://corpsepile.itch.io/the-open-house",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTkyMDc3LzMxMzA3MjgucG5n/original/O9q0Xq.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "the-open-house",
+      "localPath": "/images/games/the-open-house-screen-2.webp",
+      "sha256": "e43510c4df925b8d7c5887d4858870d95f420792a751f45c5a581cb2d4a70547",
+      "sourcePage": "https://corpsepile.itch.io/the-open-house",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTkyMDc3LzMxMzA3MjQucG5n/original/orh4DK.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "the-open-house",
+      "localPath": "/images/games/the-open-house-screen-3.webp",
+      "sha256": "aa3936fabf318a514b885dda3aa54d442d00c8624ce9ed1d140c5741a2ce60d9",
+      "sourcePage": "https://corpsepile.itch.io/the-open-house",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTkyMDc3LzMxMzA3MjcucG5n/original/z7zEsJ.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "bad-ben",
+      "localPath": "/images/games/bad-ben.webp",
+      "sha256": "b3db69d435b9474c7d6d23366c3137d4e6c5bc93850b05a972154ecd38077362",
+      "sourcePage": "https://corpsepile.itch.io/bad-ben",
+      "sourceUrl": "https://img.itch.zone/aW1nLzcxMjU0NDYuanBn/original/XXJhWV.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "bad-ben",
+      "localPath": "/images/games/bad-ben-screen-1.webp",
+      "sha256": "b802ea9485f9a004f7100f1a433333b025b4cd73b544c9d0c465bf1a8e2b3c6d",
+      "sourcePage": "https://corpsepile.itch.io/bad-ben",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvOTU1NTY1LzcyNDExOTAuanBn/original/YM%2FH%2BE.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "bad-ben",
+      "localPath": "/images/games/bad-ben-screen-2.webp",
+      "sha256": "5805998cff1a560ccf80db82d974b7a55b84fe6dec8daf7485f87ecd4481af72",
+      "sourcePage": "https://corpsepile.itch.io/bad-ben",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvOTU1NTY1LzcyNDExOTEuanBn/original/Wj%2FjR8.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "bad-ben",
+      "localPath": "/images/games/bad-ben-screen-3.webp",
+      "sha256": "e0aa72a86d36b941a7c0744945877f9b9388102cd70621a35ef8ebbaf721af62",
+      "sourcePage": "https://corpsepile.itch.io/bad-ben",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvOTU1NTY1LzcyNTE3NzMuanBn/original/y0VNRT.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "uncle-nintendo",
+      "localPath": "/images/games/uncle-nintendo.webp",
+      "sha256": "7ea2e401b41150d6ae8e9413d3507523cdf6b1d392687f92db8670e5da546705",
+      "sourcePage": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQwMjcvNTI5ODkucG5n/original/ElyDed.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "uncle-nintendo",
+      "localPath": "/images/games/uncle-nintendo-screen-1.webp",
+      "sha256": "ad36e3bc5f0440f749cafe0da94b03a2124966b566fd4d2bc2b9d2566cd94d7d",
+      "sourcePage": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQwMjcvNDc5NDAuanBn/original/i4TpFt.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "uncle-nintendo",
+      "localPath": "/images/games/uncle-nintendo-screen-2.webp",
+      "sha256": "3c94feafeee5af8d2ecabd2ea930e1677930a64b0783b289d80baa4529f9b092",
+      "sourcePage": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQwMjcvNDc5NDEucG5n/original/D%2FF2C9.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "uncle-nintendo",
+      "localPath": "/images/games/uncle-nintendo-screen-3.webp",
+      "sha256": "bd6c7ded2cdde84967a2cafeaaa6c766bd166127d0e2dbf5d07c6d6efa854593",
+      "sourcePage": "https://ztul.itch.io/the-uncle-who-works-for-nintendo",
+      "sourceUrl": "https://html-classic.itch.zone/html/485403/UWWFN/Files/index.html",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "exhibit-of-sorrows",
+      "localPath": "/images/games/exhibit-of-sorrows.webp",
+      "sha256": "1d1faff3916581f526f219d0a00cdb7596312c125d2242c589d7c5093be7cd5f",
+      "sourcePage": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "sourceUrl": "https://img.itch.zone/aW1nLzg3NTgyODYuZ2lm/original/7yhMme.gif",
+      "identityReviewed": true,
+      "rightsStatus": "approved",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "exhibit-of-sorrows",
+      "localPath": "/images/games/exhibit-of-sorrows-screen-1.webp",
+      "sha256": "c38a993ae95e2e13698a80d03e54874f1c856f888c7ee0bd7db9cdef8cba5941",
+      "sourcePage": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQ5NzE1MC84NzM0MDY0LnBuZw==/original/Airc4b.png",
+      "identityReviewed": true,
+      "rightsStatus": "approved",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "exhibit-of-sorrows",
+      "localPath": "/images/games/exhibit-of-sorrows-screen-2.webp",
+      "sha256": "162657c4d12688572482b1506770b8e48df96a961465331442f0a0b75c352900",
+      "sourcePage": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQ5NzE1MC84NzMzNDcyLmdpZg==/original/sqvjiw.gif",
+      "identityReviewed": true,
+      "rightsStatus": "approved",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "exhibit-of-sorrows",
+      "localPath": "/images/games/exhibit-of-sorrows-screen-3.webp",
+      "sha256": "4dc1887f0e8db20a8ce8f30bad4841f9851914234937304010014144c6a9204b",
+      "sourcePage": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTQ5NzE1MC85MDI0MTAyLmdpZg==/original/J5LFvl.gif",
+      "identityReviewed": true,
+      "rightsStatus": "approved",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "burger-frights",
+      "localPath": "/images/games/burger-frights.webp",
+      "sha256": "8c8a37b70c27f7876a09e83da54105f6ce1e1a5ffb6df8a4e7ffb64788f23509",
+      "sourcePage": "https://donitz.itch.io/burger-frights",
+      "sourceUrl": "https://img.itch.zone/aW1nLzY4MDU0NjcucG5n/original/sbNKVb.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "image"
+    },
+    {
+      "subjectGameId": "burger-frights",
+      "localPath": "/images/games/burger-frights-screen-1.webp",
+      "sha256": "00649ec1912e315ae0183085458b54dacb5f86af1096052953793c6314b89610",
+      "sourcePage": "https://donitz.itch.io/burger-frights",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTE2OTEzMS82ODEyNzI4LnBuZw==/original/5pcLGQ.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "burger-frights",
+      "localPath": "/images/games/burger-frights-screen-2.webp",
+      "sha256": "d5455ec526152b1b038cdb349e36e81c3a825f0c86282946207528dacc1f77cc",
+      "sourcePage": "https://donitz.itch.io/burger-frights",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTE2OTEzMS82ODI2NDkwLmdpZg==/original/iE%2BWzB.gif",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "burger-frights",
+      "localPath": "/images/games/burger-frights-screen-3.webp",
+      "sha256": "5c9fbf63dec452a075eef614bdd5329811fd68645732c94c8b76235daa9ddbe0",
+      "sourcePage": "https://donitz.itch.io/burger-frights",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvMTE2OTEzMS82ODEyNzI3LnBuZw==/original/GpFxs1.png",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "suzy-says",
+      "localPath": "/images/guides/suzy-says-command-rules.webp",
+      "sha256": "47fde352026b466b1e961086526e4541e09c9bfc3e2ca31460b9fcfcc655ee45",
+      "sourcePage": "https://moonbit.itch.io/suzy-says",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5Ni5qcGc=/original/nT%2FiHP.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    },
+    {
+      "subjectGameId": "suzy-says",
+      "localPath": "/images/guides/suzy-says-first-run.webp",
+      "sha256": "740bea2d3c38c546f3d80b8f0b6b2653eb15ca42a64e4c944f0f5772a4b22dd0",
+      "sourcePage": "https://moonbit.itch.io/suzy-says",
+      "sourceUrl": "https://img.itch.zone/aW1hZ2UvNTMxMDg0MC8zMTkxODU5OS5qcGc=/original/as%2B78f.jpg",
+      "identityReviewed": true,
+      "rightsStatus": "editorial-use-reviewed",
+      "kind": "game-capture"
+    }
+  ],
+  "deferredBodyImages": [
+    {
+      "gameId": "please-answer-carefully",
+      "minimumBodyImages": 2,
+      "reason": "Third direct capture was a faint transition frame and is excluded. Additional screenshots remain deferred under the prior explicit user-approved screenshot deferral; no placeholder is published.",
+      "priorApproval": "research/real-media-20261119/before.json#/policy"
+    }
+  ]
+}

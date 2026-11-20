@@ -1,0 +1,517 @@
+[
+  {
+    "gameId": "suzy-says",
+    "videoId": "7CLLI0ijVGQ",
+    "status": "rule-and-opening-samples-observed",
+    "embed": "Playback observed via localhost youtube-nocookie iframe",
+    "segments": [
+      {
+        "range": "0:43 sampled",
+        "state": "Mother note in house",
+        "action": "Player inspects note",
+        "visibleResult": "Note mentions uncle item and not opening door to strangers",
+        "supports": [
+          "Home-alone setup"
+        ],
+        "cannotSupport": [
+          "All ending rules",
+          "Configured iframe identity"
+        ],
+        "range_id": "video-analysis-suzy-says-range-1",
+        "page_section_ids": [
+          "first-command-round"
+        ]
+      },
+      {
+        "range": "1:18 sampled",
+        "state": "CRT DVD introduction",
+        "action": "Player faces TV",
+        "visibleResult": "Purple radial introduction visible",
+        "supports": [
+          "DVD interface and room identity"
+        ],
+        "cannotSupport": [
+          "Full session timing or complete tutorial"
+        ],
+        "range_id": "video-analysis-suzy-says-range-2",
+        "page_section_ids": [
+          "first-command-round"
+        ]
+      },
+      {
+        "range": "Later opening viewed without reliable retained timestamp",
+        "state": "Purple-walled bedroom and TV",
+        "action": "Player turns between doorway and screen",
+        "visibleResult": "Jump on green subtitle and timer visible",
+        "supports": [
+          "First-person command presentation"
+        ],
+        "cannotSupport": [
+          "Command success/failure rule by itself"
+        ],
+        "range_id": "video-analysis-suzy-says-range-3",
+        "page_section_ids": [
+          "first-command-round"
+        ]
+      },
+      {
+        "range": "01:51,02:21,02:26 paused samples",
+        "state": "Tutorial explanation and practice correction",
+        "action": "Recorded presentation explains qualifying condition and yellow jump",
+        "visibleResult": "Only-qualified instruction condition, missing-qualifier feedback and yellow target visible",
+        "supports": [
+          "main-command-rule",
+          "main-practice-feedback"
+        ],
+        "cannotSupport": [
+          "Life or scoring penalties",
+          "Configured iframe identity"
+        ],
+        "range_id": "video-analysis-suzy-says-range-4",
+        "page_section_ids": [
+          "first-command-round"
+        ]
+      }
+    ],
+    "limitations": [
+      "Not a full walkthrough observation; do not claim all segments watched."
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-suzy-prefix.jpg",
+      "reports/screenshots/video-suzy-practice.jpg",
+      "reports/screenshots/video-suzy-yellow.jpg"
+    ],
+    "analysis_id": "video-analysis-suzy-says",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "first-command-round"
+    ]
+  },
+  {
+    "analysis_id": "assessment-classification-sample",
+    "video_id": "5kBE7u-POMc",
+    "game_id": "assessment-examination",
+    "candidate_query_ids": [
+      "assessment-examination-author-video-related"
+    ],
+    "identity_status": "exact-game",
+    "content_form": "full-session",
+    "version_scope": "Recorded full game; author build matching initial title and classification UI, browser build not input-tested",
+    "reviewed_ranges": [
+      {
+        "range_id": "assessment-0210-0316",
+        "start": "00:02:10",
+        "end": "00:03:16",
+        "game_state": "Distorted portrait and Threat button, later case-file screen",
+        "player_action": "Recorded player progresses through classification sequence",
+        "visible_result": "Classification presentation gives way to named case narrative",
+        "reasoning_value": "Article should distinguish the repeatable classification interface from interruptions containing narrative information",
+        "supports_claim_ids": [
+          "assessment-examination-identity"
+        ],
+        "limitations": [
+          "Only sampled frames across playback interval; no answer correctness, score or branching conclusion",
+          "Cannot prove iframe controls or hidden game logic"
+        ],
+        "page_section_ids": [
+          "choosing-an-answer",
+          "interruptions-and-pacing"
+        ]
+      }
+    ],
+    "research_decision": "used-for-content",
+    "embed_candidate": true,
+    "decision_reason": "Visible game identity and specific interface/process match; final media purpose classification plus narrative interruption",
+    "evidence_paths": [
+      "reports/screenshots/video-assessment-0210.jpg",
+      "reports/screenshots/video-assessment-next.jpg"
+    ],
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "choosing-an-answer",
+      "interruptions-and-pacing"
+    ]
+  },
+  {
+    "gameId": "please-answer-carefully",
+    "videoId": "eYjjVDO2Sl4",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 549.341,
+    "versionScope": "Twine questionnaire UI matches author browser game; streamer recording with facecam",
+    "segments": [
+      {
+        "range": "00:55.9 sampled",
+        "state": "Question1 internet-enabled device checkboxes",
+        "action": "Recorded player reads device choices",
+        "visibleResult": "Checkbox survey layout with desktop/tablet/mobile/TV choices",
+        "supports": [
+          "Multi-select input differs from radio questions"
+        ],
+        "cannotSupport": [
+          "Ending effects or truthful-answer scoring"
+        ],
+        "range_id": "video-analysis-please-answer-carefully-range-1",
+        "page_section_ids": [
+          "three-kinds-of-input",
+          "reading-the-pressure"
+        ]
+      },
+      {
+        "range": "02:40 sample; playback continued to04:02",
+        "state": "Frequency radio options followed by several agreement scales",
+        "action": "Recorded player selects questionnaire responses",
+        "visibleResult": "Survey advances to rows about phone reach/windows/neighbors/home safety",
+        "supports": [
+          "Several rows can each require their own response",
+          "Personal-space wording grows uneasy"
+        ],
+        "cannotSupport": [
+          "All paths",
+          "Exact branching or device access"
+        ],
+        "range_id": "video-analysis-please-answer-carefully-range-2",
+        "page_section_ids": [
+          "three-kinds-of-input",
+          "reading-the-pressure"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-survey-0056.jpg",
+      "reports/screenshots/video-survey-0240.jpg"
+    ],
+    "limitations": [
+      "Discontinuous samples; second screenshot filename is historical, actual read-only video time242.7 seconds",
+      "No transcript or video copied into page"
+    ],
+    "analysis_id": "video-analysis-please-answer-carefully",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "three-kinds-of-input",
+      "reading-the-pressure"
+    ]
+  },
+  {
+    "gameId": "the-open-house",
+    "videoId": "SZxTn3h34rE",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 782.061,
+    "versionScope": "ALPHA v0.2 visible in recording",
+    "segments": [
+      {
+        "range": "00:37 sample",
+        "state": "Fictional NorthTree property presentation",
+        "action": "Recorded player advances sales introduction",
+        "visibleResult": "Click-to-continue real-estate onboarding",
+        "supports": [
+          "Sales interface is fictional narrative framing"
+        ],
+        "cannotSupport": [
+          "Real real-estate service"
+        ],
+        "range_id": "video-analysis-the-open-house-range-1",
+        "page_section_ids": [
+          "begin-with-the-interface",
+          "notice-what-is-different"
+        ]
+      },
+      {
+        "range": "01:23 visible screenshot sample; DOM seek target02:23 was ahead of buffered image, later04:02 sample",
+        "state": "Livingroom view then Hall2F",
+        "action": "Recorded viewpoint moves through property tour",
+        "visibleResult": "Information control at bottom and later colored visual interference",
+        "supports": [
+          "Room labels help retain location",
+          "A changed image is not automatically a browser failure"
+        ],
+        "cannotSupport": [
+          "Exact late puzzle order",
+          "Every version identical"
+        ],
+        "range_id": "video-analysis-the-open-house-range-2",
+        "page_section_ids": [
+          "begin-with-the-interface",
+          "notice-what-is-different"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-openhouse-intro.jpg",
+      "reports/screenshots/video-openhouse-tour.jpg",
+      "reports/screenshots/video-openhouse-continue.jpg"
+    ],
+    "limitations": [
+      "Only separated samples observed during playback; no claim of uninterrupted full-watch",
+      "Use visible frame clock over pending seek target; initial record corrected after image review"
+    ],
+    "analysis_id": "video-analysis-the-open-house",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "begin-with-the-interface",
+      "notice-what-is-different"
+    ]
+  },
+  {
+    "gameId": "bad-ben",
+    "videoId": "aoE79XZOqzc",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 1264.361,
+    "versionScope": "corpsepile browser recording with fixed security-camera views",
+    "segments": [
+      {
+        "range": "02:17 sample",
+        "state": "Kitchen DEACTIVATED",
+        "action": "Character holds tablet, task mentions camera/motion-sensor check",
+        "visibleResult": "Room and sensor status share upper-left HUD",
+        "supports": [
+          "Separate room label from sensor state"
+        ],
+        "cannotSupport": [
+          "Complete activation sequence"
+        ],
+        "range_id": "video-analysis-bad-ben-range-1",
+        "page_section_ids": [
+          "tablet-after-acquisition",
+          "movement-and-interaction"
+        ]
+      },
+      {
+        "range": "04:52 sample",
+        "state": "Office MOTION ACTIVATED",
+        "action": "Character walks toward doorway",
+        "visibleResult": "Fixed high camera shows leaving character and red sensor status",
+        "supports": [
+          "Fixed angle does not itself mean movement is blocked"
+        ],
+        "cannotSupport": [
+          "Exact sensor trigger area or ending cause"
+        ],
+        "range_id": "video-analysis-bad-ben-range-2",
+        "page_section_ids": [
+          "tablet-after-acquisition",
+          "movement-and-interaction"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-badben-opening.jpg",
+      "reports/screenshots/video-badben-camera.jpg"
+    ],
+    "limitations": [
+      "Sampled points; no game iframe interaction test"
+    ],
+    "analysis_id": "video-analysis-bad-ben",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "tablet-after-acquisition",
+      "movement-and-interaction"
+    ]
+  },
+  {
+    "gameId": "uncle-nintendo",
+    "videoId": "e7JI5Zljdlo",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 4974.881,
+    "versionScope": "Michael Lutz illustrated Twine story recording; no branch equivalence claim",
+    "segments": [
+      {
+        "range": "02:08 sample",
+        "state": "Outside friend house on Friday evening",
+        "action": "Recorded player reads arrival and mother conversation link",
+        "visibleResult": "Narrative text over house illustration and red continuation link",
+        "supports": [
+          "Reading and link progression"
+        ],
+        "cannotSupport": [
+          "All opening name variations"
+        ],
+        "range_id": "video-analysis-uncle-nintendo-range-1",
+        "page_section_ids": [
+          "reading-and-choosing"
+        ]
+      },
+      {
+        "range": "04:47 sample",
+        "state": "Den narration followed by dinner invitation",
+        "action": "Recorded player reaches two red response links",
+        "visibleResult": "Two responses rather than single continuation",
+        "supports": [
+          "Distinguish reading/continuation from choice"
+        ],
+        "cannotSupport": [
+          "Each choice clock cost",
+          "Ending cause"
+        ],
+        "range_id": "video-analysis-uncle-nintendo-range-2",
+        "page_section_ids": [
+          "reading-and-choosing"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-uncle-arrival.jpg",
+      "reports/screenshots/video-uncle-dialogue.jpg"
+    ],
+    "limitations": [
+      "Discontinuous samples, not full83minute viewing",
+      "Dinner two-response frame observed in tool output at04:47; saved dialogue screenshot was taken later and shows single continuation link instead. It supports continuation presentation only, not two-choice screenshot evidence."
+    ],
+    "analysis_id": "video-analysis-uncle-nintendo",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "reading-and-choosing"
+    ]
+  },
+  {
+    "gameId": "exhibit-of-sorrows",
+    "videoId": "mwrf9cjEeB8",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 1086.901,
+    "versionScope": "Illustrated clown exhibit recorded with facecam, visible art matches author",
+    "segments": [
+      {
+        "range": "02:31 and02:45 samples",
+        "state": "Clown with oversized yellow hands and white arrow",
+        "action": "Recorded cursor interacts near indicated finger",
+        "visibleResult": "Later frame has changed/extended fingers",
+        "supports": [
+          "Read local arrow and look for local visual feedback"
+        ],
+        "cannotSupport": [
+          "Full sequence",
+          "Later injury requirements",
+          "Exact press duration"
+        ],
+        "range_id": "video-analysis-exhibit-of-sorrows-range-1",
+        "page_section_ids": [
+          "arrows-and-small-changes"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-exhibit-hands.jpg",
+      "reports/screenshots/video-exhibit-open-hand.jpg"
+    ],
+    "limitations": [
+      "Samples only; pump hold rule independently creator-devlog supported, not established by these hand frames"
+    ],
+    "analysis_id": "video-analysis-exhibit-of-sorrows",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "arrows-and-small-changes"
+    ]
+  },
+  {
+    "gameId": "burger-frights",
+    "videoId": "VxpQdPFQxrE",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 1024.341,
+    "versionScope": "Donitz first-person bicycle forest ride recording",
+    "segments": [
+      {
+        "range": "02:58 sample",
+        "state": "Road encounter with fallen bicycle and red trail",
+        "action": "Recorded camera turns toward roadside event",
+        "visibleResult": "Encounter contrasts with ordinary forward ride",
+        "supports": [
+          "Road scenery changes during journey",
+          "Horror/blood warning appropriate"
+        ],
+        "cannotSupport": [
+          "Cause of failure",
+          "Ending trigger"
+        ],
+        "range_id": "video-analysis-burger-frights-range-1",
+        "page_section_ids": [
+          "light-and-lane-markings"
+        ]
+      },
+      {
+        "range": "05:42 sample",
+        "state": "Dark roadway within forward light cone",
+        "action": "Recorded viewpoint centers on dashed line and road edges",
+        "visibleResult": "Limited lit view makes lane direction readable while trees remain dark",
+        "supports": [
+          "Use road-edge/centerline information rather than dark surroundings"
+        ],
+        "cannotSupport": [
+          "Exact steering keys",
+          "Every encounter path"
+        ],
+        "range_id": "video-analysis-burger-frights-range-2",
+        "page_section_ids": [
+          "light-and-lane-markings"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-burger-road-event.jpg",
+      "reports/screenshots/video-burger-road.jpg"
+    ],
+    "limitations": [
+      "Discontinuous samples; fullvideo contains later spoilers, public warning required"
+    ],
+    "analysis_id": "video-analysis-burger-frights",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "light-and-lane-markings"
+    ]
+  },
+  {
+    "gameId": "last-seen-online",
+    "videoId": "6a83iH6lWPI",
+    "status": "sampled-playback-observed",
+    "durationSeconds": 1165.981,
+    "versionScope": "Virtual desktop browser-style game recording, 2026video title not build date",
+    "segments": [
+      {
+        "range": "05:20 sample",
+        "state": "Pink desktop with overlapping image viewers IMG004.jpg and other images",
+        "action": "Recorded cursor moves among picture windows",
+        "visibleResult": "Several windows can conceal one another while icons remain visible",
+        "supports": [
+          "Separate hidden windows from missing clues"
+        ],
+        "cannotSupport": [
+          "Correct clue order",
+          "All filenames necessary"
+        ],
+        "range_id": "video-analysis-last-seen-online-range-1",
+        "page_section_ids": [
+          "learning-the-desktop",
+          "beyond-the-desktop"
+        ]
+      },
+      {
+        "range": "06:52 sample",
+        "state": "OtherCorp invite screen",
+        "action": "Recorded cursor focuses InviteCode field",
+        "visibleResult": "InviteCode,Continue,Back controls visible",
+        "supports": [
+          "Identify current input role before reusing an earlier password"
+        ],
+        "cannotSupport": [
+          "Correct code or final outcome"
+        ],
+        "range_id": "video-analysis-last-seen-online-range-2",
+        "page_section_ids": [
+          "learning-the-desktop",
+          "beyond-the-desktop"
+        ]
+      }
+    ],
+    "evidencePaths": [
+      "reports/screenshots/video-lastseen-desktop.jpg",
+      "reports/screenshots/video-lastseen-next.jpg"
+    ],
+    "limitations": [
+      "Separated playback samples; no full path observed"
+    ],
+    "analysis_id": "video-analysis-last-seen-online",
+    "pagePurpose": "Explain the specific interface/process observed in listed ranges",
+    "pageSectionIds": [
+      "learning-the-desktop",
+      "beyond-the-desktop"
+    ]
+  }
+]

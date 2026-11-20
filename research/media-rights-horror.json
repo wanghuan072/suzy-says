@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-11-18",
+  "scope": "Read-only rights review of existing Exhibit of Sorrows and Burger & Frights candidates. No public assets or shared game data modified.",
+  "inventoryCaveat": "media-preview-index.json has stale error entries for both titles. Local cover existence and author-page og:image were independently checked. No local author-page gameplay screenshot candidates exist for these two games. Video capture files are research evidence, not automatically cleared public screenshots.",
+  "sources": [
+    {
+      "url": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "observed": "The author game page explicitly declares asset license Creative Commons Attribution v4.0 International; code license Unlicense is distinct. A downloadable youtubeAssetsKit.zip is listed, but archive contents and any specific enclosed notices were not inspected."
+    },
+    {
+      "url": "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/375812/creating-the-art-for-exhibit-of-sorrows",
+      "observed": "The author development article identifies Theresa Kao as the game artist."
+    },
+    {
+      "url": "https://donitz.itch.io/burger-frights",
+      "observed": "Author-uploaded cover confirmed in og:image. Page says full credits are in game. No per-image license notice or press kit observed."
+    },
+    {
+      "url": "https://donitz.itch.io/burger-frights/comments?after=90",
+      "observed": "An author-account reply to a gameplay-video question says game components are under CC0 or CC BY and attribution is in the game credits. This does not identify the version or creator of every component, nor explicitly classify the promotional cover."
+    },
+    {
+      "url": "https://donitz.itch.io/",
+      "observed": "Author profile reviewed; no game-specific press-image reuse permission identified."
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/4.0/legalcode.en",
+      "observed": "Section 3(a) permits a URI or hyperlink for license and material identification and reasonable attribution based on medium and context; supplied credit/copyright/license/disclaimer notices and modification indications must be retained."
+    }
+  ],
+  "games": [
+    {
+      "id": "exhibit-of-sorrows",
+      "generalDecision": "conditional-on-attribution",
+      "author": "adayofjoy",
+      "artist": "Theresa Kao",
+      "license": "CC-BY-4.0",
+      "licenseScope": "Author-declared game asset license; reasonable basis for author-owned cover art and game-art screenshot components. No claim that unrelated third-party video overlays or comments are covered.",
+      "assets": [
+        {
+          "id": "exhibit-of-sorrows-cover",
+          "localPath": "research/media-preview/exhibit-of-sorrows-cover.webp",
+          "exists": true,
+          "sha256": "8667e89ee4e38208703b6f76c5a7256528b46c9d5401d777501f5dd24aba8f67",
+          "sourceUrl": "https://img.itch.zone/aW1nLzg3NTgyODYuZ2lm/original/7yhMme.gif",
+          "sourceType": "author-uploaded-og-image",
+          "rightsBasis": "Author page asset CC BY 4.0; source URL verified as current author-page og:image.",
+          "decision": "conditional-on-attribution",
+          "notes": [
+            "Local dimensions 394x342 in planning/cover-composition.json; contain preserves full frame.",
+            "Local WebP conversion is a modification; animation-to-static treatment must be described if applicable, not silently represented as the original GIF.",
+            "Exact conversion provenance is absent from stale media-preview-index; author URL is confirmed but not a byte-for-byte identity proof."
+          ]
+        },
+        {
+          "id": "exhibit-of-sorrows-hands-evidence",
+          "localPath": "reports/screenshots/video-exhibit-hands.jpg",
+          "exists": true,
+          "sha256": "f64e73f8c26d49a807ee5a9c1a76efcea5077e23e226edabcc5856b757e61d33",
+          "sourceUrl": "https://www.youtube.com/watch?v=mwrf9cjEeB8&t=151s",
+          "sourceType": "parent-captured-third-party-video-frame",
+          "rightsBasis": "Underlying game art has author-declared CC BY 4.0; video uploader recording and possible overlays have separate rights.",
+          "decision": "research-only",
+          "notes": [
+            "Parent captured actual playback at 02:31; not own-game capture.",
+            "Do not publish until visible overlays and recording-specific rights are reviewed; prefer author asset kit or own permitted game capture."
+          ]
+        },
+        {
+          "id": "exhibit-of-sorrows-open-hand-evidence",
+          "localPath": "reports/screenshots/video-exhibit-open-hand.jpg",
+          "exists": true,
+          "sha256": "9813c9a8f5f789bebee8d6446f25faf2e5b739750c12993788de40232a00abf8",
+          "sourceUrl": "https://www.youtube.com/watch?v=mwrf9cjEeB8&t=165s",
+          "sourceType": "parent-captured-third-party-video-frame",
+          "rightsBasis": "Underlying game art has author-declared CC BY 4.0; video uploader recording and possible overlays have separate rights.",
+          "decision": "research-only",
+          "notes": [
+            "Parent captured actual playback at 02:45.",
+            "Cannot count two video captures as three independently cleared gameplay screenshots."
+          ]
+        }
+      ],
+      "missingPublicScreenshots": 3,
+      "assetKit": {
+        "name": "youtubeAssetsKit.zip",
+        "listedSize": "1.5 MB",
+        "contentsInspected": false,
+        "decision": "candidate-not-adopted",
+        "nextStep": "Inspect exact files and included license/credit notices before using; the archive name alone is not separate blanket permission."
+      },
+      "publicAttribution": {
+        "placement": "Copyright root page, linked internally beside media if useful",
+        "thirdPartyAnchors": false,
+        "plainTextUrisPermittedByLicenseText": true,
+        "proposedText": "Exhibit of Sorrows artwork: Theresa Kao / adayofjoy. Licensed under Creative Commons Attribution 4.0 International. Artwork resized and converted to WebP; the cover is displayed as a still image. Work URI: https://adayofjoy.itch.io/exhibit-of-sorrows . License URI: https://creativecommons.org/licenses/by/4.0/ . No endorsement is implied.",
+        "conditions": [
+          "Verify the actual still-image conversion before using the proposed modification sentence.",
+          "Retain any additional supplied copyright, attribution, disclaimer or earlier-modification notices found in the adopted asset.",
+          "Keep the credit as a rights notice; do not insert source-collection narration into game prose.",
+          "CC BY 4.0 legalcode permits URI or hyperlink; a visible plain-text URI avoids a public third-party anchor while identifying license and work. This is a reasoned implementation, not a guarantee about other licenses or notices."
+        ]
+      }
+    },
+    {
+      "id": "burger-frights",
+      "generalDecision": "uncertain-per-asset-attribution",
+      "author": "Donitz",
+      "license": "mixed-CC0-or-CC-BY-per-author-comment; individual mapping unresolved",
+      "assets": [
+        {
+          "id": "burger-frights-cover",
+          "localPath": "research/media-preview/burger-frights-cover.webp",
+          "exists": true,
+          "sha256": "b8a1898c7a230f2d3151c69ad760193487416935ad2eb94b08574cb47309a1eb",
+          "sourceUrl": "https://img.itch.zone/aW1nLzY4MDU0NjcucG5n/original/sbNKVb.png",
+          "sourceType": "author-uploaded-og-image",
+          "rightsBasis": "Source confirmed as author-page og:image. Author comment concerns game components; no explicit cover-specific grant observed.",
+          "decision": "uncertain",
+          "notes": [
+            "Local dimensions 315x250; contain is planned.",
+            "Do not relabel all imagery CC0 or CC BY 4.0. Need matching individual credits and license version before clearance."
+          ]
+        },
+        {
+          "id": "burger-frights-road-evidence",
+          "localPath": "reports/screenshots/video-burger-road.jpg",
+          "exists": true,
+          "sha256": "8fe87c31d284962cab171dcd31281c6ef3e5fdb69eed1f633d7a0b8c73461a77",
+          "sourceUrl": "https://www.youtube.com/watch?v=VxpQdPFQxrE&t=342s",
+          "sourceType": "parent-captured-third-party-video-frame",
+          "rightsBasis": "Author mixed CC0/CC BY statement does not identify individual visual credits; uploader video rights separate.",
+          "decision": "research-only",
+          "notes": [
+            "Parent playback at 05:42 shows light cone and road markings.",
+            "No affirmative independent recording reuse permission established."
+          ]
+        },
+        {
+          "id": "burger-frights-road-event-evidence",
+          "localPath": "reports/screenshots/video-burger-road-event.jpg",
+          "exists": true,
+          "sha256": "d06d95bf1f9d2fb68bd752b1652af29cca00c48fcf94e038de6e560fd68ebd18",
+          "sourceUrl": "https://www.youtube.com/watch?v=VxpQdPFQxrE&t=178s",
+          "sourceType": "parent-captured-third-party-video-frame",
+          "rightsBasis": "Unresolved visual credits and separate third-party recording rights.",
+          "decision": "exclude-from-public",
+          "notes": [
+            "Parent playback at 02:58; fallen bicycle and red road trail.",
+            "Exclude public adoption for spoiler/content risk in addition to unresolved rights."
+          ]
+        }
+      ],
+      "missingPublicScreenshots": 3,
+      "pressKitFound": false,
+      "publicAttribution": {
+        "status": "not-ready",
+        "reason": "Exact asset creators, CC BY versions and notices not yet mapped; cannot create a complete attribution from the author-level name alone."
+      },
+      "nextStep": "Read existing game credits or author-provided source/license files if available; map each adopted visual. Do not contact author or use fan images. Replace candidate if required clearance cannot be established."
+    }
+  ],
+  "publicationGate": {
+    "exhibit": "Cover conditional on complete attribution. Three cleared distinct gameplay screenshots still missing; video research evidence is not an automatic substitute.",
+    "burger": "Cover and gameplay screenshots remain uncertain despite positive author license signal. No definitive per-image clearance.",
+    "forbiddenShortcuts": [
+      "Do not infer image rights from embed availability or free gameplay.",
+      "Do not claim a broad fair-use exemption as verified clearance.",
+      "Do not reuse commenters images, fan art or video thumbnails.",
+      "Do not publish a bare license name without required creator/work/change notices."
+    ]
+  }
+}

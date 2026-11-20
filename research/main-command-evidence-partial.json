@@ -1,0 +1,62 @@
+{
+  "update_id":"main-command-rule-root-video-samples",
+  "checkedAt":"2026-11-18",
+  "observation_origin":"Root actual-playback, pause/time/frame cross-check; child did not independently view IAB.",
+  "video_id":"7CLLI0ijVGQ",
+  "claims":[
+    {
+      "id":"main-command-rule",
+      "gameId":"suzy-says",
+      "claim":"The opening tutorial explicitly says to follow instructions only when the host gives the qualifying Suzy says words.",
+      "status":"confirmed-recorded-tutorial-scope",
+      "versionScope":"Exact-game original MOONBIT recording; no configured iframe identity or input verification.",
+      "supporting_observation":{"timestamp":"00:01:51","state":"Opening tutorial with readable yellow subtitle","visible_result":"The subtitle states the qualifying-word condition","evidence_path":"reports/screenshots/video-suzy-prefix.jpg"},
+      "publicLimit":"Say qualifying words. Do not reinterpret this as a substring-anywhere rule, invent exceptions, or derive lives/scoring/ending effects."
+    },
+    {
+      "id":"main-practice-feedback",
+      "gameId":"suzy-says",
+      "claim":"The opening practice displays feedback calling attention to absent qualifying words and presents a yellow-target jump instruction.",
+      "status":"confirmed-recorded-presentation-scope",
+      "versionScope":"Recorded opening practice; no complete input-causality trace claimed.",
+      "supporting_observations":[{"timestamp":"00:02:21","state":"Practice feedback","visible_result":"Subtitle explains qualifying words were not said, followed by yellow-target jump practice","evidence_path":"reports/screenshots/video-suzy-practice.jpg"},{"timestamp":"00:02:26","state":"Yellow jump instruction","visible_result":"Yellow target remains readable in the instruction","evidence_path":"reports/screenshots/video-suzy-yellow.jpg"}],
+      "publicLimit":"Supports worked condition/target comparison; does not prove a specific recorded keypress, collision threshold, life loss, score deduction or ending cause."
+    },
+    {
+      "id":"main-timed-response-advice",
+      "gameId":"suzy-says",
+      "claim":"A timer is visible in a retained opening command sample; advice should respect the current task's displayed time.",
+      "status":"advice-derived-from-recorded-interface",
+      "supporting_evidence_ids":["main-video-opening"],
+      "publicLimit":"Do not invent a fixed number of seconds or require waiting through the entire spoken line regardless of remaining time."
+    }
+  ],
+  "rule_derived_examples":[
+    {"location":"main-game.json.content[first-command-round]","examplePair":["Suzy says, jump on yellow.","Jump on yellow."],"purpose":"Same action/target with and without qualification","basis":"Tutorial condition plus visible yellow-target practice","not_claimed":"These exact two actions were real-play tested or observed as a consecutive recorded input pair."},
+    {"location":"command-rules.sections[worked-command-comparison]","examplePair":["Suzy says, crouch.","Crouch."],"purpose":"Isolate the qualifying condition using the original C crouch control","basis":"Tutorial condition plus creator-listed control","not_claimed":"The video showed this precise crouch pair, a successful C input or any penalty."}
+  ],
+  "game_brief_update":{
+    "game_id":"suzy-says",
+    "add_evidence_paths":["reports/screenshots/video-suzy-prefix.jpg","reports/screenshots/video-suzy-practice.jpg","reports/screenshots/video-suzy-yellow.jpg"],
+    "confirmed_progression_fact":"Opening tutorial and practice explain the qualifying-word condition; late story progression remains outside this evidence.",
+    "remove_from_unsupported_claims":["Exact absent-prefix rule without observation","Exact prefix rule not yet proved in retained samples"],
+    "keep_unsupported_claims":["Penalty/life/score system","Exact timer duration","Ending causality","Hiding physics","Candle quantity/destination","Configured iframe original-game identity"],
+    "content_status":"rule-example-updated-draft-other-content-and-media-review-pending"
+  },
+  "guide_brief_update":{
+    "guide_id":"suzy-says-command-rules",
+    "replace_pending_case":"command-valid-invalid-pair",
+    "case_status":"Tutorial condition confirmed; worked valid/unqualified pair is a clearly labelled rule-derived practice example, not actual-input footage.",
+    "completion_result":"Reader can decide whether an example line qualifies and choose the original crouch input only for the qualified example, respecting visible task timing.",
+    "content_status":"task-complete-rule-informed-draft-media-review-pending",
+    "related_guide":"suzy-says-first-run",
+    "remaining_limits":["No live iframe input claim","No scoring/life/ending claims","No universal timing or collision rule"]
+  },
+  "change_scope":{
+    "changed":["data/games/main-game.json.content","data/guides/suzy-says-command-rules.json.sections"],
+    "unchanged":"All other fields, including title/slug/player/SEO/status/dates/cover/relatedGuideIds, were compared before writing and remain identical.",
+    "main_body_nonwhitespace_excluding_faq_media":7801,
+    "guide_section_count":6,
+    "note":"Main content also removes the obsolete story-route recommendation and points to first-run preparation; no non-content field changed."
+  }
+}

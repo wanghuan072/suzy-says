@@ -1,0 +1,195 @@
+[
+  {
+    "game_id": "exhibit-of-sorrows",
+    "checkedAt": "2026-11-18",
+    "identity": "adayofjoy HTML5 game; no iframe gameplay test",
+    "primaryTask": "Read and operate interactive displays while noticing feedback and emotional escalation",
+    "verifiedInputs": [
+      "Mouse",
+      "Click/hold pump button"
+    ],
+    "concreteCase": "Opening Mr. Floaty pump: hold operates inflation and progression key; late injury outcome intentionally omitted",
+    "screenshotTasks": [
+      "Opening room and complete instruction area",
+      "Pump control and changing figure",
+      "Different display silhouette and surrounding objects without late reveal"
+    ],
+    "videoDecision": "pending-media-review",
+    "risk": "Psychological horror, clowns and distressing doll interactions; no general child-friendly claim",
+    "evidence": [
+      "official game page",
+      "developer design post",
+      "artist post",
+      "post-release fixes"
+    ],
+    "unsupportedClaims": [
+      "Exact ending count",
+      "Hidden lore identity",
+      "Touchscreen parity",
+      "Current embedded-build compatibility",
+      "Unobserved scenes or outcomes"
+    ],
+    "videoObservations": [
+      {
+        "videoId": "mwrf9cjEeB8",
+        "duration": "18:06",
+        "observedBy": "parent agent IAB",
+        "samples": [
+          "02:31",
+          "02:45"
+        ],
+        "state": "Large yellow hand; bent fingers; white arrow indicates a finger; later frame shows some fingers partly opened",
+        "supports": [
+          "Localized exhibit interaction",
+          "Arrow-directed attention",
+          "Comparison of local visual feedback"
+        ],
+        "cannotSupport": [
+          "Exact input used between samples",
+          "Full action sequence",
+          "Complete stage solution"
+        ],
+        "screenshots": [
+          "video-exhibit-hands.jpg",
+          "video-exhibit-open-hand.jpg"
+        ]
+      }
+    ],
+    "content_status": "Author-scoped draft enriched with parent-observed limited hand-display case",
+    "evidence_ids": [
+      "https://adayofjoy.itch.io/exhibit-of-sorrows",
+      "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/375461/creating-horror-with-bright-and-cheerful-clowns",
+      "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/375812/creating-the-art-for-exhibit-of-sorrows",
+      "https://adayofjoy.itch.io/exhibit-of-sorrows/devlog/373203/post-release-fixes"
+    ],
+    "unsupported_claims": [
+      "Exact ending count",
+      "Hidden lore identity",
+      "Touchscreen parity",
+      "Current embedded-build compatibility",
+      "Unobserved scenes or outcomes",
+      "Gameplay not tested by explicit user waiver; parent video review pending."
+    ],
+    "screenshot_tasks": [
+      {
+        "slot_id": "exhibit-of-sorrows-capture-1",
+        "task": "Opening room and complete instruction area",
+        "media_ledger_ids": []
+      },
+      {
+        "slot_id": "exhibit-of-sorrows-capture-2",
+        "task": "Pump control and changing figure",
+        "media_ledger_ids": []
+      },
+      {
+        "slot_id": "exhibit-of-sorrows-capture-3",
+        "task": "Different display silhouette and surrounding objects without late reveal",
+        "media_ledger_ids": []
+      }
+    ],
+    "youtube_research": {
+      "decision": "pending-media-review",
+      "candidateVideoIds": [
+        "mwrf9cjEeB8"
+      ],
+      "adoptedMediaIds": [],
+      "reason": "Parent observed limited hand-display samples; final media and version review remains separate."
+    }
+  },
+  {
+    "game_id": "burger-frights",
+    "checkedAt": "2026-11-18",
+    "identity": "Donitz HTML5 survival horror; browser input test waived",
+    "primaryTask": "Begin bike ride with correct control expectations and readable road/view",
+    "verifiedInputs": [
+      "Mouse and keyboard; exact mapping shown in game, not stated here"
+    ],
+    "concreteCases": [
+      "Hand-still rightward drift versus deliberate mouse turn; official January2022 Firefox windowed-mode fix",
+      "Forward view versus looking around is player advice, not an asserted scripted encounter rule"
+    ],
+    "screenshotTasks": [
+      "Opening forest route and bike view",
+      "In-game control panel in context",
+      "Distinct road/encounter state after parent video review"
+    ],
+    "videoDecision": "pending-media-review",
+    "risk": "Forest survival horror with monsters and ghosts; no child-friendly claim",
+    "content_status": "Author-scoped draft enriched with parent-observed lane-marking case",
+    "evidence_ids": [
+      "https://donitz.itch.io/burger-frights",
+      "https://donitz.itch.io/burger-frights/devlog/332185/fixed-drifting-mouse-bug-in-firefox"
+    ],
+    "unsupported_claims": [
+      "Exact key bindings",
+      "Checkpoint/save behavior",
+      "Exact failure triggers, loops or ending count",
+      "Current iframe compatibility",
+      "Touchscreen parity",
+      "No gameplay or video observations claimed; parent review pending"
+    ],
+    "screenshot_tasks": [
+      {
+        "slot_id": "burger-frights-capture-1",
+        "task": "Opening forest route and bike view",
+        "media_ledger_ids": []
+      },
+      {
+        "slot_id": "burger-frights-capture-2",
+        "task": "In-game control panel in context",
+        "media_ledger_ids": []
+      },
+      {
+        "slot_id": "burger-frights-capture-3",
+        "task": "Distinct road/encounter state after parent video review",
+        "media_ledger_ids": []
+      }
+    ],
+    "youtube_research": {
+      "decision": "pending-media-review",
+      "candidateVideoIds": [
+        "VxpQdPFQxrE"
+      ],
+      "adoptedMediaIds": [],
+      "reason": "Parent playback samples support lit lane-marking advice; final media/version review still required. Exclude red-trail event frame from public use."
+    },
+    "videoObservations": [
+      {
+        "videoId": "VxpQdPFQxrE",
+        "duration": "17:04",
+        "observedBy": "parent agent IAB",
+        "samples": [
+          {
+            "time": "02:58",
+            "state": "Fallen bicycle and red trail on road",
+            "publicUse": "Do not use potentially violent frame in public material",
+            "supports": [
+              "Road-event presentation only"
+            ],
+            "cannotSupport": [
+              "Cause of event",
+              "Collision rule",
+              "Ending condition"
+            ]
+          },
+          {
+            "time": "05:42",
+            "state": "Narrow forward light cone; dashed centerline and edge lines; road beyond light is dark",
+            "supports": [
+              "Road-reading case using lit lane markings"
+            ],
+            "cannotSupport": [
+              "Safe lane guarantee",
+              "Collision boundaries",
+              "Complete route or ending rules"
+            ]
+          }
+        ],
+        "screenshots": [
+          "video-burger-road.jpg",
+          "video-burger-event.jpg"
+        ]
+      }
+    ]
+  }
+]

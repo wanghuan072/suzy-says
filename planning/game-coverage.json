@@ -1,0 +1,551 @@
+[
+  {
+    "candidate_id": "assessment-examination",
+    "game_id": "assessment-examination",
+    "slug": "assessment-examination",
+    "relationship": "Judge unsettling images through a test interface rather than blindly trusting a cheerful host.",
+    "home_flags": {
+      "isFeaturedHome": true,
+      "isNewHome": false,
+      "isRecommendedHome": true
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Reading the assessment",
+      "Understand the exam interface and image decisions",
+      "Trust and threat decisions",
+      "Observe interruptions without treating unsettling presentation as an instruction to click at random",
+      "Completing the test",
+      "Discuss evaluation flow while protecting the reveal"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "assessment-examination-capture-1",
+          "task": "Understand the exam interface and image decisions"
+        },
+        {
+          "slot_id": "assessment-examination-capture-2",
+          "task": "Observe interruptions without treating unsettling presentation as an instruction to click at random"
+        },
+        {
+          "slot_id": "assessment-examination-capture-3",
+          "task": "Discuss evaluation flow while protecting the reveal"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "please-answer-carefully",
+    "game_id": "please-answer-carefully",
+    "slug": "please-answer-carefully",
+    "relationship": "Read prompts carefully as an ordinary interaction becomes threatening; matches Suzy players who enjoy instruction-based dread.",
+    "home_flags": {
+      "isFeaturedHome": true,
+      "isNewHome": false,
+      "isRecommendedHome": true
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Starting the questionnaire",
+      "Choose a supported language and read one question at a time",
+      "Answers and discomfort",
+      "Separate selectable survey responses from surrounding narrative changes",
+      "Finishing a short session",
+      "Explain stalking themes without pretending there is a reflex challenge"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "please-answer-carefully-capture-1",
+          "task": "Choose a supported language and read one question at a time"
+        },
+        {
+          "slot_id": "please-answer-carefully-capture-2",
+          "task": "Separate selectable survey responses from surrounding narrative changes"
+        },
+        {
+          "slot_id": "please-answer-carefully-capture-3",
+          "task": "Explain stalking themes without pretending there is a reflex challenge"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "last-seen-online",
+    "game_id": "last-seen-online",
+    "slug": "last-seen-online",
+    "relationship": "Investigate a seemingly familiar digital object and follow clues into a more disturbing space, rather than obeying a DVD host.",
+    "home_flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Exploring a digital desktop",
+      "Distinguish files, chat logs and interactive windows",
+      "Following clues",
+      "Relate discovered information to password and escape-room tasks",
+      "Managing discoveries",
+      "Preserve a record of clues without revealing solutions in teasers"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "last-seen-online-capture-1",
+          "task": "Distinguish files, chat logs and interactive windows"
+        },
+        {
+          "slot_id": "last-seen-online-capture-2",
+          "task": "Relate discovered information to password and escape-room tasks"
+        },
+        {
+          "slot_id": "last-seen-online-capture-3",
+          "task": "Preserve a record of clues without revealing solutions in teasers"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "the-open-house",
+    "game_id": "the-open-house",
+    "slug": "the-open-house",
+    "relationship": "Tour domestic rooms while noticing that a reassuring software guide is unreliable; close thematic and observation connection.",
+    "home_flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Entering the property tour",
+      "Understand navigation between rooms in a virtual inspection",
+      "Noticing changes",
+      "Read the interface and room changes as the tour progresses",
+      "Handling the browser build",
+      "Explain WebGL limits and protect any personal-looking text in captures"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "the-open-house-capture-1",
+          "task": "Understand navigation between rooms in a virtual inspection"
+        },
+        {
+          "slot_id": "the-open-house-capture-2",
+          "task": "Read the interface and room changes as the tour progresses"
+        },
+        {
+          "slot_id": "the-open-house-capture-3",
+          "task": "Explain WebGL limits and protect any personal-looking text in captures"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "make-sure-its-closed",
+    "game_id": null,
+    "slug": "make-sure-its-closed",
+    "relationship": "Carry out one domestic safety instruction while a threat approaches; close obedience and home-invasion connection.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Garage-door interaction and childhood fear premise",
+      "extremely short experience",
+      "WebGL lighting caveat."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "bad-ben",
+    "game_id": "bad-ben",
+    "slug": "bad-ben",
+    "relationship": "Explore a haunted house and perform fetch tasks under supernatural pressure; similar room/object search, different comedy and third-person camera.",
+    "home_flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Finding a way through the house",
+      "Learn WASD movement and E interactions in the author-listed build",
+      "Cameras and the tablet",
+      "Explain viewpoint changes and the tablet after it is acquired",
+      "Reading comic horror cues",
+      "Distinguish deliberate voice reactions from functional input feedback"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "bad-ben-capture-1",
+          "task": "Learn WASD movement and E interactions in the author-listed build"
+        },
+        {
+          "slot_id": "bad-ben-capture-2",
+          "task": "Explain viewpoint changes and the tablet after it is acquired"
+        },
+        {
+          "slot_id": "bad-ben-capture-3",
+          "task": "Distinguish deliberate voice reactions from functional input feedback"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "six-cats-under",
+    "game_id": null,
+    "slug": "six-cats-under",
+    "relationship": "Study household objects and use cause-and-effect interactions to move characters; calmer ghost puzzle alternative after Suzy.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Poltergeist interactions, cat personalities, room-object puzzle chains, escape goal, Unity browser version, pixel-art scene."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "uncle-nintendo",
+    "game_id": "uncle-nintendo",
+    "slug": "uncle-nintendo",
+    "relationship": "Navigate childhood familiarity and an untrustworthy adult-related game story by reading and choosing carefully.",
+    "home_flags": {
+      "isFeaturedHome": true,
+      "isNewHome": true,
+      "isRecommendedHome": true
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Beginning the sleepover",
+      "Make narrative choices rather than searching for action keys",
+      "Following time and dialogue",
+      "Understand the midnight premise and branching path choices",
+      "Replaying a route",
+      "Discuss five author-stated endings without listing hidden choices in teasers"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "uncle-nintendo-capture-1",
+          "task": "Make narrative choices rather than searching for action keys"
+        },
+        {
+          "slot_id": "uncle-nintendo-capture-2",
+          "task": "Understand the midnight premise and branching path choices"
+        },
+        {
+          "slot_id": "uncle-nintendo-capture-3",
+          "task": "Discuss five author-stated endings without listing hidden choices in teasers"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "exhibit-of-sorrows",
+    "game_id": "exhibit-of-sorrows",
+    "slug": "exhibit-of-sorrows",
+    "relationship": "Follow instructions from a friendly-looking attraction whose rules become coercive; strong mascot-horror and obedience link.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": true,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Operating the exhibits",
+      "Follow each circus display interaction with the mouse",
+      "Returning through the room",
+      "Watch how a repeated traversal changes the meaning of familiar interactions",
+      "Content boundaries",
+      "Explain disturbing themes with guarded late-state images"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "exhibit-of-sorrows-capture-1",
+          "task": "Follow each circus display interaction with the mouse"
+        },
+        {
+          "slot_id": "exhibit-of-sorrows-capture-2",
+          "task": "Watch how a repeated traversal changes the meaning of familiar interactions"
+        },
+        {
+          "slot_id": "exhibit-of-sorrows-capture-3",
+          "task": "Explain disturbing themes with guarded late-state images"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "burger-frights",
+    "game_id": "burger-frights",
+    "slug": "burger-frights",
+    "relationship": "Notice recurring threats and react while travelling through an increasingly unsafe familiar route; matches tension and observation interest.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": true,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Starting the bicycle ride",
+      "Read the in-game input panel before entering the forest",
+      "Reading the road",
+      "Connect route observation and encounter reactions without inventing checkpoints",
+      "Keeping controls responsive",
+      "Explain author-noted mouse drift and fullscreen guidance within version scope"
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [
+        {
+          "slot_id": "burger-frights-capture-1",
+          "task": "Read the in-game input panel before entering the forest"
+        },
+        {
+          "slot_id": "burger-frights-capture-2",
+          "task": "Connect route observation and encounter reactions without inventing checkpoints"
+        },
+        {
+          "slot_id": "burger-frights-capture-3",
+          "task": "Explain author-noted mouse drift and fullscreen guidance within version scope"
+        }
+      ],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "planned",
+    "decision_reason": "Selected for specific unsettling instruction/observation/house exploration interest; runtime user-waived"
+  },
+  {
+    "candidate_id": "sort-the-court",
+    "game_id": null,
+    "slug": "sort-the-court",
+    "relationship": "Listen to a character request, decide whether to comply, then evaluate consequences; non-horror rule-reading alternative.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Yes/no decisions, three resources and population outcomes to verify, visitor patterns, day transition, old Unity build limitation",
+      "mobile updated version exclusive to Poki."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "the-exhibit",
+    "game_id": null,
+    "slug": "the-exhibit",
+    "relationship": "Inspect an unsettling interactive room; older prototype of Exhibit of Sorrows, distinct portrait-based experience.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "One room and unusual portrait",
+      "prototype identity",
+      "minimal scrolling",
+      "no clowns",
+      "depth may be insufficient for 4000 useful characters."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "fatal-survey",
+    "game_id": null,
+    "slug": "fatal-survey",
+    "relationship": "Answer instructions at a computer while the setting becomes unsafe; strong survey-obedience connection.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "HTML visual novel, two endings, dark room/computer setup, survey buttons",
+      "explicit graphic-violence and strobe warning."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "the-survey-rishi",
+    "game_id": null,
+    "slug": "the-survey-rishi",
+    "relationship": "Read seemingly mundane survey instructions and investigate escalating horror; alternative to instruction obedience without 3D controls.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Email after work setup, Twine choice structure, proof-of-concept status, author reports puzzle/bug fix",
+      "unique puzzles must be verified."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "we-become-what-we-behold",
+    "game_id": null,
+    "slug": "we-become-what-we-behold",
+    "relationship": "Choose which observed event to amplify, then watch consequences; connects observing screen cues with decisions rather than reflexes.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Camera framing, selective capture and escalating social reactions",
+      "public-domain code/art",
+      "content violence needs in-game review."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Not selected for initial release; retain as replacement lead, no content adoption."
+  },
+  {
+    "candidate_id": "routine",
+    "game_id": null,
+    "slug": "routine",
+    "relationship": "Domestic routine and rule repetition with changing outcomes, but no author browser build found.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Wake/relax/repeat narrative experiment",
+      "official page lists only Windows/macOS/Linux."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Official release is downloadable-only; no authorized browser build found."
+  },
+  {
+    "candidate_id": "parsnip",
+    "game_id": null,
+    "slug": "parsnip",
+    "relationship": "Cheerful character errands hiding threatening material, but no author browser build.",
+    "home_flags": {
+      "isFeaturedHome": false,
+      "isNewHome": false,
+      "isRecommendedHome": false
+    },
+    "embed_status": "not_tested_user_waived",
+    "content_scope": [
+      "Point-and-click cake-ingredient quest",
+      "official Windows-only build",
+      "author warns of crashes."
+    ],
+    "media_plan": {
+      "cover": "Own game image; inspect proportion and reuse basis",
+      "captures": [],
+      "videos": "1–3 individually researched matching videos after article; no automatic adoption"
+    },
+    "risk_status": "Author-scope warnings; stage07/08 inspect content and spoilers",
+    "coverage_status": "excluded",
+    "decision_reason": "Official release is downloadable-only; no authorized browser build found."
+  }
+]

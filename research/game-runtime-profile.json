@@ -1,0 +1,39 @@
+{
+  "gameId": "suzy-says",
+  "gameName": "Suzy Says",
+  "primaryKeyword": "suzy says",
+  "observedAt": "2026-11-18",
+  "gameUrlStatus": "configured",
+  "result": "provisional",
+  "embed": {
+    "conclusion": "unknown",
+    "iframeVisualTest": "Unity loading surface observed in earlier localhost precheck",
+    "interactiveInputTest": "not_run_user_waived",
+    "cleanBrowserContext": "not_verified",
+    "testedFromSiteOrigin": "no",
+    "notes": [
+      "Main iframe preserved exactly.",
+      "No configured-game identity or playability claim.",
+      "User waived further game runtime checks."
+    ]
+  },
+  "orientation": "unknown",
+  "aspectRatio": null,
+  "inputs": {
+    "mouse": "unknown",
+    "keyboard": "unknown",
+    "touch": "unknown",
+    "gamepad": "unknown"
+  },
+  "audio": "unknown",
+  "storage": "unknown",
+  "fullscreen": "unknown",
+  "iframeCapabilities": [],
+  "mobilePlayability": "unknown",
+  "knownLimits": [
+    "Official game is Windows; configured iframe is separate unverified runtime."
+  ],
+  "needsSecondaryCheck": [
+    "Content must distinguish official facts from embed behavior."
+  ]
+}

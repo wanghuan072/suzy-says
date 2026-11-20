@@ -1,0 +1,323 @@
+{
+  "review_id": "suzy-main-and-guides-stage07",
+  "checkedAt": "2026-11-18",
+  "status": "requires-content-evidence-and-scope-corrections",
+  "scope": [
+    "data/games/main-game.json",
+    "data/guides/suzy-says-command-rules.json",
+    "data/guides/suzy-says-story-route.json"
+  ],
+  "changesMadeToSharedData": false,
+  "runtimeWaiver": "The user waived real game iframe input tests. This does not establish gameplay facts or waive video observation. Main iframe may remain provisional without stopping the workflow.",
+  "evidenceReviewed": [
+    {
+      "id": "main-official",
+      "url": "https://moonbit.itch.io/suzy-says",
+      "supports": [
+        "Original release Windows download",
+        "MOONBIT developer",
+        "DVD and colorful Simon Says floor-mat premise",
+        "WASD move / Space jump / C crouch",
+        "Full version includes endless mode and secret ending",
+        "Current Full price minimum USD1.50",
+        "Flashing lights, jumpscares and unsettling themes",
+        "Ten subtitle languages"
+      ],
+      "doesNotEstablish": [
+        "Visitor/phone order",
+        "Exact hiding success condition",
+        "Four-candle count or return-to-mat requirement",
+        "Command failure timing or scoring",
+        "Official identity of configured scream iframe"
+      ]
+    },
+    {
+      "id": "main-patch",
+      "url": "https://moonbit.itch.io/suzy-says/devlog/1764041/launch-and-patch",
+      "supports": [
+        "A wrong subtitle toward the end was fixed"
+      ],
+      "doesNotEstablish": [
+        "Any other reported input issue is a known fixed bug",
+        "Exact affected command",
+        "Any hiding workaround"
+      ]
+    },
+    {
+      "id": "main-language-update",
+      "url": "https://moonbit.itch.io/suzy-says/devlog/1774969/additional-languages-added",
+      "supports": [
+        "Ten subtitle languages listed in November update"
+      ],
+      "doesNotEstablish": [
+        "Full voice dubbing in those languages"
+      ]
+    },
+    {
+      "id": "saved-main-video-observation",
+      "file": "research/video-analysis.json",
+      "supports": [
+        "Sampled mother-note opening",
+        "CRT/DVD presentation",
+        "A green-jump subtitle and timer in an opening sample"
+      ],
+      "doesNotEstablish": [
+        "Complete qualifying/nonqualifying command comparison",
+        "Later visitor/phone/hiding sequence",
+        "Four candles",
+        "Line-of-sight detection or collision mechanism",
+        "Ending causes"
+      ]
+    },
+    {
+      "id": "public-comments-low-confidence",
+      "url": "https://moonbit.itch.io/suzy-says",
+      "location": "Comments including reports from Wyatt0707 and LH Studio",
+      "supports": [
+        "Hiding and post-hiding difficulties are research leads"
+      ],
+      "doesNotEstablish": [
+        "Reliable universal hiding rules",
+        "Verified stall duration",
+        "A working fix",
+        "Objective sequence or four candles"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "review-story-visitor-sequence",
+      "severity": "P1",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "sections[id=visitor-and-hiding].blocks[0].text",
+      "original": "A visitor sequence and a phone interruption separate this part of the story from the opening lesson.",
+      "problem": "The saved evidence chain has no observed late-game video range, creator description or current-game text supporting this sequence or its order. A planning heading is not independent proof.",
+      "evidence": [
+        "saved-main-video-observation",
+        "main-official"
+      ],
+      "recommendation": "Watch the relevant continuous late-game range and record the transition before retaining the named events. If that cannot be done, remove visitor/phone assertions and temporarily narrow this section to reading a changed on-screen objective.",
+      "cautiousReplacement": "When a new objective appears, read it before repeating the previous task. A movement command, a request to inspect something and a new story event can call for different responses. Follow the current prompt rather than treating every stage as another color round.",
+      "limitation": "The replacement is general first-run advice, not a substitute for a complete story walkthrough. The page's promise must narrow too if the route remains unobserved."
+    },
+    {
+      "id": "review-hiding-physics",
+      "severity": "P1",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "sections[id=visitor-and-hiding].blocks[1].text",
+      "original": "Think about what can see your position and where a room or solid obstacle can interrupt that view. A doorway can give you a route while still leaving you exposed.",
+      "problem": "This reads as a line-of-sight and occlusion rule for successful hiding. Neither creator pages nor saved observations establish that rule, valid hiding places, or whether crouching is part of detection. A plausible stealth-game convention must not become this game's mechanic.",
+      "evidence": [
+        "public-comments-low-confidence",
+        "saved-main-video-observation"
+      ],
+      "recommendation": "Remove the visibility/solid-obstacle mechanism until footage shows an instruction, chosen hiding location and resulting feedback. Do not infer success causality from one player merely standing somewhere.",
+      "cautiousReplacement": "If the current instruction asks you to hide, read the full prompt and any visible feedback before choosing your next move. Crouching is one of the original controls, but it should not be treated as proof that every crouched position satisfies that objective."
+    },
+    {
+      "id": "review-four-candles",
+      "severity": "P1",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "sections[id=late-objective].blocks[0].text",
+      "original": "The later story introduces a house-wide collection objective involving four candles and the mat.",
+      "problem": "The exact quantity, collection requirement, scene position and mat destination are not supported by the current internal video record, official store or devlogs. Earlier competitor prose can help locate a video moment but cannot close this claim.",
+      "evidence": [
+        "saved-main-video-observation",
+        "main-official"
+      ],
+      "recommendation": "Find footage showing the complete instruction, visible count and at least the relevant collect/return transition. Add separate scoped claims for quantity and destination. Until then remove four, candles, mat-delivery and any fixed item order.",
+      "cautiousReplacement": "For any later task, identify the action, the object and the destination in the current instruction before leaving the game area. Check those parts again when the objective changes rather than continuing a previous action from memory.",
+      "limitation": "Conditional advice must not be described as a verified late story phase."
+    },
+    {
+      "id": "review-process-language",
+      "severity": "P2",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "sections[id=late-objective].blocks[1].text",
+      "original": "This guide does not invent a fixed candle-room list or a universal placement shortcut.",
+      "problem": "This is editorial process language exposed to players, and the rest of the paragraph continues the unsupported candle/collection assumptions. Stating that information was not invented does not supply useful guidance.",
+      "evidence": [
+        "review-four-candles"
+      ],
+      "recommendation": "Remove the process disclaimer. After the objective is actually observed, give concrete actions justified by its prompt. If not observed, use the narrower conditional advice and change the Guide's promised task.",
+      "cautiousReplacement": "Read an interaction prompt before committing to an object. If it is difficult to see, adjust your position just enough to read it, then check that the prompt describes the task you are currently trying to complete."
+    },
+    {
+      "id": "review-walkthrough-promise",
+      "severity": "P1",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "title; seo.title; sections[id=late-objective].blocks[2].text",
+      "original": "Suzy Says story route: the DVD, the house and the finale / Suzy Says Walkthrough: Follow the Story Step by Step / Follow the final sequence in the game itself.",
+      "problem": "The H1/TDK promise a route through the finale, but the body gives no verified visitor progression, hiding completion, candle tasks or finale actions. It instead returns the player to the game. That is not a complete step-by-step outcome and overlaps heavily with the commands Guide.",
+      "evidence": [
+        "saved-main-video-observation",
+        "review-story-visitor-sequence",
+        "review-four-candles"
+      ],
+      "recommendation": "Preferred: complete continuous phase observations and write the actual ordered route with spoiler handling. Alternative: narrow the Guide to first-run preparation and mode/version decisions, update its title/TDK/brief/blueprint, and stop calling it a complete route. Do not preserve a full-walkthrough promise merely to retain two Guides."
+    },
+    {
+      "id": "review-spoiler-warning-order",
+      "severity": "P2",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "spoilerPolicy; sections[id=visitor-and-hiding].blocks[0]",
+      "original": "The paragraph names visitor and phone events before saying it is a useful point to stop reading.",
+      "problem": "The warning follows the details it is meant to protect. A Story spoilers tag is useful, but the marked policy also requires a deliberate, accessible transition before substantial late-story information.",
+      "evidence": [
+        "Guide spoiler-policy specification"
+      ],
+      "recommendation": "Place a plain-language spoiler warning before any late phase, and use the renderer's accessible marked-spoiler region for substantial reveals. Keep event names and hidden-object solutions out of cover, cards, TDK and unannounced media captions."
+    },
+    {
+      "id": "review-prefix-proof-and-wording",
+      "severity": "P2",
+      "file": "data/games/main-game.json; data/guides/suzy-says-command-rules.json; data/guides/suzy-says-story-route.json",
+      "field": "main sections[id=first-command-round]; commands sections[id=permission-before-action]; story sections[id=mat-and-permission]",
+      "original": "When an instruction includes Suzy says, carry out the requested action.",
+      "problem": "The exact conditional prefix rule is plausible and repeated across the site, but the saved video record only shows a qualifying example and explicitly says it cannot establish the success/failure rule by itself. Also, includes is broader than begins with and can misdescribe a prefix-based game.",
+      "evidence": [
+        "main-official",
+        "saved-main-video-observation"
+      ],
+      "recommendation": "Observe a qualifying command and a nonqualifying command with the game's response, or a clear tutorial explanation. Then create a main-command-rule claim. Use wording matching that explanation; if it is a prefix rule, say begins with the qualifying words, not merely contains them anywhere. Avoid asserting undocumented exceptions."
+    },
+    {
+      "id": "review-command-timing",
+      "severity": "P2",
+      "file": "data/games/main-game.json; data/guides/suzy-says-command-rules.json",
+      "field": "main sections[id=listen-before-moving].blocks[0]; command sections[id=permission-before-action].blocks[1]",
+      "original": "Listen to the whole sentence first ... You should be able to name all three before you respond.",
+      "problem": "The saved opening observation includes a timer. These recommendations are sensible attention strategies, but they should not imply an unlimited opportunity to wait through every spoken line. A public player comment also raises timing concerns, but it is not authoritative enough to define a deadline.",
+      "evidence": [
+        "saved-main-video-observation",
+        "public-comments-low-confidence"
+      ],
+      "recommendation": "Keep the permission-action-target strategy as advice, qualify it with the active timing prompt, and do not prescribe waiting longer than the game's timer allows. Verify a timed command before adding exact timing claims.",
+      "cautiousReplacement": "Identify the qualifying words, the requested action and its target, then respond within the time shown by the current task. Avoid reacting to a color alone before you understand the instruction."
+    },
+    {
+      "id": "review-provisional-player-presentation",
+      "severity": "P2",
+      "file": "data/games/main-game.json",
+      "field": "shortDescription; seo.title; seo.description; content[id=listen-before-moving].blocks[2]",
+      "original": "Face a cheerful DVD host ... Start the player ... Suzy Says Online: Play, Controls and Player Guide",
+      "problem": "The later body correctly distinguishes original Windows facts from the unverified embed, but the first-screen wording can still imply that the configured scream iframe is the original game. User permission to integrate the URL does not verify that identity.",
+      "evidence": [
+        "main-identity-conflict",
+        "game-runtime-profile.json",
+        "project.yaml runtime override"
+      ],
+      "recommendation": "Retain the configured URL and provisional internal status as requested. Keep a concise player-facing distinction beside the player before activation; do not claim an official browser port or verified original gameplay. The exception does not itself block site development or build."
+    },
+    {
+      "id": "review-main-guide-overlap",
+      "severity": "P2",
+      "file": "data/games/main-game.json; data/guides/suzy-says-command-rules.json; data/guides/suzy-says-story-route.json",
+      "field": "Command decision, object errands, input-focus and fullscreen paragraphs across all three records",
+      "original": "All three pages repeatedly explain permission/action/target and original movement keys.",
+      "problem": "The main page offers a useful overview, but both Guides reuse the same broad advice while the route Guide lacks its promised unique sequence. This is conceptual overlap even when the paragraphs are not verbatim duplicates.",
+      "evidence": [
+        "Current three JSON records",
+        "planning/guide-coverage.json"
+      ],
+      "recommendation": "Home: orientation and concise setup. Command Guide: worked valid/invalid instruction cases, body/view/target distinctions and actual failure interpretation. Story Guide: observed ordered phases and completion conditions behind spoiler boundaries. Replace repeated setup paragraphs with the distinct task's verified examples."
+    },
+    {
+      "id": "review-story-description-length",
+      "severity": "P2",
+      "file": "data/guides/suzy-says-story-route.json",
+      "field": "seo.description",
+      "original": "161 Unicode code points",
+      "problem": "Description is 161 characters; required final range is140–160.",
+      "evidence": [
+        "Machine count of current parsed JSON"
+      ],
+      "recommendation": "Rewrite after the route-intent correction; retain natural Suzy Says wording and recount the final HTML value."
+    }
+  ],
+  "confirmedContentToRetain": [
+    {
+      "fields": [
+        "Original WASD/Space/C controls in main and both Guides"
+      ],
+      "basis": "Creator store clearly lists them; keep scoped to original Windows build."
+    },
+    {
+      "fields": [
+        "Full-version endless mode and secret-ending availability"
+      ],
+      "basis": "Creator store confirms availability, not specific trigger or browser inclusion."
+    },
+    {
+      "fields": [
+        "USD1.50 minimum Full-version price"
+      ],
+      "basis": "Creator store currently confirms this value; keep an internal check date."
+    },
+    {
+      "fields": [
+        "Late subtitle correction in command Guide"
+      ],
+      "basis": "Official launch devlog confirms a wrong late subtitle was corrected; no claim that all input bugs were fixed."
+    },
+    {
+      "fields": [
+        "AuthorId null in both Guides",
+        "Main only at homepage",
+        "Current covers/dates remain draft gaps"
+      ],
+      "basis": "No fabricated site author or premature publication state."
+    },
+    {
+      "fields": [
+        "Input focus, single-session retry and fullscreen instructions"
+      ],
+      "basis": "These may be retained as clearly framed page/player usage advice, not as game-specific tested bug fixes."
+    }
+  ],
+  "claimsNeededBeforeRouteAdoption": [
+    "main-command-rule",
+    "main-errand-example",
+    "main-visitor-phone-sequence",
+    "main-hiding-objective",
+    "main-hiding-feedback-without-unproven-causality",
+    "main-candle-count",
+    "main-candle-destination",
+    "main-final-sequence-scope"
+  ],
+  "nextActions": [
+    "Root observes only relevant exact-game video ranges and records timestamps/state/action/result/limitations.",
+    "Retain factual rules only within the observed version; keep iframe runtime tests waived.",
+    "Either complete the promised route or narrow its public intent and synchronize planning, TDK and brief.",
+    "Resolve late-story spoiler presentation before media adoption; do not use comments as deterministic mechanics."
+  ],
+  "machineChecks": [
+    {
+      "file": "data/games/main-game.json",
+      "recordId": "suzy-says",
+      "titleCharacters": 49,
+      "descriptionCharacters": 157,
+      "sectionCount": 7,
+      "authorId": null,
+      "status": "draft"
+    },
+    {
+      "file": "data/guides/suzy-says-command-rules.json",
+      "recordId": "suzy-says-command-rules",
+      "titleCharacters": 49,
+      "descriptionCharacters": 159,
+      "sectionCount": 5,
+      "authorId": null,
+      "status": "draft"
+    },
+    {
+      "file": "data/guides/suzy-says-story-route.json",
+      "recordId": "suzy-says-story-route",
+      "titleCharacters": 52,
+      "descriptionCharacters": 161,
+      "sectionCount": 6,
+      "authorId": null,
+      "status": "draft"
+    }
+  ]
+}

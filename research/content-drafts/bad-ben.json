@@ -1,0 +1,195 @@
+{
+  "gameId": "bad-ben",
+  "shortDescription": "Explore a haunted house as the stubborn Tom Riley, search for what opens the next door and face a mixture of uneasy rooms and dry comedy.",
+  "seo": {
+    "title": "Play Bad Ben Online - Explore Tom Riley's House",
+    "description": "Play Bad Ben as Tom Riley in a haunted-house comedy. Learn the movement keys, follow the search for keys and use the tablet when it becomes available."
+  },
+  "content": [
+    {
+      "id": "tom-rileys-house",
+      "heading": "Tom Riley has bought another problem",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bad Ben is a short haunted-house adventure with a protagonist who is much less impressed by the supernatural than you might expect. You play Tom Riley, a man who has bought a house without seeing it first. The visit quickly becomes a search through an uncomfortable property, but his reactions give the experience a dry comic edge. The game combines exploration, object interactions and ghost-story surprises rather than asking you to win a conventional combat encounter."
+        },
+        {
+          "type": "paragraph",
+          "text": "The film connection explains the character, but you can begin with the situation in front of you. You have a house to investigate and things to find before you can make sense of the night. Listen to Tom's delivery as well as the surrounding sounds. His voice is part of the comedy, while the rooms and interruptions build the horror. Neither side cancels the other: a funny reaction does not mean that you have finished the current task or that the next space will be harmless."
+        }
+      ]
+    },
+    {
+      "id": "movement-and-interaction",
+      "heading": "Learn movement and interaction separately",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use W, A, S and D to move, and E to interact. Start by making a short movement in a clear part of the room, then stop and try an interaction at something the game presents as usable. Treat movement and interaction as two separate decisions. Walking close to an object can put Tom in position, but it does not mean the interaction has already happened. Conversely, pressing E repeatedly while moving past several objects makes it hard to know which one you actually examined."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a view or camera angle changes, release the movement keys briefly and look at Tom's new position before continuing. A house with doorways, furniture and viewpoint changes is easier to navigate through short controlled movements than through one long key hold. If you seem to be pushing against a wall, change your approach rather than continuing the same input. The aim is to reach the object or exit you can identify on screen, not to steer by an assumption about where the camera was a moment earlier."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Input",
+            "Purpose"
+          ],
+          "rows": [
+            [
+              "W A S D",
+              "Move Tom through the house"
+            ],
+            [
+              "E",
+              "Interact with an available object"
+            ],
+            [
+              "Tab",
+              "Look at the tablet after you have acquired it"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fixed camera views can also make a doorway momentarily confusing. Tom can walk through a door and leave the current camera view before the next view takes over. If that happens, do not conclude that movement has stopped simply because the character is no longer centered on the old screen. Release the held direction, let the view settle and locate him again. This is an orientation check, not a special escape maneuver: the purpose is to keep the room layout and your input aligned when the presentation changes."
+        }
+      ]
+    },
+    {
+      "id": "searching-with-a-purpose",
+      "heading": "Give every search a specific purpose",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Finding keys is central to the adventure. A useful approach is to keep track of two things: where a route was blocked and what changed after you picked something up. When you obtain a relevant object, revisit the obstruction it might address before starting an unrelated sweep of the house. This keeps your search tied to the game's current problem. It also lets you recognize progress even when the next step is another visit to a room you have already seen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not assume that every room must be completely solved the first time you enter it. Exploration games often give a location a new purpose when your circumstances change. Read any new prompt, let a scene finish and then consider the places you already know. If the game asks for an object, concentrate on that object and the routes you can currently reach. Looking for a weapon or a secret reward instead can distract you from the simple interaction that advances the main sequence."
+        }
+      ]
+    },
+    {
+      "id": "tablet-after-acquisition",
+      "heading": "The tablet is a later tool",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tab is the tablet control, but it applies after Tom has acquired the device. If you press it at the beginning and nothing useful appears, that alone does not show that the browser has lost the key. Continue the opening task until the game introduces the item. A control can exist in the overall instructions without being available at every point in the story. Keeping that distinction in mind avoids restarting the session over an ability you simply have not reached yet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once the tablet is available, stop in a place where you can read its display without also trying to guide Tom through a doorway. Inspect what it currently shows, then return attention to the house and choose your next action. Think of it as another source of information inside the adventure, not a reason to ignore your surroundings. If you are unsure whether you are reading the device or controlling Tom, close or leave its view deliberately before issuing a movement command. Clear transitions between these tasks reduce accidental inputs."
+        },
+        {
+          "type": "paragraph",
+          "text": "A useful distinction appears on the monitoring display: a room name and its status are separate pieces of information. A kitchen view can show DEACTIVATED, while another screen identifies an office motion event as ACTIVATED. Read both parts before deciding what to inspect. The room label tells you where the information belongs; the status tells you what that display is currently reporting. Do not turn the word ACTIVATED alone into a rule about what caused it or what will happen next. Follow the immediate task to check cameras and motion sensors, then compare the relevant view with your route through the house."
+        }
+      ]
+    },
+    {
+      "id": "comic-reactions-and-real-progress",
+      "heading": "Separate a reaction from an objective",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bad Ben deliberately pairs scares with Tom's blunt responses. Enjoy those interruptions, but check what the scene leaves you able to do afterward. A voice line can be a character moment rather than an instruction, and a dramatic sound does not necessarily identify the next object you need. When the moment has passed, return to the last clear problem: a door, an item, a place to inspect or a newly available tool. This keeps the comic timing intact without leaving you wandering because you mistook a joke for a new objective."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a first run, follow the main sequence before worrying about the unlockable content. The game includes extras, but knowing that they exist does not give you a reason to test random keys, repeat every interaction or search for an unsupported shortcut. See how the house, the object search and Tom's personality fit together first. A later replay is a better time to compare small details, because you can recognize which parts belong to progression and which are optional touches. No particular unlock condition is needed to understand the opening."
+        }
+      ]
+    },
+    {
+      "id": "a-comfortable-horror-session",
+      "heading": "Set up for both jokes and scares",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is a comedy horror game, not a quiet house-tour puzzle for every audience. It includes frightening moments and strong language. Choose a volume that lets you hear the performance without making sudden sounds uncomfortable, particularly if you are wearing headphones. If you are showing the game to someone else, mention both parts of that mix before starting. A viewer who expects only a silly protagonist can still be startled by a scene, and someone avoiding explicit language may prefer a different game."
+        },
+        {
+          "type": "paragraph",
+          "text": "A keyboard-equipped desktop or laptop is the straightforward choice for the listed controls. Enlarging the game view can make small objects and the tablet easier to read, but it does not change what input a task requires. A phone showing the page is not evidence of a complete touch control scheme. If you cannot reach a movement or interaction command on your device, choose a keyboard setup rather than interpreting the missing input as a puzzle. Keep the focus inside the game when using E or Tab so that the browser does not receive the key instead."
+        }
+      ]
+    },
+    {
+      "id": "webgl-startup-problems",
+      "heading": "When the house will not load",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bad Ben is presented as an HTML5 Unity game. If the player never reaches its opening scene, separate that startup issue from a blocked route inside the house. Allow the browser build to finish loading, avoid launching repeated copies while it is still preparing and use a fresh retry only when the first attempt has clearly stopped. A visible page around an empty frame does not tell you that the game's graphics engine is ready. Look for an actual menu, scene or error message before trying the movement keys."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some browsers have trouble with WebGL. If startup repeatedly fails, a different current browser is a useful comparison. Hardware acceleration is another relevant browser capability for this build, though availability depends on your browser, graphics setup and device. Change one relevant condition at a time so you can tell what helped. Reloading can restart the session, so do not use it as the first answer to every unclear interaction after the game has already begun. First check position, focus and whether the required item or tool is available."
+        }
+      ]
+    },
+    {
+      "id": "questions-about-bad-ben",
+      "heading": "Before your first visit",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "question": "Do I need to watch the Bad Ben films first?",
+              "answer": "The game starts with Tom Riley buying and investigating a house. That is enough context to begin; the film connection adds familiarity with the character rather than a required set of puzzle answers."
+            },
+            {
+              "question": "Why does Tab not show the tablet at the start?",
+              "answer": "The tablet control is intended for the part of the game after the device has been acquired. Continue the opening tasks before treating its absence as an input failure."
+            },
+            {
+              "question": "Is the comedy a sign that there are no scares?",
+              "answer": "No. The game deliberately mixes comic dialogue with haunted-house horror, frightening moments and strong language. Its light delivery does not make every scene gentle."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "internalBrief": {
+    "checkedAt": "2026-11-18",
+    "sourceUrls": [
+      "https://corpsepile.itch.io/bad-ben",
+      "https://www.youtube.com/watch?v=aoE79XZOqzc"
+    ],
+    "playerTask": "Explore the house as Tom, find relevant objects and use the tablet after acquisition",
+    "versionScope": "Author-hosted HTML5 Unity release; no runtime test or first-person experience claim",
+    "verifiedFacts": [
+      "Tom Riley voiced by Nigel Bach",
+      "Haunted house, key fetching and comedy/scares",
+      "WASD movement, E interaction, Tab tablet once acquired",
+      "Strong language and unlockable content",
+      "Author WebGL/hardware-acceleration warning",
+      "Parent-observed monitoring views distinguish room names and ACTIVATED/DEACTIVATED labels",
+      "Parent-observed fixed camera doorway movement"
+    ],
+    "unsupportedClaims": [
+      "Exact key locations or routes",
+      "Exact unlock requirements",
+      "Combat or weapon mechanics",
+      "Touch support",
+      "Checkpoint/save behavior",
+      "Specific tablet puzzle solution"
+    ],
+    "screenshotTasks": [
+      "Tom approaching an interactable in a room",
+      "Viewpoint/doorway orientation",
+      "Tablet display after acquisition without late reveal"
+    ],
+    "videoResearch": "Parent handles footage observations; specific route claims intentionally withheld.",
+    "videoObservations": [
+      "Parent observed kitchen DEACTIVATED/tablet task at02:17 and office motion ACTIVATED/doorway movement at04:52; see parent video-analysis and screenshots. Detection rules not inferred."
+    ]
+  }
+}

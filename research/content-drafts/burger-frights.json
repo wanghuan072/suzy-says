@@ -1,0 +1,211 @@
+{
+  "id": "burger-frights",
+  "shortDescription": "Ride a bicycle home through a dark forest in a short retro horror game where staying attentive to the road matters.",
+  "seo": {
+    "title": "Play Burger & Frights Online: Bicycle Horror Guide",
+    "description": "Ride into Burger & Frights with clear advice on its keyboard and mouse controls, fullscreen view, reading the forest road and handling camera problems safely.",
+    "keywords": [
+      "Burger & Frights",
+      "bicycle horror",
+      "forest ride"
+    ]
+  },
+  "content": [
+    {
+      "id": "ride-home",
+      "heading": "The difficult part is getting home",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Burger & Frights begins with an ordinary late-night problem: you have gone out for burgers and now have a bicycle ride home. The journey leads through a dark forest. It is a short, single-player horror experience built around being on the road, with a retro three-dimensional presentation. The player task is to continue the ride while paying attention to the route and whatever changes around it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The food is the reason for the journey, not an invitation to manage a restaurant. Keep your expectations on the bicycle, the road and the atmosphere rather than looking for orders, cooking stations or a burger-making score. The quiet premise also makes this a different kind of horror from a room full of buttons or a questionnaire. Your view of the environment is a practical part of making your way through it."
+        }
+      ]
+    },
+    {
+      "id": "learn-the-bike",
+      "heading": "Read the control panel before setting off",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The game uses a keyboard and mouse, with its control scheme displayed inside the game. Read that scheme before committing the keys to memory. A browser page, a video overlay and the game itself may all respond to similar keys, so first make sure the game has your attention and focus. Do not import a control layout from another bicycle game and assume that it applies here."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use the opening stretch to learn what a small movement of the mouse does and how the listed keys affect the ride. Change one input at a time while you establish that relationship. If you press several directions while also moving the pointer sharply, an unexpected view change is harder to diagnose. The useful first goal is a predictable response to a deliberate input, not the fastest possible departure."
+        }
+      ]
+    },
+    {
+      "id": "read-the-road",
+      "heading": "Give the route more attention than the scenery",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A dark forest ride makes the usable road especially important. Keep enough of the forward view available to judge where the route continues. Looking around can add information, but turning your attention away from the direction of travel for a long stretch makes it harder to prepare the next input. Bring your view back toward the route before making a large correction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Treat the retro picture as a scene to read rather than an image to sharpen at any cost. Broad shapes, the direction of the road and changes near its edges may be easier to recognize than small surface details. If the player is too small to distinguish them comfortably, enlarge it. A larger image can help you separate an environmental feature from a control problem without changing the game itself."
+        }
+      ]
+    },
+    {
+      "id": "light-and-lane-markings",
+      "heading": "Read the lane inside the light",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A narrow pool of forward light makes the road markings more useful than the dark trees beyond it. Look for the dashed centerline and the solid lines along the road edges. Together they give you a visible shape to follow even when the surrounding forest contains little readable detail. Keep those nearby markers in view before directing attention farther into the darkness."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the route feels hard to judge, bring your attention back to the illuminated lane and compare the centerline with the edge nearest you. This gives you a concrete point of orientation instead of staring into an unlit area while making large corrections. The markings help you read the road; they do not promise that touching a line causes a collision or that a particular road position guarantees safety."
+        }
+      ]
+    },
+    {
+      "id": "respond-deliberately",
+      "heading": "Separate steering trouble from an unsettling event",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When the ride becomes confusing, ask two questions before restarting: is the view responding to your input, and has something in the scene changed? A moving camera, a sound or an unfamiliar shape does not by itself explain why an input feels wrong. Check your current direction and mouse position instead of making several large corrections in response to a scare."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you need another attempt at a section, focus on the moment you lost a clear reading of the route. Was your attention turned away? Did you react before seeing where the road led? Did a key press reach the page rather than the game? These are useful questions for a bicycle horror game because they lead to an adjustable action. They do not depend on memorizing an ending or guessing an unseen trigger."
+        }
+      ]
+    },
+    {
+      "id": "comfortable-view",
+      "heading": "Choose a viewing mode that keeps the road readable",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fullscreen is the recommended way to play Burger & Frights. Expanding the player can reduce competing page detail and give the forest route a larger part of your view. Use the page expansion control when you want a large player within the webpage, or the browser fullscreen control when the browser permits it. Keep a visible way to leave the mode before concentrating on the ride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Changing the viewing area does not establish that a phone or tablet has the same controls as a keyboard-and-mouse computer. A touch screen can display a browser game without supplying all the inputs that game expects. For this ride, a computer with a keyboard and mouse is the clearest match to the published control method. Do not start a long session on a device where the displayed control panel asks for inputs you cannot provide."
+        }
+      ]
+    },
+    {
+      "id": "mouse-drift",
+      "heading": "A view that drifts is not something to fight blindly",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There is a documented Firefox fix for a mouse view that slowly drifted right in windowed mode. That specific history is useful if you see an unwanted gradual turn: distinguish a steady drift with your hand still from an intentional camera response while moving the mouse. Correcting endlessly in the other direction makes it harder to tell which behavior you are seeing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The existence of an older fix does not prove that every host contains the same build, or that every camera problem has the same cause. If the view feels wrong, first stop moving the mouse and observe it. Then try the recommended fullscreen presentation and check the in-game controls again. If you reload, expect the current session to be interrupted; this page does not promise a checkpoint, cloud save or resume position."
+        }
+      ]
+    },
+    {
+      "id": "loading-and-audio",
+      "heading": "Prepare the player before the forest closes in",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start the game with Play Now and let the initial loading finish before deciding that the bicycle controls are unresponsive. A browser frame that has not reached the game cannot respond like the game screen. If loading times out, use the retry control for a new loading attempt. That addresses delivery of the player, not a particular encounter on the road, and it should not be confused with advice about surviving the story."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a comfortable volume before you begin. Sudden sounds and threatening imagery can be more intense when the player fills your screen. You can lower the volume or stop at any point rather than pushing through discomfort for the sake of finishing. If another tab or video is producing sound, pause it first so that you are not trying to interpret two different experiences while riding through a dark scene."
+        }
+      ]
+    },
+    {
+      "id": "first-journey",
+      "heading": "Make the first journey about observation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An effective first session is a sequence of small decisions: understand the current control prompt, keep the road readable, make a measured input and watch the response. Give yourself room to recognize changes instead of treating every unfamiliar moment as a demand for a faster reaction. The atmosphere is built around a mundane ride becoming threatening; rushing past the setting can make both navigation and the horror harder to follow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avoid an ending explanation before your first ride if you care about the surprise. A playthrough can be helpful afterward for comparing the view, movement and timing of a difficult stretch. It also shows much more than a control panel, so expect later scenes and the outcome to be revealed. The advice here deliberately keeps the reason behind the journey and its final meaning out of the opening instructions. Read the in-game controls, choose a comfortable view and let the road provide the next question."
+        }
+      ]
+    }
+  ],
+  "internalBrief": {
+    "checkedAt": "2026-11-18",
+    "identity": "Donitz HTML5 survival horror; browser input test waived",
+    "primaryTask": "Begin bike ride with correct control expectations and readable road/view",
+    "verifiedInputs": [
+      "Mouse and keyboard; exact mapping shown in game, not stated here"
+    ],
+    "concreteCases": [
+      "Hand-still rightward drift versus deliberate mouse turn; official January2022 Firefox windowed-mode fix",
+      "Forward view versus looking around is player advice, not an asserted scripted encounter rule"
+    ],
+    "screenshotTasks": [
+      "Opening forest route and bike view",
+      "In-game control panel in context",
+      "Distinct road/encounter state after parent video review"
+    ],
+    "videoDecision": "pending-media-review",
+    "risk": "Forest survival horror with monsters and ghosts; no child-friendly claim",
+    "content_status": "Author-scoped draft enriched with parent-observed lane-marking case",
+    "videoObservations": [
+      {
+        "videoId": "VxpQdPFQxrE",
+        "duration": "17:04",
+        "observedBy": "parent agent IAB",
+        "samples": [
+          {
+            "time": "02:58",
+            "state": "Fallen bicycle and red trail on road",
+            "publicUse": "Do not use potentially violent frame in public material",
+            "supports": [
+              "Road-event presentation only"
+            ],
+            "cannotSupport": [
+              "Cause of event",
+              "Collision rule",
+              "Ending condition"
+            ]
+          },
+          {
+            "time": "05:42",
+            "state": "Narrow forward light cone; dashed centerline and edge lines; road beyond light is dark",
+            "supports": [
+              "Road-reading case using lit lane markings"
+            ],
+            "cannotSupport": [
+              "Safe lane guarantee",
+              "Collision boundaries",
+              "Complete route or ending rules"
+            ]
+          }
+        ],
+        "screenshots": [
+          "video-burger-road.jpg",
+          "video-burger-event.jpg"
+        ]
+      }
+    ]
+  },
+  "sourceUrls": [
+    "https://donitz.itch.io/burger-frights",
+    "https://donitz.itch.io/burger-frights/devlog/332185/fixed-drifting-mouse-bug-in-firefox"
+  ],
+  "unsupportedClaims": [
+    "Exact key bindings",
+    "Checkpoint/save behavior",
+    "Exact failure triggers, loops or ending count",
+    "Current iframe compatibility",
+    "Touchscreen parity",
+    "No gameplay or video observations claimed; parent review pending"
+  ]
+}
