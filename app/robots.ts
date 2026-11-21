@@ -5,13 +5,6 @@ export default function robots() {
     rules: {
       userAgent: "*",
       allow: "/",
-      disallow: [
-        "/preview/",
-        "/research/",
-        "/planning/",
-        "/reports/",
-        "/handoff/",
-      ],
     },
     sitemap: `${site.origin}/sitemap.xml`,
   };

@@ -1,5 +1,11 @@
 import type { Block, VideoBlock } from "@/types/content";
-export function Videos({ videos }: { videos: VideoBlock[] }) {
+export function Videos({
+  videos,
+  home = false,
+}: {
+  videos: VideoBlock[];
+  home?: boolean;
+}) {
   if (!videos.length) return null;
   return (
     <section className="videos" aria-labelledby="gameplay-videos">
@@ -17,8 +23,18 @@ export function Videos({ videos }: { videos: VideoBlock[] }) {
             allowFullScreen
           />
           <p className="media-note">
-            If the player is unavailable, the written steps above remain
-            available.
+            {home ? (
+              <>
+                If the video is unavailable, read the{" "}
+                <a href="/guides">Suzy Says guides</a> for command rules and
+                first-run preparation.
+              </>
+            ) : (
+              <>
+                If the player is unavailable, the written steps above remain
+                available.
+              </>
+            )}
           </p>
         </div>
       ))}

@@ -129,7 +129,7 @@ export default function GamePage({
                 </section>
               ))}
           </article>
-          <Videos videos={videos} />
+          <Videos videos={videos} home={home} />
           <p className="next-links">
             <a href="/guides">Read Suzy Says guides</a>
             <a href="/games">Browse More Games</a>
